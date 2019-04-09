@@ -1,0 +1,87 @@
+{
+  "id": 890445441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76472,42.38667,18.76472,42.38667",
+    "geom:latitude":42.38667,
+    "geom:longitude":18.76472,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dub"
+    ],
+    "name:eng_x_preferred":[
+        "Dub"
+    ],
+    "name:fre_x_preferred":[
+        "Dub"
+    ],
+    "name:rum_x_preferred":[
+        "Dub"
+    ],
+    "name:slv_x_preferred":[
+        "Dub"
+    ],
+    "name:srp_x_preferred":[
+        "Dub"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0431"
+    ],
+    "qs:name":"Dub",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":533,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318259,
+        "qs:id":582566,
+        "wd:id":"Q3040489",
+        "wk:page":"Dub"
+    },
+    "wof:country":"ME",
+    "wof:created":1469052510,
+    "wof:geomhash":"6ee812b41a9f139889f1a9b7dd9efb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890445441,
+            "region_id":85674643
+        }
+    ],
+    "wof:id":890445441,
+    "wof:lastmodified":1553816401,
+    "wof:name":"Dub",
+    "wof:parent_id":85674643,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76472,
+    42.38667,
+    18.76472,
+    42.38667
+],
+  "geometry": {"coordinates":[18.76472,42.38667],"type":"Point"}
+}

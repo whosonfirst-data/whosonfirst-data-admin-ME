@@ -1,0 +1,69 @@
+{
+  "id": 1242587629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.51639,43.11861,19.51639,43.11861",
+    "geom:latitude":43.11861,
+    "geom:longitude":19.51639,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kljestine",
+    "gn:country_code":"ME",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305548,
+    "gn:latitude":43.11861,
+    "gn:longitude":19.51639,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Klje\u0161tine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klje\u0161tina",
+        "Klje\u0161tine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305548
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"b75583de04bf93192fd80124e6c5a11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1242587629,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1242587629,
+    "wof:lastmodified":1537664473,
+    "wof:name":"Kljestine",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.51639,
+    43.11861,
+    19.51639,
+    43.11861
+],
+  "geometry": {"coordinates":[19.51639,43.11861],"type":"Point"}
+}

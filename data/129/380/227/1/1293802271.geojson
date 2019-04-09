@@ -1,0 +1,65 @@
+{
+  "id": 1293802271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.25972,43.1225,19.25972,43.1225",
+    "geom:latitude":43.1225,
+    "geom:longitude":19.25972,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Krs",
+    "gn:country_code":"ME",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197159,
+    "gn:latitude":43.1225,
+    "gn:longitude":19.25972,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Kr\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197159
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"0c9cfcb1b26d63d3f8f31561f90a34bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293802271,
+            "region_id":85674701
+        }
+    ],
+    "wof:id":1293802271,
+    "wof:lastmodified":1536829384,
+    "wof:name":"Krs",
+    "wof:parent_id":85674701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.25972,
+    43.1225,
+    19.25972,
+    43.1225
+],
+  "geometry": {"coordinates":[19.25972,43.1225],"type":"Point"}
+}

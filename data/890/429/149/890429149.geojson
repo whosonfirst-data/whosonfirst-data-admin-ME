@@ -1,0 +1,90 @@
+{
+  "id": 890429149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10806,43.46361,19.10806,43.46361",
+    "geom:latitude":43.46361,
+    "geom:longitude":19.10806,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":235,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Potkova\u010d"
+    ],
+    "name:eng_x_preferred":[
+        "Potkova\u010d"
+    ],
+    "name:fre_x_preferred":[
+        "Potkova\u010d"
+    ],
+    "name:rum_x_preferred":[
+        "Potkova\u010d"
+    ],
+    "name:slv_x_preferred":[
+        "Potkova\u010d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0442\u043a\u043e\u0432\u0430\u0447"
+    ],
+    "name:unk_x_variant":[
+        "Podkova\u010d"
+    ],
+    "qs:name":"Potkova\u010d",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"43.42361111",
+    "wd:longitude":"19.26888889",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297523,
+        "gp:id":534166,
+        "qs:id":95342,
+        "wd:id":"Q3400058",
+        "wk:page":"Potkova\u010d"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051796,
+    "wof:geomhash":"7dec2046cd1233c0e5ed149c86e7765d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890429149,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":890429149,
+    "wof:lastmodified":1527792797,
+    "wof:name":"Potkova\u010d",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10806,
+    43.46361,
+    19.10806,
+    43.46361
+],
+  "geometry": {"coordinates":[19.10806,43.46361],"type":"Point"}
+}

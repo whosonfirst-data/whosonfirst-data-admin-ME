@@ -1,0 +1,68 @@
+{
+  "id": 1209725441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9575,42.52139,18.9575,42.52139",
+    "geom:latitude":42.52139,
+    "geom:longitude":18.9575,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ravan",
+    "gn:country_code":"ME",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338386,
+    "gn:latitude":42.52139,
+    "gn:longitude":18.9575,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Ravan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ravan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338386
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"c6b30dd67be8217621b0133f0c6f5223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1209725441,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1209725441,
+    "wof:lastmodified":1537664516,
+    "wof:name":"Ravan",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9575,
+    42.52139,
+    18.9575,
+    42.52139
+],
+  "geometry": {"coordinates":[18.9575,42.52139],"type":"Point"}
+}

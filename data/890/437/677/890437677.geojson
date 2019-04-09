@@ -1,0 +1,72 @@
+{
+  "id": 890437677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10194,43.37333,19.10194,43.37333",
+    "geom:latitude":43.37333,
+    "geom:longitude":19.10194,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":41,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Popov Do"
+    ],
+    "qs:name":"Popov Do",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:latitude":"43.3706",
+    "wd:longitude":"19.1011",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192720,
+        "gp:id":534166,
+        "qs:id":95045,
+        "wd:id":"Q3397973",
+        "wk:page":"Popov Do"
+    },
+    "wof:country":"ME",
+    "wof:created":1469052161,
+    "wof:geomhash":"f308c6673a9145887b541eac21b1e757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890437677,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":890437677,
+    "wof:lastmodified":1527729752,
+    "wof:name":"Popov Do",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10194,
+    43.37333,
+    19.10194,
+    43.37333
+],
+  "geometry": {"coordinates":[19.10194,43.37333],"type":"Point"}
+}

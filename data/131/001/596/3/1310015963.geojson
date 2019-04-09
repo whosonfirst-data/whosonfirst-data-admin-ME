@@ -1,0 +1,68 @@
+{
+  "id": 1310015963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.87583,43.1,18.87583,43.1",
+    "geom:latitude":43.1,
+    "geom:longitude":18.87583,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Borkovici",
+    "gn:country_code":"ME",
+    "gn:dem":1307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203706,
+    "gn:latitude":43.1,
+    "gn:longitude":18.87583,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Borkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Borkovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203706
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"ae2a1a7d15e05a485f27f2a3a4ec4f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310015963,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":1310015963,
+    "wof:lastmodified":1537664442,
+    "wof:name":"Borkovici",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.87583,
+    43.1,
+    18.87583,
+    43.1
+],
+  "geometry": {"coordinates":[18.87583,43.1],"type":"Point"}
+}

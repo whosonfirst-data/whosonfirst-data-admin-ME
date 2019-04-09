@@ -1,0 +1,64 @@
+{
+  "id": 1209433091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90778,43.17806,18.90778,43.17806",
+    "geom:latitude":43.17806,
+    "geom:longitude":18.90778,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dondici",
+    "gn:country_code":"ME",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317755,
+    "gn:latitude":43.17806,
+    "gn:longitude":18.90778,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Dondi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dondi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317755
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"55f091a012a6e6eb802d295c2dfea895",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209433091
+        }
+    ],
+    "wof:id":1209433091,
+    "wof:lastmodified":1537664493,
+    "wof:name":"Dondici",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90778,
+    43.17806,
+    18.90778,
+    43.17806
+],
+  "geometry": {"coordinates":[18.90778,43.17806],"type":"Point"}
+}

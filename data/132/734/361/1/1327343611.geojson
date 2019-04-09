@@ -1,0 +1,68 @@
+{
+  "id": 1327343611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44639,42.6375,19.44639,42.6375",
+    "geom:latitude":42.6375,
+    "geom:longitude":19.44639,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dedinice",
+    "gn:country_code":"ME",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3341780,
+    "gn:latitude":42.6375,
+    "gn:longitude":19.44639,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Dedinice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dedinice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3341780
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"8725bb6c5e9984a93aad14e9dc638223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1327343611,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":1327343611,
+    "wof:lastmodified":1537664548,
+    "wof:name":"Dedinice",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44639,
+    42.6375,
+    19.44639,
+    42.6375
+],
+  "geometry": {"coordinates":[19.44639,42.6375],"type":"Point"}
+}

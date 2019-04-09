@@ -1,0 +1,65 @@
+{
+  "id": 1226460907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9125,42.75389,19.9125,42.75389",
+    "geom:latitude":42.75389,
+    "geom:longitude":19.9125,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Maslari",
+    "gn:country_code":"ME",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3337919,
+    "gn:latitude":42.75389,
+    "gn:longitude":19.9125,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Maslari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337919
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"121305c910df5f47e6f63c4e169b4daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226460907,
+            "region_id":85674653
+        }
+    ],
+    "wof:id":1226460907,
+    "wof:lastmodified":1536621565,
+    "wof:name":"Maslari",
+    "wof:parent_id":85674653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9125,
+    42.75389000000001,
+    19.9125,
+    42.75389000000001
+],
+  "geometry": {"coordinates":[19.9125,42.75389000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 890430035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.04583,42.60611,19.04583,42.60611",
+    "geom:latitude":42.60611,
+    "geom:longitude":19.04583,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":127,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kujava"
+    ],
+    "qs:name":"Kujava",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197014,
+        "gp:id":535047,
+        "qs:id":581677
+    },
+    "wof:country":"ME",
+    "wof:created":1469051837,
+    "wof:geomhash":"eda577bbcc8e3ae322105b8ce5fdd086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430035,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":890430035,
+    "wof:lastmodified":1505343516,
+    "wof:name":"Kujava",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:population":127,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.04583,
+    42.60611,
+    19.04583,
+    42.60611
+],
+  "geometry": {"coordinates":[19.04583,42.60611],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226765755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82278,43.10167,19.82278,43.10167",
+    "geom:latitude":43.10167,
+    "geom:longitude":19.82278,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pecarska",
+    "gn:country_code":"ME",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193552,
+    "gn:latitude":43.10167,
+    "gn:longitude":19.82278,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Pe\u0107arska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pe\u0107arska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193552,
+        "wk:page":"Pe%C4%87arska"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"b224b1722d297ecbab879cb6695cfb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1226765755,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226765755,
+    "wof:lastmodified":1537664424,
+    "wof:name":"Pecarska",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82278,
+    43.10167,
+    19.82278,
+    43.10167
+],
+  "geometry": {"coordinates":[19.82278,43.10167],"type":"Point"}
+}

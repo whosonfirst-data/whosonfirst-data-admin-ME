@@ -1,0 +1,66 @@
+{
+  "id": 1276781857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.6275,43.18667,19.6275,43.18667",
+    "geom:latitude":43.18667,
+    "geom:longitude":19.6275,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Parazlame",
+    "gn:country_code":"ME",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339499,
+    "gn:latitude":43.18667,
+    "gn:longitude":19.6275,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Parazlame",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Parazlame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339499
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"f30fa5a6d4bdc459f5c4ec2734db82e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1276781857,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276781857,
+    "wof:lastmodified":1537664534,
+    "wof:name":"Parazlame",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.6275,
+    43.18667,
+    19.6275,
+    43.18667
+],
+  "geometry": {"coordinates":[19.6275,43.18667],"type":"Point"}
+}

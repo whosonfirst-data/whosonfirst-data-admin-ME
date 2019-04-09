@@ -1,0 +1,70 @@
+{
+  "id": 1243190545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.35083,43.28778,19.35083,43.28778",
+    "geom:latitude":43.28778,
+    "geom:longitude":19.35083,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bascinovici",
+    "gn:country_code":"ME",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3203641,
+    "gn:latitude":43.28778,
+    "gn:longitude":19.35083,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Ba\u0161\u010dinovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bo\u0161\u010dinovi\u0107i",
+        "Ba\u0161\u010dinovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203641,
+        "wk:page":"Bo%C5%A1%C4%8Dinovi%C4%87i"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"80bd63b1b7664891d16f758e2e2d8629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1243190545,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1243190545,
+    "wof:lastmodified":1537664442,
+    "wof:name":"Bascinovici",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.35083,
+    43.28778,
+    19.35083,
+    43.28778
+],
+  "geometry": {"coordinates":[19.35083,43.28778],"type":"Point"}
+}

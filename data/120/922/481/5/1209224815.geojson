@@ -1,0 +1,64 @@
+{
+  "id": 1209224815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11778,42.59056,19.11778,42.59056",
+    "geom:latitude":42.59056,
+    "geom:longitude":19.11778,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rajicev Do",
+    "gn:country_code":"ME",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338752,
+    "gn:latitude":42.59056,
+    "gn:longitude":19.11778,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Raji\u0107ev Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Raji\u0107ev Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338752
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"8b0c79c0d621384b308c3c635c3b3249",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209224815
+        }
+    ],
+    "wof:id":1209224815,
+    "wof:lastmodified":1537664526,
+    "wof:name":"Rajicev Do",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11778,
+    42.59056,
+    19.11778,
+    42.59056
+],
+  "geometry": {"coordinates":[19.11778,42.59056],"type":"Point"}
+}

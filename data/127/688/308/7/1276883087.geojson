@@ -1,0 +1,70 @@
+{
+  "id": 1276883087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.15389,42.48528,19.15389,42.48528",
+    "geom:latitude":42.48528,
+    "geom:longitude":19.15389,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mugosina Livada",
+    "gn:country_code":"ME",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196420,
+    "gn:latitude":42.48528,
+    "gn:longitude":19.15389,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Mugo\u0161ina Livada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Livada",
+        "Livade",
+        "Mugo\u0161ina Livada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196420
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"2ac89814b562c836447124bd8e7494df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276883087,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":1276883087,
+    "wof:lastmodified":1537664429,
+    "wof:name":"Mugosina Livada",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.15389,
+    42.48528,
+    19.15389,
+    42.48528
+],
+  "geometry": {"coordinates":[19.15389,42.48528],"type":"Point"}
+}

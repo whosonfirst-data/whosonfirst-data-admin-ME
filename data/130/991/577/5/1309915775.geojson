@@ -1,0 +1,66 @@
+{
+  "id": 1309915775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.32972,43.40611,19.32972,43.40611",
+    "geom:latitude":43.40611,
+    "geom:longitude":19.32972,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Beljkasi",
+    "gn:country_code":"ME",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342853,
+    "gn:latitude":43.40611,
+    "gn:longitude":19.32972,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Beljkasi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Beljkasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342853
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"8eaf6932651e6214dcca8d87a5511b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1309915775,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309915775,
+    "wof:lastmodified":1537664556,
+    "wof:name":"Beljkasi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.32972,
+    43.40611,
+    19.32972,
+    43.40611
+],
+  "geometry": {"coordinates":[19.32972,43.40611],"type":"Point"}
+}

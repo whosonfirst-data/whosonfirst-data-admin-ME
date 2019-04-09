@@ -1,0 +1,69 @@
+{
+  "id": 1226660759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92056,42.66472,19.92056,42.66472",
+    "geom:latitude":42.66472,
+    "geom:longitude":19.92056,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gornja Rzanica",
+    "gn:country_code":"ME",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200187,
+    "gn:latitude":42.66472,
+    "gn:longitude":19.92056,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Gornja R\u017eanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja R\u017eenica",
+        "Gornja R\u017eanica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200187
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"4d38d3e37cdb532394101a3c179f5212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226660759,
+            "region_id":85674635
+        }
+    ],
+    "wof:id":1226660759,
+    "wof:lastmodified":1537664436,
+    "wof:name":"Gornja Rzanica",
+    "wof:parent_id":85674635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92056,
+    42.66472,
+    19.92056,
+    42.66472
+],
+  "geometry": {"coordinates":[19.92056,42.66472],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259701907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50694,42.91722,19.50694,42.91722",
+    "geom:latitude":42.91722,
+    "geom:longitude":19.50694,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gornja Stitarica",
+    "gn:country_code":"ME",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339641,
+    "gn:latitude":42.91722,
+    "gn:longitude":19.50694,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Gornja \u0160titarica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornja \u0160titarica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339641
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"d9992575ef9d41d709e5e48c41a33631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259701907,
+            "region_id":85674669
+        }
+    ],
+    "wof:id":1259701907,
+    "wof:lastmodified":1537664534,
+    "wof:name":"Gornja Stitarica",
+    "wof:parent_id":85674669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50694,
+    42.91722,
+    19.50694,
+    42.91722
+],
+  "geometry": {"coordinates":[19.50694,42.91722],"type":"Point"}
+}

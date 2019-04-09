@@ -1,0 +1,70 @@
+{
+  "id": 1210026471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.07861,42.25361,19.07861,42.25361",
+    "geom:latitude":42.25361,
+    "geom:longitude":19.07861,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Braceni",
+    "gn:country_code":"ME",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203593,
+    "gn:latitude":42.25361,
+    "gn:longitude":19.07861,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Bra\u0107eni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bra\u0107oni",
+        "Bra\u010dena",
+        "Bra\u0107eni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203593
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"25a6ff7d61072a1473eacbc9a2587032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1210026471,
+            "region_id":85674613
+        }
+    ],
+    "wof:id":1210026471,
+    "wof:lastmodified":1537664442,
+    "wof:name":"Braceni",
+    "wof:parent_id":85674613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.07861,
+    42.25361,
+    19.07861,
+    42.25361
+],
+  "geometry": {"coordinates":[19.07861,42.25361],"type":"Point"}
+}

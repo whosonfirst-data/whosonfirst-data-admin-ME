@@ -1,0 +1,68 @@
+{
+  "id": 1327348383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68083,43.16444,18.68083,43.16444",
+    "geom:latitude":43.16444,
+    "geom:longitude":18.68083,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mramor",
+    "gn:country_code":"ME",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206347,
+    "gn:latitude":43.16444,
+    "gn:longitude":18.68083,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Mramor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mramor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206347
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"41ab177c6b55f788a94cea3540b74b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1327348383,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":1327348383,
+    "wof:lastmodified":1537664446,
+    "wof:name":"Mramor",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68083,
+    43.16444,
+    18.68083,
+    43.16444
+],
+  "geometry": {"coordinates":[18.68083,43.16444],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226460949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.45889,43.26583,19.45889,43.26583",
+    "geom:latitude":43.26583,
+    "geom:longitude":19.45889,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mataruge",
+    "gn:country_code":"ME",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3195387,
+    "gn:latitude":43.26583,
+    "gn:longitude":19.45889,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Mataruge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195387,
+        "wk:page":"Mataruge,_Montenegro"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"13fa5811602262c307b53ac9e59e6d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226460949,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1226460949,
+    "wof:lastmodified":1537568311,
+    "wof:name":"Mataruge",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.45889,
+    43.26583,
+    19.45889,
+    43.26583
+],
+  "geometry": {"coordinates":[19.45889,43.26583],"type":"Point"}
+}

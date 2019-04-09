@@ -1,0 +1,63 @@
+{
+  "id": 1259798167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76694,43.11417,19.76694,43.11417",
+    "geom:latitude":43.11417,
+    "geom:longitude":19.76694,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kunovaca",
+    "gn:country_code":"ME",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306654,
+    "gn:latitude":43.11417,
+    "gn:longitude":19.76694,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Kunova\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306654
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"fc12fe1dfcc2d8ee28e3cbbdbee28448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1259798167,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259798167,
+    "wof:lastmodified":1536902060,
+    "wof:name":"Kunovaca",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76694,
+    43.11417,
+    19.76694,
+    43.11417
+],
+  "geometry": {"coordinates":[19.76694,43.11417],"type":"Point"}
+}

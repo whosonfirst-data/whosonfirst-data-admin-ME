@@ -1,0 +1,67 @@
+{
+  "id": 890430895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11361,42.46861,19.11361,42.46861",
+    "geom:latitude":42.46861,
+    "geom:longitude":19.11361,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":119,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Crvena Paprat"
+    ],
+    "qs:name":"Crvena Paprat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317316,
+        "gp:id":484513,
+        "qs:id":582491
+    },
+    "wof:country":"ME",
+    "wof:created":1469051870,
+    "wof:geomhash":"813f3c644ca823d7e4c9c00dee88c7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430895,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":890430895,
+    "wof:lastmodified":1505343521,
+    "wof:name":"Crvena Paprat",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11361,
+    42.46861,
+    19.11361,
+    42.46861
+],
+  "geometry": {"coordinates":[19.11361,42.46861],"type":"Point"}
+}

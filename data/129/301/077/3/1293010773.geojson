@@ -1,0 +1,68 @@
+{
+  "id": 1293010773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17333,43.44806,19.17333,43.44806",
+    "geom:latitude":43.44806,
+    "geom:longitude":19.17333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dolina",
+    "gn:country_code":"ME",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3341741,
+    "gn:latitude":43.44806,
+    "gn:longitude":19.17333,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Dolina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dolina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3341741
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"e782e223daea1c03d6e8129d151c8f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293010773,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1293010773,
+    "wof:lastmodified":1537664547,
+    "wof:name":"Dolina",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17333,
+    43.44806,
+    19.17333,
+    43.44806
+],
+  "geometry": {"coordinates":[19.17333,43.44806],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 890422595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14444,42.03833,19.14444,42.03833",
+    "geom:latitude":42.03833,
+    "geom:longitude":19.14444,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bijela Glavica"
+    ],
+    "qs:name":"Bijela Glavica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318544,
+        "gp:id":535898,
+        "qs:id":582630
+    },
+    "wof:country":"ME",
+    "wof:created":1469051454,
+    "wof:geomhash":"80fdc9e105884ad4e0b862e2a95cefa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890422595,
+            "region_id":85674613
+        }
+    ],
+    "wof:id":890422595,
+    "wof:lastmodified":1505343470,
+    "wof:name":"Bijela Glavica",
+    "wof:parent_id":85674613,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14444,
+    42.03833,
+    19.14444,
+    42.03833
+],
+  "geometry": {"coordinates":[19.14444,42.03833],"type":"Point"}
+}

@@ -1,0 +1,323 @@
+{
+  "id": 85674695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.060178,
+    "geom:area_square_m":544409024.678018,
+    "geom:bbox":"18.9309171893,42.8589346385,19.372285597,43.0978864613",
+    "geom:latitude":42.977676,
+    "geom:longitude":19.131992,
+    "gn:id":"",
+    "iso:country":"ME",
+    "label:eng_x_preferred_longname":[
+        "\u0160avnik Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "lbl:latitude":42.976356,
+    "lbl:longitude":19.098623,
+    "mps:latitude":42.976356,
+    "mps:longitude":19.098623,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Shavnikut"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u062a\u0634\u0627\u0641\u0646\u064a\u0643"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u0430\u045e\u043d\u0456\u043a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09ad\u09a8\u09bf\u0995 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "\u0160avnik"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u0432\u043d\u0438\u043a"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160avnik"
+    ],
+    "name:dan_x_preferred":[
+        "\u0160avnik Municipality"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160avnik"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160avnik"
+    ],
+    "name:eng_x_preferred":[
+        "Savnik"
+    ],
+    "name:est_x_preferred":[
+        "\u0160avnik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0648\u0646\u06cc\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "\u0160avnik"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160avnik"
+    ],
+    "name:fre_x_preferred":[
+        "Municipalit\u00e9 de \u0160avnik"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e8\u10d0\u10d5\u10dc\u10d8\u10d9\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Gemeinde \u0160avnik"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03b2\u03bd\u03b9\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0ab5\u0aa8\u0abf\u0a95 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0935\u0928\u093f\u0915 \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya \u0160avnik"
+    ],
+    "name:ita_x_preferred":[
+        "Comune di \u0160avnik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30f4\u30cb\u30af"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cb5\u0ca8\u0cbf\u0c95\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0e4\ube0c\ub2c8\ud06c \uc9c0\ubc29 \uc790\uce58\uc81c"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160avnikas pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160avniko op\u0161tina"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u0935\u0928\u093f\u0915 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Savnik Municipality"
+    ],
+    "name:nob_x_preferred":[
+        "Savnik Kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u0160avnik"
+    ],
+    "name:por_x_preferred":[
+        "\u0160avnik"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna \u0160avnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442 \u0428\u0430\u0432\u043d\u0438\u043a"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dc0\u0dca\u0db1\u0dd2\u0d9a\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160avnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0428\u0430\u0432\u043d\u0438\u043a"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u0430\u0432\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Savnik Kommun"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bb5\u0ba9\u0bbf\u0b95\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c35\u0c4d\u0c28\u0c3f\u0c15\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e27\u0e19\u0e34\u0e01 \u0e21\u0e39\u0e19\u0e34\u0e1e\u0e32\u0e25\u0e34\u0e15\u0e35\u0e49"
+    ],
+    "name:tur_x_preferred":[
+        "Savnik Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0428\u0430\u0432\u043d\u0438\u043a"
+    ],
+    "name:und_x_colloquial":[
+        "Savnik"
+    ],
+    "name:und_x_preferred":[
+        "\u0160avnik"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina \u0160avnik"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u0648\u0646\u06a9 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Savnik"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MNE",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MNE-1519",
+    "ne:adm1_code":"MNE-1519",
+    "ne:admin":"Montenegro",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"ME.SA",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1519",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MJ00",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Montenegro",
+    "ne:gn_a1_code":"ME.18",
+    "ne:gn_id":"3191221",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Savnik",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MJ00",
+    "ne:gns_id":"-95099",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Savnik, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MNE",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"ME-",
+    "ne:iso_a2":"ME",
+    "ne:labelrank":"9",
+    "ne:latitude":"42.95710000000",
+    "ne:longitude":"19.15160000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":4,
+    "ne:name":"\u0160avnik",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SA",
+    "ne:provnum_ne":"15",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"MNE",
+    "ne:sub_code":"",
+    "ne:type":"Op\u0161tina",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":29389234,
+    "ne:woe_label":"\u00c5\u00a0avnik, ME, Montenegro",
+    "ne:woe_name":"\u0160avnik",
+    "qs:a0":"Montenegro",
+    "qs:a0_lc":"ME",
+    "qs:a1":"\u0160avnik",
+    "qs:a1_lc":"MNE-1519",
+    "qs:adm0":"Montenegro",
+    "qs:adm0_a3":"MNE",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-04-01",
+    "statoids:area_km":"553",
+    "statoids:area_mi":"214",
+    "statoids:as_of_date":"2011-04-01",
+    "statoids:capital":"Savnik",
+    "statoids:country":"ME",
+    "statoids:gec":"MJ18",
+    "statoids:hasc":"ME.SA",
+    "statoids:iso":"18",
+    "statoids:name":"Savnik",
+    "statoids:population":"2070",
+    "statoids:timezone":"+1~",
+    "statoids:type":"commune",
+    "unlc:subdivision":"ME-18",
+    "wd:latitude":42.95,
+    "wd:longitude":19.1,
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191581,
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MJ18",
+        "gn:id":3191221,
+        "gp:id":29389234,
+        "hasc:id":"ME.SA",
+        "iso:id":"ME-18",
+        "qs:id":962093,
+        "unlc:id":"ME-18",
+        "wd:id":"Q13365880"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"4a7812396bd7fe4df4f85f71a93d2aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "region_id":85674695
+        }
+    ],
+    "wof:id":85674695,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "srp"
+    ],
+    "wof:lang_x_spoken":[
+        "srp"
+    ],
+    "wof:lastmodified":1553550459,
+    "wof:name":"\u0160avnik",
+    "wof:parent_id":85632667,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"commune",
+    "wof:population":2070,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:shortcode":"SA",
+    "wof:subdivision":"ME-18",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9309171892769,
+    42.85893463852278,
+    19.37228559700276,
+    43.09788646129118
+],
+  "geometry": {"coordinates":[[[19.02470991363168,43.09421743418727],[19.04997968861181,43.08522573537942],[19.06620608883998,43.07199656778744],[19.08744510330894,43.07199656778744],[19.12103478442782,43.07530385968545],[19.14475426579679,43.05876740199403],[19.15824181490785,43.0408615178448],[19.1800492692584,43.04776032248094],[19.21146854004115,43.04776032248094],[19.23958051892583,43.02791657199225],[19.25249962725604,43.01468740529958],[19.27043134892767,43.00807282240288],[19.33166792183715,42.99011526141027],[19.33125450978787,42.98760895428984],[19.34174482626275,42.95360586202099],[19.37228559700276,42.9344855819441],[19.35869469600345,42.91766490341263],[19.34298505971276,42.90087006330282],[19.29254886164068,42.90223948796205],[19.22779829305682,42.91050771725742],[19.21095177610363,42.90223948796205],[19.19989301884777,42.88761505818843],[19.20211510602735,42.87136282043787],[19.20857466019248,42.85893463852278],[19.1455810889961,42.86503245748196],[19.08966718868987,42.88239573837268],[19.05767947802553,42.89975902016272],[19.01246259886989,42.92208323845074],[18.9780977722944,42.93340037722567],[18.98822635266407,42.93887807945987],[18.98383385604768,42.97939240183791],[18.93670494987362,43.0022850609069],[18.9309171892769,43.03011281985079],[18.95076093886627,43.0711697454874],[18.97721927315098,43.0940624054557],[19.01442630363107,43.09788646129118],[19.02470991363168,43.09421743418727]]],"type":"Polygon"}
+}

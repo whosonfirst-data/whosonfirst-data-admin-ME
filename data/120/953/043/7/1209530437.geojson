@@ -1,0 +1,64 @@
+{
+  "id": 1209530437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49194,42.53611,18.49194,42.53611",
+    "geom:latitude":42.53611,
+    "geom:longitude":18.49194,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Krusevice",
+    "gn:country_code":"ME",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197083,
+    "gn:latitude":42.53611,
+    "gn:longitude":18.49194,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kru\u0161evice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kru\u0161evice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197083
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"d421e9e979528c420dd20a9b438a885d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209530437
+        }
+    ],
+    "wof:id":1209530437,
+    "wof:lastmodified":1537664431,
+    "wof:name":"Krusevice",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49194,
+    42.53611,
+    18.49194,
+    42.53611
+],
+  "geometry": {"coordinates":[18.49194,42.53611],"type":"Point"}
+}

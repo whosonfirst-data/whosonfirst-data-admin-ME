@@ -1,0 +1,65 @@
+{
+  "id": 1209530409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.47389,42.59778,19.47389,42.59778",
+    "geom:latitude":42.59778,
+    "geom:longitude":19.47389,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dubaje",
+    "gn:country_code":"ME",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338441,
+    "gn:latitude":42.59778,
+    "gn:longitude":19.47389,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Dubaje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duboja",
+        "Dubaje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338441
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"ee044c43a3b0a89ef1bb076bd3859c83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209530409
+        }
+    ],
+    "wof:id":1209530409,
+    "wof:lastmodified":1537664518,
+    "wof:name":"Dubaje",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.47389,
+    42.59778,
+    19.47389,
+    42.59778
+],
+  "geometry": {"coordinates":[19.47389,42.59778],"type":"Point"}
+}

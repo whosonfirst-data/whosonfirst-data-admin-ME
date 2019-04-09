@@ -1,0 +1,69 @@
+{
+  "id": 1226664323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.97306,42.26222,18.97306,42.26222",
+    "geom:latitude":42.26222,
+    "geom:longitude":18.97306,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Utrg",
+    "gn:country_code":"ME",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188447,
+    "gn:latitude":42.26222,
+    "gn:longitude":18.97306,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Utrg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Utrk",
+        "Utrg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188447
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"f3dccf57ca9d2ef176496170b713efbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226664323,
+            "region_id":85674613
+        }
+    ],
+    "wof:id":1226664323,
+    "wof:lastmodified":1537664415,
+    "wof:name":"Utrg",
+    "wof:parent_id":85674613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.97306,
+    42.26222,
+    18.97306,
+    42.26222
+],
+  "geometry": {"coordinates":[18.97306,42.26222],"type":"Point"}
+}

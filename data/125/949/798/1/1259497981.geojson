@@ -1,0 +1,68 @@
+{
+  "id": 1259497981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16417,43.42583,19.16417,43.42583",
+    "geom:latitude":43.42583,
+    "geom:longitude":19.16417,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Podrid",
+    "gn:country_code":"ME",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3341759,
+    "gn:latitude":43.42583,
+    "gn:longitude":19.16417,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Podrid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Podrid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3341759
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"404e5ea17d0b08e83cf0de14b233a700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259497981,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1259497981,
+    "wof:lastmodified":1537664547,
+    "wof:name":"Podrid",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16417,
+    43.42583,
+    19.16417,
+    43.42583
+],
+  "geometry": {"coordinates":[19.16417,43.42583],"type":"Point"}
+}

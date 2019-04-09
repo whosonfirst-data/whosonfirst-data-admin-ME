@@ -1,0 +1,70 @@
+{
+  "id": 1226549639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.66583,43.15139,19.66583,43.15139",
+    "geom:latitude":43.15139,
+    "geom:longitude":19.66583,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Selista",
+    "gn:country_code":"ME",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306400,
+    "gn:latitude":43.15139,
+    "gn:longitude":19.66583,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Seli\u0161ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seli\u0161te",
+        "Seli\u0161ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306400,
+        "wk:page":"Seli%C5%A1ta,_Pljevlja"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"03c07b4b9b14fd8b2e9a02d57026aa2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226549639,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1226549639,
+    "wof:lastmodified":1537664474,
+    "wof:name":"Selista",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.66583,
+    43.15139,
+    19.66583,
+    43.15139
+],
+  "geometry": {"coordinates":[19.66583,43.15139],"type":"Point"}
+}

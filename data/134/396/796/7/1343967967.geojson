@@ -1,0 +1,66 @@
+{
+  "id": 1343967967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.56278,43.21833,19.56278,43.21833",
+    "geom:latitude":43.21833,
+    "geom:longitude":19.56278,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Racevo",
+    "gn:country_code":"ME",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3304565,
+    "gn:latitude":43.21833,
+    "gn:longitude":19.56278,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Ra\u010devo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ra\u010devo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304565
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"fe186ea909fd8428673035c651ac1f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1343967967,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343967967,
+    "wof:lastmodified":1537664470,
+    "wof:name":"Racevo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.56278,
+    43.21833,
+    19.56278,
+    43.21833
+],
+  "geometry": {"coordinates":[19.56278,43.21833],"type":"Point"}
+}

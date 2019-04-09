@@ -1,0 +1,68 @@
+{
+  "id": 1344066757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.255,41.96389,19.255,41.96389",
+    "geom:latitude":41.96389,
+    "geom:longitude":19.255,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mozura",
+    "gn:country_code":"ME",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342542,
+    "gn:latitude":41.96389,
+    "gn:longitude":19.255,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mo\u017eura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mo\u017eura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342542
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"2a2385f456e9c6580b4242b36062357b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1344066757,
+            "region_id":85674617
+        }
+    ],
+    "wof:id":1344066757,
+    "wof:lastmodified":1537664551,
+    "wof:name":"Mozura",
+    "wof:parent_id":85674617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.255,
+    41.96389,
+    19.255,
+    41.96389
+],
+  "geometry": {"coordinates":[19.255,41.96389],"type":"Point"}
+}

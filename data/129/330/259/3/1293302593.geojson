@@ -1,0 +1,69 @@
+{
+  "id": 1293302593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86056,42.4475,18.86056,42.4475",
+    "geom:latitude":42.4475,
+    "geom:longitude":18.86056,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Krajnji Do",
+    "gn:country_code":"ME",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197374,
+    "gn:latitude":42.4475,
+    "gn:longitude":18.86056,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Krajnji Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kranji Do",
+        "Krajnji Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197374
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"e5e8be55b97a46228c9fa8cccc0984b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293302593,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1293302593,
+    "wof:lastmodified":1537664431,
+    "wof:name":"Krajnji Do",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86056,
+    42.4475,
+    18.86056,
+    42.4475
+],
+  "geometry": {"coordinates":[18.86056,42.4475],"type":"Point"}
+}

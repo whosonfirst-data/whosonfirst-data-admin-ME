@@ -1,0 +1,68 @@
+{
+  "id": 1243464199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.50028,42.77139,18.50028,42.77139",
+    "geom:latitude":42.77139,
+    "geom:longitude":18.50028,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Donje Selo",
+    "gn:country_code":"ME",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339009,
+    "gn:latitude":42.77139,
+    "gn:longitude":18.50028,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Donje Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donje Selo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339009
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"503e4879aa6456461db09fe142ef4a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1243464199,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1243464199,
+    "wof:lastmodified":1537664528,
+    "wof:name":"Donje Selo",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.50028,
+    42.77139,
+    18.50028,
+    42.77139
+],
+  "geometry": {"coordinates":[18.50028,42.77139],"type":"Point"}
+}

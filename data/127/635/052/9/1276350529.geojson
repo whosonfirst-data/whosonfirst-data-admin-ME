@@ -1,0 +1,68 @@
+{
+  "id": 1276350529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72861,42.6825,18.72861,42.6825",
+    "geom:latitude":42.6825,
+    "geom:longitude":18.72861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Priporci",
+    "gn:country_code":"ME",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317394,
+    "gn:latitude":42.6825,
+    "gn:longitude":18.72861,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Priporci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Priporci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317394
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"97356ec6a68ec4e3844af62210b5134f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276350529,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1276350529,
+    "wof:lastmodified":1537664488,
+    "wof:name":"Priporci",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72861,
+    42.6825,
+    18.72861,
+    42.6825
+],
+  "geometry": {"coordinates":[18.72861,42.6825],"type":"Point"}
+}

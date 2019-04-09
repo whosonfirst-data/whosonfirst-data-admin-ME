@@ -1,0 +1,65 @@
+{
+  "id": 1226252881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.22861,43.36778,19.22861,43.36778",
+    "geom:latitude":43.36778,
+    "geom:longitude":19.22861,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Skenderovina",
+    "gn:country_code":"ME",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3304549,
+    "gn:latitude":43.36778,
+    "gn:longitude":19.22861,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Skenderovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304549
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"bdb734a4f74d2bc0d42c173b637da7d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226252881,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1226252881,
+    "wof:lastmodified":1536923976,
+    "wof:name":"Skenderovina",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.22861,
+    43.36778,
+    19.22861,
+    43.36778
+],
+  "geometry": {"coordinates":[19.22861,43.36778],"type":"Point"}
+}

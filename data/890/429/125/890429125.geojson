@@ -1,0 +1,84 @@
+{
+  "id": 890429125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.15417,43.19861,19.15417,43.19861",
+    "geom:latitude":43.19861,
+    "geom:longitude":19.15417,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":229,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Podgora"
+    ],
+    "name:eng_x_preferred":[
+        "Podgora"
+    ],
+    "name:fre_x_preferred":[
+        "Podgora"
+    ],
+    "name:rum_x_preferred":[
+        "Podgora"
+    ],
+    "name:slv_x_preferred":[
+        "Podgora"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u0430"
+    ],
+    "qs:name":"Podgora",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":169,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193061,
+        "qs:id":95050,
+        "wd:id":"Q920904",
+        "wk:page":"Podgora"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051795,
+    "wof:geomhash":"6175295953c193a7a296b5133afa9ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890429125,
+            "region_id":85674701
+        }
+    ],
+    "wof:id":890429125,
+    "wof:lastmodified":1553816394,
+    "wof:name":"Podgora",
+    "wof:parent_id":85674701,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.15417,
+    43.19861,
+    19.15417,
+    43.19861
+],
+  "geometry": {"coordinates":[19.15417,43.19861],"type":"Point"}
+}

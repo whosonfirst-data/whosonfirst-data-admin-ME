@@ -1,0 +1,70 @@
+{
+  "id": 890430985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75833,42.33333,18.75833,42.33333",
+    "geom:latitude":42.33333,
+    "geom:longitude":18.75833,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Tre\u0161njica"
+    ],
+    "qs:name":"Tre\u0161njica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317969,
+        "gp:id":533029,
+        "qs:id":582541,
+        "wd:id":"Q18589151",
+        "wk:page":"Tre\u0161njica"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051874,
+    "wof:geomhash":"3223f9f90f8dc6a60588855df30ffbd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430985,
+            "region_id":85674643
+        }
+    ],
+    "wof:id":890430985,
+    "wof:lastmodified":1527729738,
+    "wof:name":"Tre\u0161njica",
+    "wof:parent_id":85674643,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75833,
+    42.33333,
+    18.75833,
+    42.33333
+],
+  "geometry": {"coordinates":[18.75833,42.33333],"type":"Point"}
+}

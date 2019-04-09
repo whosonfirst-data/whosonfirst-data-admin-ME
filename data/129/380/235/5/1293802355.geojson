@@ -1,0 +1,69 @@
+{
+  "id": 1293802355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.88278,42.85972,18.88278,42.85972",
+    "geom:latitude":42.85972,
+    "geom:longitude":18.88278,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gornja Tisa",
+    "gn:country_code":"ME",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3220652,
+    "gn:latitude":42.85972,
+    "gn:longitude":18.88278,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Gornja Tisa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tisa",
+        "Gornja Tisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3220652
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"83668962ae1e26f6d567817f1ff7817f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293802355,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1293802355,
+    "wof:lastmodified":1537664455,
+    "wof:name":"Gornja Tisa",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.88278,
+    42.85972,
+    18.88278,
+    42.85972
+],
+  "geometry": {"coordinates":[18.88278,42.85972],"type":"Point"}
+}

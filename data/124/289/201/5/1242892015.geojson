@@ -1,0 +1,68 @@
+{
+  "id": 1242892015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.57528,42.71028,18.57528,42.71028",
+    "geom:latitude":42.71028,
+    "geom:longitude":18.57528,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kucista",
+    "gn:country_code":"ME",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3264699,
+    "gn:latitude":42.71028,
+    "gn:longitude":18.57528,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Ku\u0107i\u0161ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ku\u0107i\u0161ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264699
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"7f6f8f151b8429a575fbc99a0994bcf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1242892015,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1242892015,
+    "wof:lastmodified":1537664456,
+    "wof:name":"Kucista",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.57528,
+    42.71028,
+    18.57528,
+    42.71028
+],
+  "geometry": {"coordinates":[18.57528,42.71028],"type":"Point"}
+}

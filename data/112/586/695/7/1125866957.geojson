@@ -1,0 +1,76 @@
+{
+  "id": 1125866957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.25806,42.51944,19.25806,42.51944",
+    "geom:latitude":42.51944,
+    "geom:longitude":19.25806,
+    "gn:gn_country":"ME",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":540,
+    "gn:population":540,
+    "iso:country":"ME",
+    "lbl:latitude":42.51944,
+    "lbl:longitude":19.25806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ME",
+    "qs_pg:gn_country":"ME",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":3189885,
+    "qs_pg:gn_pop":540,
+    "qs_pg:name":"Stijena",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":94988,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189885,
+        "qs_pg:id":94988
+    },
+    "wof:country":"ME",
+    "wof:created":1497294090,
+    "wof:geomhash":"d6a11980855a6748e16a1e20efca8e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1125866957,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":1125866957,
+    "wof:lastmodified":1509397050,
+    "wof:name":"Stijena",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:population":540,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.25806,
+    42.51944,
+    19.25806,
+    42.51944
+],
+  "geometry": {"coordinates":[19.25806,42.51944],"type":"Point"}
+}

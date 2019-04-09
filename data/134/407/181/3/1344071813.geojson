@@ -1,0 +1,65 @@
+{
+  "id": 1344071813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.26028,43.33111,19.26028,43.33111",
+    "geom:latitude":43.33111,
+    "geom:longitude":19.26028,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sakovo Selo",
+    "gn:country_code":"ME",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3304508,
+    "gn:latitude":43.33111,
+    "gn:longitude":19.26028,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Sakovo Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304508
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"bae22a2b7df063a3dc395e94a0569f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1344071813,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1344071813,
+    "wof:lastmodified":1536857822,
+    "wof:name":"Sakovo Selo",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.26028,
+    43.33111,
+    19.26028,
+    43.33111
+],
+  "geometry": {"coordinates":[19.26028,43.33111],"type":"Point"}
+}

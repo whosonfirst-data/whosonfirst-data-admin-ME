@@ -1,0 +1,76 @@
+{
+  "id": 1125867133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00639,42.53944,19.00639,42.53944",
+    "geom:latitude":42.53944,
+    "geom:longitude":19.00639,
+    "gn:gn_country":"ME",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":70,
+    "gn:population":70,
+    "iso:country":"ME",
+    "lbl:latitude":42.53944,
+    "lbl:longitude":19.00639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ME",
+    "qs_pg:gn_country":"ME",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":3195456,
+    "qs_pg:gn_pop":70,
+    "qs_pg:name":"Markovina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":95081,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195456,
+        "qs_pg:id":95081
+    },
+    "wof:country":"ME",
+    "wof:created":1497294098,
+    "wof:geomhash":"68e360188f3f5179074157a82e71fff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1125867133,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":1125867133,
+    "wof:lastmodified":1509397058,
+    "wof:name":"Markovina",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00639,
+    42.53944,
+    19.00639,
+    42.53944
+],
+  "geometry": {"coordinates":[19.00639,42.53944],"type":"Point"}
+}

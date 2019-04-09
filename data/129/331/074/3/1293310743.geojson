@@ -1,0 +1,69 @@
+{
+  "id": 1293310743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.32167,43.19306,19.32167,43.19306",
+    "geom:latitude":43.19306,
+    "geom:longitude":19.32167,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kosanica",
+    "gn:country_code":"ME",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3340911,
+    "gn:latitude":43.19306,
+    "gn:longitude":19.32167,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Kosanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kosanica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3340911,
+        "wk:page":"Kosanica,_Montenegro"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"556e4d10f9c5e26b202a412e3c745834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293310743,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1293310743,
+    "wof:lastmodified":1537664540,
+    "wof:name":"Kosanica",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.32167,
+    43.19306,
+    19.32167,
+    43.19306
+],
+  "geometry": {"coordinates":[19.32167,43.19306],"type":"Point"}
+}

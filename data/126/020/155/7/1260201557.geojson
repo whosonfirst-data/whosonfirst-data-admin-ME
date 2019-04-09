@@ -1,0 +1,68 @@
+{
+  "id": 1260201557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.95583,42.68194,19.95583,42.68194",
+    "geom:latitude":42.68194,
+    "geom:longitude":19.95583,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Radevici",
+    "gn:country_code":"ME",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3337596,
+    "gn:latitude":42.68194,
+    "gn:longitude":19.95583,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Radevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Radevi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337596
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"1fd41f4aff1405e60dbeb5b811075f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1260201557,
+            "region_id":85674635
+        }
+    ],
+    "wof:id":1260201557,
+    "wof:lastmodified":1537664509,
+    "wof:name":"Radevici",
+    "wof:parent_id":85674635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.95583,
+    42.68194,
+    19.95583,
+    42.68194
+],
+  "geometry": {"coordinates":[19.95583,42.68194],"type":"Point"}
+}

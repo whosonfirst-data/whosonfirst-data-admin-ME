@@ -1,0 +1,64 @@
+{
+  "id": 1209525271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.73139,42.65389,18.73139,42.65389",
+    "geom:latitude":42.65389,
+    "geom:longitude":18.73139,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zainovica Guvno",
+    "gn:country_code":"ME",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317327,
+    "gn:latitude":42.65389,
+    "gn:longitude":18.73139,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Zainovi\u0107a Guvno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Zainovi\u0107a Guvno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317327
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"7ff394f808c19ee656dfe40d62f34f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209525271
+        }
+    ],
+    "wof:id":1209525271,
+    "wof:lastmodified":1537664487,
+    "wof:name":"Zainovica Guvno",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.73139,
+    42.65389,
+    18.73139,
+    42.65389
+],
+  "geometry": {"coordinates":[18.73139,42.65389],"type":"Point"}
+}

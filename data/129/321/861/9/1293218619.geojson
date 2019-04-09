@@ -1,0 +1,69 @@
+{
+  "id": 1293218619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67194,43.16806,18.67194,43.16806",
+    "geom:latitude":43.16806,
+    "geom:longitude":18.67194,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Poljana",
+    "gn:country_code":"ME",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206350,
+    "gn:latitude":43.16806,
+    "gn:longitude":18.67194,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Poljana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ravno",
+        "Poljana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206350
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"4bf5f634896d5bc8cdb0cbc756662d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293218619,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":1293218619,
+    "wof:lastmodified":1537664446,
+    "wof:name":"Poljana",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67194,
+    43.16806,
+    18.67194,
+    43.16806
+],
+  "geometry": {"coordinates":[18.67194,43.16806],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259392751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69278,42.98639,18.69278,42.98639",
+    "geom:latitude":42.98639,
+    "geom:longitude":18.69278,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ovcarica",
+    "gn:country_code":"ME",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319599,
+    "gn:latitude":42.98639,
+    "gn:longitude":18.69278,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Ov\u010darica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ov\u010darica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319599
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"b34daae30375c3e417ed74fd4691e193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259392751,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1259392751,
+    "wof:lastmodified":1537664500,
+    "wof:name":"Ovcarica",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69278,
+    42.98639,
+    18.69278,
+    42.98639
+],
+  "geometry": {"coordinates":[18.69278,42.98639],"type":"Point"}
+}

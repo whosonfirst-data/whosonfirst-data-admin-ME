@@ -1,0 +1,66 @@
+{
+  "id": 1277088887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70444,43.02889,19.70444,43.02889",
+    "geom:latitude":43.02889,
+    "geom:longitude":19.70444,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cerovo",
+    "gn:country_code":"ME",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3202677,
+    "gn:latitude":43.02889,
+    "gn:longitude":19.70444,
+    "gn:modification_date":"2018-06-14",
+    "gn:name":"Cerovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202677,
+        "wk:page":"Cerovo,_Bijelo_Polje"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"784d84dbcee0a53b1d7c9faada1efecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1277088887,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1277088887,
+    "wof:lastmodified":1537568313,
+    "wof:name":"Cerovo",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70444,
+    43.02889,
+    19.70444,
+    43.02889
+],
+  "geometry": {"coordinates":[19.70444,43.02889],"type":"Point"}
+}

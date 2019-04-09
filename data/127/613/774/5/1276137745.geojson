@@ -1,0 +1,68 @@
+{
+  "id": 1276137745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63056,42.72417,18.63056,42.72417",
+    "geom:latitude":42.72417,
+    "geom:longitude":18.63056,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Donja Spila",
+    "gn:country_code":"ME",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3208047,
+    "gn:latitude":42.72417,
+    "gn:longitude":18.63056,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Donja Spila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donja Spila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3208047
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"e57b0e649c603f9e0d35e0e9db8dcd65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276137745,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1276137745,
+    "wof:lastmodified":1537664447,
+    "wof:name":"Donja Spila",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63056,
+    42.72417,
+    18.63056,
+    42.72417
+],
+  "geometry": {"coordinates":[18.63056,42.72417],"type":"Point"}
+}

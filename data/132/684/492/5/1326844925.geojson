@@ -1,0 +1,65 @@
+{
+  "id": 1326844925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.41278,43.10667,19.41278,43.10667",
+    "geom:latitude":43.10667,
+    "geom:longitude":19.41278,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Borislavljevica",
+    "gn:country_code":"ME",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303943,
+    "gn:latitude":43.10667,
+    "gn:longitude":19.41278,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Borislavljevica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303943
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"05602c5e5f8ddf135d20235b5b15ff6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1326844925,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1326844925,
+    "wof:lastmodified":1537029131,
+    "wof:name":"Borislavljevica",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.41278,
+    43.10667,
+    19.41278,
+    43.10667
+],
+  "geometry": {"coordinates":[19.41278,43.10667],"type":"Point"}
+}

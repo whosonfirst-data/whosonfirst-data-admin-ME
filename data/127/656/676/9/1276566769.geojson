@@ -1,0 +1,69 @@
+{
+  "id": 1276566769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.20222,43.09583,19.20222,43.09583",
+    "geom:latitude":43.09583,
+    "geom:longitude":19.20222,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Dobri Nugo",
+    "gn:country_code":"ME",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3303985,
+    "gn:latitude":43.09583,
+    "gn:longitude":19.20222,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Dobri Nugo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pasji Nugao",
+        "Dobri Nugo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303985
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"c24dc2b702827f248c541006a3742947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276566769,
+            "region_id":85674701
+        }
+    ],
+    "wof:id":1276566769,
+    "wof:lastmodified":1537664466,
+    "wof:name":"Dobri Nugo",
+    "wof:parent_id":85674701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.20222,
+    43.09583,
+    19.20222,
+    43.09583
+],
+  "geometry": {"coordinates":[19.20222,43.09583],"type":"Point"}
+}

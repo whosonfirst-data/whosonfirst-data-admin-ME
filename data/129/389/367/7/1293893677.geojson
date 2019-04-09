@@ -1,0 +1,65 @@
+{
+  "id": 1293893677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.64278,43.10222,19.64278,43.10222",
+    "geom:latitude":43.10222,
+    "geom:longitude":19.64278,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ravna Gora",
+    "gn:country_code":"ME",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3306131,
+    "gn:latitude":43.10222,
+    "gn:longitude":19.64278,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Ravna Gora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306131
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"9138386016da1ef841cd299ef0474517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293893677,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1293893677,
+    "wof:lastmodified":1536698861,
+    "wof:name":"Ravna Gora",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.64278,
+    43.10222,
+    19.64278,
+    43.10222
+],
+  "geometry": {"coordinates":[19.64278,43.10222],"type":"Point"}
+}

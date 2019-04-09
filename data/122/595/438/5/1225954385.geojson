@@ -1,0 +1,68 @@
+{
+  "id": 1225954385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99778,43.54417,18.99778,43.54417",
+    "geom:latitude":43.54417,
+    "geom:longitude":18.99778,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Rudici",
+    "gn:country_code":"ME",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269402,
+    "gn:latitude":43.54417,
+    "gn:longitude":18.99778,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Rudi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Rudi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269402
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"ef2a104706f0fd72fb71f2248c9c8176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1225954385,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1225954385,
+    "wof:lastmodified":1537664457,
+    "wof:name":"Rudici",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99778,
+    43.54417,
+    18.99778,
+    43.54417
+],
+  "geometry": {"coordinates":[18.99778,43.54417],"type":"Point"}
+}

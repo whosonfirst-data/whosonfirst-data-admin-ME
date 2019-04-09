@@ -1,0 +1,69 @@
+{
+  "id": 1326845053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.24778,41.91222,19.24778,41.91222",
+    "geom:latitude":41.91222,
+    "geom:longitude":19.24778,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Velika Plaza",
+    "gn:country_code":"ME",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342519,
+    "gn:latitude":41.91222,
+    "gn:longitude":19.24778,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Velika Pla\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Velika Pla\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342519,
+        "wk:page":"Velika_Pla%C5%BEa"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"9926d8fef1e675da1647881eb427b5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1326845053,
+            "region_id":85674617
+        }
+    ],
+    "wof:id":1326845053,
+    "wof:lastmodified":1537664551,
+    "wof:name":"Velika Plaza",
+    "wof:parent_id":85674617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.24778,
+    41.91222,
+    19.24778,
+    41.91222
+],
+  "geometry": {"coordinates":[19.24778,41.91222],"type":"Point"}
+}

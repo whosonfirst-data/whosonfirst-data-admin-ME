@@ -1,0 +1,65 @@
+{
+  "id": 1259601339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.66889,43.03111,19.66889,43.03111",
+    "geom:latitude":43.03111,
+    "geom:longitude":19.66889,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Majna Gora",
+    "gn:country_code":"ME",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306135,
+    "gn:latitude":43.03111,
+    "gn:longitude":19.66889,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Majna Gora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306135
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"e814af3fa3611cf8505baa4108398903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259601339,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1259601339,
+    "wof:lastmodified":1536689168,
+    "wof:name":"Majna Gora",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.66889,
+    43.03111,
+    19.66889,
+    43.03111
+],
+  "geometry": {"coordinates":[19.66889,43.03111],"type":"Point"}
+}

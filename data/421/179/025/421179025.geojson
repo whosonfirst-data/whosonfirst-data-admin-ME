@@ -1,0 +1,134 @@
+{
+  "id": 421179025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13306,42.09,19.13306,42.09",
+    "geom:latitude":42.09,
+    "geom:longitude":19.13306,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:alb_x_preferred":[
+        "Tivari i Vjet\u00ebr"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0411\u0430\u0440"
+    ],
+    "name:dut_x_preferred":[
+        "Stari Bar"
+    ],
+    "name:eng_x_preferred":[
+        "Stari Bar"
+    ],
+    "name:est_x_preferred":[
+        "Stari Bar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0631\u06cc \u0628\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Stari Bar"
+    ],
+    "name:fre_x_preferred":[
+        "Stari Bar"
+    ],
+    "name:hbs_x_preferred":[
+        "Stari Bar"
+    ],
+    "name:hun_x_preferred":[
+        "Stari Bar"
+    ],
+    "name:ita_x_preferred":[
+        "Antivari Vecchia"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0631\u06cc \u0628\u0627\u0631"
+    ],
+    "name:ron_x_preferred":[
+        "Stari Bar"
+    ],
+    "name:rum_x_preferred":[
+        "Stari Bar"
+    ],
+    "name:slv_x_preferred":[
+        "Stari Bar"
+    ],
+    "name:sqi_x_preferred":[
+        "Tivari i Vjet\u00ebr"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0411\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Stari Bar"
+    ],
+    "qs:gn_country":"ME",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3189979,
+    "qs:gn_pop":1514,
+    "qs:name":"Stari Bar",
+    "qs:name_adm0":"Montenegro",
+    "qs:name_adm1":"Bar",
+    "qs:photos":425,
+    "qs:photos_1k":86,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":425,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":147118,
+    "qs:woe_adm0":20069817,
+    "qs:woe_id":536871,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":362,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189979,
+        "gp:id":536871,
+        "qs:id":147118,
+        "wd:id":"Q1190321",
+        "wk:page":"Stari Bar"
+    },
+    "wof:country":"ME",
+    "wof:created":1459009201,
+    "wof:geomhash":"d73d8e3fbceb354a98f221ad8f2c8c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":421179025,
+            "region_id":85674613
+        }
+    ],
+    "wof:id":421179025,
+    "wof:lastmodified":1527717703,
+    "wof:name":"Stari Bar",
+    "wof:parent_id":85674613,
+    "wof:placetype":"locality",
+    "wof:population":1514,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13306,
+    42.09,
+    19.13306,
+    42.09
+],
+  "geometry": {"coordinates":[19.13306,42.09],"type":"Point"}
+}

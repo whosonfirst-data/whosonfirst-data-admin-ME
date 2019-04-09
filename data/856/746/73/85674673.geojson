@@ -1,0 +1,320 @@
+{
+  "id": 85674673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.226994,
+    "geom:area_square_m":2058163133.003446,
+    "geom:bbox":"18.4335307209,42.6202153589,19.2186515637,43.1245781526",
+    "geom:latitude":42.838637,
+    "geom:longitude":18.782589,
+    "gn:id":"",
+    "iso:country":"ME",
+    "label:eng_x_preferred_longname":[
+        "Nik\u0161ic Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "lbl:latitude":42.865275,
+    "lbl:longitude":18.717188,
+    "mps:latitude":42.865275,
+    "mps:longitude":18.717188,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0643\u0634\u064a\u062a\u0634"
+    ],
+    "name:aze_x_preferred":[
+        "Nik\u015fi\u00e7"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u0456\u043a\u0448\u044b\u0447"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09bf\u0995\u09b8\u09bf\u0995 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "Nik\u0161i\u0107"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0438\u043a\u0448\u0438\u0447"
+    ],
+    "name:cat_x_preferred":[
+        "Nik\u0161i\u0107"
+    ],
+    "name:ces_x_preferred":[
+        "Nik\u0161i\u0107"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0438\u043a\u0448\u0438\u0447"
+    ],
+    "name:dan_x_preferred":[
+        "Nik\u0161i\u0107"
+    ],
+    "name:deu_x_preferred":[
+        "Nik\u0161i\u0107"
+    ],
+    "name:dut_x_preferred":[
+        "Niksic"
+    ],
+    "name:eng_x_preferred":[
+        "Niksic"
+    ],
+    "name:est_x_preferred":[
+        "Nik\u0161i\u0107i vald"
+    ],
+    "name:fin_x_preferred":[
+        "Nik\u0161i\u0107n kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Municipalit\u00e9 de Nik\u0161i\u0107"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dc\u10d8\u10d9\u10e8\u10d8\u10e9\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Gemeinde Nik\u0161i\u0107"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03b9\u03ba\u03c3\u03af\u03c4\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0abf\u0a95\u0acd\u0ab8\u0abf\u0a95 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093f\u0915\u094d\u0938\u093f\u0915 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Nik\u0161i\u0107"
+    ],
+    "name:ita_x_preferred":[
+        "Comune di Nik\u0161i\u0107"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30af\u30b7\u30c1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cbf\u0c95\u0ccd\u0cb8\u0cbf\u0c95\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2c9\uc2dc\uce58 \uc9c0\ubc29 \uc790\uce58\uc81c"
+    ],
+    "name:lav_x_preferred":[
+        "Nik\u0161i\u010das pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Nik\u0161i\u010diaus op\u0161tina"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u093f\u0915\u094d\u0938\u0940\u0915 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Niksic Municipality"
+    ],
+    "name:nob_x_preferred":[
+        "Niksic kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Nik\u0161i\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Niksic"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Nik\u0161i\u0107"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u0448\u0438\u0447"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dd2\u0d9a\u0dca\u0dc3\u0dd2\u0d9a\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Nik\u0161i\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u0438\u043a\u0448\u0438\u045b"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0438\u043a\u0448\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Niksic kommun"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bbf\u0b95\u0bcd\u0b95\u0bb8\u0bbf\u0b95\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3f\u0c15\u0c4d\u0c38\u0c3f\u0c15\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e34\u0e04\u0e0a\u0e34\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "Niksic Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u041d\u0438\u043a\u0448\u0438\u0447"
+    ],
+    "name:und_x_colloquial":[
+        "Niksic"
+    ],
+    "name:und_x_preferred":[
+        "Nik\u0161i\u0107"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Nik\u0161i\u0107"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u06a9\u0634\u06cc\u0686 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Niksi\u0107"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MNE",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MNE-1514",
+    "ne:adm1_code":"MNE-1514",
+    "ne:admin":"Montenegro",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"ME.NK",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1514",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MJ00",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Montenegro",
+    "ne:gn_a1_code":"ME.12",
+    "ne:gn_id":"3194493",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Niksic",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MJ00",
+    "ne:gns_id":"-90106",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Niksic, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MNE",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"ME-",
+    "ne:iso_a2":"ME",
+    "ne:labelrank":"9",
+    "ne:latitude":"42.83410000000",
+    "ne:longitude":"18.82590000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":4,
+    "ne:name":"Nik\u0161ic",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"NK",
+    "ne:provnum_ne":"18",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"MNE",
+    "ne:sub_code":"",
+    "ne:type":"Op\u0161tina",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":29389238,
+    "ne:woe_label":"Nik\u00c5\u00a1i\u00c4\u2021, ME, Montenegro",
+    "ne:woe_name":"Nik\u0161ic",
+    "qs:a0":"Montenegro",
+    "qs:a0_lc":"ME",
+    "qs:a1":"Nik\u0161ic",
+    "qs:a1_lc":"MNE-1514",
+    "qs:adm0":"Montenegro",
+    "qs:adm0_a3":"MNE",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-04-01",
+    "statoids:area_km":"2,065",
+    "statoids:area_mi":"797",
+    "statoids:as_of_date":"2011-04-01",
+    "statoids:capital":"Niksic",
+    "statoids:country":"ME",
+    "statoids:gec":"MJ12",
+    "statoids:hasc":"ME.NK",
+    "statoids:iso":"12",
+    "statoids:name":"Niksic",
+    "statoids:population":"72443",
+    "statoids:timezone":"+1~",
+    "statoids:type":"commune",
+    "unlc:subdivision":"ME-12",
+    "wof:belongsto":[
+        102191581,
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MJ12",
+        "gn:id":3194493,
+        "gp:id":29389238,
+        "hasc:id":"ME.NK",
+        "iso:id":"ME-12",
+        "qs:id":214054,
+        "unlc:id":"ME-12",
+        "wd:id":"Q4865016"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"d4f25753cba9b5bb36130329befd92ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":85674673,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "srp"
+    ],
+    "wof:lang_x_spoken":[
+        "srp"
+    ],
+    "wof:lastmodified":1553550460,
+    "wof:name":"Nik\u0161ic",
+    "wof:parent_id":85632667,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"commune",
+    "wof:population":72443,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:shortcode":"NK",
+    "wof:subdivision":"ME-12",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43353072086614,
+    42.62021535885179,
+    19.21865156371877,
+    43.12457815255976
+],
+  "geometry": {"coordinates":[[[18.9780977722944,42.93340037722567],[19.01246259886989,42.92208323845074],[19.05767947802553,42.89975902016272],[19.08966718868987,42.88239573837268],[19.1455810889961,42.86503245748196],[19.20857466019248,42.85893463852278],[19.21865156371877,42.83968516723672],[19.21534427272007,42.81624990490923],[19.20568078034381,42.79201365780409],[19.21095177610363,42.76113699027991],[19.2107450696293,42.75950918230296],[19.20898807134245,42.74377370938925],[19.20872968892405,42.72806407309855],[19.21312218643982,42.70822032350918],[19.17787885892227,42.69499115681651],[19.1255306329324,42.69876353580861],[19.08966718868987,42.70380198847107],[19.07230390779915,42.70876292586837],[19.04997968861181,42.70380198847107],[19.01442630363107,42.68726552988034],[18.99706302274035,42.66411448839295],[18.99515099482261,42.63491730389052],[18.98166344571149,42.62223074045636],[18.93717003786702,42.62021535885179],[18.93251915883218,42.64070506448718],[18.91432905384283,42.65749990549631],[18.8894210140686,42.66907542579031],[18.87024905804765,42.68065094698369],[18.85991377120365,42.6908312041968],[18.82394697417357,42.69607636243421],[18.79707522963821,42.69524953923491],[18.76772301640415,42.70930552822762],[18.72736372185835,42.71811635988217],[18.71919884624981,42.70049469747238],[18.70969038260512,42.68948761705991],[18.69604780386311,42.6850692820218],[18.69000166174732,42.6747339951778],[18.6905701034276,42.65861094773709],[18.68380049000064,42.6419452988365],[18.66958947137704,42.63104157211092],[18.64829878096401,42.62933624886887],[18.63873864137526,42.62856110341227],[18.60127322757745,42.62442698831489],[18.54463585775869,42.62608063381424],[18.54283232315322,42.62642904466475],[18.54959598846415,42.63892303536983],[18.55000940051349,42.66806854302888],[18.53967411277011,42.69545705240108],[18.52251753745446,42.71189015730499],[18.50215702302825,42.72744476306542],[18.46743046034754,42.76919932159149],[18.4538912352923,42.79315134695713],[18.44458947722262,42.81707753659907],[18.44365930213513,42.83446665501219],[18.45347782414234,42.84565460347721],[18.46598352042315,42.85281178783379],[18.47332157373171,42.86255279547521],[18.4676371659225,42.88169891397376],[18.44396936049765,42.91686472622621],[18.43404748570293,42.93688934386819],[18.43353072086614,42.95420094971411],[18.45275435373048,42.99339752247772],[18.48303674295136,43.01463653604736],[18.53895064325764,43.0238866172736],[18.59837854013756,43.02445505805451],[18.63899621530317,43.02024342949073],[18.62111617047492,43.09644032805875],[18.62059940653745,43.12256276555922],[18.62112782119203,43.12457815255976],[18.63899702289433,43.12134756114108],[18.70379926922095,43.10946198248456],[18.73738895033983,43.09514761017414],[18.76110843260813,43.06760407207031],[18.78451785741322,43.02019094505613],[18.81624718565917,42.97939240183791],[18.85014692603983,42.95515615473283],[18.90223676871193,42.94412323679802],[18.95897749221751,42.93970490175985],[18.9780977722944,42.93340037722567]]],"type":"Polygon"}
+}

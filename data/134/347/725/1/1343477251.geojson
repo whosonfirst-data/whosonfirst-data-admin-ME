@@ -1,0 +1,66 @@
+{
+  "id": 1343477251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.71972,43.15139,19.71972,43.15139",
+    "geom:latitude":43.15139,
+    "geom:longitude":19.71972,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dobrinje",
+    "gn:country_code":"ME",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201932,
+    "gn:latitude":43.15139,
+    "gn:longitude":19.71972,
+    "gn:modification_date":"2018-06-14",
+    "gn:name":"Dobrinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201932,
+        "wk:page":"Dobrinje,_Montenegro"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"cf1ad31e68bde61fb81cc3cfcc57f9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343477251,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1343477251,
+    "wof:lastmodified":1537568313,
+    "wof:name":"Dobrinje",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.71972,
+    43.15139,
+    19.71972,
+    43.15139
+],
+  "geometry": {"coordinates":[19.71972,43.15139],"type":"Point"}
+}

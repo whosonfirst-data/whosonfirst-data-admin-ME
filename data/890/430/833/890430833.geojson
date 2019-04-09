@@ -1,0 +1,69 @@
+{
+  "id": 890430833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95278,42.37361,18.95278,42.37361",
+    "geom:latitude":42.37361,
+    "geom:longitude":18.95278,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":47,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:srp_x_preferred":[
+        "Lipa"
+    ],
+    "qs:name":"Lipa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":358,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316966,
+        "gp:id":533157,
+        "qs:id":582474,
+        "wk:page":"Lipa"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051867,
+    "wof:geomhash":"bb20d99122ab969c14a2ba9aa2f39c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430833,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":890430833,
+    "wof:lastmodified":1527729736,
+    "wof:name":"Lipa",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95278,
+    42.37361,
+    18.95278,
+    42.37361
+],
+  "geometry": {"coordinates":[18.95278,42.37361],"type":"Point"}
+}

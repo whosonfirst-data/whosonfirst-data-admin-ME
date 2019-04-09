@@ -1,0 +1,65 @@
+{
+  "id": 1242888515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.46417,43.26222,19.46417,43.26222",
+    "geom:latitude":43.26222,
+    "geom:longitude":19.46417,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Brkljaca",
+    "gn:country_code":"ME",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3304364,
+    "gn:latitude":43.26222,
+    "gn:longitude":19.46417,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Brklja\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304364
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"220055bd193e01e960f2cd6d92293931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1242888515,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1242888515,
+    "wof:lastmodified":1536613352,
+    "wof:name":"Brkljaca",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.46417000000001,
+    43.26222,
+    19.46417000000001,
+    43.26222
+],
+  "geometry": {"coordinates":[19.46417000000001,43.26222],"type":"Point"}
+}

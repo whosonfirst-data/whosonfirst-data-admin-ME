@@ -1,0 +1,68 @@
+{
+  "id": 1310124061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2575,42.89306,20.2575,42.89306",
+    "geom:latitude":42.89306,
+    "geom:longitude":20.2575,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Radetina",
+    "gn:country_code":"ME",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786609,
+    "gn:latitude":42.89306,
+    "gn:longitude":20.2575,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Radetina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Radetina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786609
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"f82098617569f7476a9d3a5f81d6cb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310124061,
+            "region_id":85674633
+        }
+    ],
+    "wof:id":1310124061,
+    "wof:lastmodified":1537664407,
+    "wof:name":"Radetina",
+    "wof:parent_id":85674633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2575,
+    42.89306,
+    20.2575,
+    42.89306
+],
+  "geometry": {"coordinates":[20.2575,42.89306],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259997847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76556,42.645,18.76556,42.645",
+    "geom:latitude":42.645,
+    "geom:longitude":18.76556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kovacev Do",
+    "gn:country_code":"ME",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317313,
+    "gn:latitude":42.645,
+    "gn:longitude":18.76556,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Kova\u010dev Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kova\u010dev Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317313
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"13b79c77b2effde58d02cc71b421bb9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259997847,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1259997847,
+    "wof:lastmodified":1537664487,
+    "wof:name":"Kovacev Do",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76556,
+    42.645,
+    18.76556,
+    42.645
+],
+  "geometry": {"coordinates":[18.76556,42.645],"type":"Point"}
+}

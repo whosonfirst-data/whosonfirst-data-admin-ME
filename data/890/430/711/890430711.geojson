@@ -1,0 +1,67 @@
+{
+  "id": 890430711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.07083,42.63472,19.07083,42.63472",
+    "geom:latitude":42.63472,
+    "geom:longitude":19.07083,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":40,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Podvra\u0107e"
+    ],
+    "qs:name":"Podvra\u0107e",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192885,
+        "gp:id":535047,
+        "qs:id":95047
+    },
+    "wof:country":"ME",
+    "wof:created":1469051863,
+    "wof:geomhash":"d15e726346da6a912191566c2fe065a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430711,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":890430711,
+    "wof:lastmodified":1505343520,
+    "wof:name":"Podvra\u0107e",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.07083,
+    42.63472,
+    19.07083,
+    42.63472
+],
+  "geometry": {"coordinates":[19.07083,42.63472],"type":"Point"}
+}

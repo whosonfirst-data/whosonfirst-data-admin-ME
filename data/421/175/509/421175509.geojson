@@ -1,0 +1,97 @@
+{
+  "id": 421175509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.07722,42.565,19.07722,42.565",
+    "geom:latitude":42.565,
+    "geom:longitude":19.07722,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bos_x_preferred":[
+        "Kozja Luka"
+    ],
+    "name:fra_x_preferred":[
+        "Kozja Luka"
+    ],
+    "name:hbs_x_preferred":[
+        "Kozja Luka"
+    ],
+    "name:hrv_x_preferred":[
+        "Kozja Luka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0437\u0458\u0430 \u041b\u0443\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Orja"
+    ],
+    "qs:gn_country":"ME",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3194008,
+    "qs:gn_pop":196,
+    "qs:name":"Kozja Luka",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Republika Srpska",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "qs:qs_id":971322,
+    "qs:woe_adm0":23424761,
+    "qs:woe_id":22722299,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194008,
+        "gp:id":22722299,
+        "qs:id":971322,
+        "wd:id":"Q3027104"
+    },
+    "wof:country":"ME",
+    "wof:created":1459009070,
+    "wof:geomhash":"10e7f9e56fc6fe2d9b93184452b19d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":421175509,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":421175509,
+    "wof:lastmodified":1527716342,
+    "wof:name":"Kozja Luka",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.07722,
+    42.565,
+    19.07722,
+    42.565
+],
+  "geometry": {"coordinates":[19.07722,42.565],"type":"Point"}
+}

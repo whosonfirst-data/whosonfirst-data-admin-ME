@@ -1,0 +1,68 @@
+{
+  "id": 1327441531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.345,42.02972,19.345,42.02972",
+    "geom:latitude":42.02972,
+    "geom:longitude":19.345,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Donji Rastis",
+    "gn:country_code":"ME",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343305,
+    "gn:latitude":42.02972,
+    "gn:longitude":19.345,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Donji Rasti\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donji Rasti\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343305
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"22435d56556eea6e29fa4dbbe64e4bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1327441531,
+            "region_id":85674617
+        }
+    ],
+    "wof:id":1327441531,
+    "wof:lastmodified":1537664560,
+    "wof:name":"Donji Rastis",
+    "wof:parent_id":85674617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.345,
+    42.02972000000001,
+    19.345,
+    42.02972000000001
+],
+  "geometry": {"coordinates":[19.345,42.02972000000001],"type":"Point"}
+}

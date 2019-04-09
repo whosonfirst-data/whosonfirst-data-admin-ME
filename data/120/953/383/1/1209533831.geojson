@@ -1,0 +1,65 @@
+{
+  "id": 1209533831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43833,43.33833,19.43833,43.33833",
+    "geom:latitude":43.33833,
+    "geom:longitude":19.43833,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dolinice",
+    "gn:country_code":"ME",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3304599,
+    "gn:latitude":43.33833,
+    "gn:longitude":19.43833,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Dolinice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mihajlovi\u0107i",
+        "Dolinice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304599
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"cf38a0587cebf5297e1dbed0aee95dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209533831
+        }
+    ],
+    "wof:id":1209533831,
+    "wof:lastmodified":1537664471,
+    "wof:name":"Dolinice",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43833,
+    43.33833,
+    19.43833,
+    43.33833
+],
+  "geometry": {"coordinates":[19.43833,43.33833],"type":"Point"}
+}

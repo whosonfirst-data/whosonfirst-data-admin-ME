@@ -1,0 +1,67 @@
+{
+  "id": 890452787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.05139,42.39389,19.05139,42.39389",
+    "geom:latitude":42.39389,
+    "geom:longitude":19.05139,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":87,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u017dupa Dobrska"
+    ],
+    "qs:name":"Dobrska \u017dupa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201895,
+        "gp:id":484513,
+        "qs:id":581746
+    },
+    "wof:country":"ME",
+    "wof:created":1469052830,
+    "wof:geomhash":"58099888926e6979de0ea3d12e15743e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890452787,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":890452787,
+    "wof:lastmodified":1505343647,
+    "wof:name":"Dobrska \u017dupa",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:population":87,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.05139,
+    42.39389,
+    19.05139,
+    42.39389
+],
+  "geometry": {"coordinates":[19.05139,42.39389],"type":"Point"}
+}

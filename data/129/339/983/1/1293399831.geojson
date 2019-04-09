@@ -1,0 +1,69 @@
+{
+  "id": 1293399831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.63361,43.08083,19.63361,43.08083",
+    "geom:latitude":43.08083,
+    "geom:longitude":19.63361,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Muslici",
+    "gn:country_code":"ME",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194630,
+    "gn:latitude":43.08083,
+    "gn:longitude":19.63361,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Musli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musli\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194630,
+        "wk:page":"Musli%C4%87i,_Montenegro"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"bc92db24d6194c86d42017b51582d9ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293399831,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1293399831,
+    "wof:lastmodified":1537664426,
+    "wof:name":"Muslici",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.63361,
+    43.08083,
+    19.63361,
+    43.08083
+],
+  "geometry": {"coordinates":[19.63361,43.08083],"type":"Point"}
+}

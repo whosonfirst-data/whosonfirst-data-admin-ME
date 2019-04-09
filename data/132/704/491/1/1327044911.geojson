@@ -1,0 +1,68 @@
+{
+  "id": 1327044911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.02417,42.59167,19.02417,42.59167",
+    "geom:latitude":42.59167,
+    "geom:longitude":19.02417,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Do Pjesivacki",
+    "gn:country_code":"ME",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3326854,
+    "gn:latitude":42.59167,
+    "gn:longitude":19.02417,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Do Pje\u0161iva\u010dki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Do Pje\u0161iva\u010dki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3326854
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"d6b8233a9b75228f426cdf7a84924488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1327044911,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":1327044911,
+    "wof:lastmodified":1537664507,
+    "wof:name":"Do Pjesivacki",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.02417,
+    42.59167,
+    19.02417,
+    42.59167
+],
+  "geometry": {"coordinates":[19.02417,42.59167],"type":"Point"}
+}

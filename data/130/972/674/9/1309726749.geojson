@@ -1,0 +1,69 @@
+{
+  "id": 1309726749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.87583,43.06694,19.87583,43.06694",
+    "geom:latitude":43.06694,
+    "geom:longitude":19.87583,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mokri Lug",
+    "gn:country_code":"ME",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194911,
+    "gn:latitude":43.06694,
+    "gn:longitude":19.87583,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Mokri Lug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mokri Lug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194911,
+        "wk:page":"Mokri_Lug,_Bijelo_Polje"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"fa8e4bf72e9c0f65823e6bb5cd29a727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1309726749,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1309726749,
+    "wof:lastmodified":1537664427,
+    "wof:name":"Mokri Lug",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.87583,
+    43.06694,
+    19.87583,
+    43.06694
+],
+  "geometry": {"coordinates":[19.87583,43.06694],"type":"Point"}
+}

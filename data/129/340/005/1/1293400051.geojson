@@ -1,0 +1,68 @@
+{
+  "id": 1293400051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78917,42.34722,18.78917,42.34722",
+    "geom:latitude":42.34722,
+    "geom:longitude":18.78917,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bratesici",
+    "gn:country_code":"ME",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203545,
+    "gn:latitude":42.34722,
+    "gn:longitude":18.78917,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Brate\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Brate\u0161i\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203545
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"ce37f8cd6d99cb4f2466ff23463c90c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293400051,
+            "region_id":85674643
+        }
+    ],
+    "wof:id":1293400051,
+    "wof:lastmodified":1537664441,
+    "wof:name":"Bratesici",
+    "wof:parent_id":85674643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78917,
+    42.34722,
+    18.78917,
+    42.34722
+],
+  "geometry": {"coordinates":[18.78917,42.34722],"type":"Point"}
+}

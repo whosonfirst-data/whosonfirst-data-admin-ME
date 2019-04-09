@@ -1,0 +1,65 @@
+{
+  "id": 1310123949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.35139,42.38889,19.35139,42.38889",
+    "geom:latitude":42.38889,
+    "geom:longitude":19.35139,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Vulevici",
+    "gn:country_code":"ME",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343037,
+    "gn:latitude":42.38889,
+    "gn:longitude":19.35139,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Vulevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343037
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"125357ea64d3c9349e756a603530cb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310123949,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":1310123949,
+    "wof:lastmodified":1536969573,
+    "wof:name":"Vulevici",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.35139,
+    42.38889,
+    19.35139,
+    42.38889
+],
+  "geometry": {"coordinates":[19.35139,42.38889],"type":"Point"}
+}

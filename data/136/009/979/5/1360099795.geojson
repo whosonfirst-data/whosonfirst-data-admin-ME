@@ -1,0 +1,67 @@
+{
+  "id": 1360099795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8525,43.09472,19.8525,43.09472",
+    "geom:latitude":43.09472,
+    "geom:longitude":19.8525,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jablanovo",
+    "gn:country_code":"ME",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198993,
+    "gn:latitude":43.09472,
+    "gn:longitude":19.8525,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Jablanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jablanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198993,
+        "wk:page":"Jablanovo"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"e67782444aec018256f8777d727f3355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1360099795,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360099795,
+    "wof:lastmodified":1537664435,
+    "wof:name":"Jablanovo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8525,
+    43.09472,
+    19.8525,
+    43.09472
+],
+  "geometry": {"coordinates":[19.8525,43.09472],"type":"Point"}
+}

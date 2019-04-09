@@ -1,0 +1,68 @@
+{
+  "id": 1360300211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54583,43.19583,19.54583,43.19583",
+    "geom:latitude":43.19583,
+    "geom:longitude":19.54583,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gornje Gorice",
+    "gn:country_code":"ME",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339509,
+    "gn:latitude":43.19583,
+    "gn:longitude":19.54583,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Gornje Gorice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornje Gorice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339509
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"4e5ef39a24ac40033ec638baacaab3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1360300211,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1360300211,
+    "wof:lastmodified":1537664534,
+    "wof:name":"Gornje Gorice",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54583,
+    43.19583,
+    19.54583,
+    43.19583
+],
+  "geometry": {"coordinates":[19.54583,43.19583],"type":"Point"}
+}

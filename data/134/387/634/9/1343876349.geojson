@@ -1,0 +1,66 @@
+{
+  "id": 1343876349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78194,42.38389,18.78194,42.38389",
+    "geom:latitude":42.38389,
+    "geom:longitude":18.78194,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mirac",
+    "gn:country_code":"ME",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3220351,
+    "gn:latitude":42.38389,
+    "gn:longitude":18.78194,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mirac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3220351,
+        "wk:page":"Mirac"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"d3b7bf9cb4bdce0ba56db4c94681b620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343876349,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1343876349,
+    "wof:lastmodified":1537568315,
+    "wof:name":"Mirac",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78194,
+    42.38389,
+    18.78194,
+    42.38389
+],
+  "geometry": {"coordinates":[18.78194,42.38389],"type":"Point"}
+}

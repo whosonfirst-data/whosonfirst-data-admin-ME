@@ -1,0 +1,67 @@
+{
+  "id": 890430175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.91639,43.13417,18.91639,43.13417",
+    "geom:latitude":43.13417,
+    "geom:longitude":18.91639,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":134,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Pirni Do"
+    ],
+    "qs:name":"Bori\u010dje",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203719,
+        "gp:id":535999,
+        "qs:id":581782
+    },
+    "wof:country":"ME",
+    "wof:created":1469051842,
+    "wof:geomhash":"70fdb81df46fd094fe612445f61cf7b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430175,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":890430175,
+    "wof:lastmodified":1505343517,
+    "wof:name":"Bori\u010dje",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.91639,
+    43.13417,
+    18.91639,
+    43.13417
+],
+  "geometry": {"coordinates":[18.91639,43.13417],"type":"Point"}
+}

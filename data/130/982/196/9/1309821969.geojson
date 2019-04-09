@@ -1,0 +1,68 @@
+{
+  "id": 1309821969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95556,42.57083,18.95556,42.57083",
+    "geom:latitude":42.57083,
+    "geom:longitude":18.95556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Donja Lastva",
+    "gn:country_code":"ME",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317791,
+    "gn:latitude":42.57083,
+    "gn:longitude":18.95556,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Donja Lastva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donja Lastva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317791
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"50857ff05246d08062f2ad55dd0d4254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1309821969,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1309821969,
+    "wof:lastmodified":1537664493,
+    "wof:name":"Donja Lastva",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95556,
+    42.57083,
+    18.95556,
+    42.57083
+],
+  "geometry": {"coordinates":[18.95556,42.57083],"type":"Point"}
+}

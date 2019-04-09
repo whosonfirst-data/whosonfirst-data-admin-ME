@@ -1,0 +1,68 @@
+{
+  "id": 1343976081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17611,43.13333,19.17611,43.13333",
+    "geom:latitude":43.13333,
+    "geom:longitude":19.17611,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Rudinovaca",
+    "gn:country_code":"ME",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303522,
+    "gn:latitude":43.13333,
+    "gn:longitude":19.17611,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Rudinova\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Rudinova\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303522
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"4d468681d540becad7fd8cb98d4b1f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343976081,
+            "region_id":85674701
+        }
+    ],
+    "wof:id":1343976081,
+    "wof:lastmodified":1537664464,
+    "wof:name":"Rudinovaca",
+    "wof:parent_id":85674701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17611,
+    43.13333,
+    19.17611,
+    43.13333
+],
+  "geometry": {"coordinates":[19.17611,43.13333],"type":"Point"}
+}

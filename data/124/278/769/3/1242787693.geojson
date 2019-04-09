@@ -1,0 +1,68 @@
+{
+  "id": 1242787693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.91333,42.51472,18.91333,42.51472",
+    "geom:latitude":42.51472,
+    "geom:longitude":18.91333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ljesev Stub",
+    "gn:country_code":"ME",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317826,
+    "gn:latitude":42.51472,
+    "gn:longitude":18.91333,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Lje\u0161ev Stub",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lje\u0161ev Stub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317826
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"ea8cfa3b2fb17397ea65779367f738b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1242787693,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1242787693,
+    "wof:lastmodified":1537664494,
+    "wof:name":"Ljesev Stub",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.91333,
+    42.51472,
+    18.91333,
+    42.51472
+],
+  "geometry": {"coordinates":[18.91333,42.51472],"type":"Point"}
+}

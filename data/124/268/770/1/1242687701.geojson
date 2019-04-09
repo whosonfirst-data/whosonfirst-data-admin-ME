@@ -1,0 +1,69 @@
+{
+  "id": 1242687701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.18417,43.37222,19.18417,43.37222",
+    "geom:latitude":43.37222,
+    "geom:longitude":19.18417,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Donja Orlja",
+    "gn:country_code":"ME",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301187,
+    "gn:latitude":43.37222,
+    "gn:longitude":19.18417,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Donja Orlja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Orija",
+        "Donja Orlja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301187
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"e34b3f675ad8c34382a89265d834ca6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1242687701,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1242687701,
+    "wof:lastmodified":1537664464,
+    "wof:name":"Donja Orlja",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.18417,
+    43.37222,
+    19.18417,
+    43.37222
+],
+  "geometry": {"coordinates":[19.18417,43.37222],"type":"Point"}
+}

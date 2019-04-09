@@ -1,0 +1,89 @@
+{
+  "id": 890455291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.41639,42.72917,19.41639,42.72917",
+    "geom:latitude":42.72917,
+    "geom:longitude":19.41639,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":182,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Petrova Ravan"
+    ],
+    "name:eng_x_preferred":[
+        "Petrova Ravan"
+    ],
+    "name:fre_x_preferred":[
+        "Petrova Ravan"
+    ],
+    "name:rum_x_preferred":[
+        "Petrova Ravan"
+    ],
+    "name:slv_x_preferred":[
+        "Petrova Ravan"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0430 \u0420\u0430\u0432\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Petrova Ravan"
+    ],
+    "name:unk_x_variant":[
+        "Jasikovica"
+    ],
+    "qs:name":"Petrova Ravan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193404,
+        "gp:id":535339,
+        "qs:id":95060,
+        "wd:id":"Q3377654"
+    },
+    "wof:country":"ME",
+    "wof:created":1469052941,
+    "wof:geomhash":"f98ac342f1696ba5e574410e37b47fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890455291,
+            "region_id":85674667
+        }
+    ],
+    "wof:id":890455291,
+    "wof:lastmodified":1514484632,
+    "wof:name":"Petrova Ravan",
+    "wof:parent_id":85674667,
+    "wof:placetype":"locality",
+    "wof:population":182,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.41639,
+    42.72917,
+    19.41639,
+    42.72917
+],
+  "geometry": {"coordinates":[19.41639,42.72917],"type":"Point"}
+}

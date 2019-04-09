@@ -1,0 +1,64 @@
+{
+  "id": 1209429595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.56361,43.12,19.56361,43.12",
+    "geom:latitude":43.12,
+    "geom:longitude":19.56361,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ljutac",
+    "gn:country_code":"ME",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339446,
+    "gn:latitude":43.12,
+    "gn:longitude":19.56361,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Ljutac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ljutac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339446
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"986370ab4ea94bd6c74a69676b21052a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209429595
+        }
+    ],
+    "wof:id":1209429595,
+    "wof:lastmodified":1537664533,
+    "wof:name":"Ljutac",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.56361,
+    43.12,
+    19.56361,
+    43.12
+],
+  "geometry": {"coordinates":[19.56361,43.12],"type":"Point"}
+}

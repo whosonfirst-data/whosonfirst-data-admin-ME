@@ -1,0 +1,68 @@
+{
+  "id": 1343276695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.34361,42.78389,19.34361,42.78389",
+    "geom:latitude":42.78389,
+    "geom:longitude":19.34361,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Medupotocje",
+    "gn:country_code":"ME",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3340416,
+    "gn:latitude":42.78389,
+    "gn:longitude":19.34361,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Medupoto\u010dje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Medupoto\u010dje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3340416
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"9015dbcfed32b248b1e9755f477a55f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343276695,
+            "region_id":85674667
+        }
+    ],
+    "wof:id":1343276695,
+    "wof:lastmodified":1537664536,
+    "wof:name":"Medupotocje",
+    "wof:parent_id":85674667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.34361,
+    42.78389,
+    19.34361,
+    42.78389
+],
+  "geometry": {"coordinates":[19.34361,42.78389],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890420401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76028,42.35861,18.76028,42.35861",
+    "geom:latitude":42.35861,
+    "geom:longitude":18.76028,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Radanovi\u0107"
+    ],
+    "qs:name":"Radanovi\u0107i",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318372,
+        "gp:id":537112,
+        "qs:id":582580,
+        "wk:page":"Radanovi\u0107i"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051337,
+    "wof:geomhash":"7ea41d3ab96db190eb895a7dda35c2c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890420401,
+            "region_id":85674643
+        }
+    ],
+    "wof:id":890420401,
+    "wof:lastmodified":1527792808,
+    "wof:name":"Radanovi\u0107i",
+    "wof:parent_id":85674643,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76028,
+    42.35861,
+    18.76028,
+    42.35861
+],
+  "geometry": {"coordinates":[18.76028,42.35861],"type":"Point"}
+}

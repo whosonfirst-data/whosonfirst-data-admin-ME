@@ -1,0 +1,69 @@
+{
+  "id": 1310120655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.27306,42.02583,19.27306,42.02583",
+    "geom:latitude":42.02583,
+    "geom:longitude":19.27306,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kosici",
+    "gn:country_code":"ME",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197627,
+    "gn:latitude":42.02583,
+    "gn:longitude":19.27306,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Kosi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosi\u0107",
+        "Kosi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197627
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"708a210c2be4c9984ad5cd7035c41990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310120655,
+            "region_id":85674617
+        }
+    ],
+    "wof:id":1310120655,
+    "wof:lastmodified":1537664432,
+    "wof:name":"Kosici",
+    "wof:parent_id":85674617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.27306,
+    42.02583,
+    19.27306,
+    42.02583
+],
+  "geometry": {"coordinates":[19.27306,42.02583],"type":"Point"}
+}

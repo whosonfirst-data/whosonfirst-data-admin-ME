@@ -1,0 +1,70 @@
+{
+  "id": 1226052563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.61278,42.74944,19.61278,42.74944",
+    "geom:latitude":42.74944,
+    "geom:longitude":19.61278,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kraljske Bare",
+    "gn:country_code":"ME",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197384,
+    "gn:latitude":42.74944,
+    "gn:longitude":19.61278,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Kraljske Bare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bare",
+        "Bare Kraljske",
+        "Kraljske Bare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197384
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"5a0043c7dd4143067b7c9391e3e6c82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226052563,
+            "region_id":85674667
+        }
+    ],
+    "wof:id":1226052563,
+    "wof:lastmodified":1537664431,
+    "wof:name":"Kraljske Bare",
+    "wof:parent_id":85674667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.61278,
+    42.74944,
+    19.61278,
+    42.74944
+],
+  "geometry": {"coordinates":[19.61278,42.74944],"type":"Point"}
+}

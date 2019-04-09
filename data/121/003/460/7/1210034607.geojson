@@ -1,0 +1,68 @@
+{
+  "id": 1210034607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36083,41.99694,19.36083,41.99694",
+    "geom:latitude":41.99694,
+    "geom:longitude":19.36083,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Lisna Bori",
+    "gn:country_code":"ME",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342528,
+    "gn:latitude":41.99694,
+    "gn:longitude":19.36083,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Lisna Bori",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lisna Bori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342528
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"c36d4735566f31afe69710fcbe87b6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1210034607,
+            "region_id":85674617
+        }
+    ],
+    "wof:id":1210034607,
+    "wof:lastmodified":1537664551,
+    "wof:name":"Lisna Bori",
+    "wof:parent_id":85674617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36083,
+    41.99694,
+    19.36083,
+    41.99694
+],
+  "geometry": {"coordinates":[19.36083,41.99694],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209530245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76,42.49083,18.76,42.49083",
+    "geom:latitude":42.49083,
+    "geom:longitude":18.76,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Trstenik",
+    "gn:country_code":"ME",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3341373,
+    "gn:latitude":42.49083,
+    "gn:longitude":18.76,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Trstenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Trstenik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3341373
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"3216981625430d289034be747c8918b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209530245
+        }
+    ],
+    "wof:id":1209530245,
+    "wof:lastmodified":1537664544,
+    "wof:name":"Trstenik",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76,
+    42.49083,
+    18.76,
+    42.49083
+],
+  "geometry": {"coordinates":[18.76,42.49083],"type":"Point"}
+}

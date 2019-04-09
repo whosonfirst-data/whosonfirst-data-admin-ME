@@ -1,0 +1,68 @@
+{
+  "id": 1310020751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.80333,42.50833,18.80333,42.50833",
+    "geom:latitude":42.50833,
+    "geom:longitude":18.80333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Blizna",
+    "gn:country_code":"ME",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3325798,
+    "gn:latitude":42.50833,
+    "gn:longitude":18.80333,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Blizna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Blizna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3325798
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"2fe98e445521cd3a34e3702713dea44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310020751,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1310020751,
+    "wof:lastmodified":1537664505,
+    "wof:name":"Blizna",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.80333,
+    42.50833,
+    18.80333,
+    42.50833
+],
+  "geometry": {"coordinates":[18.80333,42.50833],"type":"Point"}
+}

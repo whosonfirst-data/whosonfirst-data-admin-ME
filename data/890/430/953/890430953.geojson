@@ -1,0 +1,70 @@
+{
+  "id": 890430953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90833,43.04361,18.90833,43.04361",
+    "geom:latitude":43.04361,
+    "geom:longitude":18.90833,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":76,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Zabr\u0111e"
+    ],
+    "qs:name":"Zabr\u0111e",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317899,
+        "gp:id":535958,
+        "qs:id":582535,
+        "wd:id":"Q139092",
+        "wk:page":"Zabr\u0111e"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051872,
+    "wof:geomhash":"644fbae5ebeda27d4e31b59acc897508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430953,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":890430953,
+    "wof:lastmodified":1527729734,
+    "wof:name":"Zabr\u0111e",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90833,
+    43.04361,
+    18.90833,
+    43.04361
+],
+  "geometry": {"coordinates":[18.90833,43.04361],"type":"Point"}
+}

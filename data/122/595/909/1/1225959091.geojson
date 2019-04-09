@@ -1,0 +1,68 @@
+{
+  "id": 1225959091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64694,42.65861,18.64694,42.65861",
+    "geom:latitude":42.65861,
+    "geom:longitude":18.64694,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Podkurjaj",
+    "gn:country_code":"ME",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3325242,
+    "gn:latitude":42.65861,
+    "gn:longitude":18.64694,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Podkurjaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Podkurjaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3325242
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"47ef5915c2ffa8d2cdd429389ee349b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1225959091,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1225959091,
+    "wof:lastmodified":1537664502,
+    "wof:name":"Podkurjaj",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64694,
+    42.65861,
+    18.64694,
+    42.65861
+],
+  "geometry": {"coordinates":[18.64694,42.65861],"type":"Point"}
+}

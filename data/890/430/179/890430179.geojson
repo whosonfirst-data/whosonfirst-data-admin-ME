@@ -1,0 +1,88 @@
+{
+  "id": 890430179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.485,43.0875,19.485,43.0875",
+    "geom:latitude":43.0875,
+    "geom:longitude":19.485,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":518,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Barice"
+    ],
+    "name:eng_x_preferred":[
+        "Barice"
+    ],
+    "name:fre_x_preferred":[
+        "Barice"
+    ],
+    "name:rum_x_preferred":[
+        "Barice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0438\u0446\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Barice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0440\u0438\u0446\u0435"
+    ],
+    "qs:name":"Barice",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204472,
+        "gp:id":534744,
+        "qs:id":581785,
+        "wd:id":"Q2042256",
+        "wk:page":"Barice"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051842,
+    "wof:geomhash":"e715d4df385708496c6d28ea2fa210e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430179,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":890430179,
+    "wof:lastmodified":1553816394,
+    "wof:name":"Barice",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:population":518,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.485,
+    43.0875,
+    19.485,
+    43.0875
+],
+  "geometry": {"coordinates":[19.485,43.0875],"type":"Point"}
+}

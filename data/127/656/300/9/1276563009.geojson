@@ -1,0 +1,68 @@
+{
+  "id": 1276563009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98222,42.41083,18.98222,42.41083",
+    "geom:latitude":42.41083,
+    "geom:longitude":18.98222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Posajci",
+    "gn:country_code":"ME",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316996,
+    "gn:latitude":42.41083,
+    "gn:longitude":18.98222,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Posajci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Posajci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316996
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"bceae022e1cceeefda41e9e7bc37a21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276563009,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1276563009,
+    "wof:lastmodified":1537664480,
+    "wof:name":"Posajci",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98222,
+    42.41083,
+    18.98222,
+    42.41083
+],
+  "geometry": {"coordinates":[18.98222,42.41083],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309924131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.63944,42.99139,19.63944,42.99139",
+    "geom:latitude":42.99139,
+    "geom:longitude":19.63944,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Odolje",
+    "gn:country_code":"ME",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339584,
+    "gn:latitude":42.99139,
+    "gn:longitude":19.63944,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Odolje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Odolje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339584
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"a8db8335977a13c730db2193a0c4b1d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1309924131,
+            "region_id":85674669
+        }
+    ],
+    "wof:id":1309924131,
+    "wof:lastmodified":1537664534,
+    "wof:name":"Odolje",
+    "wof:parent_id":85674669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.63944,
+    42.99139,
+    19.63944,
+    42.99139
+],
+  "geometry": {"coordinates":[19.63944,42.99139],"type":"Point"}
+}

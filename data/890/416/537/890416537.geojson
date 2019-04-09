@@ -1,0 +1,87 @@
+{
+  "id": 890416537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29667,43.15861,19.29667,43.15861",
+    "geom:latitude":43.15861,
+    "geom:longitude":19.29667,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":261,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "\u0110ur\u0111evi\u0107a Tara"
+    ],
+    "name:eng_x_preferred":[
+        "\u0110ur\u0111evi\u0107a Tara"
+    ],
+    "name:fre_x_preferred":[
+        "\u0110ur\u0111evi\u0107a Tara"
+    ],
+    "name:rum_x_preferred":[
+        "\u0110ur\u0111evi\u0107a Tara"
+    ],
+    "name:slv_x_preferred":[
+        "\u0110ur\u0111evi\u0107a Tara"
+    ],
+    "name:srp_x_preferred":[
+        "\u0402\u0443\u0440\u0452\u0435\u0432\u0438\u045b\u0430 \u0422\u0430\u0440\u0430"
+    ],
+    "qs:name":"\u00d0ur\u0111evi\u0107a Tara",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"43.1586",
+    "wd:longitude":"19.2967",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200958,
+        "gp:id":534686,
+        "qs:id":581728,
+        "wd:id":"Q3593893",
+        "wk:page":"\u0110ur\u0111evi\u0107a Tara"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051139,
+    "wof:geomhash":"777468316519f0d7f0a3640b8d05a701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890416537,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":890416537,
+    "wof:lastmodified":1527792802,
+    "wof:name":"\u00d0ur\u0111evi\u0107a Tara",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:population":261,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29667,
+    43.15861,
+    19.29667,
+    43.15861
+],
+  "geometry": {"coordinates":[19.29667,43.15861],"type":"Point"}
+}

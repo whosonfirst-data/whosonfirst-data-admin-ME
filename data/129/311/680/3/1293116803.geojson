@@ -1,0 +1,68 @@
+{
+  "id": 1293116803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82333,42.7675,19.82333,42.7675",
+    "geom:latitude":42.7675,
+    "geom:longitude":19.82333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lukin Vir",
+    "gn:country_code":"ME",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3337826,
+    "gn:latitude":42.7675,
+    "gn:longitude":19.82333,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Lukin Vir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lukin Vir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337826
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"fa7d84e491844f24309e1f94b075d749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293116803,
+            "region_id":85674649
+        }
+    ],
+    "wof:id":1293116803,
+    "wof:lastmodified":1537664511,
+    "wof:name":"Lukin Vir",
+    "wof:parent_id":85674649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82333,
+    42.7675,
+    19.82333,
+    42.7675
+],
+  "geometry": {"coordinates":[19.82333,42.7675],"type":"Point"}
+}

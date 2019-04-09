@@ -1,0 +1,64 @@
+{
+  "id": 890455287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90583,43.15667,18.90583,43.15667",
+    "geom:latitude":43.15667,
+    "geom:longitude":18.90583,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":147,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pi\u0161\u010de",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193324,
+        "gp:id":535999,
+        "qs:id":95058
+    },
+    "wof:country":"ME",
+    "wof:created":1469052941,
+    "wof:geomhash":"3b61c420a6661256bc36a8be10db796a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890455287,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":890455287,
+    "wof:lastmodified":1505343662,
+    "wof:name":"Pi\u0161\u010de",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90583,
+    43.15667,
+    18.90583,
+    43.15667
+],
+  "geometry": {"coordinates":[18.90583,43.15667],"type":"Point"}
+}

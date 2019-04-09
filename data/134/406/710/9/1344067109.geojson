@@ -1,0 +1,71 @@
+{
+  "id": 1344067109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.69556,43.04861,19.69556,43.04861",
+    "geom:latitude":43.04861,
+    "geom:longitude":19.69556,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Okladi",
+    "gn:country_code":"ME",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194174,
+    "gn:latitude":43.04861,
+    "gn:longitude":19.69556,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Okladi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okladi Modri-Do",
+        "Oklade",
+        "Okladi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194174,
+        "wk:page":"Okladi"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"75cb26ccc26252f6944bf8af501a0d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1344067109,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1344067109,
+    "wof:lastmodified":1537664426,
+    "wof:name":"Okladi",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.69556,
+    43.04861,
+    19.69556,
+    43.04861
+],
+  "geometry": {"coordinates":[19.69556,43.04861],"type":"Point"}
+}

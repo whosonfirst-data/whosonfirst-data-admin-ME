@@ -1,0 +1,68 @@
+{
+  "id": 1193147131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.85611,42.31389,18.85611,42.31389",
+    "geom:latitude":42.31389,
+    "geom:longitude":18.85611,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lapcici",
+    "gn:country_code":"ME",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3220364,
+    "gn:latitude":42.31389,
+    "gn:longitude":18.85611,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Lap\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Lap\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3220364
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"c50868a38672833543caaa1bd0d4be4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1193147131,
+            "region_id":85674621
+        }
+    ],
+    "wof:id":1193147131,
+    "wof:lastmodified":1537664449,
+    "wof:name":"Lapcici",
+    "wof:parent_id":85674621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85611,
+    42.31389,
+    18.85611,
+    42.31389
+],
+  "geometry": {"coordinates":[18.85611,42.31389],"type":"Point"}
+}

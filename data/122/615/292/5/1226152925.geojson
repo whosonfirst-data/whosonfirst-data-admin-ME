@@ -1,0 +1,69 @@
+{
+  "id": 1226152925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65139,42.4625,18.65139,42.4625",
+    "geom:latitude":42.4625,
+    "geom:longitude":18.65139,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Vukovici",
+    "gn:country_code":"ME",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3220288,
+    "gn:latitude":42.4625,
+    "gn:longitude":18.65139,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Vukovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balabu\u0161i\u0107i",
+        "Vukovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3220288
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"8df1445923254ad9b79179044a6e546c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226152925,
+            "region_id":85674643
+        }
+    ],
+    "wof:id":1226152925,
+    "wof:lastmodified":1537664448,
+    "wof:name":"Vukovici",
+    "wof:parent_id":85674643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65139,
+    42.4625,
+    18.65139,
+    42.4625
+],
+  "geometry": {"coordinates":[18.65139,42.4625],"type":"Point"}
+}

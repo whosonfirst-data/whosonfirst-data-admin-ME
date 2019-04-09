@@ -1,0 +1,68 @@
+{
+  "id": 1242587461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.27889,43.39139,19.27889,43.39139",
+    "geom:latitude":43.39139,
+    "geom:longitude":19.27889,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gradina",
+    "gn:country_code":"ME",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342657,
+    "gn:latitude":43.39139,
+    "gn:longitude":19.27889,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Gradina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gradina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342657
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"e6d6705140812c883450018719ad3fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1242587461,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1242587461,
+    "wof:lastmodified":1537664553,
+    "wof:name":"Gradina",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.27889,
+    43.39139,
+    19.27889,
+    43.39139
+],
+  "geometry": {"coordinates":[19.27889,43.39139],"type":"Point"}
+}

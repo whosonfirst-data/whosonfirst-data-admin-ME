@@ -1,0 +1,68 @@
+{
+  "id": 1309813735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38611,42.38694,19.38611,42.38694",
+    "geom:latitude":42.38694,
+    "geom:longitude":19.38611,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gurec",
+    "gn:country_code":"ME",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343039,
+    "gn:latitude":42.38694,
+    "gn:longitude":19.38611,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Gurec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gurec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343039
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"65e6b8ee05cfbe94acb96fe568cc795a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1309813735,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":1309813735,
+    "wof:lastmodified":1537664558,
+    "wof:name":"Gurec",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38611,
+    42.38694,
+    19.38611,
+    42.38694
+],
+  "geometry": {"coordinates":[19.38611,42.38694],"type":"Point"}
+}

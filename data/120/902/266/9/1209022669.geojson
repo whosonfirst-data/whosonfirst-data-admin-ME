@@ -1,0 +1,64 @@
+{
+  "id": 1209022669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29278,43.41389,19.29278,43.41389",
+    "geom:latitude":43.41389,
+    "geom:longitude":19.29278,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Podgradina",
+    "gn:country_code":"ME",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342848,
+    "gn:latitude":43.41389,
+    "gn:longitude":19.29278,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Podgradina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Podgradina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342848
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"98376fac09bc487a7f57f5c542f95746",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209022669
+        }
+    ],
+    "wof:id":1209022669,
+    "wof:lastmodified":1537664556,
+    "wof:name":"Podgradina",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29278,
+    43.41389,
+    19.29278,
+    43.41389
+],
+  "geometry": {"coordinates":[19.29278,43.41389],"type":"Point"}
+}

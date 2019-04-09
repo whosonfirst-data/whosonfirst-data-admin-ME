@@ -1,0 +1,68 @@
+{
+  "id": 1209733727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.27611,42.92528,19.27611,42.92528",
+    "geom:latitude":42.92528,
+    "geom:longitude":19.27611,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Donja Rijeka",
+    "gn:country_code":"ME",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3340082,
+    "gn:latitude":42.92528,
+    "gn:longitude":19.27611,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Donja Rijeka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donja Rijeka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3340082
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"b9fbeeda07cd383e6d60c01605bb4a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1209733727,
+            "region_id":85674695
+        }
+    ],
+    "wof:id":1209733727,
+    "wof:lastmodified":1537664535,
+    "wof:name":"Donja Rijeka",
+    "wof:parent_id":85674695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.27611,
+    42.92528,
+    19.27611,
+    42.92528
+],
+  "geometry": {"coordinates":[19.27611,42.92528],"type":"Point"}
+}

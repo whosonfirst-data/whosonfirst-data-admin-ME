@@ -1,0 +1,68 @@
+{
+  "id": 1209733707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77083,42.73444,19.77083,42.73444",
+    "geom:latitude":42.73444,
+    "geom:longitude":19.77083,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Peovac",
+    "gn:country_code":"ME",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3337842,
+    "gn:latitude":42.73444,
+    "gn:longitude":19.77083,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Peovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Peovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337842
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"0e1f524a47333d8757a721ea2d2d1f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1209733707,
+            "region_id":85674649
+        }
+    ],
+    "wof:id":1209733707,
+    "wof:lastmodified":1537664511,
+    "wof:name":"Peovac",
+    "wof:parent_id":85674649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77083,
+    42.73444,
+    19.77083,
+    42.73444
+],
+  "geometry": {"coordinates":[19.77083,42.73444],"type":"Point"}
+}

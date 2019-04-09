@@ -1,0 +1,64 @@
+{
+  "id": 1209629717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13694,43.49194,19.13694,43.49194",
+    "geom:latitude":43.49194,
+    "geom:longitude":19.13694,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ljuta Bara",
+    "gn:country_code":"ME",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3341076,
+    "gn:latitude":43.49194,
+    "gn:longitude":19.13694,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Ljuta Bara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ljuta Bara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3341076
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"3bd9d99dbb66c5435efd4fc0b971a841",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209629717
+        }
+    ],
+    "wof:id":1209629717,
+    "wof:lastmodified":1537664541,
+    "wof:name":"Ljuta Bara",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13694,
+    43.49194,
+    19.13694,
+    43.49194
+],
+  "geometry": {"coordinates":[19.13694,43.49194],"type":"Point"}
+}

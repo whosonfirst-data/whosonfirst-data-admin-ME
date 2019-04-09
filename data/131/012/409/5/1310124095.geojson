@@ -1,0 +1,69 @@
+{
+  "id": 1310124095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98889,42.37917,18.98889,42.37917",
+    "geom:latitude":42.37917,
+    "geom:longitude":18.98889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Donji Ulici",
+    "gn:country_code":"ME",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188511,
+    "gn:latitude":42.37917,
+    "gn:longitude":18.98889,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Donji Uli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uli\u0107i",
+        "Donji Uli\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188511
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"d19ea2da3944e52d8159aec4328b57ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310124095,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1310124095,
+    "wof:lastmodified":1537664415,
+    "wof:name":"Donji Ulici",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98889,
+    42.37917,
+    18.98889,
+    42.37917
+],
+  "geometry": {"coordinates":[18.98889,42.37917],"type":"Point"}
+}

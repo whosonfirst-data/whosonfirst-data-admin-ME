@@ -1,0 +1,70 @@
+{
+  "id": 1310223313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.30806,43.25417,19.30806,43.25417",
+    "geom:latitude":43.25417,
+    "geom:longitude":19.30806,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Crnobori",
+    "gn:country_code":"ME",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3304286,
+    "gn:latitude":43.25417,
+    "gn:longitude":19.30806,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Crnobori",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Crnoborje",
+        "Crnobori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304286,
+        "wk:page":"Crnobori"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"5a379d991a3bdedcc5edabc6f665ac1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310223313,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1310223313,
+    "wof:lastmodified":1537664467,
+    "wof:name":"Crnobori",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.30806,
+    43.25417,
+    19.30806,
+    43.25417
+],
+  "geometry": {"coordinates":[19.30806,43.25417],"type":"Point"}
+}

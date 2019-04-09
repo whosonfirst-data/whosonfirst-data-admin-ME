@@ -1,0 +1,67 @@
+{
+  "id": 1243572511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.20278,43.51056,19.20278,43.51056",
+    "geom:latitude":43.51056,
+    "geom:longitude":19.20278,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Poblace",
+    "gn:country_code":"ME",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3193122,
+    "gn:latitude":43.51056,
+    "gn:longitude":19.20278,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Pobla\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pobla\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193122,
+        "wk:page":"Pobla%C4%87e"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"aaf7e0f435421c583895da391bbf2800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1243572511,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243572511,
+    "wof:lastmodified":1537664423,
+    "wof:name":"Poblace",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.20278,
+    43.51056,
+    19.20278,
+    43.51056
+],
+  "geometry": {"coordinates":[19.20278,43.51056],"type":"Point"}
+}

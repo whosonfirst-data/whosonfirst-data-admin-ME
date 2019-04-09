@@ -1,0 +1,70 @@
+{
+  "id": 1226656153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49833,42.99389,18.49833,42.99389",
+    "geom:latitude":42.99389,
+    "geom:longitude":18.49833,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jasen",
+    "gn:country_code":"ME",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338951,
+    "gn:latitude":42.99389,
+    "gn:longitude":18.49833,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Jasen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jasen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338951
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"5c3e34cd1c2d315fc083b3306a1ca01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758997,
+            "locality_id":1226656153,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226656153,
+    "wof:lastmodified":1537664528,
+    "wof:name":"Jasen",
+    "wof:parent_id":1108758997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49833,
+    42.99389,
+    18.49833,
+    42.99389
+],
+  "geometry": {"coordinates":[18.49833,42.99389],"type":"Point"}
+}

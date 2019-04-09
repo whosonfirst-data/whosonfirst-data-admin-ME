@@ -1,0 +1,64 @@
+{
+  "id": 1209116053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78389,42.66833,19.78389,42.66833",
+    "geom:latitude":42.66833,
+    "geom:longitude":19.78389,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Obzovik",
+    "gn:country_code":"ME",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338002,
+    "gn:latitude":42.66833,
+    "gn:longitude":19.78389,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Obzovik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Obzovik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338002
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"0b4caef7cd499173a7ca2d9256ef1fec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209116053
+        }
+    ],
+    "wof:id":1209116053,
+    "wof:lastmodified":1537664512,
+    "wof:name":"Obzovik",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78389,
+    42.66833,
+    19.78389,
+    42.66833
+],
+  "geometry": {"coordinates":[19.78389,42.66833],"type":"Point"}
+}

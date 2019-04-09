@@ -1,0 +1,68 @@
+{
+  "id": 1276562717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81194,42.77,19.81194,42.77",
+    "geom:latitude":42.77,
+    "geom:longitude":19.81194,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Coveca Glava",
+    "gn:country_code":"ME",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3337831,
+    "gn:latitude":42.77,
+    "gn:longitude":19.81194,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"\u010cove\u010da Glava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u010cove\u010da Glava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337831
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"81aefdd01be9d2cb153e149c048af000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276562717,
+            "region_id":85674649
+        }
+    ],
+    "wof:id":1276562717,
+    "wof:lastmodified":1537664511,
+    "wof:name":"Coveca Glava",
+    "wof:parent_id":85674649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81194,
+    42.77,
+    19.81194,
+    42.77
+],
+  "geometry": {"coordinates":[19.81194,42.77],"type":"Point"}
+}

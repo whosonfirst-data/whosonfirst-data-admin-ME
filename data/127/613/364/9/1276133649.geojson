@@ -1,0 +1,65 @@
+{
+  "id": 1276133649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.77611,42.53917,18.77611,42.53917",
+    "geom:latitude":42.53917,
+    "geom:longitude":18.77611,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gola Strana",
+    "gn:country_code":"ME",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3317043,
+    "gn:latitude":42.53917,
+    "gn:longitude":18.77611,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Gola Strana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317043
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"441ab95a1cabef291efc38eb7da0c827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276133649,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1276133649,
+    "wof:lastmodified":1537044306,
+    "wof:name":"Gola Strana",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.77611,
+    42.53917,
+    18.77611,
+    42.53917
+],
+  "geometry": {"coordinates":[18.77611,42.53917],"type":"Point"}
+}

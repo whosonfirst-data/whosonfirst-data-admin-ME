@@ -1,0 +1,90 @@
+{
+  "id": 890434693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13444,43.27194,19.13444,43.27194",
+    "geom:latitude":43.27194,
+    "geom:longitude":19.13444,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":217,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Moraice"
+    ],
+    "name:eng_x_preferred":[
+        "Moraice"
+    ],
+    "name:fre_x_preferred":[
+        "Moraice"
+    ],
+    "name:rum_x_preferred":[
+        "Moraice"
+    ],
+    "name:slv_x_preferred":[
+        "Moraice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0438\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Morajce"
+    ],
+    "qs:name":"Moraice",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"43.26972222",
+    "wd:longitude":"19.13388889",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194878,
+        "gp:id":534686,
+        "qs:id":581659,
+        "wd:id":"Q3323705",
+        "wk:page":"Moraice"
+    },
+    "wof:country":"ME",
+    "wof:created":1469052036,
+    "wof:geomhash":"4f539264d3e9ad908bc6141b184dfc69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890434693,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":890434693,
+    "wof:lastmodified":1527792944,
+    "wof:name":"Moraice",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:population":217,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13444,
+    43.27194,
+    19.13444,
+    43.27194
+],
+  "geometry": {"coordinates":[19.13444,43.27194],"type":"Point"}
+}

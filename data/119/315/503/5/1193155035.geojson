@@ -1,0 +1,65 @@
+{
+  "id": 1193155035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.53778,43.14556,19.53778,43.14556",
+    "geom:latitude":43.14556,
+    "geom:longitude":19.53778,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Slepac",
+    "gn:country_code":"ME",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305535,
+    "gn:latitude":43.14556,
+    "gn:longitude":19.53778,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Slepac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305535
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"c1022f11e6fa9837bd24eb282dbe08ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1193155035,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1193155035,
+    "wof:lastmodified":1536374154,
+    "wof:name":"Slepac",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.53778,
+    43.14556,
+    19.53778,
+    43.14556
+],
+  "geometry": {"coordinates":[19.53778,43.14556],"type":"Point"}
+}

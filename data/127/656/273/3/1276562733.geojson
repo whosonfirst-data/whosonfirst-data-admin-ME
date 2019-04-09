@@ -1,0 +1,68 @@
+{
+  "id": 1276562733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.30278,43.04556,19.30278,43.04556",
+    "geom:latitude":43.04556,
+    "geom:longitude":19.30278,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Colanov Do",
+    "gn:country_code":"ME",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3340801,
+    "gn:latitude":43.04556,
+    "gn:longitude":19.30278,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"\u010colanov Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u010colanov Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3340801
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"c267f13e205968465e39eee9e384e280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276562733,
+            "region_id":85674701
+        }
+    ],
+    "wof:id":1276562733,
+    "wof:lastmodified":1537664539,
+    "wof:name":"Colanov Do",
+    "wof:parent_id":85674701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.30278,
+    43.04556,
+    19.30278,
+    43.04556
+],
+  "geometry": {"coordinates":[19.30278,43.04556],"type":"Point"}
+}

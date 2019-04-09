@@ -1,0 +1,68 @@
+{
+  "id": 890422553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11194,43.11778,19.11194,43.11778",
+    "geom:latitude":43.11778,
+    "geom:longitude":19.11194,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":204,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:srp_x_preferred":[
+        "Virak"
+    ],
+    "qs:name":"Virak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303578,
+        "qs:id":582414,
+        "wk:page":"Virak"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051452,
+    "wof:geomhash":"51d3a0657941cd5705c3834bc501596e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890422553,
+            "region_id":85674701
+        }
+    ],
+    "wof:id":890422553,
+    "wof:lastmodified":1527727162,
+    "wof:name":"Virak",
+    "wof:parent_id":85674701,
+    "wof:placetype":"locality",
+    "wof:population":204,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11194,
+    43.11778,
+    19.11194,
+    43.11778
+],
+  "geometry": {"coordinates":[19.11194,43.11778],"type":"Point"}
+}

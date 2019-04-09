@@ -1,0 +1,68 @@
+{
+  "id": 1293311099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14361,42.54028,19.14361,42.54028",
+    "geom:latitude":42.54028,
+    "geom:longitude":19.14361,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koljat",
+    "gn:country_code":"ME",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317847,
+    "gn:latitude":42.54028,
+    "gn:longitude":19.14361,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Koljat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Koljat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317847
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"a603145c93f71ea2cda7c8d7a6013b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293311099,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":1293311099,
+    "wof:lastmodified":1537664494,
+    "wof:name":"Koljat",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14361,
+    42.54028,
+    19.14361,
+    42.54028
+],
+  "geometry": {"coordinates":[19.14361,42.54028],"type":"Point"}
+}

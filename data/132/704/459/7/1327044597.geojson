@@ -1,0 +1,68 @@
+{
+  "id": 1327044597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00278,42.69722,19.00278,42.69722",
+    "geom:latitude":42.69722,
+    "geom:longitude":19.00278,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gornja Povija",
+    "gn:country_code":"ME",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338748,
+    "gn:latitude":42.69722,
+    "gn:longitude":19.00278,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Gornja Povija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Gornja Povija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338748
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"d83db6e3e8383a9dd84ac6907fd9a71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1327044597,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1327044597,
+    "wof:lastmodified":1537664525,
+    "wof:name":"Gornja Povija",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00278,
+    42.69722,
+    19.00278,
+    42.69722
+],
+  "geometry": {"coordinates":[19.00278,42.69722],"type":"Point"}
+}

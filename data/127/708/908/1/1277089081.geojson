@@ -1,0 +1,68 @@
+{
+  "id": 1277089081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67778,42.70583,18.67778,42.70583",
+    "geom:latitude":42.70583,
+    "geom:longitude":18.67778,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kasljavci",
+    "gn:country_code":"ME",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317459,
+    "gn:latitude":42.70583,
+    "gn:longitude":18.67778,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Ka\u0161ljavci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ka\u0161ljavci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317459
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"1a6c32281e70299a4a38cfc3d7927163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1277089081,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1277089081,
+    "wof:lastmodified":1537664489,
+    "wof:name":"Kasljavci",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67778,
+    42.70583,
+    18.67778,
+    42.70583
+],
+  "geometry": {"coordinates":[18.67778,42.70583],"type":"Point"}
+}

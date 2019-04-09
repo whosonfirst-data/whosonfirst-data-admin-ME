@@ -1,0 +1,78 @@
+{
+  "id": 421173885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"19.375,41.88083,19.375,41.88083",
+    "geom:latitude":41.88083,
+    "geom:longitude":19.375,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "\u0160enkol"
+    ],
+    "qs:gn_country":"ME",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3189303,
+    "qs:gn_pop":0,
+    "qs:name":"Sveti Nikola",
+    "qs:name_adm0":"Montenegro",
+    "qs:name_adm1":"Ulcinj",
+    "qs:photos":153,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":153,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":302156,
+    "qs:woe_adm0":20069817,
+    "qs:woe_id":484653,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":126,
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189303,
+        "gp:id":484653,
+        "qs:id":302156,
+        "wd:id":"Q7652401"
+    },
+    "wof:country":"ME",
+    "wof:created":1459009009,
+    "wof:geomhash":"b1a5a5c844e0465ed7fb7466eacd790d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "locality_id":421173885,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":421173885,
+    "wof:lastmodified":1527716259,
+    "wof:name":"Sveti Nikola",
+    "wof:parent_id":85667793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.375,
+    41.88083,
+    19.375,
+    41.88083
+],
+  "geometry": {"coordinates":[19.375,41.88083],"type":"Point"}
+}

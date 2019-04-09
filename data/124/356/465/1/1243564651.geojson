@@ -1,0 +1,68 @@
+{
+  "id": 1243564651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.705,42.35694,18.705,42.35694",
+    "geom:latitude":42.35694,
+    "geom:longitude":18.705,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bigovo",
+    "gn:country_code":"ME",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3220270,
+    "gn:latitude":42.35694,
+    "gn:longitude":18.705,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Bigovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bigovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3220270
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"1ea83fb37d3b0cd42b08ba491ac00569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1243564651,
+            "region_id":85674643
+        }
+    ],
+    "wof:id":1243564651,
+    "wof:lastmodified":1537664448,
+    "wof:name":"Bigovo",
+    "wof:parent_id":85674643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.705,
+    42.35694,
+    18.705,
+    42.35694
+],
+  "geometry": {"coordinates":[18.705,42.35694],"type":"Point"}
+}

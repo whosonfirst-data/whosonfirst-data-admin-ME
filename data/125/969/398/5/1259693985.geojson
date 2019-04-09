@@ -1,0 +1,68 @@
+{
+  "id": 1259693985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36333,42.74833,19.36333,42.74833",
+    "geom:latitude":42.74833,
+    "geom:longitude":19.36333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Stolak",
+    "gn:country_code":"ME",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3341330,
+    "gn:latitude":42.74833,
+    "gn:longitude":19.36333,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Stolak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Stolak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3341330
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"a054cdc250c0072aafc55a5a3f754be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259693985,
+            "region_id":85674667
+        }
+    ],
+    "wof:id":1259693985,
+    "wof:lastmodified":1537664543,
+    "wof:name":"Stolak",
+    "wof:parent_id":85674667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36333,
+    42.74833,
+    19.36333,
+    42.74833
+],
+  "geometry": {"coordinates":[19.36333,42.74833],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209429507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75306,42.74083,18.75306,42.74083",
+    "geom:latitude":42.74083,
+    "geom:longitude":18.75306,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Loza",
+    "gn:country_code":"ME",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3220658,
+    "gn:latitude":42.74083,
+    "gn:longitude":18.75306,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Loza",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Loza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3220658
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"1a7a37bc3b7a3b7f7af7cbea5ead7bfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209429507
+        }
+    ],
+    "wof:id":1209429507,
+    "wof:lastmodified":1537664455,
+    "wof:name":"Loza",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75306,
+    42.74083,
+    18.75306,
+    42.74083
+],
+  "geometry": {"coordinates":[18.75306,42.74083],"type":"Point"}
+}

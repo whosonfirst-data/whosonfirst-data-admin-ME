@@ -1,0 +1,68 @@
+{
+  "id": 1293302555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.59639,42.39139,18.59639,42.39139",
+    "geom:latitude":42.39139,
+    "geom:longitude":18.59639,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zambelici",
+    "gn:country_code":"ME",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339084,
+    "gn:latitude":42.39139,
+    "gn:longitude":18.59639,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Zambeli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Zambeli\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339084
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"ac67116b7dd5eb965d5aa3c0cbb761cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293302555,
+            "region_id":85674639
+        }
+    ],
+    "wof:id":1293302555,
+    "wof:lastmodified":1537664530,
+    "wof:name":"Zambelici",
+    "wof:parent_id":85674639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59639,
+    42.39139,
+    18.59639,
+    42.39139
+],
+  "geometry": {"coordinates":[18.59639,42.39139],"type":"Point"}
+}

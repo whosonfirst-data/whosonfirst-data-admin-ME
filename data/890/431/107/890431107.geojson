@@ -1,0 +1,69 @@
+{
+  "id": 890431107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14806,42.22972,19.14806,42.22972",
+    "geom:latitude":42.22972,
+    "geom:longitude":19.14806,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:srp_x_preferred":[
+        "Pristan"
+    ],
+    "qs:name":"Pristan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318510,
+        "gp:id":484513,
+        "qs:id":582621,
+        "wk:page":"Pristan"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051877,
+    "wof:geomhash":"db013ae3d6a1c565176422edbd4ea53f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890431107,
+            "region_id":85674613
+        }
+    ],
+    "wof:id":890431107,
+    "wof:lastmodified":1527735415,
+    "wof:name":"Pristan",
+    "wof:parent_id":85674613,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14806,
+    42.22972,
+    19.14806,
+    42.22972
+],
+  "geometry": {"coordinates":[19.14806,42.22972],"type":"Point"}
+}

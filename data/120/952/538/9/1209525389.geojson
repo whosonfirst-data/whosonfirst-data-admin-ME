@@ -1,0 +1,61 @@
+{
+  "id": 1209525389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.77722,42.64944,18.77722,42.64944",
+    "geom:latitude":42.64944,
+    "geom:longitude":18.77722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pode",
+    "gn:country_code":"ME",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3317312,
+    "gn:latitude":42.64944,
+    "gn:longitude":18.77722,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Pode",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317312
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"239d491eca4cd9ffc8a958b4e00448d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209525389
+        }
+    ],
+    "wof:id":1209525389,
+    "wof:lastmodified":1536284447,
+    "wof:name":"Pode",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.77722,
+    42.64944000000001,
+    18.77722,
+    42.64944000000001
+],
+  "geometry": {"coordinates":[18.77722,42.64944000000001],"type":"Point"}
+}

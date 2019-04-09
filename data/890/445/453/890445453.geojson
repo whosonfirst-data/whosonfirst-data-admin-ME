@@ -1,0 +1,67 @@
+{
+  "id": 890445453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.07861,42.97972,19.07861,42.97972",
+    "geom:latitude":42.97972,
+    "geom:longitude":19.07861,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":55,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Petnjica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":134,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318433,
+        "gp:id":536563,
+        "qs:id":582597,
+        "wd:id":"Q1700305",
+        "wk:page":"Petnjica"
+    },
+    "wof:country":"ME",
+    "wof:created":1469052510,
+    "wof:geomhash":"6a6d826129f43de038f31c422a0e398e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890445453,
+            "region_id":85674695
+        }
+    ],
+    "wof:id":890445453,
+    "wof:lastmodified":1527792869,
+    "wof:name":"Petnjica",
+    "wof:parent_id":85674695,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.07861,
+    42.97972,
+    19.07861,
+    42.97972
+],
+  "geometry": {"coordinates":[19.07861,42.97972],"type":"Point"}
+}

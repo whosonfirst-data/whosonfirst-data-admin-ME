@@ -1,0 +1,104 @@
+{
+  "id": 1126027885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16333,42.55389,19.16333,42.55389",
+    "geom:latitude":42.55389,
+    "geom:longitude":19.16333,
+    "gn:gn_country":"ME",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":127,
+    "gn:population":127,
+    "iso:country":"ME",
+    "lbl:latitude":42.55389,
+    "lbl:longitude":19.16333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bobulja"
+    ],
+    "name:eng_x_preferred":[
+        "Bobulja"
+    ],
+    "name:fre_x_preferred":[
+        "Bobulja"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03cc\u03bc\u03c0\u03bf\u03c5\u03bb\u03b3\u03b9\u03b1"
+    ],
+    "name:rum_x_preferred":[
+        "Bobulja"
+    ],
+    "name:slv_x_preferred":[
+        "Bobulja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0431\u0443\u0459\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bobulja"
+    ],
+    "name:unk_x_variant":[
+        "Babulja"
+    ],
+    "qs_pg:aaroncc":"ME",
+    "qs_pg:gn_country":"ME",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3338762,
+    "qs_pg:gn_pop":127,
+    "qs_pg:name":"Bobulja",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":582728,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338762,
+        "qs_pg:id":582728,
+        "wd:id":"Q432140"
+    },
+    "wof:country":"ME",
+    "wof:created":1497301254,
+    "wof:geomhash":"c8c65d5c036036cedbdb154b94f9a463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1126027885,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":1126027885,
+    "wof:lastmodified":1514484608,
+    "wof:name":"Bobulja",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:population":127,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16333,
+    42.55389,
+    19.16333,
+    42.55389
+],
+  "geometry": {"coordinates":[19.16333,42.55389],"type":"Point"}
+}

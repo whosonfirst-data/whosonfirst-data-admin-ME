@@ -1,0 +1,66 @@
+{
+  "id": 1293607277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29889,43.4125,19.29889,43.4125",
+    "geom:latitude":43.4125,
+    "geom:longitude":19.29889,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kovijec",
+    "gn:country_code":"ME",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342849,
+    "gn:latitude":43.4125,
+    "gn:longitude":19.29889,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Kovijec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kovijec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342849
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"a11cb7f678d5daf8dfbfd8734e2bd971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1293607277,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293607277,
+    "wof:lastmodified":1537664556,
+    "wof:name":"Kovijec",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29889,
+    43.4125,
+    19.29889,
+    43.4125
+],
+  "geometry": {"coordinates":[19.29889,43.4125],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890421493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11917,42.74111,19.11917,42.74111",
+    "geom:latitude":42.74111,
+    "geom:longitude":19.11917,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":950,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Kuta",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":1128,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196877,
+        "gp:id":535047,
+        "qs:id":95110,
+        "wk:page":"Kuta"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051395,
+    "wof:geomhash":"8e01857ce44bd8f16ee14dbd15466df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890421493,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":890421493,
+    "wof:lastmodified":1527782112,
+    "wof:name":"Kuta",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:population":950,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11917,
+    42.74111,
+    19.11917,
+    42.74111
+],
+  "geometry": {"coordinates":[19.11917,42.74111],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343571019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99361,43.54528,18.99361,43.54528",
+    "geom:latitude":43.54528,
+    "geom:longitude":18.99361,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mocevici",
+    "gn:country_code":"ME",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269408,
+    "gn:latitude":43.54528,
+    "gn:longitude":18.99361,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Mo\u010devi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mo\u010devi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269408,
+        "wk:page":"Mo%C4%87evi%C4%87i,_Pljevlja"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"1deae03d0d9e639eee4283c612a69577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343571019,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1343571019,
+    "wof:lastmodified":1537664457,
+    "wof:name":"Mocevici",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99361,
+    43.54528,
+    18.99361,
+    43.54528
+],
+  "geometry": {"coordinates":[18.99361,43.54528],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310511587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.75,43.11306,19.75,43.11306",
+    "geom:latitude":43.11306,
+    "geom:longitude":19.75,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Orahovica",
+    "gn:country_code":"ME",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3306648,
+    "gn:latitude":43.11306,
+    "gn:longitude":19.75,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Orahovi\u0107a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orahovi\u0107a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306648,
+        "wk:page":"Orahovica,_Montenegro"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"9226c5ef8eb4a6421bbac747d2878b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310511587,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1310511587,
+    "wof:lastmodified":1537664476,
+    "wof:name":"Orahovica",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.75,
+    43.11306,
+    19.75,
+    43.11306
+],
+  "geometry": {"coordinates":[19.75,43.11306],"type":"Point"}
+}

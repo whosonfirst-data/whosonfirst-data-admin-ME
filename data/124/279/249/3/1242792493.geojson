@@ -1,0 +1,66 @@
+{
+  "id": 1242792493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2275,43.44361,19.2275,43.44361",
+    "geom:latitude":43.44361,
+    "geom:longitude":19.2275,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dugi Do",
+    "gn:country_code":"ME",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305015,
+    "gn:latitude":43.44361,
+    "gn:longitude":19.2275,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Dugi Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dugi Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305015
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"cfd7c3b1af243039d2c3ff6e848536be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1242792493,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242792493,
+    "wof:lastmodified":1537664472,
+    "wof:name":"Dugi Do",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2275,
+    43.44361,
+    19.2275,
+    43.44361
+],
+  "geometry": {"coordinates":[19.2275,43.44361],"type":"Point"}
+}

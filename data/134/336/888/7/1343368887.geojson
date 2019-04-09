@@ -1,0 +1,65 @@
+{
+  "id": 1343368887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67306,43.11194,19.67306,43.11194",
+    "geom:latitude":43.11194,
+    "geom:longitude":19.67306,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Solila",
+    "gn:country_code":"ME",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306171,
+    "gn:latitude":43.11194,
+    "gn:longitude":19.67306,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Solila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306171
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"cc5193d88b60eb87f666afa3e908596c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343368887,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1343368887,
+    "wof:lastmodified":1536877434,
+    "wof:name":"Solila",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67306,
+    43.11194,
+    19.67306,
+    43.11194
+],
+  "geometry": {"coordinates":[19.67306,43.11194],"type":"Point"}
+}

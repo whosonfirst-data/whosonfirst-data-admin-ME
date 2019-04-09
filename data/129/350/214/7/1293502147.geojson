@@ -1,0 +1,72 @@
+{
+  "id": 1293502147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.02917,43.40611,19.02917,43.40611",
+    "geom:latitude":43.40611,
+    "geom:longitude":19.02917,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Krusevo",
+    "gn:country_code":"ME",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299092,
+    "gn:latitude":43.40611,
+    "gn:longitude":19.02917,
+    "gn:modification_date":"2018-06-14",
+    "gn:name":"Kru\u0161evo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kula",
+        "Kru\u0161evo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299092,
+        "wk:page":"Kru%C5%A1evo,_Pljevlja"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"43db96c692875576aa1f4357b32d0c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1293502147,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293502147,
+    "wof:lastmodified":1537664462,
+    "wof:name":"Krusevo",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.02917,
+    43.40611,
+    19.02917,
+    43.40611
+],
+  "geometry": {"coordinates":[19.02917,43.40611],"type":"Point"}
+}

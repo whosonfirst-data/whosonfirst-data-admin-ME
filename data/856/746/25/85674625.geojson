@@ -1,0 +1,295 @@
+{
+  "id": 85674625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.10593,
+    "geom:area_square_m":965825205.913525,
+    "geom:bbox":"18.648298781,42.2836209175,19.1425838564,42.7181163599",
+    "geom:latitude":42.493192,
+    "geom:longitude":18.883545,
+    "gn:id":"",
+    "iso:country":"ME",
+    "label:eng_x_preferred_longname":[
+        "Cetinje Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "lbl:latitude":42.528346,
+    "lbl:longitude":18.859203,
+    "mps:latitude":42.528346,
+    "mps:longitude":18.859203,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Cetin\u00ebs"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0633\u064a\u062a\u064a\u0646\u064a\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a4\u09bf\u099e\u09cd\u099c\u09c7 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:dan_x_preferred":[
+        "Cetinje"
+    ],
+    "name:eng_x_preferred":[
+        "Cetinje"
+    ],
+    "name:est_x_preferred":[
+        "Cetinje vald"
+    ],
+    "name:fin_x_preferred":[
+        "Cetinjen kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Cetinje"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ea\u10d4\u10e2\u10d8\u10dc\u10d8\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Gemeinde Cetinje"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b5\u03c4\u03af\u03bd\u03c4\u03b6\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa4\u0abf\u0a82\u0a9c\u0ac7 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0924\u093f\u0928\u094d\u092f\u0947 \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Cetinje"
+    ],
+    "name:ita_x_preferred":[
+        "Comune di Cetinje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30a7\u30c6\u30a3\u30cb\u30a7"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc6\u0c9f\u0cbf\u0c82\u0c9c\u0cc6 \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uccb4\ud2f0\ub15c \uc9c0\ubc29 \uc790\uce58\uc81c"
+    ],
+    "name:lav_x_preferred":[
+        "Ceti\u0146es pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Cetin\u0117s op\u0161tina"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0442\u043e\u043b\u043d\u0438\u043d\u0430 \u0426\u0435\u0442\u0438\u045a\u0435"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093f\u091f\u093f\u0902\u091c\u0947 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Cetinje Municipality"
+    ],
+    "name:nob_x_preferred":[
+        "Cetinje Kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Cetynia"
+    ],
+    "name:por_x_preferred":[
+        "Cetinje"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Cetinje"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0442\u0438\u043d\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da0\u0dd9\u0da7\u0dd2\u0db1\u0dca\u0da2\u0dda \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Cetinje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0426\u0435\u0442\u0438\u045a\u0435"
+    ],
+    "name:srp_x_variant":[
+        "\u0426\u0435\u0442\u0438\u045a\u0435",
+        "Prijestonica Cetinje",
+        "\u041f\u0440\u0438\u0458\u0435\u0441\u0442\u043e\u043d\u0438\u0446\u0430 \u0426\u0435\u0442\u0438\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Cetinje"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0b9f\u0bbf\u0b9e\u0bcd\u0b9a\u0bc7  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c1f\u0c3f\u0c02\u0c1c\u0c46 \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e40\u0e0b\u0e15\u0e35\u0e40\u0e19\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Cetinje  Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0426\u0435\u0442\u0438\u043d\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Cetinje"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u062f\u06cc\u0645 \u0634\u0627\u06c1\u06cc \u062f\u0627\u0631\u0627\u0644\u062d\u06a9\u0648\u0645\u062a \u0633\u06cc\u062a\u06cc\u0646\u06cc\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Cetinje"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MNE",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MNE-1500",
+    "ne:adm1_code":"MNE-1500",
+    "ne:admin":"Montenegro",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"ME.CE",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1500",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MJ00",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Montenegro",
+    "ne:gn_a1_code":"ME.06",
+    "ne:gn_id":"3202640",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Cetinje",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MJ00",
+    "ne:gns_id":"-77354",
+    "ne:gns_lang":"srp",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Cetinje, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MNE",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"ME-",
+    "ne:iso_a2":"ME",
+    "ne:labelrank":"9",
+    "ne:latitude":"42.49930000000",
+    "ne:longitude":"18.89540000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":4,
+    "ne:name":"Cetinje",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CE",
+    "ne:provnum_ne":"16",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"MNE",
+    "ne:sub_code":"",
+    "ne:type":"Op\u0161tina",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":29389242,
+    "ne:woe_label":"Cetinje, ME, Montenegro",
+    "ne:woe_name":"Cetinje",
+    "qs:a0":"Montenegro",
+    "qs:a0_lc":"ME",
+    "qs:a1":"Cetinje",
+    "qs:a1_lc":"MNE-1500",
+    "qs:adm0":"Montenegro",
+    "qs:adm0_a3":"MNE",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-04-01",
+    "statoids:area_km":"899",
+    "statoids:area_mi":"347",
+    "statoids:as_of_date":"2011-04-01",
+    "statoids:capital":"Cetinje",
+    "statoids:country":"ME",
+    "statoids:gec":"MJ06",
+    "statoids:hasc":"ME.CE",
+    "statoids:iso":"06",
+    "statoids:name":"Cetinje",
+    "statoids:population":"16657",
+    "statoids:timezone":"+1~",
+    "statoids:type":"commune",
+    "unlc:subdivision":"ME-06",
+    "wof:belongsto":[
+        102191581,
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MJ06",
+        "gn:id":3202640,
+        "gp:id":29389242,
+        "hasc:id":"ME.CE",
+        "iso:id":"ME-06",
+        "qs:id":903219,
+        "unlc:id":"ME-06",
+        "wd:id":"Q3305075"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"fe19dd659774e51e4d2ccc5e2beaa1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":85674625,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "srp"
+    ],
+    "wof:lang_x_spoken":[
+        "srp"
+    ],
+    "wof:lastmodified":1553814808,
+    "wof:name":"Cetinje",
+    "wof:parent_id":85632667,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"commune",
+    "wof:population":16657,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:shortcode":"CE",
+    "wof:subdivision":"ME-06",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64829878096401,
+    42.28362091747141,
+    19.14258385635992,
+    42.71811635988217
+],
+  "geometry": {"coordinates":[[[18.79707522963821,42.69524953923491],[18.82394697417357,42.69607636243421],[18.85991377120365,42.6908312041968],[18.87024905804765,42.68065094698369],[18.8894210140686,42.66907542579031],[18.91432905384283,42.65749990549631],[18.93251915883218,42.64070506448718],[18.93717003786702,42.62021535885179],[18.93748009622954,42.61892344855835],[18.93779015459199,42.60238698996767],[18.95954593299848,42.59246511517296],[18.98145674013648,42.58034699251976],[18.99261884928052,42.56820303054548],[19.00569298724162,42.55884959653173],[19.0014555193568,42.54947032319689],[18.98615929511544,42.52755951605889],[18.98533247191608,42.50634634001165],[18.97060468935496,42.50978282311883],[18.95598025868202,42.50453766488135],[18.95959760894254,42.4943315701459],[18.99711469868447,42.47172313101771],[19.03458011158295,42.45244782220931],[19.05581912605186,42.43565298120018],[19.07866010917672,42.41717865716936],[19.11307661259565,42.39402761478266],[19.14258385635992,42.37087657329528],[19.13514245026391,42.33560740825533],[19.10951093917856,42.30031240479371],[19.10956261602195,42.30028656727131],[19.09581668539175,42.30604848944631],[19.04698245597564,42.32193899199092],[19.02884402782968,42.30532501903446],[19.02465823678824,42.28385346146814],[19.00135216566997,42.28362091747141],[18.96057946087348,42.29594574569967],[18.92295901924342,42.30222443271145],[18.92254560719408,42.30214691834567],[18.91417402511121,42.3200528024949],[18.88456342855943,42.33948314093425],[18.85288577625761,42.34423737185728],[18.82957970513934,42.35178213253943],[18.79712690558227,42.36002452251375],[18.79356123216519,42.35421092439469],[18.77914350796658,42.37927399290049],[18.76550092922457,42.41056407337334],[18.76193525580749,42.4253176952555],[18.7699451026844,42.43921865551658],[18.77185713060214,42.45218943889154],[18.77211551302054,42.47670990683679],[18.76053999182722,42.50743154652872],[18.72250613814782,42.52740448732726],[18.69801150862429,42.54050446191144],[18.69496259914467,42.55608490699291],[18.68395551873226,42.57647125894152],[18.66628217857971,42.59355031989139],[18.6500041033068,42.62401357716493],[18.64829878096401,42.62933624886887],[18.66958947137704,42.63104157211092],[18.68380049000064,42.6419452988365],[18.6905701034276,42.65861094773709],[18.69000166174732,42.6747339951778],[18.69604780386311,42.6850692820218],[18.70969038260512,42.68948761705991],[18.71919884624981,42.70049469747238],[18.72736372185835,42.71811635988217],[18.76772301640415,42.70930552822762],[18.79707522963821,42.69524953923491]]],"type":"Polygon"}
+}

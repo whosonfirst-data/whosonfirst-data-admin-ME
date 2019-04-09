@@ -1,0 +1,210 @@
+{
+  "id": 85674693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003605,
+    "geom:area_square_m":32905846.722671,
+    "geom:bbox":"18.6449662541,42.3575772487,18.7346500992,42.4767455227",
+    "geom:latitude":42.415469,
+    "geom:longitude":18.698279,
+    "gn:id":"",
+    "iso:country":"ME",
+    "label:eng_x_preferred_longname":[
+        "Tivat Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "lbl:latitude":42.429894,
+    "lbl:longitude":18.716963,
+    "mps:latitude":42.429894,
+    "mps:longitude":18.716963,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:eng_x_preferred":[
+        "Tivat"
+    ],
+    "name:est_x_preferred":[
+        "Tivati vald"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e2\u10d8\u10d5\u10d0\u10e2\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Tivato op\u0161tina"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0438\u0432\u0430\u0442"
+    ],
+    "name:por_x_preferred":[
+        "Tivat"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Tivat"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Tivat"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0438\u0432\u0430\u0442"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0438\u0432\u0430\u0442"
+    ],
+    "name:und_x_preferred":[
+        "Tivat"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Tivat"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0648\u0627\u062a \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MNE",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MNE-1518",
+    "ne:adm1_code":"MNE-1518",
+    "ne:admin":"Montenegro",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"ME.TI",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1518",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MJ00",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Montenegro",
+    "ne:gn_a1_code":"ME.19",
+    "ne:gn_id":"3189071",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Tivat",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MJ00",
+    "ne:gns_id":"-98298",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Tivat, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MNE",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"ME-",
+    "ne:iso_a2":"ME",
+    "ne:labelrank":"9",
+    "ne:latitude":"42.38970000000",
+    "ne:longitude":"18.68980000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":4,
+    "ne:name":"Tivat",
+    "ne:name_alt":"",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"TI",
+    "ne:provnum_ne":"3",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"MNE",
+    "ne:sub_code":"",
+    "ne:type":"Op\u0161tina",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":29389245,
+    "ne:woe_label":"Tivat, ME, Montenegro",
+    "ne:woe_name":"Tivat",
+    "qs:a0":"Montenegro",
+    "qs:a0_lc":"ME",
+    "qs:a1":"Tivat",
+    "qs:a1_lc":"MNE-1518",
+    "qs:adm0":"Montenegro",
+    "qs:adm0_a3":"MNE",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-04-01",
+    "statoids:area_km":"46",
+    "statoids:area_mi":"18",
+    "statoids:as_of_date":"2011-04-01",
+    "statoids:capital":"Tivat",
+    "statoids:country":"ME",
+    "statoids:gec":"MJ19",
+    "statoids:hasc":"ME.TI",
+    "statoids:iso":"19",
+    "statoids:name":"Tivat",
+    "statoids:population":"14031",
+    "statoids:timezone":"+1~",
+    "statoids:type":"commune",
+    "unlc:subdivision":"ME-19",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191581,
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MJ19",
+        "gn:id":3189071,
+        "gp:id":29389245,
+        "hasc:id":"ME.TI",
+        "iso:id":"ME-19",
+        "qs:id":903221,
+        "unlc:id":"ME-19",
+        "wd:id":"Q3738564"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"e8f6b9534b8389fd3980a3f201c7fe7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "region_id":85674693
+        }
+    ],
+    "wof:id":85674693,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "srp"
+    ],
+    "wof:lang_x_spoken":[
+        "srp"
+    ],
+    "wof:lastmodified":1553550459,
+    "wof:name":"Tivat",
+    "wof:parent_id":85632667,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"commune",
+    "wof:population":14031,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:shortcode":"TI",
+    "wof:subdivision":"ME-19",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64496625408941,
+    42.35757724869114,
+    18.73465009922273,
+    42.47674552268779
+],
+  "geometry": {"coordinates":[[[18.69361412868915,42.35757724869114],[18.69361412868915,42.35944245070857],[18.69581139368091,42.3737653674778],[18.67847741000452,42.38597239800782],[18.6600195993251,42.38657510295866],[18.6599776549449,42.38666372305244],[18.65310468873042,42.40118480093787],[18.64496625408941,42.41835741026631],[18.65650475379141,42.41551341401288],[18.68555748828749,42.40399811412175],[18.70045006621763,42.39297109663886],[18.70818118621281,42.40851471628116],[18.70655358238196,42.42104726811698],[18.68384850390538,42.45880768382762],[18.68327884184515,42.46808502800167],[18.68565809904209,42.47674552268779],[18.6857641938625,42.47668406841507],[18.70927697055578,42.46304149057238],[18.73465009922273,42.42818573758177],[18.71470299684586,42.37705190751956],[18.69377404073941,42.35772492096839],[18.69361412868915,42.35757724869114]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 890445423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14694,42.40417,19.14694,42.40417",
+    "geom:latitude":42.40417,
+    "geom:longitude":19.14694,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":112,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Le\u0161nje"
+    ],
+    "qs:name":"Lije\u0161nje",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317406,
+        "gp:id":484513,
+        "qs:id":582493
+    },
+    "wof:country":"ME",
+    "wof:created":1469052509,
+    "wof:geomhash":"68aa3e9d100928f304f02110b0570760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890445423,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":890445423,
+    "wof:lastmodified":1505343605,
+    "wof:name":"Lije\u0161nje",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14694,
+    42.40417,
+    19.14694,
+    42.40417
+],
+  "geometry": {"coordinates":[19.14694,42.40417],"type":"Point"}
+}

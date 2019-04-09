@@ -1,0 +1,291 @@
+{
+  "id": 85674661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.056216,
+    "geom:area_square_m":511625655.421472,
+    "geom:bbox":"18.9371700379,42.487174384,19.3009721206,42.7595091823",
+    "geom:latitude":42.606563,
+    "geom:longitude":19.121918,
+    "gn:population":5208,
+    "iso:country":"ME",
+    "label:eng_x_preferred_longname":[
+        "Danilovgrad Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "lbl:latitude":42.594216,
+    "lbl:longitude":19.109614,
+    "mps:latitude":42.594216,
+    "mps:longitude":19.109614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u062f\u0627\u0646\u064a\u0644\u0648\u0641\u063a\u0631\u0627\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09be\u09a8\u09bf\u09b2\u09cb\u09ad\u0997\u09cd\u09b0\u09be\u09a1 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:dan_x_preferred":[
+        "Danilovgrad Municipality"
+    ],
+    "name:eng_x_preferred":[
+        "Danilovgrad"
+    ],
+    "name:est_x_preferred":[
+        "Danilovgradi vald"
+    ],
+    "name:fin_x_preferred":[
+        "Danilovgradin kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Municipalit\u00e9 de Danilovgrad"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10d0\u10dc\u10d8\u10da\u10dd\u10d5\u10d2\u10e0\u10d0\u10d3\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Gemeinde Danilovgrad"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03c4\u03b1\u03bd\u03b9\u03bb\u03bf\u03b2\u03b3\u03ba\u03c1\u03ac\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa1\u0ac7\u0aa8\u0abf\u0ab2\u0acb\u0ab5\u0a97\u0acd\u0ab0\u0abe\u0aa6 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u093e\u0928\u093f\u0932\u094b\u0935\u0917\u094d\u0930\u093e\u0926 \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Danilovgrad"
+    ],
+    "name:ita_x_preferred":[
+        "Comune di Danilovgrad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30cb\u30ed\u30f4\u30b0\u30e9\u30fc\u30c9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca1\u0ccd\u0caf\u0cbe\u0ca8\u0cbf\u0cb2\u0ccb\u0cb5\u0ccd\u0c97\u0ccd\u0cb0\u0cbe\u0ca1\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2e4\ub2d0\ub85c\ube0c\uadf8\ub77c\ub4dc \uc9c0\ubc29 \uc790\uce58\uc81c"
+    ],
+    "name:lav_x_preferred":[
+        "Danilovgradas pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Danilovgrado op\u0161tina"
+    ],
+    "name:mar_x_preferred":[
+        "\u0921\u0945\u0928\u093f\u0932\u094b\u0935\u094d\u0939\u0917\u094d\u0930\u0945\u0921 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Danilovgrad Municipality"
+    ],
+    "name:nob_x_preferred":[
+        "Danilovgrad Kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Danilovgrad"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Danilovgrad"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Danilovgrad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u0433\u0440\u0430\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0daf\u0dd0\u0db1\u0dd2\u0dbd\u0ddd\u0dc0\u0dca\u0d9c\u0dca\u0dbb\u0da9\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Danilovgrad"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0442\u0448\u0438\u043d\u0430 \u0414\u0430\u043d\u0438\u043b\u043e\u0432\u0433\u0440\u0430\u0434"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u0433\u0440\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Danilovgrad"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0ba9\u0bbf\u0bb2\u0bcb\u0bb5\u0bcd\u0b95\u0bcd\u0bb0\u0bbe\u0b9f\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e14\u0e32\u0e19\u0e34\u0e25\u0e2d\u0e1f\u0e01\u0e23\u0e32\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "Danilovgrad Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0414\u0430\u043d\u0438\u043b\u043e\u0432\u0433\u0440\u0430\u0434"
+    ],
+    "name:und_x_preferred":[
+        "Danilovgrad"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Danilovgrad"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u0646\u06cc\u0644\u0648\u0648\u06af\u0631\u0627\u062f \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Danilovgrad"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MNE",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MNE-1511",
+    "ne:adm1_code":"MNE-1511",
+    "ne:admin":"Montenegro",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"ME.DA",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1511",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MJ00",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Montenegro",
+    "ne:gn_a1_code":"ME.07",
+    "ne:gn_id":"3202193",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Danilovgrad",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MJ00",
+    "ne:gns_id":"-78125",
+    "ne:gns_lang":"srp",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Danilovgrad, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MNE",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"ME-",
+    "ne:iso_a2":"ME",
+    "ne:labelrank":"9",
+    "ne:latitude":"42.59360000000",
+    "ne:longitude":"19.11910000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":4,
+    "ne:name":"Danilovgrad",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"DA",
+    "ne:provnum_ne":"12",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"MNE",
+    "ne:sub_code":"",
+    "ne:type":"Op\u0161tina",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":29389236,
+    "ne:woe_label":"Danilovgrad, ME, Montenegro",
+    "ne:woe_name":"Danilovgrad",
+    "qs:a0":"Montenegro",
+    "qs:a0_lc":"ME",
+    "qs:a1":"Danilovgrad",
+    "qs:a1_lc":"MNE-1511",
+    "qs:adm0":"Montenegro",
+    "qs:adm0_a3":"MNE",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-04-01",
+    "statoids:area_km":"501",
+    "statoids:area_mi":"193",
+    "statoids:as_of_date":"2011-04-01",
+    "statoids:capital":"Danilovgrad",
+    "statoids:country":"ME",
+    "statoids:gec":"MJ07",
+    "statoids:hasc":"ME.DA",
+    "statoids:iso":"07",
+    "statoids:name":"Danilovgrad",
+    "statoids:population":"18472",
+    "statoids:timezone":"+1~",
+    "statoids:type":"commune",
+    "unlc:subdivision":"ME-07",
+    "wof:belongsto":[
+        102191581,
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MJ07",
+        "gn:id":3202193,
+        "gp:id":29389236,
+        "hasc:id":"ME.DA",
+        "iso:id":"ME-07",
+        "qs:id":898960,
+        "unlc:id":"ME-07",
+        "wd:id":"Q3741507",
+        "wk:page":"Danilovgrad Municipality"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"229af2f9cc6599d46e443e9d27c53341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":85674661,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "srp"
+    ],
+    "wof:lang_x_spoken":[
+        "srp"
+    ],
+    "wof:lastmodified":1553814808,
+    "wof:name":"Danilovgrad",
+    "wof:parent_id":85632667,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"commune",
+    "wof:population":18472,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:shortcode":"DA",
+    "wof:subdivision":"ME-07",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93717003786702,
+    42.48717438399069,
+    19.30097212056694,
+    42.75950918230296
+],
+  "geometry": {"coordinates":[[[19.30097212056694,42.67687856709227],[19.28593427874404,42.66411448839295],[19.25973432777704,42.64235870998652],[19.26164635569484,42.62223074045636],[19.25146609938105,42.59740021414859],[19.23301761197325,42.5825432403783],[19.22061526937921,42.57094188076326],[19.21317386238388,42.54947032319689],[19.20847130740498,42.5174826125326],[19.20211510602735,42.49213532228737],[19.1988078141294,42.48743276640909],[19.14919843925662,42.4877169872492],[19.07369917177942,42.48717438399069],[19.04119469627824,42.48993907352946],[19.00589969191731,42.50151459382352],[18.98533247191608,42.50634634001165],[18.98615929511544,42.52755951605889],[19.0014555193568,42.54947032319689],[19.00569298724162,42.55884959653173],[18.99261884928052,42.56820303054548],[18.98145674013648,42.58034699251976],[18.95954593299848,42.59246511517296],[18.93779015459199,42.60238698996767],[18.93748009622954,42.61892344855835],[18.93717003786702,42.62021535885179],[18.98166344571149,42.62223074045636],[18.99515099482261,42.63491730389052],[18.99706302274035,42.66411448839295],[19.01442630363107,42.68726552988034],[19.04997968861181,42.70380198847107],[19.07230390779915,42.70876292586837],[19.08966718868987,42.70380198847107],[19.1255306329324,42.69876353580861],[19.17787885892227,42.69499115681651],[19.21312218643982,42.70822032350918],[19.20872968892405,42.72806407309855],[19.20898807134245,42.74377370938925],[19.2107450696293,42.75950918230296],[19.24485151468571,42.75147349700433],[19.25947594625796,42.72364573806044],[19.2605611509764,42.71207021686706],[19.2615946788514,42.69718740557437],[19.30097212056694,42.67687856709227]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890430899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.05,42.31056,19.05,42.31056",
+    "geom:latitude":42.31056,
+    "geom:longitude":19.05,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":53,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Donja Sela"
+    ],
+    "qs:name":"Donje Selo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317529,
+        "gp:id":484513,
+        "qs:id":582501,
+        "wd:id":"Q1197374",
+        "wk:page":"Donje Selo"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051870,
+    "wof:geomhash":"fb759ff8c43a25229c0aa8a5fc54b733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430899,
+            "region_id":85674613
+        }
+    ],
+    "wof:id":890430899,
+    "wof:lastmodified":1527729744,
+    "wof:name":"Donje Selo",
+    "wof:parent_id":85674613,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.05,
+    42.31056,
+    19.05,
+    42.31056
+],
+  "geometry": {"coordinates":[19.05,42.31056],"type":"Point"}
+}

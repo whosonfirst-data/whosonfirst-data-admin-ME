@@ -1,0 +1,68 @@
+{
+  "id": 1193155303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.82889,42.48222,18.82889,42.48222",
+    "geom:latitude":42.48222,
+    "geom:longitude":18.82889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dragomi Do",
+    "gn:country_code":"ME",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201293,
+    "gn:latitude":42.48222,
+    "gn:longitude":18.82889,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Dragomi Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Dragomi Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201293
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"4d5ac1c29584801989e7366678553ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1193155303,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1193155303,
+    "wof:lastmodified":1537664438,
+    "wof:name":"Dragomi Do",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.82889,
+    42.48222,
+    18.82889,
+    42.48222
+],
+  "geometry": {"coordinates":[18.82889,42.48222],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1259698305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.88222,43.185,18.88222,43.185",
+    "geom:latitude":43.185,
+    "geom:longitude":18.88222,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Unac",
+    "gn:country_code":"ME",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3188487,
+    "gn:latitude":43.185,
+    "gn:longitude":18.88222,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Una\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188487
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"fd271094aba33745c6e3cb0fae0a3fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259698305,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":1259698305,
+    "wof:lastmodified":1537043790,
+    "wof:name":"Unac",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.88222,
+    43.185,
+    18.88222,
+    43.185
+],
+  "geometry": {"coordinates":[18.88222,43.185],"type":"Point"}
+}

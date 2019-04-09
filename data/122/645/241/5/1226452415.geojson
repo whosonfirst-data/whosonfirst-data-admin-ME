@@ -1,0 +1,68 @@
+{
+  "id": 1226452415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.60917,42.55194,18.60917,42.55194",
+    "geom:latitude":42.55194,
+    "geom:longitude":18.60917,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Brezov Do",
+    "gn:country_code":"ME",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317193,
+    "gn:latitude":42.55194,
+    "gn:longitude":18.60917,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Brezov Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Brezov Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317193
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"585b706cabd866f61295846eb55d8eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226452415,
+            "region_id":85674643
+        }
+    ],
+    "wof:id":1226452415,
+    "wof:lastmodified":1537664484,
+    "wof:name":"Brezov Do",
+    "wof:parent_id":85674643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.60917,
+    42.55194,
+    18.60917,
+    42.55194
+],
+  "geometry": {"coordinates":[18.60917,42.55194],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293210361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.97944,43.48694,18.97944,43.48694",
+    "geom:latitude":43.48694,
+    "geom:longitude":18.97944,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Srecanje",
+    "gn:country_code":"ME",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3295564,
+    "gn:latitude":43.48694,
+    "gn:longitude":18.97944,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Sre\u010danje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sre\u010danje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295564,
+        "wk:page":"Sre%C4%87anje"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"5682856d1bec682e6fab215e372cde46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293210361,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1293210361,
+    "wof:lastmodified":1537664458,
+    "wof:name":"Srecanje",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.97944,
+    43.48694,
+    18.97944,
+    43.48694
+],
+  "geometry": {"coordinates":[18.97944,43.48694],"type":"Point"}
+}

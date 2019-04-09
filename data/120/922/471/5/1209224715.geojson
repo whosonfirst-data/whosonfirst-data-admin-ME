@@ -1,0 +1,64 @@
+{
+  "id": 1209224715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.755,42.39667,18.755,42.39667",
+    "geom:latitude":42.39667,
+    "geom:longitude":18.755,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Przice",
+    "gn:country_code":"ME",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318256,
+    "gn:latitude":42.39667,
+    "gn:longitude":18.755,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Pr\u017eice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pr\u017eice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318256
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"98ed2676725a765bd5ff23a894589d34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209224715
+        }
+    ],
+    "wof:id":1209224715,
+    "wof:lastmodified":1537664498,
+    "wof:name":"Przice",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.755,
+    42.39667,
+    18.755,
+    42.39667
+],
+  "geometry": {"coordinates":[18.755,42.39667],"type":"Point"}
+}

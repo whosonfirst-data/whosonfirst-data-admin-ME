@@ -1,0 +1,67 @@
+{
+  "id": 890452793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.05028,42.52194,19.05028,42.52194",
+    "geom:latitude":42.52194,
+    "geom:longitude":19.05028,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":67,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Gornji \u00d0urickovi\u0107i"
+    ],
+    "qs:name":"Musterovi\u0107i",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3220525,
+        "gp:id":533158,
+        "qs:id":581923
+    },
+    "wof:country":"ME",
+    "wof:created":1469052830,
+    "wof:geomhash":"cf6f95aa859de67af0d5f02f2eb1fd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890452793,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":890452793,
+    "wof:lastmodified":1505343647,
+    "wof:name":"Musterovi\u0107i",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.05028,
+    42.52194,
+    19.05028,
+    42.52194
+],
+  "geometry": {"coordinates":[19.05028,42.52194],"type":"Point"}
+}

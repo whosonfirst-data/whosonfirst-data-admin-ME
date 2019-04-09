@@ -1,0 +1,68 @@
+{
+  "id": 1293019057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.89056,43.32722,18.89056,43.32722",
+    "geom:latitude":43.32722,
+    "geom:longitude":18.89056,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Rudine",
+    "gn:country_code":"ME",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299851,
+    "gn:latitude":43.32722,
+    "gn:longitude":18.89056,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Rudine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Rudine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299851
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"42ab8d3ce11931a25712f26c45895df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293019057,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":1293019057,
+    "wof:lastmodified":1537664463,
+    "wof:name":"Rudine",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.89056,
+    43.32722,
+    18.89056,
+    43.32722
+],
+  "geometry": {"coordinates":[18.89056,43.32722],"type":"Point"}
+}

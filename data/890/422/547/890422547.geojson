@@ -1,0 +1,88 @@
+{
+  "id": 890422547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1775,42.60083,19.1775,42.60083",
+    "geom:latitude":42.60083,
+    "geom:longitude":19.1775,
+    "gn:country":"ME",
+    "gn:fcode":"PPLW",
+    "gn:pop":34,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Poljica"
+    ],
+    "name:eng_x_preferred":[
+        "Poljica"
+    ],
+    "name:fre_x_preferred":[
+        "Poljica"
+    ],
+    "name:rum_x_preferred":[
+        "Poljica"
+    ],
+    "name:slv_x_preferred":[
+        "Poljica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0459\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Poljice"
+    ],
+    "qs:name":"Poljica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":113,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3220522,
+        "gp:id":483736,
+        "qs:id":581922,
+        "wd:id":"Q3395290",
+        "wk:page":"Poljica"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051451,
+    "wof:geomhash":"39319370db482c614ea71694a87ce8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890422547,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":890422547,
+    "wof:lastmodified":1553816393,
+    "wof:name":"Poljica",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1775,
+    42.60083,
+    19.1775,
+    42.60083
+],
+  "geometry": {"coordinates":[19.1775,42.60083],"type":"Point"}
+}

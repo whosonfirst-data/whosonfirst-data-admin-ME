@@ -1,0 +1,65 @@
+{
+  "id": 1343680001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.045,42.1525,19.045,42.1525",
+    "geom:latitude":42.1525,
+    "geom:longitude":19.045,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dendinovici",
+    "gn:country_code":"ME",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202097,
+    "gn:latitude":42.1525,
+    "gn:longitude":19.045,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"\u00d0en\u0111inovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202097
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"03de5dc2950295f2cfe581947212b0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343680001,
+            "region_id":85674613
+        }
+    ],
+    "wof:id":1343680001,
+    "wof:lastmodified":1536927582,
+    "wof:name":"Dendinovici",
+    "wof:parent_id":85674613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.045,
+    42.1525,
+    19.045,
+    42.1525
+],
+  "geometry": {"coordinates":[19.045,42.1525],"type":"Point"}
+}

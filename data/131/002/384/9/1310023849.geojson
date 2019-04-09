@@ -1,0 +1,69 @@
+{
+  "id": 1310023849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93639,42.92917,19.93639,42.92917",
+    "geom:latitude":42.92917,
+    "geom:longitude":19.93639,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tucanje",
+    "gn:country_code":"ME",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188676,
+    "gn:latitude":42.92917,
+    "gn:longitude":19.93639,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Tucanje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tucanj",
+        "Tucanje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188676
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"9b6e33fcac87014c90ed1e764e6e91bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310023849,
+            "region_id":85674653
+        }
+    ],
+    "wof:id":1310023849,
+    "wof:lastmodified":1537664415,
+    "wof:name":"Tucanje",
+    "wof:parent_id":85674653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93639,
+    42.92917,
+    19.93639,
+    42.92917
+],
+  "geometry": {"coordinates":[19.93639,42.92917],"type":"Point"}
+}

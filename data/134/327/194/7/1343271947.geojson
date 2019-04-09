@@ -1,0 +1,68 @@
+{
+  "id": 1343271947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.46333,42.61611,19.46333,42.61611",
+    "geom:latitude":42.61611,
+    "geom:longitude":19.46333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mirin Do",
+    "gn:country_code":"ME",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338440,
+    "gn:latitude":42.61611,
+    "gn:longitude":19.46333,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Mirin Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mirin Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338440
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"db86c82d19dfebdb63090ebc7635b93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343271947,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":1343271947,
+    "wof:lastmodified":1537664518,
+    "wof:name":"Mirin Do",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.46333,
+    42.61611,
+    19.46333,
+    42.61611
+],
+  "geometry": {"coordinates":[19.46333,42.61611],"type":"Point"}
+}

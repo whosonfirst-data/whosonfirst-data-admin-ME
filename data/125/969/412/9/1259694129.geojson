@@ -1,0 +1,69 @@
+{
+  "id": 1259694129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.18556,42.40222,19.18556,42.40222",
+    "geom:latitude":42.40222,
+    "geom:longitude":19.18556,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tijesak",
+    "gn:country_code":"ME",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317397,
+    "gn:latitude":42.40222,
+    "gn:longitude":19.18556,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Tijesak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tjesak",
+        "Tijesak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317397
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"9c788691c88fd10f903a46a7ecdbb2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259694129,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":1259694129,
+    "wof:lastmodified":1537664488,
+    "wof:name":"Tijesak",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.18556,
+    42.40222,
+    19.18556,
+    42.40222
+],
+  "geometry": {"coordinates":[19.18556,42.40222],"type":"Point"}
+}

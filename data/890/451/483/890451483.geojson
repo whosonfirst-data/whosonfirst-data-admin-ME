@@ -1,0 +1,90 @@
+{
+  "id": 890451483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10861,43.38333,19.10861,43.38333",
+    "geom:latitude":43.38333,
+    "geom:longitude":19.10861,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":68,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Leovo Brdo"
+    ],
+    "name:eng_x_preferred":[
+        "Leovo Brdo"
+    ],
+    "name:fre_x_preferred":[
+        "Leovo Brdo"
+    ],
+    "name:rum_x_preferred":[
+        "Leovo Brdo"
+    ],
+    "name:slv_x_preferred":[
+        "Leovo Brdo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u043e\u0432\u043e \u0411\u0440\u0434\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Lehovo Brdo"
+    ],
+    "qs:name":"Leovo Brdo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:latitude":"43.3833",
+    "wd:longitude":"19.1053",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196673,
+        "gp:id":534166,
+        "qs:id":95103,
+        "wd:id":"Q3229831",
+        "wk:page":"Leovo Brdo"
+    },
+    "wof:country":"ME",
+    "wof:created":1469052781,
+    "wof:geomhash":"05d5271b63df7bff6dfdb7e337dcc518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890451483,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":890451483,
+    "wof:lastmodified":1527792936,
+    "wof:name":"Leovo Brdo",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:population":68,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10861,
+    43.38333,
+    19.10861,
+    43.38333
+],
+  "geometry": {"coordinates":[19.10861,43.38333],"type":"Point"}
+}

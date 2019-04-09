@@ -1,0 +1,66 @@
+{
+  "id": 1276238355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.18917,43.46306,19.18917,43.46306",
+    "geom:latitude":43.46306,
+    "geom:longitude":19.18917,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Causev Do",
+    "gn:country_code":"ME",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297436,
+    "gn:latitude":43.46306,
+    "gn:longitude":19.18917,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"\u010cau\u0161ev Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u010cau\u0161ev Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297436
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"e53fd3ed5a81a9cd7a428767903bed23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1276238355,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276238355,
+    "wof:lastmodified":1537664459,
+    "wof:name":"Causev Do",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.18917,
+    43.46306,
+    19.18917,
+    43.46306
+],
+  "geometry": {"coordinates":[19.18917,43.46306],"type":"Point"}
+}

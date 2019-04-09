@@ -1,0 +1,92 @@
+{
+  "id": 890431003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.87389,42.44278,18.87389,42.44278",
+    "geom:latitude":42.44278,
+    "geom:longitude":18.87389,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Brda"
+    ],
+    "name:eng_x_preferred":[
+        "Brda"
+    ],
+    "name:fre_x_preferred":[
+        "Brda"
+    ],
+    "name:rum_x_preferred":[
+        "Brda"
+    ],
+    "name:slv_x_preferred":[
+        "Brda"
+    ],
+    "name:srp_x_preferred":[
+        "Brda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0434\u0430"
+    ],
+    "qs:name":"Brda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318448,
+        "gp:id":533157,
+        "qs:id":582547,
+        "qs_pg:id":582604,
+        "wd:id":"Q2924189",
+        "wk:page":"Brda"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051874,
+    "wof:geomhash":"32bb1bbc2ad6f7b306da49f7f936ff48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890431003,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":890431003,
+    "wof:lastmodified":1553816395,
+    "wof:name":"Brda",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.87389,
+    42.44278,
+    18.87389,
+    42.44278
+],
+  "geometry": {"coordinates":[18.87389,42.44278],"type":"Point"}
+}

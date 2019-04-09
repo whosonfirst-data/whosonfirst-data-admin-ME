@@ -1,0 +1,68 @@
+{
+  "id": 1326948549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.29972,42.89833,20.29972,42.89833",
+    "geom:latitude":42.89833,
+    "geom:longitude":20.29972,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Pripec",
+    "gn:country_code":"ME",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831604,
+    "gn:latitude":42.89833,
+    "gn:longitude":20.29972,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Pripec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pripec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831604
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"329154db81291d61c22e74db0eb8ff21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1326948549,
+            "region_id":85674633
+        }
+    ],
+    "wof:id":1326948549,
+    "wof:lastmodified":1537664410,
+    "wof:name":"Pripec",
+    "wof:parent_id":85674633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.29972,
+    42.89833,
+    20.29972,
+    42.89833
+],
+  "geometry": {"coordinates":[20.29972,42.89833],"type":"Point"}
+}

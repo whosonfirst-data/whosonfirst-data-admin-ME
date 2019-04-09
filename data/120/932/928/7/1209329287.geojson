@@ -1,0 +1,61 @@
+{
+  "id": 1209329287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75222,42.62111,18.75222,42.62111",
+    "geom:latitude":42.62111,
+    "geom:longitude":18.75222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kamisevo",
+    "gn:country_code":"ME",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3340195,
+    "gn:latitude":42.62111,
+    "gn:longitude":18.75222,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Kami\u0161evo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3340195
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"0ba9b760a1c45a523391e1737e22351c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209329287
+        }
+    ],
+    "wof:id":1209329287,
+    "wof:lastmodified":1536290425,
+    "wof:name":"Kamisevo",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75222,
+    42.62111,
+    18.75222,
+    42.62111
+],
+  "geometry": {"coordinates":[18.75222,42.62111],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259493289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.09528,42.55278,19.09528,42.55278",
+    "geom:latitude":42.55278,
+    "geom:longitude":19.09528,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Glavica",
+    "gn:country_code":"ME",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3326900,
+    "gn:latitude":42.55278,
+    "gn:longitude":19.09528,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Glavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Glavica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3326900
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"92a82ead9c50d1a60a125a9cc535d9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259493289,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":1259493289,
+    "wof:lastmodified":1537664507,
+    "wof:name":"Glavica",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09528,
+    42.55278,
+    19.09528,
+    42.55278
+],
+  "geometry": {"coordinates":[19.09528,42.55278],"type":"Point"}
+}

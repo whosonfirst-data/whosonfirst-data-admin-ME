@@ -1,0 +1,63 @@
+{
+  "id": 1242884091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90722,43.35417,18.90722,43.35417",
+    "geom:latitude":43.35417,
+    "geom:longitude":18.90722,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mackov Do",
+    "gn:country_code":"ME",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3341632,
+    "gn:latitude":43.35417,
+    "gn:longitude":18.90722,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Ma\u010dkov Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3341632
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"f6de1c57f2e5023b410b523c60b16b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1242884091,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242884091,
+    "wof:lastmodified":1536620018,
+    "wof:name":"Mackov Do",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90722,
+    43.35417,
+    18.90722,
+    43.35417
+],
+  "geometry": {"coordinates":[18.90722,43.35417],"type":"Point"}
+}

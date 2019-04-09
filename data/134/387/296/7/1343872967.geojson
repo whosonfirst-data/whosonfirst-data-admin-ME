@@ -1,0 +1,66 @@
+{
+  "id": 1343872967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.42806,43.36972,19.42806,43.36972",
+    "geom:latitude":43.36972,
+    "geom:longitude":19.42806,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bojovina",
+    "gn:country_code":"ME",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342825,
+    "gn:latitude":43.36972,
+    "gn:longitude":19.42806,
+    "gn:modification_date":"2018-06-14",
+    "gn:name":"Bojovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bojovina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342825
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"93bef99d3d325f31e64d4f28cd05ce7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1343872967,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343872967,
+    "wof:lastmodified":1537664556,
+    "wof:name":"Bojovina",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.42806,
+    43.36972,
+    19.42806,
+    43.36972
+],
+  "geometry": {"coordinates":[19.42806,43.36972],"type":"Point"}
+}

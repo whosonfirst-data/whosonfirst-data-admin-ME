@@ -1,0 +1,85 @@
+{
+  "id": 890451487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.095,42.50417,19.095,42.50417",
+    "geom:latitude":42.50417,
+    "geom:longitude":19.095,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":108,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lazarev Krst"
+    ],
+    "name:eng_x_preferred":[
+        "Lazarev Krst"
+    ],
+    "name:fre_x_preferred":[
+        "Lazarev Krst"
+    ],
+    "name:rum_x_preferred":[
+        "Lazarev Krst"
+    ],
+    "name:slv_x_preferred":[
+        "Lazarev Krst"
+    ],
+    "name:srp_x_preferred":[
+        "Lazarev Krst"
+    ],
+    "name:swe_x_preferred":[
+        "Lazarev Krst"
+    ],
+    "qs:name":"Lazarev Krst",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196734,
+        "qs:id":95105,
+        "wd:id":"Q3220028"
+    },
+    "wof:country":"ME",
+    "wof:created":1469052781,
+    "wof:geomhash":"97b93b507f0a727ffb5d7a80ed1d6e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890451487,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":890451487,
+    "wof:lastmodified":1514484620,
+    "wof:name":"Lazarev Krst",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:population":108,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.095,
+    42.50417,
+    19.095,
+    42.50417
+],
+  "geometry": {"coordinates":[19.095,42.50417],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276995965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19583,42.78,20.19583,42.78",
+    "geom:latitude":42.78,
+    "geom:longitude":20.19583,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kaluderski Laz",
+    "gn:country_code":"ME",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":831531,
+    "gn:latitude":42.78,
+    "gn:longitude":20.19583,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kalu\u0111erski Laz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalu\u0111erski Lazi",
+        "Husovi\u0107i",
+        "Kalu\u0111erski Laz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831531
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"462cc1e28ed56f440009131804f8e30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276995965,
+            "region_id":85674633
+        }
+    ],
+    "wof:id":1276995965,
+    "wof:lastmodified":1537664410,
+    "wof:name":"Kaluderski Laz",
+    "wof:parent_id":85674633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19583,
+    42.78,
+    20.19583,
+    42.78
+],
+  "geometry": {"coordinates":[20.19583,42.78],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 890429123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.06583,42.97444,19.06583,42.97444",
+    "geom:latitude":42.97444,
+    "geom:longitude":19.06583,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":159,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Po\u0161\u0107enje"
+    ],
+    "qs:name":"Po\u0161\u0107enje",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192680,
+        "gp:id":536563,
+        "qs:id":95043
+    },
+    "wof:country":"ME",
+    "wof:created":1469051795,
+    "wof:geomhash":"744a1fcd2547504f4dce1b89e1347186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890429123,
+            "region_id":85674695
+        }
+    ],
+    "wof:id":890429123,
+    "wof:lastmodified":1505343510,
+    "wof:name":"Po\u0161\u0107enje",
+    "wof:parent_id":85674695,
+    "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06583,
+    42.97444,
+    19.06583,
+    42.97444
+],
+  "geometry": {"coordinates":[19.06583,42.97444],"type":"Point"}
+}

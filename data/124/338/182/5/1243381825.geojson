@@ -1,0 +1,68 @@
+{
+  "id": 1243381825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.71111,43.16028,19.71111,43.16028",
+    "geom:latitude":43.16028,
+    "geom:longitude":19.71111,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Vukov Do",
+    "gn:country_code":"ME",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306463,
+    "gn:latitude":43.16028,
+    "gn:longitude":19.71111,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Vukov Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vukov Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306463
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"b22135e26a49ce203a6fb45963052136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1243381825,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1243381825,
+    "wof:lastmodified":1537664475,
+    "wof:name":"Vukov Do",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.71111,
+    43.16028,
+    19.71111,
+    43.16028
+],
+  "geometry": {"coordinates":[19.71111,43.16028],"type":"Point"}
+}

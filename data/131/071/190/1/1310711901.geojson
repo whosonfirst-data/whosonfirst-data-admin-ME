@@ -1,0 +1,66 @@
+{
+  "id": 1310711901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.24278,43.4625,19.24278,43.4625",
+    "geom:latitude":43.4625,
+    "geom:longitude":19.24278,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Vis",
+    "gn:country_code":"ME",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342618,
+    "gn:latitude":43.4625,
+    "gn:longitude":19.24278,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Vis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342618
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"78714e5a3cde88176cdd787a959dd279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1310711901,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310711901,
+    "wof:lastmodified":1537664552,
+    "wof:name":"Vis",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.24278,
+    43.4625,
+    19.24278,
+    43.4625
+],
+  "geometry": {"coordinates":[19.24278,43.4625],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209022697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.87778,43.03806,19.87778,43.03806",
+    "geom:latitude":43.03806,
+    "geom:longitude":19.87778,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Stube",
+    "gn:country_code":"ME",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189658,
+    "gn:latitude":43.03806,
+    "gn:longitude":19.87778,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Stube",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stubao",
+        "Stubo",
+        "Stublo",
+        "Stube"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189658,
+        "wk:page":"Stubo,_Montenegro"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"0742fbdd9629a4bb93f58986a055aefe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209022697
+        }
+    ],
+    "wof:id":1209022697,
+    "wof:lastmodified":1537664417,
+    "wof:name":"Stube",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.87778,
+    43.03806,
+    19.87778,
+    43.03806
+],
+  "geometry": {"coordinates":[19.87778,43.03806],"type":"Point"}
+}

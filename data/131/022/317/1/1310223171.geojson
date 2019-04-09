@@ -1,0 +1,68 @@
+{
+  "id": 1310223171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98639,43.00778,18.98639,43.00778",
+    "geom:latitude":43.00778,
+    "geom:longitude":18.98639,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Donje Polje",
+    "gn:country_code":"ME",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317909,
+    "gn:latitude":43.00778,
+    "gn:longitude":18.98639,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Donje Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donje Polje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317909
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"854d086ac12d40823f12c22cbc1499ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310223171,
+            "region_id":85674695
+        }
+    ],
+    "wof:id":1310223171,
+    "wof:lastmodified":1537664495,
+    "wof:name":"Donje Polje",
+    "wof:parent_id":85674695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98639,
+    43.00778,
+    18.98639,
+    43.00778
+],
+  "geometry": {"coordinates":[18.98639,43.00778],"type":"Point"}
+}

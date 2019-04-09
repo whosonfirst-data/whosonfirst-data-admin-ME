@@ -1,0 +1,68 @@
+{
+  "id": 1327348429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29917,43.39306,19.29917,43.39306",
+    "geom:latitude":43.39306,
+    "geom:longitude":19.29917,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Srdanov Grob",
+    "gn:country_code":"ME",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343134,
+    "gn:latitude":43.39306,
+    "gn:longitude":19.29917,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Srdanov Grob",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Srdanov Grob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343134
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"fd79dd6c68d6873bdaa12f7ce4a1d212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1327348429,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1327348429,
+    "wof:lastmodified":1537664559,
+    "wof:name":"Srdanov Grob",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29917,
+    43.39306,
+    19.29917,
+    43.39306
+],
+  "geometry": {"coordinates":[19.29917,43.39306],"type":"Point"}
+}

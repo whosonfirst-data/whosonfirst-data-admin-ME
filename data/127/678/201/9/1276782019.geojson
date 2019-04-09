@@ -1,0 +1,68 @@
+{
+  "id": 1276782019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77278,43.08194,19.77278,43.08194",
+    "geom:latitude":43.08194,
+    "geom:longitude":19.77278,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Prestreke",
+    "gn:country_code":"ME",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339324,
+    "gn:latitude":43.08194,
+    "gn:longitude":19.77278,
+    "gn:modification_date":"2018-06-14",
+    "gn:name":"Prestreke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Prestreke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339324
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"aa1c4f4ccc88e7073307527aff2a4a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276782019,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1276782019,
+    "wof:lastmodified":1537664532,
+    "wof:name":"Prestreke",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77278,
+    43.08194,
+    19.77278,
+    43.08194
+],
+  "geometry": {"coordinates":[19.77278,43.08194],"type":"Point"}
+}

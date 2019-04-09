@@ -1,0 +1,65 @@
+{
+  "id": 1242692481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16111,43.01083,19.16111,43.01083",
+    "geom:latitude":43.01083,
+    "geom:longitude":19.16111,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kosorska Bukovica",
+    "gn:country_code":"ME",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303731,
+    "gn:latitude":43.01083,
+    "gn:longitude":19.16111,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Kosorska Bukovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303731
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"ff5df17a6f9494b8685ff75e3cbf01e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1242692481,
+            "region_id":85674695
+        }
+    ],
+    "wof:id":1242692481,
+    "wof:lastmodified":1536898167,
+    "wof:name":"Kosorska Bukovica",
+    "wof:parent_id":85674695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16111,
+    43.01083,
+    19.16111,
+    43.01083
+],
+  "geometry": {"coordinates":[19.16111,43.01083],"type":"Point"}
+}

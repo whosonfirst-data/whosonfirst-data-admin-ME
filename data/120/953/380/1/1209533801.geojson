@@ -1,0 +1,64 @@
+{
+  "id": 1209533801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21917,43.41778,19.21917,43.41778",
+    "geom:latitude":43.41778,
+    "geom:longitude":19.21917,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bancic Brdo",
+    "gn:country_code":"ME",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305009,
+    "gn:latitude":43.41778,
+    "gn:longitude":19.21917,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Ban\u010di\u0107 Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ban\u010di\u0107 Brdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305009
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"1f1bda7c44cd7f1c2cce7dbf65194ffa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209533801
+        }
+    ],
+    "wof:id":1209533801,
+    "wof:lastmodified":1537664472,
+    "wof:name":"Bancic Brdo",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21917,
+    43.41778,
+    19.21917,
+    43.41778
+],
+  "geometry": {"coordinates":[19.21917,43.41778],"type":"Point"}
+}

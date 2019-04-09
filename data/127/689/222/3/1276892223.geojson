@@ -1,0 +1,68 @@
+{
+  "id": 1276892223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69417,42.79806,18.69417,42.79806",
+    "geom:latitude":42.79806,
+    "geom:longitude":18.69417,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Surlin Do",
+    "gn:country_code":"ME",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317932,
+    "gn:latitude":42.79806,
+    "gn:longitude":18.69417,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"\u0160urlin Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0160urlin Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317932
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"1e18e10309bcc8fca9c6306b0d45bdb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276892223,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1276892223,
+    "wof:lastmodified":1537664495,
+    "wof:name":"Surlin Do",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69417,
+    42.79806,
+    18.69417,
+    42.79806
+],
+  "geometry": {"coordinates":[18.69417,42.79806],"type":"Point"}
+}

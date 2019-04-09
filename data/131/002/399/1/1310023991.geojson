@@ -1,0 +1,69 @@
+{
+  "id": 1310023991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9175,42.54611,18.9175,42.54611",
+    "geom:latitude":42.54611,
+    "geom:longitude":18.9175,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cevo",
+    "gn:country_code":"ME",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202635,
+    "gn:latitude":42.54611,
+    "gn:longitude":18.9175,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"\u010cevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u010cevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202635,
+        "wk:page":"%C4%8Cevo"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"ac1f82b028b7243101690bd34a14df4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310023991,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1310023991,
+    "wof:lastmodified":1537664440,
+    "wof:name":"Cevo",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9175,
+    42.54611,
+    18.9175,
+    42.54611
+],
+  "geometry": {"coordinates":[18.9175,42.54611],"type":"Point"}
+}

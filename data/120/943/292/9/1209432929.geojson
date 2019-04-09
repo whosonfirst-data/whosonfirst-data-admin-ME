@@ -1,0 +1,65 @@
+{
+  "id": 1209432929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.18639,42.14583,19.18639,42.14583",
+    "geom:latitude":42.14583,
+    "geom:longitude":19.18639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Repsa",
+    "gn:country_code":"ME",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318501,
+    "gn:latitude":42.14583,
+    "gn:longitude":19.18639,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Repsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Repaza",
+        "Repsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318501
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"a5ac0a12acd8ce8a89c5ca88b16afaaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209432929
+        }
+    ],
+    "wof:id":1209432929,
+    "wof:lastmodified":1537664499,
+    "wof:name":"Repsa",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.18639,
+    42.14583,
+    19.18639,
+    42.14583
+],
+  "geometry": {"coordinates":[19.18639,42.14583],"type":"Point"}
+}

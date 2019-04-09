@@ -1,0 +1,64 @@
+{
+  "id": 1209124223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0975,42.19083,19.0975,42.19083",
+    "geom:latitude":42.19083,
+    "geom:longitude":19.0975,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sredina Sela",
+    "gn:country_code":"ME",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3340655,
+    "gn:latitude":42.19083,
+    "gn:longitude":19.0975,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Sredina Sela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sredina Sela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3340655
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"e2bb0eff8db0dfddd68ac7dfce67755a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209124223
+        }
+    ],
+    "wof:id":1209124223,
+    "wof:lastmodified":1537664538,
+    "wof:name":"Sredina Sela",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0975,
+    42.19083,
+    19.0975,
+    42.19083
+],
+  "geometry": {"coordinates":[19.0975,42.19083],"type":"Point"}
+}

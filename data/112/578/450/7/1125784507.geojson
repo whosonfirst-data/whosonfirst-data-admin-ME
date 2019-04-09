@@ -1,0 +1,76 @@
+{
+  "id": 1125784507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.12917,42.91417,19.12917,42.91417",
+    "geom:latitude":42.91417,
+    "geom:longitude":19.12917,
+    "gn:gn_country":"ME",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":297,
+    "gn:population":297,
+    "iso:country":"ME",
+    "lbl:latitude":42.91417,
+    "lbl:longitude":19.12917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ME",
+    "qs_pg:gn_country":"ME",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":3201721,
+    "qs_pg:gn_pop":297,
+    "qs_pg:name":"Donja Bijela",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581739,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201721,
+        "qs_pg:id":581739
+    },
+    "wof:country":"ME",
+    "wof:created":1497290620,
+    "wof:geomhash":"f324f7dd3200042c00c07b8b45a6180b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1125784507,
+            "region_id":85674695
+        }
+    ],
+    "wof:id":1125784507,
+    "wof:lastmodified":1509391837,
+    "wof:name":"Donja Bijela",
+    "wof:parent_id":85674695,
+    "wof:placetype":"locality",
+    "wof:population":297,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.12917,
+    42.91417,
+    19.12917,
+    42.91417
+],
+  "geometry": {"coordinates":[19.12917,42.91417],"type":"Point"}
+}

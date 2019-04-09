@@ -1,0 +1,110 @@
+{
+  "id": 1125776971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.19417,42.5075,19.19417,42.5075",
+    "geom:latitude":42.5075,
+    "geom:longitude":19.19417,
+    "gn:gn_country":"ME",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1241,
+    "gn:population":1241,
+    "iso:country":"ME",
+    "lbl:latitude":42.5075,
+    "lbl:longitude":19.19417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Spu\u017e"
+    ],
+    "name:dut_x_preferred":[
+        "Spu\u017e"
+    ],
+    "name:eng_x_preferred":[
+        "Spu\u017e"
+    ],
+    "name:fre_x_preferred":[
+        "Spu\u017e"
+    ],
+    "name:ger_x_preferred":[
+        "Spu\u017e"
+    ],
+    "name:hrv_x_preferred":[
+        "Spu\u017e"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u067e\u0648\u0698"
+    ],
+    "name:rum_x_preferred":[
+        "Spu\u017e"
+    ],
+    "name:slv_x_preferred":[
+        "Spu\u017e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043f\u0443\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Spu\u017e"
+    ],
+    "qs_pg:aaroncc":"ME",
+    "qs_pg:gn_country":"ME",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3190178,
+    "qs_pg:gn_pop":1241,
+    "qs_pg:name":"Spu\u017e",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1043915,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190178,
+        "qs_pg:id":1043915,
+        "wd:id":"Q3123315"
+    },
+    "wof:country":"ME",
+    "wof:created":1497290303,
+    "wof:geomhash":"6ee75570998f1f54c60126c641199a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1125776971,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":1125776971,
+    "wof:lastmodified":1553816527,
+    "wof:name":"Spu\u017e",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:population":1241,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.19417,
+    42.5075,
+    19.19417,
+    42.5075
+],
+  "geometry": {"coordinates":[19.19417,42.5075],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226762543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78528,42.90222,19.78528,42.90222",
+    "geom:latitude":42.90222,
+    "geom:longitude":19.78528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vuca",
+    "gn:country_code":"ME",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3338583,
+    "gn:latitude":42.90222,
+    "gn:longitude":19.78528,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Vu\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338583
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"679b648744db2f02e9f4517eb5337a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226762543,
+            "region_id":85674653
+        }
+    ],
+    "wof:id":1226762543,
+    "wof:lastmodified":1536691449,
+    "wof:name":"Vuca",
+    "wof:parent_id":85674653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78528,
+    42.90222,
+    19.78528,
+    42.90222
+],
+  "geometry": {"coordinates":[19.78528,42.90222],"type":"Point"}
+}

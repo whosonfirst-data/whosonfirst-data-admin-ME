@@ -1,0 +1,69 @@
+{
+  "id": 1327348385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76278,42.37556,18.76278,42.37556",
+    "geom:latitude":42.37556,
+    "geom:longitude":18.76278,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sutvara",
+    "gn:country_code":"ME",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189425,
+    "gn:latitude":42.37556,
+    "gn:longitude":18.76278,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Sutvara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stvara",
+        "Sutvara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189425
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"0bf0af3fcb6a4c0975240a923b8c7f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1327348385,
+            "region_id":85674643
+        }
+    ],
+    "wof:id":1327348385,
+    "wof:lastmodified":1537664417,
+    "wof:name":"Sutvara",
+    "wof:parent_id":85674643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76278,
+    42.37556,
+    18.76278,
+    42.37556
+],
+  "geometry": {"coordinates":[18.76278,42.37556],"type":"Point"}
+}

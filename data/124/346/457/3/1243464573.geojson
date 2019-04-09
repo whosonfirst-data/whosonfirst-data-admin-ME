@@ -1,0 +1,66 @@
+{
+  "id": 1243464573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11056,42.22139,19.11056,42.22139",
+    "geom:latitude":42.22139,
+    "geom:longitude":19.11056,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Godinje",
+    "gn:country_code":"ME",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200522,
+    "gn:latitude":42.22139,
+    "gn:longitude":19.11056,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Godinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200522,
+        "wk:page":"Godinje"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"aba9935f064c91083db98d396baa150f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1243464573,
+            "region_id":85674613
+        }
+    ],
+    "wof:id":1243464573,
+    "wof:lastmodified":1537568313,
+    "wof:name":"Godinje",
+    "wof:parent_id":85674613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11056,
+    42.22139,
+    19.11056,
+    42.22139
+],
+  "geometry": {"coordinates":[19.11056,42.22139],"type":"Point"}
+}

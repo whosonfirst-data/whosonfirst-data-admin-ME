@@ -1,0 +1,79 @@
+{
+  "id": 1125867205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.09167,42.35639,19.09167,42.35639",
+    "geom:latitude":42.35639,
+    "geom:longitude":19.09167,
+    "gn:gn_country":"ME",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":163,
+    "gn:population":163,
+    "iso:country":"ME",
+    "lbl:latitude":42.35639,
+    "lbl:longitude":19.09167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:srp_x_preferred":[
+        "Dru\u0161i\u0107i"
+    ],
+    "qs_pg:aaroncc":"ME",
+    "qs_pg:gn_country":"ME",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3201143,
+    "qs_pg:gn_pop":163,
+    "qs_pg:name":"Dru\u0161i\u0107i",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":95150,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201143,
+        "qs_pg:id":95150
+    },
+    "wof:country":"ME",
+    "wof:created":1497294102,
+    "wof:geomhash":"8f37be43e59881d6e692296e4eb4ec3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1125867205,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1125867205,
+    "wof:lastmodified":1509397061,
+    "wof:name":"Dru\u0161i\u0107i",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:population":163,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09167,
+    42.35639,
+    19.09167,
+    42.35639
+],
+  "geometry": {"coordinates":[19.09167,42.35639],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276667693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75278,43.13806,18.75278,43.13806",
+    "geom:latitude":43.13806,
+    "geom:longitude":18.75278,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kovaci",
+    "gn:country_code":"ME",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197519,
+    "gn:latitude":43.13806,
+    "gn:longitude":18.75278,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Kova\u010di",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197519
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"5944d128f74451cac963d586eb62831c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276667693,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":1276667693,
+    "wof:lastmodified":1536826740,
+    "wof:name":"Kovaci",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75278,
+    43.13806,
+    18.75278,
+    43.13806
+],
+  "geometry": {"coordinates":[18.75278,43.13806],"type":"Point"}
+}

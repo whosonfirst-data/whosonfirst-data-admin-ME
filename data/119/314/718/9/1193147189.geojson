@@ -1,0 +1,68 @@
+{
+  "id": 1193147189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78361,42.63694,18.78361,42.63694",
+    "geom:latitude":42.63694,
+    "geom:longitude":18.78361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jezerca",
+    "gn:country_code":"ME",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3325506,
+    "gn:latitude":42.63694,
+    "gn:longitude":18.78361,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Jezerca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jezerca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3325506
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"273e29e43d18be976e589b2681b0910a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1193147189,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1193147189,
+    "wof:lastmodified":1537664503,
+    "wof:name":"Jezerca",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78361,
+    42.63694,
+    18.78361,
+    42.63694
+],
+  "geometry": {"coordinates":[18.78361,42.63694],"type":"Point"}
+}

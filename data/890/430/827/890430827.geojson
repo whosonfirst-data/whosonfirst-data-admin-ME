@@ -1,0 +1,66 @@
+{
+  "id": 890430827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93583,42.31444,18.93583,42.31444",
+    "geom:latitude":42.31444,
+    "geom:longitude":18.93583,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":15,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Obzovica"
+    ],
+    "qs:name":"Obzovica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316945,
+        "qs:id":582472
+    },
+    "wof:country":"ME",
+    "wof:created":1469051867,
+    "wof:geomhash":"d612db58b56cc3bcd9928d8d8d5c3e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430827,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":890430827,
+    "wof:lastmodified":1505343520,
+    "wof:name":"Obzovica",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93583,
+    42.31444,
+    18.93583,
+    42.31444
+],
+  "geometry": {"coordinates":[18.93583,42.31444],"type":"Point"}
+}

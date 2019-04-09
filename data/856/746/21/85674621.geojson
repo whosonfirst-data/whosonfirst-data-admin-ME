@@ -1,0 +1,296 @@
+{
+  "id": 85674621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.013409,
+    "geom:area_square_m":122664097.022231,
+    "geom:bbox":"18.7849312677,42.1832700211,19.0008870786,42.3600245225",
+    "geom:latitude":42.282771,
+    "geom:longitude":18.886633,
+    "gn:id":"",
+    "iso:country":"ME",
+    "label:eng_x_preferred_longname":[
+        "Budva Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "lbl:latitude":42.317237,
+    "lbl:longitude":18.840002,
+    "mps:latitude":42.317237,
+    "mps:longitude":18.840002,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0628\u0648\u062f\u0641\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09a6\u09cd\u09ad\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:dan_x_preferred":[
+        "Budva Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Budva Municipality"
+    ],
+    "name:eng_x_preferred":[
+        "Budva"
+    ],
+    "name:est_x_preferred":[
+        "Budva vald"
+    ],
+    "name:fin_x_preferred":[
+        "Budvan kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Municipalit\u00e9 de Budva"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e3\u10d3\u10d5\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Gemeinde Budva"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03bd\u03c4\u03b2\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac1\u0aa6\u0acd\u0ab5 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u0921\u0935\u093e \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Budva"
+    ],
+    "name:ita_x_preferred":[
+        "Budua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30c9\u30f4\u30a1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ca1\u0ccd\u0cb5\u0cbe \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\ub4dc\ubc14 \uc9c0\ubc29 \uc790\uce58\uc81c"
+    ],
+    "name:lav_x_preferred":[
+        "Budvas pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Budvos op\u0161tina"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0443\u0434\u0432\u0430"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0941\u0921\u0935\u0947 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Budva Municipality"
+    ],
+    "name:nob_x_preferred":[
+        "Budva Kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Budva"
+    ],
+    "name:por_x_preferred":[
+        "Budva"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Budva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0432\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd4\u0da9\u0dca\u0dc0\u0dcf \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Budva"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0443\u0434\u0432\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u0434\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Budva"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc2\u0ba4\u0bcd\u0bb5\u0bbe \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c41\u0c21\u0c4d\u0c35\u0c3e \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1a\u0e38\u0e49\u0e14\u0e27\u0e48\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Budva Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0434\u0432\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Budva"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Budva"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u062f\u0648\u0627 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Budva"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MNE",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MNE-1499",
+    "ne:adm1_code":"MNE-1499",
+    "ne:admin":"Montenegro",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"ME.BU",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1499",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MJ00",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Montenegro",
+    "ne:gn_a1_code":"ME.05",
+    "ne:gn_id":"3203104",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Budva",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MJ00",
+    "ne:gns_id":"-76640",
+    "ne:gns_lang":"srp",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Budva, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MNE",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"ME-",
+    "ne:iso_a2":"ME",
+    "ne:labelrank":"9",
+    "ne:latitude":"42.30390000000",
+    "ne:longitude":"18.89290000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":4,
+    "ne:name":"Budva",
+    "ne:name_alt":"",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BU",
+    "ne:provnum_ne":"1",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"MNE",
+    "ne:sub_code":"",
+    "ne:type":"Op\u0161tina",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":29389243,
+    "ne:woe_label":"Budva, ME, Montenegro",
+    "ne:woe_name":"Budva",
+    "qs:a0":"Montenegro",
+    "qs:a0_lc":"ME",
+    "qs:a1":"Budva",
+    "qs:a1_lc":"MNE-1499",
+    "qs:adm0":"Montenegro",
+    "qs:adm0_a3":"MNE",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-04-01",
+    "statoids:area_km":"122",
+    "statoids:area_mi":"47",
+    "statoids:as_of_date":"2011-04-01",
+    "statoids:capital":"Budva",
+    "statoids:country":"ME",
+    "statoids:gec":"MJ05",
+    "statoids:hasc":"ME.BU",
+    "statoids:iso":"05",
+    "statoids:name":"Budva",
+    "statoids:population":"19218",
+    "statoids:timezone":"+1~",
+    "statoids:type":"commune",
+    "unlc:subdivision":"ME-05",
+    "wof:belongsto":[
+        102191581,
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MJ05",
+        "gn:id":3203104,
+        "gp:id":29389243,
+        "hasc:id":"ME.BU",
+        "iso:id":"ME-05",
+        "qs:id":903220,
+        "unlc:id":"ME-05",
+        "wd:id":"Q3739214"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"ca520d5d7456daa1bbeb1a6104542daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "region_id":85674621
+        }
+    ],
+    "wof:id":85674621,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "srp"
+    ],
+    "wof:lang_x_spoken":[
+        "srp"
+    ],
+    "wof:lastmodified":1553814808,
+    "wof:name":"Budva",
+    "wof:parent_id":85632667,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"commune",
+    "wof:population":19218,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:shortcode":"BU",
+    "wof:subdivision":"ME-05",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78493126766392,
+    42.18327002109464,
+    19.00088707857589,
+    42.36002452251375
+],
+  "geometry": {"coordinates":[[[18.92254560719408,42.30214691834567],[18.92859175020914,42.28920197249306],[18.94574832462553,42.2652757837505],[18.97324018678523,42.24171133111309],[18.99587446523441,42.22163503752699],[19.00088707857589,42.20853506114423],[18.97158654128589,42.18339447737327],[18.97144149053241,42.18327002109464],[18.96802819104823,42.18870677359877],[18.95346113442389,42.1998558614589],[18.91334069082029,42.22223541952906],[18.90170332145118,42.23749420859093],[18.89470462282014,42.27049388228687],[18.88599694070632,42.28436920827238],[18.87159264428516,42.29047272353739],[18.85401451895495,42.29047272353739],[18.83887780027032,42.28571198152281],[18.83139082102963,42.27753326984458],[18.82650800953706,42.28221263220729],[18.82048587302467,42.28668854454077],[18.81763756632068,42.2911644550756],[18.80152428551742,42.28436920827238],[18.79395592482609,42.28034088762195],[18.78874759202779,42.27602773639097],[18.78874402621591,42.27602484686923],[18.78798017714354,42.28098541914181],[18.78601647328168,42.30894236929498],[18.78493126766392,42.34005158081584],[18.79356123216519,42.35421092439469],[18.79712690558227,42.36002452251375],[18.82957970513934,42.35178213253943],[18.85288577625761,42.34423737185728],[18.88456342855943,42.33948314093425],[18.91417402511121,42.3200528024949],[18.92254560719408,42.30214691834567]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343671739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17,42.16111,19.17,42.16111",
+    "geom:latitude":42.16111,
+    "geom:longitude":19.17,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gurza",
+    "gn:country_code":"ME",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199467,
+    "gn:latitude":42.16111,
+    "gn:longitude":19.17,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Gurza",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guraza",
+        "Gurza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199467
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"eecd006502c22bd44ceb352a0427c9f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343671739,
+            "region_id":85674613
+        }
+    ],
+    "wof:id":1343671739,
+    "wof:lastmodified":1537664435,
+    "wof:name":"Gurza",
+    "wof:parent_id":85674613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17,
+    42.16111,
+    19.17,
+    42.16111
+],
+  "geometry": {"coordinates":[19.17,42.16111],"type":"Point"}
+}

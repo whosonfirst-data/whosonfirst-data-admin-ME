@@ -1,0 +1,66 @@
+{
+  "id": 1243572589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.20806,43.40639,19.20806,43.40639",
+    "geom:latitude":43.40639,
+    "geom:longitude":19.20806,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Glisnica",
+    "gn:country_code":"ME",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200588,
+    "gn:latitude":43.40639,
+    "gn:longitude":19.20806,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Glisnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200588,
+        "wk:page":"Glisnica,_Montenegro"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"30aa09ba396021b995836029efe09329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1243572589,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1243572589,
+    "wof:lastmodified":1537568313,
+    "wof:name":"Glisnica",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.20806,
+    43.40639,
+    19.20806,
+    43.40639
+],
+  "geometry": {"coordinates":[19.20806,43.40639],"type":"Point"}
+}

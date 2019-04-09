@@ -1,0 +1,68 @@
+{
+  "id": 1259601337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.53917,42.94333,18.53917,42.94333",
+    "geom:latitude":42.94333,
+    "geom:longitude":18.53917,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ledenica",
+    "gn:country_code":"ME",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339057,
+    "gn:latitude":42.94333,
+    "gn:longitude":18.53917,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Ledenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ledenica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339057
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"b9d07386bf284de21468e0775097d528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259601337,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1259601337,
+    "wof:lastmodified":1537664529,
+    "wof:name":"Ledenica",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.53917,
+    42.94333,
+    18.53917,
+    42.94333
+],
+  "geometry": {"coordinates":[18.53917,42.94333],"type":"Point"}
+}

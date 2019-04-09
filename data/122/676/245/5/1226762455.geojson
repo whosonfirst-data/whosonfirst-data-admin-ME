@@ -1,0 +1,69 @@
+{
+  "id": 1226762455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66806,42.39889,18.66806,42.39889",
+    "geom:latitude":42.39889,
+    "geom:longitude":18.66806,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kostici",
+    "gn:country_code":"ME",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3341912,
+    "gn:latitude":42.39889,
+    "gn:longitude":18.66806,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Kosti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kosti\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3341912,
+        "wk:page":"Kosti%C4%87i"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"df35b09be270534afc6d030385052899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226762455,
+            "region_id":85674693
+        }
+    ],
+    "wof:id":1226762455,
+    "wof:lastmodified":1537664549,
+    "wof:name":"Kostici",
+    "wof:parent_id":85674693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66806,
+    42.39889,
+    18.66806,
+    42.39889
+],
+  "geometry": {"coordinates":[18.66806,42.39889],"type":"Point"}
+}

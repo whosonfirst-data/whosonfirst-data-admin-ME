@@ -1,0 +1,65 @@
+{
+  "id": 890431073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.89333,42.2675,18.89333,42.2675",
+    "geom:latitude":42.2675,
+    "geom:longitude":18.89333,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:srp_x_preferred":[
+        "Pr\u017eno"
+    ],
+    "qs:name":"Pr\u017eno",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318402,
+        "gp:id":537043,
+        "qs:id":582590,
+        "wk:page":"Pr\u017eno"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051876,
+    "wof:geomhash":"1e6abb6a892ee4056dd19da8dbcc71ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":890431073
+        }
+    ],
+    "wof:id":890431073,
+    "wof:lastmodified":1527735416,
+    "wof:name":"Pr\u017eno",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.89333,
+    42.2675,
+    18.89333,
+    42.2675
+],
+  "geometry": {"coordinates":[18.89333,42.2675],"type":"Point"}
+}

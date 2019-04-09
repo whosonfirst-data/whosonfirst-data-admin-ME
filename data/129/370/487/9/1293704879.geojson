@@ -1,0 +1,68 @@
+{
+  "id": 1293704879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70833,42.64139,18.70833,42.64139",
+    "geom:latitude":42.64139,
+    "geom:longitude":18.70833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tospude",
+    "gn:country_code":"ME",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317326,
+    "gn:latitude":42.64139,
+    "gn:longitude":18.70833,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Tospude",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Tospude"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317326
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"1b5de1b27973dc2077d8580151b89ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293704879,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1293704879,
+    "wof:lastmodified":1537664487,
+    "wof:name":"Tospude",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70833,
+    42.64139,
+    18.70833,
+    42.64139
+],
+  "geometry": {"coordinates":[18.70833,42.64139],"type":"Point"}
+}

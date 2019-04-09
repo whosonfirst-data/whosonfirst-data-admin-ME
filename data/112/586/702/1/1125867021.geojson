@@ -1,0 +1,79 @@
+{
+  "id": 1125867021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11361,43.06417,19.11361,43.06417",
+    "geom:latitude":43.06417,
+    "geom:longitude":19.11361,
+    "gn:gn_country":"ME",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":115,
+    "gn:population":115,
+    "iso:country":"ME",
+    "lbl:latitude":43.06417,
+    "lbl:longitude":19.11361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Provalije"
+    ],
+    "qs_pg:aaroncc":"ME",
+    "qs_pg:gn_country":"ME",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3192287,
+    "qs_pg:gn_pop":115,
+    "qs_pg:name":"Provalija",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":95032,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192287,
+        "qs_pg:id":95032
+    },
+    "wof:country":"ME",
+    "wof:created":1497294093,
+    "wof:geomhash":"5247a3cc16d7306178c510ce57edeb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1125867021,
+            "region_id":85674695
+        }
+    ],
+    "wof:id":1125867021,
+    "wof:lastmodified":1509397053,
+    "wof:name":"Provalija",
+    "wof:parent_id":85674695,
+    "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11361,
+    43.06417,
+    19.11361,
+    43.06417
+],
+  "geometry": {"coordinates":[19.11361,43.06417],"type":"Point"}
+}

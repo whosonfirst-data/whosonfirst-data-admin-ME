@@ -1,0 +1,65 @@
+{
+  "id": 1209629965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.20139,43.41528,19.20139,43.41528",
+    "geom:latitude":43.41528,
+    "geom:longitude":19.20139,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kovacevici",
+    "gn:country_code":"ME",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342612,
+    "gn:latitude":43.41528,
+    "gn:longitude":19.20139,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Kova\u010devi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kova\u010devi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342612,
+        "wk:page":"Kova%C4%8Devi%C4%87i"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"085e184b8bff7eda0cad9e37b512c8a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209629965
+        }
+    ],
+    "wof:id":1209629965,
+    "wof:lastmodified":1537664552,
+    "wof:name":"Kovacevici",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.20139,
+    43.41528,
+    19.20139,
+    43.41528
+],
+  "geometry": {"coordinates":[19.20139,43.41528],"type":"Point"}
+}

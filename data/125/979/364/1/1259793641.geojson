@@ -1,0 +1,68 @@
+{
+  "id": 1259793641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.91917,43.2025,18.91917,43.2025",
+    "geom:latitude":43.2025,
+    "geom:longitude":18.91917,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hercegova Strana",
+    "gn:country_code":"ME",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342305,
+    "gn:latitude":43.2025,
+    "gn:longitude":18.91917,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Hercegova Strana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Hercegova Strana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342305
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"d02f5cbdc6cdf41d6a9f81e6d789c721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259793641,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":1259793641,
+    "wof:lastmodified":1537664551,
+    "wof:name":"Hercegova Strana",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.91917,
+    43.2025,
+    18.91917,
+    43.2025
+],
+  "geometry": {"coordinates":[18.91917,43.2025],"type":"Point"}
+}

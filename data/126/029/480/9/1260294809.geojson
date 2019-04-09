@@ -1,0 +1,68 @@
+{
+  "id": 1260294809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.32028,43.115,19.32028,43.115",
+    "geom:latitude":43.115,
+    "geom:longitude":19.32028,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Palez",
+    "gn:country_code":"ME",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303994,
+    "gn:latitude":43.115,
+    "gn:longitude":19.32028,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Pale\u017e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Pale\u017e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303994
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"e9e903fa8efdd33f6b9adc7aca72f5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1260294809,
+            "region_id":85674701
+        }
+    ],
+    "wof:id":1260294809,
+    "wof:lastmodified":1537664466,
+    "wof:name":"Palez",
+    "wof:parent_id":85674701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.32028,
+    43.115,
+    19.32028,
+    43.115
+],
+  "geometry": {"coordinates":[19.32028,43.115],"type":"Point"}
+}

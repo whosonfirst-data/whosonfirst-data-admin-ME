@@ -1,0 +1,68 @@
+{
+  "id": 1343968231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23444,42.9375,20.23444,42.9375",
+    "geom:latitude":42.9375,
+    "geom:longitude":20.23444,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Razdolje",
+    "gn:country_code":"ME",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831624,
+    "gn:latitude":42.9375,
+    "gn:longitude":20.23444,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Razdolje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Razdolje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831624
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"a580551502f29ff20fe257c841b559cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343968231,
+            "region_id":85674633
+        }
+    ],
+    "wof:id":1343968231,
+    "wof:lastmodified":1537664411,
+    "wof:name":"Razdolje",
+    "wof:parent_id":85674633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23444,
+    42.9375,
+    20.23444,
+    42.9375
+],
+  "geometry": {"coordinates":[20.23444,42.9375],"type":"Point"}
+}

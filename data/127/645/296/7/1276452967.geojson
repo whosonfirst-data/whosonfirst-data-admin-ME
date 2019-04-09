@@ -1,0 +1,69 @@
+{
+  "id": 1276452967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.80917,42.73167,19.80917,42.73167",
+    "geom:latitude":42.73167,
+    "geom:longitude":19.80917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Seoca",
+    "gn:country_code":"ME",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3191012,
+    "gn:latitude":42.73167,
+    "gn:longitude":19.80917,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Seoca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seoce",
+        "Seoca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191012
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"62e6c03bfd6002a8388f069bc3fc62ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276452967,
+            "region_id":85674649
+        }
+    ],
+    "wof:id":1276452967,
+    "wof:lastmodified":1537664419,
+    "wof:name":"Seoca",
+    "wof:parent_id":85674649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.80917,
+    42.73167,
+    19.80917,
+    42.73167
+],
+  "geometry": {"coordinates":[19.80917,42.73167],"type":"Point"}
+}

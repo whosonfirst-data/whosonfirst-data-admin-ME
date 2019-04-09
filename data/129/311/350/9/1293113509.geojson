@@ -1,0 +1,68 @@
+{
+  "id": 1293113509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.23639,42.58639,19.23639,42.58639",
+    "geom:latitude":42.58639,
+    "geom:longitude":19.23639,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tegovine",
+    "gn:country_code":"ME",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338426,
+    "gn:latitude":42.58639,
+    "gn:longitude":19.23639,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Tegovine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Tegovine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338426
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"99da611fd00055307eb8f44d5a3d8699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293113509,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":1293113509,
+    "wof:lastmodified":1537664517,
+    "wof:name":"Tegovine",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.23639,
+    42.58639,
+    19.23639,
+    42.58639
+],
+  "geometry": {"coordinates":[19.23639,42.58639],"type":"Point"}
+}

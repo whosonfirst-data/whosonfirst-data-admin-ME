@@ -1,0 +1,68 @@
+{
+  "id": 1260095023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67972,42.76611,18.67972,42.76611",
+    "geom:latitude":42.76611,
+    "geom:longitude":18.67972,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Durdev Do",
+    "gn:country_code":"ME",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317995,
+    "gn:latitude":42.76611,
+    "gn:longitude":18.67972,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"\u00d0ur\u0111ev Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u00d0ur\u0111ev Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317995
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"4713bf0176c29e8fec27d2ad26de0b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1260095023,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1260095023,
+    "wof:lastmodified":1537664495,
+    "wof:name":"Durdev Do",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67972,
+    42.76611,
+    18.67972,
+    42.76611
+],
+  "geometry": {"coordinates":[18.67972,42.76611],"type":"Point"}
+}

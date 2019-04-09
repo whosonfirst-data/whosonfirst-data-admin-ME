@@ -1,0 +1,68 @@
+{
+  "id": 1293497483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2775,43.05361,19.2775,43.05361",
+    "geom:latitude":43.05361,
+    "geom:longitude":19.2775,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Mandica Do",
+    "gn:country_code":"ME",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3340810,
+    "gn:latitude":43.05361,
+    "gn:longitude":19.2775,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Mandi\u0107a Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mandi\u0107a Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3340810
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"a034b76a3051293d882b1988c143a9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293497483,
+            "region_id":85674701
+        }
+    ],
+    "wof:id":1293497483,
+    "wof:lastmodified":1537664539,
+    "wof:name":"Mandica Do",
+    "wof:parent_id":85674701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2775,
+    43.05361,
+    19.2775,
+    43.05361
+],
+  "geometry": {"coordinates":[19.2775,43.05361],"type":"Point"}
+}

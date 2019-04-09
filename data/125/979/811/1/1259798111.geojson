@@ -1,0 +1,68 @@
+{
+  "id": 1259798111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93944,42.52972,18.93944,42.52972",
+    "geom:latitude":42.52972,
+    "geom:longitude":18.93944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Grabova Gomila",
+    "gn:country_code":"ME",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317815,
+    "gn:latitude":42.52972,
+    "gn:longitude":18.93944,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Grabova Gomila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Grabova Gomila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317815
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"7e5fbc9c658534cde4a9491d7c822064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259798111,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1259798111,
+    "wof:lastmodified":1537664494,
+    "wof:name":"Grabova Gomila",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93944,
+    42.52972000000001,
+    18.93944,
+    42.52972000000001
+],
+  "geometry": {"coordinates":[18.93944,42.52972000000001],"type":"Point"}
+}

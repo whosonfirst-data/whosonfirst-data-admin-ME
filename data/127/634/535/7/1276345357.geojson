@@ -1,0 +1,65 @@
+{
+  "id": 1276345357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.73639,42.43333,18.73639,42.43333",
+    "geom:latitude":42.43333,
+    "geom:longitude":18.73639,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bogdasici",
+    "gn:country_code":"ME",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3341091,
+    "gn:latitude":42.43333,
+    "gn:longitude":18.73639,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Bogda\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3341091
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"d50fa09c60625a85835aa4ef1c9c8fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1276345357,
+            "region_id":85674643
+        }
+    ],
+    "wof:id":1276345357,
+    "wof:lastmodified":1536762530,
+    "wof:name":"Bogdasici",
+    "wof:parent_id":85674643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.73639,
+    42.43333,
+    18.73639,
+    42.43333
+],
+  "geometry": {"coordinates":[18.73639,42.43333],"type":"Point"}
+}

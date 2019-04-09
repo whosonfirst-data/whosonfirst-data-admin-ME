@@ -1,0 +1,66 @@
+{
+  "id": 890430277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.31833,43.20472,19.31833,43.20472",
+    "geom:latitude":43.20472,
+    "geom:longitude":19.31833,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":379,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Kosanica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197640,
+        "gp:id":534686,
+        "qs:id":581693,
+        "wk:page":"Kosanica"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051846,
+    "wof:geomhash":"092b8873cd4b5effaf273e6ac0a5ecf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430277,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":890430277,
+    "wof:lastmodified":1527729740,
+    "wof:name":"Kosanica",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:population":379,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.31833,
+    43.20472,
+    19.31833,
+    43.20472
+],
+  "geometry": {"coordinates":[19.31833,43.20472],"type":"Point"}
+}

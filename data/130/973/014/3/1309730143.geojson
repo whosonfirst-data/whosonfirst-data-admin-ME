@@ -1,0 +1,68 @@
+{
+  "id": 1309730143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78833,42.83056,18.78833,42.83056",
+    "geom:latitude":42.83056,
+    "geom:longitude":18.78833,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Trnovac",
+    "gn:country_code":"ME",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318055,
+    "gn:latitude":42.83056,
+    "gn:longitude":18.78833,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Trnovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Trnovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318055
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"fc75da59626d0af01ce109fd52a30271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1309730143,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1309730143,
+    "wof:lastmodified":1537664496,
+    "wof:name":"Trnovac",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78833,
+    42.83056,
+    18.78833,
+    42.83056
+],
+  "geometry": {"coordinates":[18.78833,42.83056],"type":"Point"}
+}

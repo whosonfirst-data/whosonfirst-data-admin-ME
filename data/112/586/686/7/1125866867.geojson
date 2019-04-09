@@ -1,0 +1,98 @@
+{
+  "id": 1125866867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.40194,43.09417,19.40194,43.09417",
+    "geom:latitude":43.09417,
+    "geom:longitude":19.40194,
+    "gn:gn_country":"ME",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":153,
+    "gn:population":153,
+    "iso:country":"ME",
+    "lbl:latitude":43.09417,
+    "lbl:longitude":19.40194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Va\u0161kovo"
+    ],
+    "name:eng_x_preferred":[
+        "Va\u0161kovo"
+    ],
+    "name:fre_x_preferred":[
+        "Va\u0161kovo"
+    ],
+    "name:rum_x_preferred":[
+        "Va\u0161kovo"
+    ],
+    "name:slv_x_preferred":[
+        "Va\u0161kovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Karaula Va\u0161kovo"
+    ],
+    "qs_pg:aaroncc":"ME",
+    "qs_pg:gn_country":"ME",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3188345,
+    "qs_pg:gn_pop":153,
+    "qs_pg:name":"Va\u0161kovo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":94964,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188345,
+        "qs_pg:id":94964,
+        "wd:id":"Q3555149"
+    },
+    "wof:country":"ME",
+    "wof:created":1497294086,
+    "wof:geomhash":"339df448c2fce9a5057a1d51a64b5462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1125866867,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1125866867,
+    "wof:lastmodified":1514484645,
+    "wof:name":"Va\u0161kovo",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:population":153,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.40194,
+    43.09417,
+    19.40194,
+    43.09417
+],
+  "geometry": {"coordinates":[19.40194,43.09417],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 890430871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.94306,42.30667,18.94306,42.30667",
+    "geom:latitude":42.30667,
+    "geom:longitude":18.94306,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Bukoviku"
+    ],
+    "name:dut_x_preferred":[
+        "Bukovik"
+    ],
+    "name:eng_x_preferred":[
+        "Bukovik"
+    ],
+    "name:fre_x_preferred":[
+        "Bukovik"
+    ],
+    "name:rum_x_preferred":[
+        "Bukovik"
+    ],
+    "name:slv_x_preferred":[
+        "Bukovik"
+    ],
+    "name:srp_x_preferred":[
+        "Bukovik"
+    ],
+    "qs:name":"Bukovik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317038,
+        "qs:id":582485,
+        "wd:id":"Q2927845",
+        "wk:page":"Bukovik"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051869,
+    "wof:geomhash":"40dd417ceb3d6e6e30fe1e07022d6ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430871,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":890430871,
+    "wof:lastmodified":1553816394,
+    "wof:name":"Bukovik",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94306,
+    42.30667,
+    18.94306,
+    42.30667
+],
+  "geometry": {"coordinates":[18.94306,42.30667],"type":"Point"}
+}

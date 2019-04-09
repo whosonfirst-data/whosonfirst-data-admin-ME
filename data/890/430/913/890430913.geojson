@@ -1,0 +1,80 @@
+{
+  "id": 890430913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.06333,42.6125,19.06333,42.6125",
+    "geom:latitude":42.6125,
+    "geom:longitude":19.06333,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":103,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vi\u0161"
+    ],
+    "name:eng_x_preferred":[
+        "Vi\u0161"
+    ],
+    "name:fre_x_preferred":[
+        "Vi\u0161"
+    ],
+    "name:rum_x_preferred":[
+        "Vi\u0161"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448"
+    ],
+    "qs:name":"Vi\u0161",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317670,
+        "gp:id":535047,
+        "qs:id":582507,
+        "wd:id":"Q3561709"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051871,
+    "wof:geomhash":"54cdf19927109a6027b9f8425cf45572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890430913,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":890430913,
+    "wof:lastmodified":1514484645,
+    "wof:name":"Vi\u0161",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06333,
+    42.6125,
+    19.06333,
+    42.6125
+],
+  "geometry": {"coordinates":[19.06333,42.6125],"type":"Point"}
+}

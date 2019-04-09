@@ -1,0 +1,70 @@
+{
+  "id": 890429147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98083,42.35778,18.98083,42.35778",
+    "geom:latitude":42.35778,
+    "geom:longitude":18.98083,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":100,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Gornji Ceklin"
+    ],
+    "qs:name":"Ceklin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":763,
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3220361,
+        "gp:id":533157,
+        "qs:id":95308,
+        "wd:id":"Q5057405",
+        "wk:page":"Ceklin"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051796,
+    "wof:geomhash":"a13d9fc5d503f79dfd6b0a89dc42c984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890429147,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":890429147,
+    "wof:lastmodified":1527792797,
+    "wof:name":"Ceklin",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98083,
+    42.35778,
+    18.98083,
+    42.35778
+],
+  "geometry": {"coordinates":[18.98083,42.35778],"type":"Point"}
+}

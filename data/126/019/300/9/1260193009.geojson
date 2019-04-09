@@ -1,0 +1,65 @@
+{
+  "id": 1260193009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.12056,43.16722,19.12056,43.16722",
+    "geom:latitude":43.16722,
+    "geom:longitude":19.12056,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Cardak",
+    "gn:country_code":"ME",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303506,
+    "gn:latitude":43.16722,
+    "gn:longitude":19.12056,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"\u010cardak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303506
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"5b28a9658e6434ca26bf68ed9b1f518d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1260193009,
+            "region_id":85674701
+        }
+    ],
+    "wof:id":1260193009,
+    "wof:lastmodified":1536833779,
+    "wof:name":"Cardak",
+    "wof:parent_id":85674701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.12056,
+    43.16722,
+    19.12056,
+    43.16722
+],
+  "geometry": {"coordinates":[19.12056,43.16722],"type":"Point"}
+}

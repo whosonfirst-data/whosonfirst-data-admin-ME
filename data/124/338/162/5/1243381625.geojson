@@ -1,0 +1,69 @@
+{
+  "id": 1243381625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.01028,42.68306,19.01028,42.68306",
+    "geom:latitude":42.68306,
+    "geom:longitude":19.01028,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Donja Povija",
+    "gn:country_code":"ME",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192628,
+    "gn:latitude":42.68306,
+    "gn:longitude":19.01028,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Donja Povija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Povija",
+        "Donja Povija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192628
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"a08235414d3366c179a1fa819eafd4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1243381625,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1243381625,
+    "wof:lastmodified":1537664422,
+    "wof:name":"Donja Povija",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.01028,
+    42.68306,
+    19.01028,
+    42.68306
+],
+  "geometry": {"coordinates":[19.01028,42.68306],"type":"Point"}
+}

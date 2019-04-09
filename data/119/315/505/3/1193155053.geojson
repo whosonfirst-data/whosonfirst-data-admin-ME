@@ -1,0 +1,66 @@
+{
+  "id": 1193155053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76806,43.05639,19.76806,43.05639",
+    "geom:latitude":43.05639,
+    "geom:longitude":19.76806,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nedakusi",
+    "gn:country_code":"ME",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194562,
+    "gn:latitude":43.05639,
+    "gn:longitude":19.76806,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Nedakusi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194562,
+        "wk:page":"Nedakusi"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"4579ed900da6826851af2db6e5195cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1193155053,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1193155053,
+    "wof:lastmodified":1537568310,
+    "wof:name":"Nedakusi",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76806,
+    43.05639,
+    19.76806,
+    43.05639
+],
+  "geometry": {"coordinates":[19.76806,43.05639],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260094857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11778,42.92806,19.11778,42.92806",
+    "geom:latitude":42.92806,
+    "geom:longitude":19.11778,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Radovica Polje",
+    "gn:country_code":"ME",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318401,
+    "gn:latitude":42.92806,
+    "gn:longitude":19.11778,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Radovi\u0107a Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polje Radovi\u0107a",
+        "Radovi\u0107a Polje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318401
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"cb22e3405a2b8d90ae51d239c8e80e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1260094857,
+            "region_id":85674695
+        }
+    ],
+    "wof:id":1260094857,
+    "wof:lastmodified":1537664499,
+    "wof:name":"Radovica Polje",
+    "wof:parent_id":85674695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11778,
+    42.92806,
+    19.11778,
+    42.92806
+],
+  "geometry": {"coordinates":[19.11778,42.92806],"type":"Point"}
+}

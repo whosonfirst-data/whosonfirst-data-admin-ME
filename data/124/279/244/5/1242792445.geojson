@@ -1,0 +1,68 @@
+{
+  "id": 1242792445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.01056,42.44861,19.01056,42.44861",
+    "geom:latitude":42.44861,
+    "geom:longitude":19.01056,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Grabovi Do",
+    "gn:country_code":"ME",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317001,
+    "gn:latitude":42.44861,
+    "gn:longitude":19.01056,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Grabovi Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Grabovi Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317001
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"315bcd1a567b41b639e6e180589485fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1242792445,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1242792445,
+    "wof:lastmodified":1537664481,
+    "wof:name":"Grabovi Do",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.01056,
+    42.44861,
+    19.01056,
+    42.44861
+],
+  "geometry": {"coordinates":[19.01056,42.44861],"type":"Point"}
+}

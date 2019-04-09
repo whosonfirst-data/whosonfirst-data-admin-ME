@@ -1,0 +1,68 @@
+{
+  "id": 1276458203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77,43.12028,19.77,43.12028",
+    "geom:latitude":43.12028,
+    "geom:longitude":19.77,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Metanjac",
+    "gn:country_code":"ME",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195227,
+    "gn:latitude":43.12028,
+    "gn:longitude":19.77,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Metanjac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metanac",
+        "Metanjac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195227,
+        "wk:page":"Metanjac"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"87128e13964fdcf4b617775370e6da8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1276458203,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276458203,
+    "wof:lastmodified":1537664428,
+    "wof:name":"Metanjac",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77,
+    43.12028,
+    19.77,
+    43.12028
+],
+  "geometry": {"coordinates":[19.77,43.12028],"type":"Point"}
+}

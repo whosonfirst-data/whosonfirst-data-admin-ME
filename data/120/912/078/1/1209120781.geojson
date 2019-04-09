@@ -1,0 +1,64 @@
+{
+  "id": 1209120781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.32833,43.34861,19.32833,43.34861",
+    "geom:latitude":43.34861,
+    "geom:longitude":19.32833,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Radosavac",
+    "gn:country_code":"ME",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3304584,
+    "gn:latitude":43.34861,
+    "gn:longitude":19.32833,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Radosavac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Radosavac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304584
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"59eb6105d2b6a681521871591933c753",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209120781
+        }
+    ],
+    "wof:id":1209120781,
+    "wof:lastmodified":1537664470,
+    "wof:name":"Radosavac",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.32833,
+    43.34861,
+    19.32833,
+    43.34861
+],
+  "geometry": {"coordinates":[19.32833,43.34861],"type":"Point"}
+}

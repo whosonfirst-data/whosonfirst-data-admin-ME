@@ -1,0 +1,68 @@
+{
+  "id": 1309726739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99583,43.52361,18.99583,43.52361",
+    "geom:latitude":43.52361,
+    "geom:longitude":18.99583,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Plansko",
+    "gn:country_code":"ME",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269401,
+    "gn:latitude":43.52361,
+    "gn:longitude":18.99583,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Plansko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Plansko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269401
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"48fa66f63708edee3af386e062977028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1309726739,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1309726739,
+    "wof:lastmodified":1537664457,
+    "wof:name":"Plansko",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99583,
+    43.52361,
+    18.99583,
+    43.52361
+],
+  "geometry": {"coordinates":[18.99583,43.52361],"type":"Point"}
+}

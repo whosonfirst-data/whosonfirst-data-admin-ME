@@ -1,0 +1,68 @@
+{
+  "id": 1259894611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.22917,41.98639,19.22917,41.98639",
+    "geom:latitude":41.98639,
+    "geom:longitude":19.22917,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Metanovici",
+    "gn:country_code":"ME",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3342502,
+    "gn:latitude":41.98639,
+    "gn:longitude":19.22917,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Metanovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Metanovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3342502
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"87068049e4243c1f59cbd04faea5bc9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259894611,
+            "region_id":85674617
+        }
+    ],
+    "wof:id":1259894611,
+    "wof:lastmodified":1537664551,
+    "wof:name":"Metanovici",
+    "wof:parent_id":85674617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.22917,
+    41.98639,
+    19.22917,
+    41.98639
+],
+  "geometry": {"coordinates":[19.22917,41.98639],"type":"Point"}
+}

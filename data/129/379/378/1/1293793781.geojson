@@ -1,0 +1,68 @@
+{
+  "id": 1293793781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21194,42.53278,19.21194,42.53278",
+    "geom:latitude":42.53278,
+    "geom:longitude":19.21194,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Donji Crnci",
+    "gn:country_code":"ME",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316690,
+    "gn:latitude":42.53278,
+    "gn:longitude":19.21194,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Donji Crnci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Donji Crnci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316690
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"99c31ea4869972c81894331cb6c32671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293793781,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":1293793781,
+    "wof:lastmodified":1537664480,
+    "wof:name":"Donji Crnci",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21194,
+    42.53278,
+    19.21194,
+    42.53278
+],
+  "geometry": {"coordinates":[19.21194,42.53278],"type":"Point"}
+}

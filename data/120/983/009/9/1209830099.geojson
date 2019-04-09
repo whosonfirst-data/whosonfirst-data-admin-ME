@@ -1,0 +1,68 @@
+{
+  "id": 1209830099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.33139,42.46556,19.33139,42.46556",
+    "geom:latitude":42.46556,
+    "geom:longitude":19.33139,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sjenice",
+    "gn:country_code":"ME",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190774,
+    "gn:latitude":42.46556,
+    "gn:longitude":19.33139,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Sjenice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Sjenice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190774
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"5289fd6434217bad03af5c0a2d20f128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1209830099,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":1209830099,
+    "wof:lastmodified":1537664418,
+    "wof:name":"Sjenice",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.33139,
+    42.46556,
+    19.33139,
+    42.46556
+],
+  "geometry": {"coordinates":[19.33139,42.46556],"type":"Point"}
+}

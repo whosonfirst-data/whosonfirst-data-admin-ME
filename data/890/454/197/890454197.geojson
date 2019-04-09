@@ -1,0 +1,64 @@
+{
+  "id": 890454197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10806,42.575,19.10806,42.575",
+    "geom:latitude":42.575,
+    "geom:longitude":19.10806,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":191,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Vu\u010dica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317765,
+        "gp:id":535047,
+        "qs:id":582523
+    },
+    "wof:country":"ME",
+    "wof:created":1469052890,
+    "wof:geomhash":"29e96832ac828659f933c34fa84e3b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890454197,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":890454197,
+    "wof:lastmodified":1505343655,
+    "wof:name":"Vu\u010dica",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:population":191,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10806,
+    42.575,
+    19.10806,
+    42.575
+],
+  "geometry": {"coordinates":[19.10806,42.575],"type":"Point"}
+}

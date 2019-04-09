@@ -1,0 +1,61 @@
+{
+  "id": 1209124259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76361,42.5725,18.76361,42.5725",
+    "geom:latitude":42.5725,
+    "geom:longitude":18.76361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Slamcica",
+    "gn:country_code":"ME",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3325720,
+    "gn:latitude":42.5725,
+    "gn:longitude":18.76361,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Slam\u010dica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3325720
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"29ced2193b73d2243ea89a5ca053b7ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209124259
+        }
+    ],
+    "wof:id":1209124259,
+    "wof:lastmodified":1536297004,
+    "wof:name":"Slamcica",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76361,
+    42.5725,
+    18.76361,
+    42.5725
+],
+  "geometry": {"coordinates":[18.76361,42.5725],"type":"Point"}
+}

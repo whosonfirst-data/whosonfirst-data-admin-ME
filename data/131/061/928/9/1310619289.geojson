@@ -1,0 +1,65 @@
+{
+  "id": 1310619289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0525,42.51361,19.0525,42.51361",
+    "geom:latitude":42.51361,
+    "geom:longitude":19.0525,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zagarac",
+    "gn:country_code":"ME",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3317834,
+    "gn:latitude":42.51361,
+    "gn:longitude":19.0525,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Zagara\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317834
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"7d50ffe4c18c5619c9ede61371ee1840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310619289,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":1310619289,
+    "wof:lastmodified":1536752766,
+    "wof:name":"Zagarac",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0525,
+    42.51361,
+    19.0525,
+    42.51361
+],
+  "geometry": {"coordinates":[19.0525,42.51361],"type":"Point"}
+}

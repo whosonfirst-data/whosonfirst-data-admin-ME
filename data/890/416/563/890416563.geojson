@@ -1,0 +1,64 @@
+{
+  "id": 890416563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1175,42.53472,19.1175,42.53472",
+    "geom:latitude":42.53472,
+    "geom:longitude":19.1175,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":571,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u0106urilac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202270,
+        "gp:id":483736,
+        "qs:id":581769
+    },
+    "wof:country":"ME",
+    "wof:created":1469051141,
+    "wof:geomhash":"703b70a374aac2c7f29de0528a87130c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890416563,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":890416563,
+    "wof:lastmodified":1505343433,
+    "wof:name":"\u0106urilac",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:population":571,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1175,
+    42.53472,
+    19.1175,
+    42.53472
+],
+  "geometry": {"coordinates":[19.1175,42.53472],"type":"Point"}
+}

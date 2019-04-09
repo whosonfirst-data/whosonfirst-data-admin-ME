@@ -1,0 +1,71 @@
+{
+  "id": 1293015353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79778,42.33056,18.79778,42.33056",
+    "geom:latitude":42.33056,
+    "geom:longitude":18.79778,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kaluderovici",
+    "gn:country_code":"ME",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198434,
+    "gn:latitude":42.33056,
+    "gn:longitude":18.79778,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kalu\u0111erovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaludjerac",
+        "Kalu\u0111erovi\u0107",
+        "Kalu\u0111erac",
+        "Kalu\u0111erovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198434
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"fcf93983c64e5326abe9bd1db4653d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293015353,
+            "region_id":85674621
+        }
+    ],
+    "wof:id":1293015353,
+    "wof:lastmodified":1537664434,
+    "wof:name":"Kaluderovici",
+    "wof:parent_id":85674621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79778,
+    42.33056,
+    18.79778,
+    42.33056
+],
+  "geometry": {"coordinates":[18.79778,42.33056],"type":"Point"}
+}

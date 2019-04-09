@@ -1,0 +1,69 @@
+{
+  "id": 1326539847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67694,43.09889,19.67694,43.09889",
+    "geom:latitude":43.09889,
+    "geom:longitude":19.67694,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Grancarevo",
+    "gn:country_code":"ME",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199657,
+    "gn:latitude":43.09889,
+    "gn:longitude":19.67694,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Gran\u010darevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gran\u010darevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199657,
+        "wk:page":"Gran%C4%8Darevo"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"9f8d29d92166ee903cc01165b3453b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1326539847,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1326539847,
+    "wof:lastmodified":1537664435,
+    "wof:name":"Grancarevo",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67694,
+    43.09889,
+    19.67694,
+    43.09889
+],
+  "geometry": {"coordinates":[19.67694,43.09889],"type":"Point"}
+}

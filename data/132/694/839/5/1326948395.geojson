@@ -1,0 +1,68 @@
+{
+  "id": 1326948395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93722,43.23444,18.93722,43.23444",
+    "geom:latitude":43.23444,
+    "geom:longitude":18.93722,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Vucje Seliste",
+    "gn:country_code":"ME",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317746,
+    "gn:latitude":43.23444,
+    "gn:longitude":18.93722,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Vu\u010dje Seli\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vu\u010dje Seli\u0161te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317746
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"7c6ea44aa3cbd09e0fa896dc80c3c57b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1326948395,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":1326948395,
+    "wof:lastmodified":1537664493,
+    "wof:name":"Vucje Seliste",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93722,
+    43.23444,
+    18.93722,
+    43.23444
+],
+  "geometry": {"coordinates":[18.93722,43.23444],"type":"Point"}
+}

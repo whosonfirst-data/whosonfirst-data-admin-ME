@@ -1,0 +1,68 @@
+{
+  "id": 1242980963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99111,42.50583,18.99111,42.50583",
+    "geom:latitude":42.50583,
+    "geom:longitude":18.99111,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jasika",
+    "gn:country_code":"ME",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3325973,
+    "gn:latitude":42.50583,
+    "gn:longitude":18.99111,
+    "gn:modification_date":"2018-06-14",
+    "gn:name":"Jasika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jasika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3325973
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"f1550b26e80131134abf0447e6af1a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1242980963,
+            "region_id":85674661
+        }
+    ],
+    "wof:id":1242980963,
+    "wof:lastmodified":1537664506,
+    "wof:name":"Jasika",
+    "wof:parent_id":85674661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99111,
+    42.50583,
+    18.99111,
+    42.50583
+],
+  "geometry": {"coordinates":[18.99111,42.50583],"type":"Point"}
+}

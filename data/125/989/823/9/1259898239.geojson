@@ -1,0 +1,68 @@
+{
+  "id": 1259898239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.92556,42.81944,18.92556,42.81944",
+    "geom:latitude":42.81944,
+    "geom:longitude":18.92556,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Brezovik",
+    "gn:country_code":"ME",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203334,
+    "gn:latitude":42.81944,
+    "gn:longitude":18.92556,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Brezovik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Brezovik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203334
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"73aee358f29e97485ec8885e039a5c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259898239,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1259898239,
+    "wof:lastmodified":1537664441,
+    "wof:name":"Brezovik",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.92556,
+    42.81944,
+    18.92556,
+    42.81944
+],
+  "geometry": {"coordinates":[18.92556,42.81944],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242989107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.52472,43.17444,19.52472,43.17444",
+    "geom:latitude":43.17444,
+    "geom:longitude":19.52472,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Slatka",
+    "gn:country_code":"ME",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3317788,
+    "gn:latitude":43.17444,
+    "gn:longitude":19.52472,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Slatka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Slatka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317788
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"e2e4298a186ace0381e6a0f41a53ce68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1242989107,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1242989107,
+    "wof:lastmodified":1537664493,
+    "wof:name":"Slatka",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.52472,
+    43.17444,
+    19.52472,
+    43.17444
+],
+  "geometry": {"coordinates":[19.52472,43.17444],"type":"Point"}
+}

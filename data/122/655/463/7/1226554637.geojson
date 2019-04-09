@@ -1,0 +1,63 @@
+{
+  "id": 1226554637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.91111,43.35694,18.91111,43.35694",
+    "geom:latitude":43.35694,
+    "geom:longitude":18.91111,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Odzica Glavica",
+    "gn:country_code":"ME",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296363,
+    "gn:latitude":43.35694,
+    "gn:longitude":18.91111,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Od\u017ei\u0107a Glavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296363
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"996b6c3688272752269649df751e6efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1226554637,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226554637,
+    "wof:lastmodified":1536984351,
+    "wof:name":"Odzica Glavica",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.91111,
+    43.35694,
+    18.91111,
+    43.35694
+],
+  "geometry": {"coordinates":[18.91111,43.35694],"type":"Point"}
+}

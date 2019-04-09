@@ -1,0 +1,309 @@
+{
+  "id": 85674635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.055695,
+    "geom:area_square_m":507022939.187049,
+    "geom:bbox":"19.7302991133,42.4664787804,20.103919718,42.7073630969",
+    "geom:latitude":42.588706,
+    "geom:longitude":19.917247,
+    "gn:id":"",
+    "iso:country":"ME",
+    "label:eng_x_preferred_longname":[
+        "Plav County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":42.599627,
+    "lbl:longitude":19.935902,
+    "mps:latitude":42.599627,
+    "mps:longitude":19.935902,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0628\u0644\u0627\u0641"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cd\u09b2\u09c7\u09ad \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043b\u0430\u0432"
+    ],
+    "name:dan_x_preferred":[
+        "Plav Municipality"
+    ],
+    "name:deu_x_preferred":[
+        "Plav"
+    ],
+    "name:dut_x_preferred":[
+        "Plav"
+    ],
+    "name:eng_x_preferred":[
+        "Plav"
+    ],
+    "name:est_x_preferred":[
+        "Plavi vald"
+    ],
+    "name:fin_x_preferred":[
+        "Plavin kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Plav"
+    ],
+    "name:fre_x_preferred":[
+        "Municipalit\u00e9 de Plav"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10da\u10d0\u10d5\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Gemeinde Plav"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03b2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acd\u0ab2\u0ac7\u0ab5 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hbs_x_preferred":[
+        "Plav"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u0932\u093e\u0935 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Plav"
+    ],
+    "name:ita_x_preferred":[
+        "Plav"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30e9\u30f4"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccd\u0cb2\u0cbe\u0cb8\u0ccd\u0cb5\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud50c\ub77c\ube0c \uc9c0\ubc29 \uc790\uce58\uc81c"
+    ],
+    "name:lav_x_preferred":[
+        "Plavas pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Plavo op\u0161tina"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094d\u0932\u0945\u0935\u094d\u0939 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Plav Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Plav"
+    ],
+    "name:nob_x_preferred":[
+        "Plav Kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Plav"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Plav"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Plav"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0430\u0432"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dbd\u0dc0\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:slk_x_preferred":[
+        "Plav"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Plav"
+    ],
+    "name:sqi_x_preferred":[
+        "Plava"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043b\u0430\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Plav"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcd\u0bb3\u0bb5\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4d\u0c32\u0c3e\u0c35\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1e\u0e25\u0e32\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Plav Province"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0430\u0432"
+    ],
+    "name:und_x_preferred":[
+        "Plav"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0644\u0627\u0648 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Plav"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MNE",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MNE-1503",
+    "ne:adm1_code":"MNE-1503",
+    "ne:admin":"Montenegro",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"ME.PV",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1503",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AL49",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Montenegro",
+    "ne:gn_a1_code":"ME.13",
+    "ne:gn_id":"3193227",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Plav",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MJ00",
+    "ne:gns_id":"10540270",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Plav, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MNE",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"ME-",
+    "ne:iso_a2":"ME",
+    "ne:labelrank":"9",
+    "ne:latitude":"42.59850000000",
+    "ne:longitude":"19.91680000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":4,
+    "ne:name":"Plav",
+    "ne:name_alt":"",
+    "ne:name_len":4,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"PV",
+    "ne:provnum_ne":"7",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"MNE",
+    "ne:sub_code":"",
+    "ne:type":"Op\u0161tina",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":29389239,
+    "ne:woe_label":"Plav, ME, Montenegro",
+    "ne:woe_name":"Plav",
+    "qs:a0":"Montenegro",
+    "qs:a0_lc":"ME",
+    "qs:a1":"Plav",
+    "qs:a1_lc":"MNE-1503",
+    "qs:adm0":"Montenegro",
+    "qs:adm0_a3":"MNE",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-10-01",
+    "statoids:area_km":"3,562",
+    "statoids:area_mi":"1,375",
+    "statoids:as_of_date":"2011-10-01",
+    "statoids:capital":"Shkod\u00ebr",
+    "statoids:country":"AL",
+    "statoids:gec":"AL49",
+    "statoids:hasc":"AL.SD",
+    "statoids:iso":"10",
+    "statoids:name":"Shkod\u00ebr",
+    "statoids:population":"215347",
+    "statoids:timezone":"+1~",
+    "statoids:type":"county",
+    "unlc:subdivision":"ME-13",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        102191581,
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AL49",
+        "gn:id":3193227,
+        "gp:id":29389239,
+        "hasc:id":"AL.SD",
+        "iso:id":"AL-10",
+        "qs:id":1114751,
+        "unlc:id":"ME-13",
+        "wd:id":"Q4859821"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"3a81e2f1a976140fea8959dc406d5566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "region_id":85674635
+        }
+    ],
+    "wof:id":85674635,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "srp"
+    ],
+    "wof:lang_x_spoken":[
+        "srp"
+    ],
+    "wof:lastmodified":1553814808,
+    "wof:name":"Plav",
+    "wof:parent_id":85632667,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":215347,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:shortcode":"SD",
+    "wof:subdivision":"ME-13",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.73029911331349,
+    42.46647878037146,
+    20.10391971802062,
+    42.70736309692944
+],
+  "geometry": {"coordinates":[[[20.10391971802062,42.65310821647108],[20.09058719943977,42.62734751417651],[20.0792183838214,42.61125030515751],[20.07570438634838,42.60308543044829],[20.07539432798592,42.58696238210831],[20.07818485504708,42.5729063931156],[20.07704797348526,42.55990977041961],[20.06495568835436,42.54675811809273],[20.03922082538082,42.55776519940446],[20.01772342939279,42.54624135325588],[19.98175663236276,42.5107654835403],[19.95633182775168,42.50531362062713],[19.90754927607827,42.50639882444625],[19.88274458819222,42.49360890732527],[19.88274458819222,42.4935572313812],[19.88253788351653,42.49340220264958],[19.87333947733504,42.486839295697],[19.83551232923065,42.47025116026288],[19.82906279890909,42.46872253761506],[19.81959598826433,42.46647878037146],[19.80140588417424,42.46813242587081],[19.78445601443354,42.47456614341286],[19.7515898028272,42.49340220264958],[19.73432987472398,42.52438222296126],[19.73091923003847,42.53365814350855],[19.73029911331349,42.54042775513682],[19.73215946438785,42.55554311132556],[19.73391646447328,42.56259694559265],[19.74135786967003,42.57440500898406],[19.74600874870487,42.57993438716227],[19.74776574699166,42.57890085928727],[19.74688465420348,42.58892977229124],[19.76347618997426,42.59476471581905],[19.82295576279824,42.62732086816357],[19.85949100060924,42.66300344525285],[19.904552850134,42.68850576422966],[19.90941043474379,42.68928091148496],[19.99912072084464,42.70351776853022],[20.03700625113765,42.70736309692944],[20.09420454880092,42.66698333741112],[20.10195601415876,42.65667388988817],[20.10391971802062,42.65310821647108]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 890429129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93639,43.2375,18.93639,43.2375",
+    "geom:latitude":43.2375,
+    "geom:longitude":18.93639,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
+    "gn:pop":91,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kne\u017eevi\u0107i",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197999,
+        "gp:id":535999,
+        "qs:id":95119
+    },
+    "wof:country":"ME",
+    "wof:created":1469051795,
+    "wof:geomhash":"2f3d3fb7516ba2e4ffd4e924f082cf59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890429129,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":890429129,
+    "wof:lastmodified":1505343510,
+    "wof:name":"Kne\u017eevi\u0107i",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:population":91,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93639,
+    43.2375,
+    18.93639,
+    43.2375
+],
+  "geometry": {"coordinates":[18.93639,43.2375],"type":"Point"}
+}

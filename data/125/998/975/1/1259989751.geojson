@@ -1,0 +1,68 @@
+{
+  "id": 1259989751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.48028,43.06167,19.48028,43.06167",
+    "geom:latitude":43.06167,
+    "geom:longitude":19.48028,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zari",
+    "gn:country_code":"ME",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3340821,
+    "gn:latitude":43.06167,
+    "gn:longitude":19.48028,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"\u017dari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u017dari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3340821
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"4c0b155d8f3d2b19b30b3a0e084793ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259989751,
+            "region_id":85674657
+        }
+    ],
+    "wof:id":1259989751,
+    "wof:lastmodified":1537664539,
+    "wof:name":"Zari",
+    "wof:parent_id":85674657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.48028,
+    43.06167,
+    19.48028,
+    43.06167
+],
+  "geometry": {"coordinates":[19.48028,43.06167],"type":"Point"}
+}

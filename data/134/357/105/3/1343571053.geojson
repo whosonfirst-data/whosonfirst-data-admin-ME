@@ -1,0 +1,69 @@
+{
+  "id": 1343571053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.765,42.56472,18.765,42.56472",
+    "geom:latitude":42.56472,
+    "geom:longitude":18.765,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mali Lipovac",
+    "gn:country_code":"ME",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3317156,
+    "gn:latitude":42.56472,
+    "gn:longitude":18.765,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Mali Lipovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Lipovac",
+        "Mali Lipovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3317156
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"3e48ea4f468dacab5e3fcb6e42ce5810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343571053,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1343571053,
+    "wof:lastmodified":1537664483,
+    "wof:name":"Mali Lipovac",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.765,
+    42.56472,
+    18.765,
+    42.56472
+],
+  "geometry": {"coordinates":[18.765,42.56472],"type":"Point"}
+}

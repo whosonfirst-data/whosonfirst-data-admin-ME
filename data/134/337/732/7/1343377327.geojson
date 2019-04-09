@@ -1,0 +1,69 @@
+{
+  "id": 1343377327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95222,43.26889,18.95222,43.26889",
+    "geom:latitude":43.26889,
+    "geom:longitude":18.95222,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nikovici",
+    "gn:country_code":"ME",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194495,
+    "gn:latitude":43.26889,
+    "gn:longitude":18.95222,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Nikovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nikoli\u0107i",
+        "Nikovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194495
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"59de958e984845777be247e80c0fa009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343377327,
+            "region_id":85674677
+        }
+    ],
+    "wof:id":1343377327,
+    "wof:lastmodified":1537664426,
+    "wof:name":"Nikovici",
+    "wof:parent_id":85674677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95222,
+    43.26889,
+    18.95222,
+    43.26889
+],
+  "geometry": {"coordinates":[18.95222,43.26889],"type":"Point"}
+}

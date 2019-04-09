@@ -1,0 +1,68 @@
+{
+  "id": 1343780207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93861,42.55361,19.93861,42.55361",
+    "geom:latitude":42.55361,
+    "geom:longitude":19.93861,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jasenica",
+    "gn:country_code":"ME",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3337688,
+    "gn:latitude":42.55361,
+    "gn:longitude":19.93861,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Jasenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Jasenica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337688
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"8300ce94c38445c287aa40f50213ca44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1343780207,
+            "region_id":85674635
+        }
+    ],
+    "wof:id":1343780207,
+    "wof:lastmodified":1537664510,
+    "wof:name":"Jasenica",
+    "wof:parent_id":85674635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93861,
+    42.55361,
+    19.93861,
+    42.55361
+],
+  "geometry": {"coordinates":[19.93861,42.55361],"type":"Point"}
+}

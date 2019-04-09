@@ -1,0 +1,68 @@
+{
+  "id": 1293310887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50778,42.6525,19.50778,42.6525",
+    "geom:latitude":42.6525,
+    "geom:longitude":19.50778,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Raskovo Guvno",
+    "gn:country_code":"ME",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338249,
+    "gn:latitude":42.6525,
+    "gn:longitude":19.50778,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Ra\u0161kovo Guvno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ra\u0161kovo Guvno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338249
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"d70d2ab7af16714f4b7bf85d16a34a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293310887,
+            "region_id":85674689
+        }
+    ],
+    "wof:id":1293310887,
+    "wof:lastmodified":1537664515,
+    "wof:name":"Raskovo Guvno",
+    "wof:parent_id":85674689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50778,
+    42.6525,
+    19.50778,
+    42.6525
+],
+  "geometry": {"coordinates":[19.50778,42.6525],"type":"Point"}
+}

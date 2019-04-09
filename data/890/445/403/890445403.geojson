@@ -1,0 +1,67 @@
+{
+  "id": 890445403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.97,42.39861,18.97,42.39861",
+    "geom:latitude":42.39861,
+    "geom:longitude":18.97,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":34,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Bokovo"
+    ],
+    "qs:name":"Bokovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203771,
+        "gp:id":484513,
+        "qs:id":581561
+    },
+    "wof:country":"ME",
+    "wof:created":1469052509,
+    "wof:geomhash":"84f0eeb38f0aa4a24f3b94bcf9de435d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890445403,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":890445403,
+    "wof:lastmodified":1505343605,
+    "wof:name":"Bokovo",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.97,
+    42.39861,
+    18.97,
+    42.39861
+],
+  "geometry": {"coordinates":[18.97,42.39861],"type":"Point"}
+}

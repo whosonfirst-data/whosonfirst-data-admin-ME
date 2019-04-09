@@ -1,0 +1,68 @@
+{
+  "id": 1293798585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.62806,42.73694,19.62806,42.73694",
+    "geom:latitude":42.73694,
+    "geom:longitude":19.62806,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Vranjak",
+    "gn:country_code":"ME",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3337819,
+    "gn:latitude":42.73694,
+    "gn:longitude":19.62806,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Vranjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Vranjak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337819
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"7b9a070f85b33ce91f6209ae1d24570e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293798585,
+            "region_id":85674667
+        }
+    ],
+    "wof:id":1293798585,
+    "wof:lastmodified":1537664511,
+    "wof:name":"Vranjak",
+    "wof:parent_id":85674667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.62806,
+    42.73694,
+    19.62806,
+    42.73694
+],
+  "geometry": {"coordinates":[19.62806,42.73694],"type":"Point"}
+}

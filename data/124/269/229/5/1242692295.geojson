@@ -1,0 +1,68 @@
+{
+  "id": 1242692295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.20278,42.00194,19.20278,42.00194",
+    "geom:latitude":42.00194,
+    "geom:longitude":19.20278,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mala Gorana",
+    "gn:country_code":"ME",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195850,
+    "gn:latitude":42.00194,
+    "gn:longitude":19.20278,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mala Gorana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mala Gorana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195850
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"49e9935a786d38f9c586f75587a2a1e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1242692295,
+            "region_id":85674617
+        }
+    ],
+    "wof:id":1242692295,
+    "wof:lastmodified":1537664428,
+    "wof:name":"Mala Gorana",
+    "wof:parent_id":85674617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.20278,
+    42.00194000000001,
+    19.20278,
+    42.00194000000001
+],
+  "geometry": {"coordinates":[19.20278,42.00194000000001],"type":"Point"}
+}

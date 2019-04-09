@@ -1,0 +1,67 @@
+{
+  "id": 890431115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76639,42.44472,18.76639,42.44472",
+    "geom:latitude":42.44472,
+    "geom:longitude":18.76639,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Tomi\u0107i"
+    ],
+    "qs:name":"Tomi\u0107i",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318546,
+        "gp:id":533409,
+        "qs:id":582631
+    },
+    "wof:country":"ME",
+    "wof:created":1469051878,
+    "wof:geomhash":"c20e5ea549c82007a561573efe91b09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":890431115,
+            "region_id":85674643
+        }
+    ],
+    "wof:id":890431115,
+    "wof:lastmodified":1505343522,
+    "wof:name":"Tomi\u0107i",
+    "wof:parent_id":85674643,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76639,
+    42.44472,
+    18.76639,
+    42.44472
+],
+  "geometry": {"coordinates":[18.76639,42.44472],"type":"Point"}
+}

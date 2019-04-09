@@ -1,0 +1,68 @@
+{
+  "id": 1226660791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75639,42.82278,18.75639,42.82278",
+    "geom:latitude":42.82278,
+    "geom:longitude":18.75639,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Trosavac",
+    "gn:country_code":"ME",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318028,
+    "gn:latitude":42.82278,
+    "gn:longitude":18.75639,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Tro\u0161avac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Tro\u0161avac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318028
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"474dbbe00e485ae773a6a6bdade459c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226660791,
+            "region_id":85674673
+        }
+    ],
+    "wof:id":1226660791,
+    "wof:lastmodified":1537664496,
+    "wof:name":"Trosavac",
+    "wof:parent_id":85674673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75639,
+    42.82278,
+    18.75639,
+    42.82278
+],
+  "geometry": {"coordinates":[18.75639,42.82278],"type":"Point"}
+}

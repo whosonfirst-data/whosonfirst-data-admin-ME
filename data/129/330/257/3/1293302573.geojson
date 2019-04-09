@@ -1,0 +1,68 @@
+{
+  "id": 1293302573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68639,42.40333,18.68639,42.40333",
+    "geom:latitude":42.40333,
+    "geom:longitude":18.68639,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Nova Pec",
+    "gn:country_code":"ME",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3341107,
+    "gn:latitude":42.40333,
+    "gn:longitude":18.68639,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Nova Pe\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Nova Pe\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3341107
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"b673207dec87009179320a6422ea58f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1293302573,
+            "region_id":85674693
+        }
+    ],
+    "wof:id":1293302573,
+    "wof:lastmodified":1537664542,
+    "wof:name":"Nova Pec",
+    "wof:parent_id":85674693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68639,
+    42.40333,
+    18.68639,
+    42.40333
+],
+  "geometry": {"coordinates":[18.68639,42.40333],"type":"Point"}
+}

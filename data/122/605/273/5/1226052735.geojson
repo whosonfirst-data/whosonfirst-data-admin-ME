@@ -1,0 +1,68 @@
+{
+  "id": 1226052735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54556,43.00861,19.54556,43.00861",
+    "geom:latitude":43.00861,
+    "geom:longitude":19.54556,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ponor",
+    "gn:country_code":"ME",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339349,
+    "gn:latitude":43.00861,
+    "gn:longitude":19.54556,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Ponor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ponor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339349
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"cd2f601f63f2988ff927fef07fdf7678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226052735,
+            "region_id":85674669
+        }
+    ],
+    "wof:id":1226052735,
+    "wof:lastmodified":1537664532,
+    "wof:name":"Ponor",
+    "wof:parent_id":85674669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54556,
+    43.00861,
+    19.54556,
+    43.00861
+],
+  "geometry": {"coordinates":[19.54556,43.00861],"type":"Point"}
+}

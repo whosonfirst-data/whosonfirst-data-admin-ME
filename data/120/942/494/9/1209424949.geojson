@@ -1,0 +1,64 @@
+{
+  "id": 1209424949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93472,42.80194,18.93472,42.80194",
+    "geom:latitude":42.80194,
+    "geom:longitude":18.93472,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mokra Njiva",
+    "gn:country_code":"ME",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318200,
+    "gn:latitude":42.80194,
+    "gn:longitude":18.93472,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Mokra Njiva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Mokra Njiva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318200
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"3db7cf13593ecafbee85d6c0b0e19854",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":1209424949
+        }
+    ],
+    "wof:id":1209424949,
+    "wof:lastmodified":1537664497,
+    "wof:name":"Mokra Njiva",
+    "wof:parent_id":85632667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93472,
+    42.80194,
+    18.93472,
+    42.80194
+],
+  "geometry": {"coordinates":[18.93472,42.80194],"type":"Point"}
+}

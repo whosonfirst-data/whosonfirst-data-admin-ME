@@ -1,0 +1,102 @@
+{
+  "id": 890416549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68861,42.44306,18.68861,42.44306",
+    "geom:latitude":42.44306,
+    "geom:longitude":18.68861,
+    "gn:country":"ME",
+    "gn:fcode":"PPL",
+    "gn:pop":674,
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Donja Lastva"
+    ],
+    "name:eng_x_preferred":[
+        "Donja Lastva"
+    ],
+    "name:fre_x_preferred":[
+        "Donja Lastva"
+    ],
+    "name:ger_x_preferred":[
+        "Donja Lastva"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Lastva"
+    ],
+    "name:ita_x_preferred":[
+        "Lastua Inferiore"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648\u0646\u06cc\u0627 \u0644\u0627\u0633\u062a\u0648\u0627"
+    ],
+    "name:rum_x_preferred":[
+        "Donja Lastva"
+    ],
+    "name:slv_x_preferred":[
+        "Donja Lastva"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u041b\u0430\u0441\u0442\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Opatovo"
+    ],
+    "name:unk_x_variant":[
+        "Selo Donja Lastva"
+    ],
+    "qs:name":"Donja Lastva",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        85632667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201675,
+        "gp:id":534976,
+        "qs:id":581737,
+        "wd:id":"Q2712460",
+        "wk:page":"Donja Lastva"
+    },
+    "wof:country":"ME",
+    "wof:created":1469051140,
+    "wof:geomhash":"9fb27d1a8cadc0d5bf9e4490d3d04d7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632667,
+            "locality_id":890416549
+        }
+    ],
+    "wof:id":890416549,
+    "wof:lastmodified":1527792806,
+    "wof:name":"Donja Lastva",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":674,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68861,
+    42.44306,
+    18.68861,
+    42.44306
+],
+  "geometry": {"coordinates":[18.68861,42.44306],"type":"Point"}
+}

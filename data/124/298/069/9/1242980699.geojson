@@ -1,0 +1,68 @@
+{
+  "id": 1242980699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.20444,43.11611,19.20444,43.11611",
+    "geom:latitude":43.11611,
+    "geom:longitude":19.20444,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ramovo Zdrijelo",
+    "gn:country_code":"ME",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3340589,
+    "gn:latitude":43.11611,
+    "gn:longitude":19.20444,
+    "gn:modification_date":"2018-06-12",
+    "gn:name":"Ramovo \u017ddrijelo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ramovo \u017ddrijelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3340589
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"15b7f85bbd2ce64d878719bc9bb3966a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1242980699,
+            "region_id":85674701
+        }
+    ],
+    "wof:id":1242980699,
+    "wof:lastmodified":1537664537,
+    "wof:name":"Ramovo Zdrijelo",
+    "wof:parent_id":85674701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.20444,
+    43.11611,
+    19.20444,
+    43.11611
+],
+  "geometry": {"coordinates":[19.20444,43.11611],"type":"Point"}
+}

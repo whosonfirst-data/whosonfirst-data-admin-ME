@@ -1,0 +1,68 @@
+{
+  "id": 1259997869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.365,42.72139,19.365,42.72139",
+    "geom:latitude":42.72139,
+    "geom:longitude":19.365,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kremes",
+    "gn:country_code":"ME",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338495,
+    "gn:latitude":42.72139,
+    "gn:longitude":19.365,
+    "gn:modification_date":"2018-06-11",
+    "gn:name":"Kreme\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Kreme\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338495
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"64b1107137aaaec799c42fb96b21b2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1259997869,
+            "region_id":85674667
+        }
+    ],
+    "wof:id":1259997869,
+    "wof:lastmodified":1537664519,
+    "wof:name":"Kremes",
+    "wof:parent_id":85674667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.365,
+    42.72139,
+    19.365,
+    42.72139
+],
+  "geometry": {"coordinates":[19.365,42.72139],"type":"Point"}
+}

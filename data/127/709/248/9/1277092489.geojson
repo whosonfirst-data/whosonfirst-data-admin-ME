@@ -1,0 +1,68 @@
+{
+  "id": 1277092489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69278,42.50194,18.69278,42.50194",
+    "geom:latitude":42.50194,
+    "geom:longitude":18.69278,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Banja",
+    "gn:country_code":"ME",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3325388,
+    "gn:latitude":42.50194,
+    "gn:longitude":18.69278,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Banja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Banja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3325388
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"a3f352c237a3e7d09b10cfdc5dec900f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1277092489,
+            "region_id":85674643
+        }
+    ],
+    "wof:id":1277092489,
+    "wof:lastmodified":1537664503,
+    "wof:name":"Banja",
+    "wof:parent_id":85674643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69278,
+    42.50194000000001,
+    18.69278,
+    42.50194000000001
+],
+  "geometry": {"coordinates":[18.69278,42.50194000000001],"type":"Point"}
+}

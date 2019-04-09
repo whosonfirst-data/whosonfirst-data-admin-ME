@@ -1,0 +1,65 @@
+{
+  "id": 1226757635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.615,42.48778,18.615,42.48778",
+    "geom:latitude":42.48778,
+    "geom:longitude":18.615,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gornji Morinj",
+    "gn:country_code":"ME",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199960,
+    "gn:latitude":42.48778,
+    "gn:longitude":18.615,
+    "gn:modification_date":"2018-06-13",
+    "gn:name":"Gornji Morinj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Podgorica",
+    "iso:country":"ME",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199960
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"97a40e71dfe0af384b56b3780fa6659a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1226757635,
+            "region_id":85674639
+        }
+    ],
+    "wof:id":1226757635,
+    "wof:lastmodified":1536698605,
+    "wof:name":"Gornji Morinj",
+    "wof:parent_id":85674639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.615,
+    42.48778,
+    18.615,
+    42.48778
+],
+  "geometry": {"coordinates":[18.615,42.48778],"type":"Point"}
+}

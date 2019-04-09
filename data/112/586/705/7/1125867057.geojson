@@ -1,0 +1,95 @@
+{
+  "id": 1125867057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.09861,42.33528,19.09861,42.33528",
+    "geom:latitude":42.33528,
+    "geom:longitude":19.09861,
+    "gn:gn_country":"ME",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":53,
+    "gn:population":53,
+    "iso:country":"ME",
+    "lbl:latitude":42.33528,
+    "lbl:longitude":19.09861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Prevlaka"
+    ],
+    "name:eng_x_preferred":[
+        "Prevlaka"
+    ],
+    "name:fre_x_preferred":[
+        "Prevlaka"
+    ],
+    "name:rum_x_preferred":[
+        "Prevlaka"
+    ],
+    "name:slv_x_preferred":[
+        "Prevlaka"
+    ],
+    "name:srp_x_preferred":[
+        "Prevlaka"
+    ],
+    "qs_pg:aaroncc":"ME",
+    "qs_pg:gn_country":"ME",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3192479,
+    "qs_pg:gn_pop":53,
+    "qs_pg:name":"Prevlaka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":95036,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192479,
+        "qs_pg:id":95036,
+        "wd:id":"Q3402810"
+    },
+    "wof:country":"ME",
+    "wof:created":1497294095,
+    "wof:geomhash":"daf3e3139d6ff527dc6c1802d3fa9f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1125867057,
+            "region_id":85674625
+        }
+    ],
+    "wof:id":1125867057,
+    "wof:lastmodified":1553816584,
+    "wof:name":"Prevlaka",
+    "wof:parent_id":85674625,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09861,
+    42.33528,
+    19.09861,
+    42.33528
+],
+  "geometry": {"coordinates":[19.09861,42.33528],"type":"Point"}
+}
