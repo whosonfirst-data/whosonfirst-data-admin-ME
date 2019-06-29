@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056216,
-    "geom:area_square_m":511625655.421472,
+    "geom:area_square_m":511625655.421474,
     "geom:bbox":"18.9371700379,42.487174384,19.3009721206,42.7595091823",
     "geom:latitude":42.606563,
     "geom:longitude":19.121918,
@@ -34,6 +34,12 @@
     "name:dan_x_preferred":[
         "Danilovgrad Municipality"
     ],
+    "name:deu_x_preferred":[
+        "Gemeinde Danilovgrad"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03bd\u03b9\u03bb\u03bf\u03b2\u03b3\u03ba\u03c1\u03ac\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Danilovgrad"
     ],
@@ -43,17 +49,8 @@
     "name:fin_x_preferred":[
         "Danilovgradin kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Municipalit\u00e9 de Danilovgrad"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10dc\u10d8\u10da\u10dd\u10d5\u10d2\u10e0\u10d0\u10d3\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gemeinde Danilovgrad"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03bd\u03b9\u03bb\u03bf\u03b2\u03b3\u03ba\u03c1\u03ac\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aa8\u0abf\u0ab2\u0acb\u0ab5\u0a97\u0acd\u0ab0\u0abe\u0aa6 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -73,6 +70,9 @@
     "name:kan_x_preferred":[
         "\u0ca1\u0ccd\u0caf\u0cbe\u0ca8\u0cbf\u0cb2\u0ccb\u0cb5\u0ccd\u0c97\u0ccd\u0cb0\u0cbe\u0ca1\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10dc\u10d8\u10da\u10dd\u10d5\u10d2\u10e0\u10d0\u10d3\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub2e4\ub2d0\ub85c\ube0c\uadf8\ub77c\ub4dc \uc9c0\ubc29 \uc790\uce58\uc81c"
     ],
@@ -85,7 +85,7 @@
     "name:mar_x_preferred":[
         "\u0921\u0945\u0928\u093f\u0932\u094b\u0935\u094d\u0939\u0917\u094d\u0930\u0945\u0921 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Danilovgrad Municipality"
     ],
     "name:nob_x_preferred":[
@@ -97,7 +97,7 @@
     "name:por_x_preferred":[
         "Munic\u00edpio de Danilovgrad"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Danilovgrad"
     ],
     "name:rus_x_preferred":[
@@ -266,7 +266,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1553814808,
+    "wof:lastmodified":1561840450,
     "wof:name":"Danilovgrad",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

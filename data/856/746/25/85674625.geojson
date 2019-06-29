@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10593,
-    "geom:area_square_m":965825205.913525,
+    "geom:area_square_m":965825205.913529,
     "geom:bbox":"18.648298781,42.2836209175,19.1425838564,42.7181163599",
     "geom:latitude":42.493192,
     "geom:longitude":18.883545,
@@ -25,9 +25,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Cetin\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0633\u064a\u062a\u064a\u0646\u064a\u064a"
     ],
@@ -36,6 +33,12 @@
     ],
     "name:dan_x_preferred":[
         "Cetinje"
+    ],
+    "name:deu_x_preferred":[
+        "Gemeinde Cetinje"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c4\u03af\u03bd\u03c4\u03b6\u03b5"
     ],
     "name:eng_x_preferred":[
         "Cetinje"
@@ -46,17 +49,8 @@
     "name:fin_x_preferred":[
         "Cetinjen kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cetinje"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d4\u10e2\u10d8\u10dc\u10d8\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gemeinde Cetinje"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03c4\u03af\u03bd\u03c4\u03b6\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa4\u0abf\u0a82\u0a9c\u0ac7 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -76,6 +70,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc6\u0c9f\u0cbf\u0c82\u0c9c\u0cc6 \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10e2\u10d8\u10dc\u10d8\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uccb4\ud2f0\ub15c \uc9c0\ubc29 \uc790\uce58\uc81c"
     ],
@@ -85,13 +82,13 @@
     "name:lit_x_preferred":[
         "Cetin\u0117s op\u0161tina"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0440\u0435\u0441\u0442\u043e\u043b\u043d\u0438\u043d\u0430 \u0426\u0435\u0442\u0438\u045a\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u091f\u093f\u0902\u091c\u0947 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0442\u043e\u043b\u043d\u0438\u043d\u0430 \u0426\u0435\u0442\u0438\u045a\u0435"
+    ],
+    "name:msa_x_preferred":[
         "Cetinje Municipality"
     ],
     "name:nob_x_preferred":[
@@ -103,7 +100,7 @@
     "name:por_x_preferred":[
         "Cetinje"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Cetinje"
     ],
     "name:rus_x_preferred":[
@@ -114,6 +111,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipio de Cetinje"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Cetin\u00ebs"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0426\u0435\u0442\u0438\u045a\u0435"
@@ -270,7 +270,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1553814808,
+    "wof:lastmodified":1561840451,
     "wof:name":"Cetinje",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

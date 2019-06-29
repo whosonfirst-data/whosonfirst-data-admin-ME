@@ -159,9 +159,6 @@
     "name:cym_x_preferred":[
         "Montenegro"
     ],
-    "name:cze_x_preferred":[
-        "\u010cern\u00e1 Hora"
-    ],
     "name:dan_x_preferred":[
         "Montenegro"
     ],
@@ -566,9 +563,6 @@
     "name:rue_x_preferred":[
         "\u0427\u043e\u0440\u043d\u0430 \u0413\u043e\u0440\u0430"
     ],
-    "name:rum_x_preferred":[
-        "Muntenegru"
-    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f"
     ],
@@ -760,7 +754,6 @@
         "\u8499\u7279\u5167\u54e5\u7f85"
     ],
     "name:zho_x_variant":[
-        "\u8499\u7279\u5167\u54e5\u7f85",
         "\u9ed1\u5c71",
         "\u9ed1\u5c71\u5171\u548c\u56fd"
     ],
@@ -917,7 +910,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1544059314,
+    "wof:lastmodified":1561840451,
     "wof:name":"Montenegro",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -37,9 +37,6 @@
     "name:fra_x_preferred":[
         "Konavle"
     ],
-    "name:fre_x_preferred":[
-        "Konavle"
-    ],
     "name:hbs_x_preferred":[
         "Konavle"
     ],
@@ -128,7 +125,7 @@
         }
     ],
     "wof:id":421204573,
-    "wof:lastmodified":1555220348,
+    "wof:lastmodified":1561840457,
     "wof:name":"Konavle",
     "wof:parent_id":85674639,
     "wof:placetype":"county",

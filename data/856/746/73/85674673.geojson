@@ -58,8 +58,11 @@
     "name:deu_x_preferred":[
         "Nik\u0161i\u0107"
     ],
-    "name:dut_x_preferred":[
-        "Niksic"
+    "name:deu_x_variant":[
+        "Gemeinde Nik\u0161i\u0107"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03ba\u03c3\u03af\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Niksic"
@@ -70,17 +73,8 @@
     "name:fin_x_preferred":[
         "Nik\u0161i\u0107n kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Municipalit\u00e9 de Nik\u0161i\u0107"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10d9\u10e8\u10d8\u10e9\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gemeinde Nik\u0161i\u0107"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b9\u03ba\u03c3\u03af\u03c4\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0a95\u0acd\u0ab8\u0abf\u0a95 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -100,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0cbf\u0c95\u0ccd\u0cb8\u0cbf\u0c95\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10d9\u10e8\u10d8\u10e9\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub2c9\uc2dc\uce58 \uc9c0\ubc29 \uc790\uce58\uc81c"
     ],
@@ -112,8 +109,11 @@
     "name:mar_x_preferred":[
         "\u0928\u093f\u0915\u094d\u0938\u0940\u0915 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Niksic Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Niksic"
     ],
     "name:nob_x_preferred":[
         "Niksic kommune"
@@ -124,7 +124,7 @@
     "name:por_x_preferred":[
         "Munic\u00edpio de Niksic"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Nik\u0161i\u0107"
     ],
     "name:rus_x_preferred":[
@@ -295,7 +295,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1553550460,
+    "wof:lastmodified":1561840451,
     "wof:name":"Nik\u0161ic",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

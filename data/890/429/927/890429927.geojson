@@ -18,10 +18,10 @@
     "name:eng_x_preferred":[
         "\u0160ula"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0160ula"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u0160ula"
     ],
     "name:rus_x_preferred":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":890429927,
-    "wof:lastmodified":1527792796,
+    "wof:lastmodified":1561840460,
     "wof:name":"\u0160ula",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

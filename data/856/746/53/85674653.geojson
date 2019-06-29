@@ -22,9 +22,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Beranes"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0628\u064a\u0631\u0627\u0646\u064a"
     ],
@@ -37,8 +34,11 @@
     "name:dan_x_preferred":[
         "Berane"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Berane"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c1\u03ac\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Berane"
@@ -49,17 +49,8 @@
     "name:fin_x_preferred":[
         "Beranen kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Berane"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10e0\u10d0\u10dc\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Berane"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03c1\u03ac\u03bd\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0ab0\u0ac7\u0aa8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -79,6 +70,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cc6\u0cb0\u0cc7\u0ca8\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e0\u10d0\u10dc\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubca0\ub77c\ub124 \uc9c0\ubc29 \uc790\uce58\uc81c"
     ],
@@ -91,8 +85,11 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0930\u0923\u0947 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Berane Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Berane"
     ],
     "name:nob_x_preferred":[
         "Berane kommune"
@@ -103,7 +100,7 @@
     "name:por_x_preferred":[
         "Berane"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Berane"
     ],
     "name:rus_x_preferred":[
@@ -114,6 +111,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipio de Berane"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Beranes"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0435\u0440\u0430\u043d\u0435"
@@ -256,7 +256,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1553550459,
+    "wof:lastmodified":1561840451,
     "wof:name":"Berane",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

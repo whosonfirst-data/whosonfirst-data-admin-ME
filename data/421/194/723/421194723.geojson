@@ -34,20 +34,14 @@
     "name:ces_x_preferred":[
         "Tivat"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u74e6\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Tivat"
-    ],
     "name:dan_x_preferred":[
         "Tivat"
     ],
     "name:deu_x_preferred":[
         "Tivat"
     ],
-    "name:dut_x_preferred":[
-        "Tivat"
+    "name:ell_x_preferred":[
+        "\u03a4\u03af\u03b2\u03b1\u03c4"
     ],
     "name:eng_x_preferred":[
         "Tivat"
@@ -55,26 +49,17 @@
     "name:est_x_preferred":[
         "Tivat"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0648\u0627\u062a"
+    ],
     "name:fin_x_preferred":[
         "Tivat"
     ],
     "name:fra_x_preferred":[
         "Tivat"
     ],
-    "name:fre_x_preferred":[
-        "Tivat"
-    ],
     "name:gag_x_preferred":[
         "Tivat"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d8\u10d5\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Tivat"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03af\u03b2\u03b1\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abf\u0ab5\u0aa4"
@@ -106,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0c9f\u0cbf\u0cb5\u0ca4\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d8\u10d5\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud2f0\ubc14\ud2b8"
     ],
@@ -115,13 +103,13 @@
     "name:lit_x_preferred":[
         "Tivatas"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0438\u0432\u0430\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u091f\u0940\u0935\u093e\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0422\u0438\u0432\u0430\u0442"
+    ],
+    "name:msa_x_preferred":[
         "Tivat"
     ],
     "name:nld_x_preferred":[
@@ -130,16 +118,13 @@
     "name:nob_x_preferred":[
         "Tivat"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u06cc\u0648\u0627\u062a"
-    ],
     "name:pol_x_preferred":[
         "Tivat"
     ],
     "name:por_x_preferred":[
         "Tivat"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tivat"
     ],
     "name:rus_x_preferred":[
@@ -184,6 +169,9 @@
     "name:vie_x_preferred":[
         "Tivat"
     ],
+    "name:zho_x_preferred":[
+        "\u8482\u74e6\u7279"
+    ],
     "qs:gn_country":"ME",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3189073,
@@ -227,7 +215,7 @@
         }
     ],
     "wof:id":421194723,
-    "wof:lastmodified":1527716132,
+    "wof:lastmodified":1561840457,
     "wof:name":"Tivat",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

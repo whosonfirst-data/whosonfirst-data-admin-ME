@@ -16,28 +16,22 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u043e\u0447\u0435"
     ],
-    "name:dut_x_preferred":[
-        "Bio\u010de"
-    ],
     "name:eng_x_preferred":[
         "Bio\u010de"
     ],
     "name:fra_x_preferred":[
         "Bio\u010de"
     ],
-    "name:fre_x_preferred":[
+    "name:hbs_x_preferred":[
         "Bio\u010de"
     ],
-    "name:hbs_x_preferred":[
+    "name:nld_x_preferred":[
         "Bio\u010de"
     ],
     "name:pol_x_preferred":[
         "Bio\u010de"
     ],
     "name:ron_x_preferred":[
-        "Bio\u010de"
-    ],
-    "name:rum_x_preferred":[
         "Bio\u010de"
     ],
     "name:slv_x_preferred":[
@@ -98,7 +92,7 @@
         }
     ],
     "wof:id":421171863,
-    "wof:lastmodified":1527726497,
+    "wof:lastmodified":1561840458,
     "wof:name":"Bio\u010de",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

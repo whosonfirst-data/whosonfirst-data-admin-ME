@@ -15,16 +15,16 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Miljevci"
-    ],
     "name:eng_x_preferred":[
         "Miljevci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Miljevci"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Miljevci"
+    ],
+    "name:ron_x_preferred":[
         "Miljevci"
     ],
     "name:slv_x_preferred":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":890430935,
-    "wof:lastmodified":1553816394,
+    "wof:lastmodified":1561840459,
     "wof:name":"Miljevci",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

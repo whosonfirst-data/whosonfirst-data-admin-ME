@@ -19,28 +19,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Spu\u017e"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Spu\u017e"
     ],
     "name:eng_x_preferred":[
         "Spu\u017e"
     ],
-    "name:fre_x_preferred":[
-        "Spu\u017e"
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u0648\u0698"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Spu\u017e"
     ],
     "name:hrv_x_preferred":[
         "Spu\u017e"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u067e\u0648\u0698"
+    "name:nld_x_preferred":[
+        "Spu\u017e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Spu\u017e"
     ],
     "name:slv_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125776971,
-    "wof:lastmodified":1553816527,
+    "wof:lastmodified":1561840462,
     "wof:name":"Spu\u017e",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

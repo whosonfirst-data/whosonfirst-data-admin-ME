@@ -18,16 +18,16 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043d\u0430\u0440\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Ponari"
-    ],
     "name:eng_x_preferred":[
         "Ponari"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ponari"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Ponari"
+    ],
+    "name:ron_x_preferred":[
         "Ponari"
     ],
     "name:slv_x_preferred":[
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":890437679,
-    "wof:lastmodified":1514484639,
+    "wof:lastmodified":1561840459,
     "wof:name":"Ponari",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

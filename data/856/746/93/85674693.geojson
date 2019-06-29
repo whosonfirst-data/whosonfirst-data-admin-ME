@@ -31,19 +31,19 @@
     "name:est_x_preferred":[
         "Tivati vald"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10e2\u10d8\u10d5\u10d0\u10e2\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:lit_x_preferred":[
         "Tivato op\u0161tina"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0438\u0432\u0430\u0442"
     ],
     "name:por_x_preferred":[
         "Tivat"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Tivat"
     ],
     "name:spa_x_preferred":[
@@ -185,7 +185,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1553550459,
+    "wof:lastmodified":1561840450,
     "wof:name":"Tivat",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

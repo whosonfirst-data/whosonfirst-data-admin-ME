@@ -15,16 +15,16 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Vi\u0161"
-    ],
     "name:eng_x_preferred":[
         "Vi\u0161"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vi\u0161"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Vi\u0161"
+    ],
+    "name:ron_x_preferred":[
         "Vi\u0161"
     ],
     "name:srp_x_preferred":[
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":890430913,
-    "wof:lastmodified":1514484645,
+    "wof:lastmodified":1561840459,
     "wof:name":"Vi\u0161",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",
