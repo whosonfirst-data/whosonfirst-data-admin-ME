@@ -19,16 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Va\u0161kovo"
-    ],
     "name:eng_x_preferred":[
         "Va\u0161kovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Va\u0161kovo"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Va\u0161kovo"
+    ],
+    "name:ron_x_preferred":[
         "Va\u0161kovo"
     ],
     "name:slv_x_preferred":[
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1125866867,
-    "wof:lastmodified":1514484645,
+    "wof:lastmodified":1561840462,
     "wof:name":"Va\u0161kovo",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

@@ -18,16 +18,16 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u0431\u0440\u043e\u0432\u0441\u043a\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Dubrovsko"
-    ],
     "name:eng_x_preferred":[
         "Dubrovsko"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dubrovsko"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Dubrovsko"
+    ],
+    "name:ron_x_preferred":[
         "Dubrovsko"
     ],
     "name:slv_x_preferred":[
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":890416545,
-    "wof:lastmodified":1514484615,
+    "wof:lastmodified":1561840461,
     "wof:name":"Dubrovsko",
     "wof:parent_id":85674695,
     "wof:placetype":"locality",

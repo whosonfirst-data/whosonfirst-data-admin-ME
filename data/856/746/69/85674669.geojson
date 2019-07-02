@@ -25,9 +25,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Mojkovacit"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0645\u0648\u064a\u0643\u0648\u0641\u0627\u062a\u0634"
     ],
@@ -40,8 +37,11 @@
     "name:dan_x_preferred":[
         "Mojkovac Municipality"
     ],
-    "name:dut_x_preferred":[
-        "Mojkovac"
+    "name:deu_x_preferred":[
+        "Gemeinde Mojkovac"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03b6\u03ba\u03bf\u03b2\u03b1\u03ba"
     ],
     "name:eng_x_preferred":[
         "Mojkovac"
@@ -55,17 +55,8 @@
     "name:fin_x_preferred":[
         "Mojkovacin kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Municipalit\u00e9 de Mojkovac"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10d8\u10d9\u10dd\u10d5\u10d0\u10ea\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gemeinde Mojkovac"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cc\u03b6\u03ba\u03bf\u03b2\u03b1\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a9c\u0acd\u0a95\u0acb\u0ab5\u0ac7\u0a95 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -88,6 +79,9 @@
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10d8\u10d9\u10dd\u10d5\u10d0\u10ea\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10db\u10dd\u10d8\u10d9\u10dd\u10d5\u10d0\u10ea\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubaa8\uc774\ucf54\ubc14\uce20"
     ],
@@ -100,8 +94,11 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u091c\u0915\u094b\u0935\u0915 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mojkovac Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Mojkovac"
     ],
     "name:nob_x_preferred":[
         "Mojkovac kommune"
@@ -112,7 +109,7 @@
     "name:por_x_preferred":[
         "Mojkovac"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Mojkovac"
     ],
     "name:rus_x_preferred":[
@@ -126,6 +123,9 @@
     ],
     "name:sqi_x_preferred":[
         "Mojkovaci"
+    ],
+    "name:sqi_x_variant":[
+        "Komuna e Mojkovacit"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u043e\u0458\u043a\u043e\u0432\u0430\u0446"
@@ -286,7 +286,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1553550460,
+    "wof:lastmodified":1561840450,
     "wof:name":"Mojkovac",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

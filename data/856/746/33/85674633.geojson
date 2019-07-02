@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043378,
-    "geom:area_square_m":393165941.801642,
+    "geom:area_square_m":393165941.801643,
     "geom:bbox":"20.0475932151,42.7425084433,20.3551705324,42.9736047914",
     "geom:latitude":42.86041,
     "geom:longitude":20.190526,
@@ -25,9 +25,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Rozhaj\u00ebs"
-    ],
     "name:bel_x_variant":[
         "\u0420\u043e\u0436\u0430\u0435"
     ],
@@ -41,9 +38,6 @@
         "Ro\u017eaje"
     ],
     "name:deu_x_preferred":[
-        "Ro\u017eaje"
-    ],
-    "name:dut_x_preferred":[
         "Ro\u017eaje"
     ],
     "name:ell_x_preferred":[
@@ -61,11 +55,14 @@
     "name:fin_x_preferred":[
         "Ro\u017eaje"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10e0\u10dd\u10df\u10d0\u10d8\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:lit_x_preferred":[
         "Ro\u017eaj\u0117s op\u0161tina"
+    ],
+    "name:nld_x_preferred":[
+        "Ro\u017eaje"
     ],
     "name:pol_x_preferred":[
         "Ro\u017eaje"
@@ -73,11 +70,14 @@
     "name:por_x_preferred":[
         "Ro\u017eaje"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Ro\u017eaje"
     ],
     "name:spa_x_preferred":[
         "Ro\u017eaje"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Rozhaj\u00ebs"
     ],
     "name:srp_x_preferred":[
         "\u0420\u043e\u0436\u0430\u0458\u0435"
@@ -220,7 +220,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1553814808,
+    "wof:lastmodified":1561840451,
     "wof:name":"Ro\u017eaje",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

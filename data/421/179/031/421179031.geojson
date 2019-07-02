@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000883,
-    "geom:area_square_m":8063606.911432,
+    "geom:area_square_m":8063606.911431,
     "geom:bbox":"18.8848871303,42.3719322471,18.943820835,42.4068597513",
     "geom:latitude":42.391259,
     "geom:longitude":18.917309,
@@ -25,9 +25,6 @@
     "name:aka_x_preferred":[
         "Cetinje"
     ],
-    "name:alb_x_preferred":[
-        "Cetina"
-    ],
     "name:aln_x_preferred":[
         "Cetinje"
     ],
@@ -39,9 +36,6 @@
     ],
     "name:arg_x_preferred":[
         "Cetinje"
-    ],
-    "name:arm_x_preferred":[
-        "\u0551\u0565\u057f\u056b\u0576\u0565"
     ],
     "name:arn_x_preferred":[
         "Cetinje"
@@ -56,9 +50,6 @@
         "\u00c7etinye"
     ],
     "name:bam_x_preferred":[
-        "Cetinje"
-    ],
-    "name:baq_x_preferred":[
         "Cetinje"
     ],
     "name:bar_x_preferred":[
@@ -103,9 +94,6 @@
     "name:che_x_preferred":[
         "\u0426\u0435\u0442\u0438\u043d\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u91c7\u8482\u6d85"
-    ],
     "name:cho_x_preferred":[
         "Cetinje"
     ],
@@ -127,7 +115,7 @@
     "name:csb_x_preferred":[
         "Cetinje"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Cetinje"
     ],
     "name:dan_x_preferred":[
@@ -145,8 +133,8 @@
     "name:dtp_x_preferred":[
         "Cetinje"
     ],
-    "name:dut_x_preferred":[
-        "Cetinje"
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c4\u03af\u03b3\u03bd\u03b7"
     ],
     "name:eml_x_preferred":[
         "Cetinje"
@@ -158,6 +146,9 @@
         "Cetinjo"
     ],
     "name:est_x_preferred":[
+        "Cetinje"
+    ],
+    "name:eus_x_preferred":[
         "Cetinje"
     ],
     "name:ewe_x_preferred":[
@@ -184,9 +175,6 @@
     "name:fra_x_preferred":[
         "Cetinje"
     ],
-    "name:fre_x_preferred":[
-        "Cetinje"
-    ],
     "name:frp_x_preferred":[
         "Cetinje"
     ],
@@ -205,12 +193,6 @@
     "name:gag_x_preferred":[
         "Cetinje"
     ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d4\u10e2\u10d8\u10dc\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Cetinje"
-    ],
     "name:gla_x_preferred":[
         "Cetinje"
     ],
@@ -222,9 +204,6 @@
     ],
     "name:got_x_preferred":[
         "Cetinje"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03c4\u03af\u03b3\u03bd\u03b7"
     ],
     "name:grn_x_preferred":[
         "Cetinje"
@@ -274,9 +253,6 @@
     "name:ibo_x_preferred":[
         "Cetinje"
     ],
-    "name:ice_x_preferred":[
-        "Cetinje"
-    ],
     "name:ido_x_preferred":[
         "Cetinje"
     ],
@@ -296,6 +272,9 @@
         "Cetinje"
     ],
     "name:ipk_x_preferred":[
+        "Cetinje"
+    ],
+    "name:isl_x_preferred":[
         "Cetinje"
     ],
     "name:ita_x_preferred":[
@@ -321,6 +300,9 @@
     ],
     "name:kal_x_preferred":[
         "Cetinje"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10e2\u10d8\u10dc\u10d4"
     ],
     "name:kau_x_preferred":[
         "Cetinje"
@@ -394,15 +376,6 @@
     "name:lzz_x_preferred":[
         "Cetinje"
     ],
-    "name:mac_x_preferred":[
-        "\u0426\u0435\u0442\u0438\u045a\u0435"
-    ],
-    "name:mao_x_preferred":[
-        "Cetinje"
-    ],
-    "name:may_x_preferred":[
-        "Cetinje"
-    ],
     "name:min_x_preferred":[
         "Cetinje"
     ],
@@ -410,6 +383,12 @@
         "\u0426\u0435\u0442\u0438\u045a\u0435"
     ],
     "name:mlt_x_preferred":[
+        "Cetinje"
+    ],
+    "name:mri_x_preferred":[
+        "Cetinje"
+    ],
+    "name:msa_x_preferred":[
         "Cetinje"
     ],
     "name:mus_x_preferred":[
@@ -484,9 +463,6 @@
     "name:pdt_x_preferred":[
         "Cetinje"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u062a\u06cc\u0646\u06cc\u0647"
-    ],
     "name:pfl_x_preferred":[
         "Cetinje"
     ],
@@ -517,7 +493,7 @@
     "name:roh_x_preferred":[
         "Cetinje"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cetinje"
     ],
     "name:run_x_preferred":[
@@ -559,7 +535,7 @@
     "name:sli_x_preferred":[
         "Cetinje"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Cetinje"
     ],
     "name:slv_x_preferred":[
@@ -691,9 +667,6 @@
     "name:war_x_preferred":[
         "Cetinje"
     ],
-    "name:wel_x_preferred":[
-        "Cetinje"
-    ],
     "name:wln_x_preferred":[
         "Cetinje"
     ],
@@ -763,7 +736,7 @@
     },
     "wof:country":"ME",
     "wof:created":1459009202,
-    "wof:geomhash":"7b0ebd3d0a617e8e63b4e2e0ee77d560",
+    "wof:geomhash":"b6d317f7b90ba77e27f59529de023bd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -773,7 +746,7 @@
         }
     ],
     "wof:id":421179031,
-    "wof:lastmodified":1552519482,
+    "wof:lastmodified":1561840458,
     "wof:name":"Cetinje",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",
@@ -785,7 +758,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.884887130323634,
+    18.88488713032363,
     42.37193224712402,
     18.94382083495931,
     42.40685975133901

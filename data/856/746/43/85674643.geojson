@@ -25,9 +25,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Kotorrit"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0442\u043e\u0440"
     ],
@@ -46,14 +43,14 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u062a\u0648\u0631"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e2\u10dd\u10e0\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Cattaro"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30c8\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e2\u10dd\u10e0\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ucf54\ud1a0\ub974"
@@ -64,11 +61,11 @@
     "name:lit_x_preferred":[
         "Kotoras"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u043e\u0442\u043e\u0440"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0442\u043e\u0440"
+    ],
+    "name:mkd_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u043e\u0442\u043e\u0440"
     ],
     "name:oss_x_preferred":[
         "\u041a\u043e\u0442\u043e\u0440"
@@ -79,7 +76,7 @@
     "name:por_x_preferred":[
         "Kotor"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Kotor"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:sqi_x_preferred":[
         "Kotorri"
+    ],
+    "name:sqi_x_variant":[
+        "Komuna e Kotorrit"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0442\u043e\u0440"
@@ -236,7 +236,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1553550459,
+    "wof:lastmodified":1561840451,
     "wof:name":"Kotor",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

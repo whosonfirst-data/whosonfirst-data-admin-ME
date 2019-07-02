@@ -15,16 +15,16 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Leovo Brdo"
-    ],
     "name:eng_x_preferred":[
         "Leovo Brdo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Leovo Brdo"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Leovo Brdo"
+    ],
+    "name:ron_x_preferred":[
         "Leovo Brdo"
     ],
     "name:slv_x_preferred":[
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890451483,
-    "wof:lastmodified":1527792936,
+    "wof:lastmodified":1561840461,
     "wof:name":"Leovo Brdo",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

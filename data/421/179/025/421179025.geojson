@@ -13,14 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Tivari i Vjet\u00ebr"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438 \u0411\u0430\u0440"
-    ],
-    "name:dut_x_preferred":[
-        "Stari Bar"
     ],
     "name:eng_x_preferred":[
         "Stari Bar"
@@ -34,9 +28,6 @@
     "name:fra_x_preferred":[
         "Stari Bar"
     ],
-    "name:fre_x_preferred":[
-        "Stari Bar"
-    ],
     "name:hbs_x_preferred":[
         "Stari Bar"
     ],
@@ -46,13 +37,10 @@
     "name:ita_x_preferred":[
         "Antivari Vecchia"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0631\u06cc \u0628\u0627\u0631"
-    ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Stari Bar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Stari Bar"
     ],
     "name:slv_x_preferred":[
@@ -113,7 +101,7 @@
         }
     ],
     "wof:id":421179025,
-    "wof:lastmodified":1527717703,
+    "wof:lastmodified":1561840458,
     "wof:name":"Stari Bar",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

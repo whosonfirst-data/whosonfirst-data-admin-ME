@@ -15,8 +15,11 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dobrota"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03bc\u03c0\u03c1\u03bf\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Dobrota"
@@ -24,14 +27,11 @@
     "name:est_x_preferred":[
         "Dobrota"
     ],
-    "name:fre_x_preferred":[
-        "Dobrota"
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u062a\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dobrota"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03cc\u03bc\u03c0\u03c1\u03bf\u03c4\u03b1"
     ],
     "name:hrv_x_preferred":[
         "Dobrota"
@@ -42,16 +42,16 @@
     "name:jpn_x_preferred":[
         "\u30c9\u30d6\u30ed\u30bf"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u0442\u0430"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0628\u0631\u0648\u062a\u0627"
+    "name:nld_x_preferred":[
+        "Dobrota"
     ],
     "name:pol_x_preferred":[
         "Dobrota"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dobrota"
     ],
     "name:rus_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":890444571,
-    "wof:lastmodified":1553816400,
+    "wof:lastmodified":1561840460,
     "wof:name":"Dobrota",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

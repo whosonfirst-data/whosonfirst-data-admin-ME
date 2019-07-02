@@ -25,9 +25,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Ulqinit"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0623\u0648\u0644\u062a\u0633\u064a"
     ],
@@ -49,17 +46,20 @@
     "name:ces_x_preferred":[
         "Ulcinj"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u723e\u9f4a\u5c3c\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Ulcinj"
     ],
     "name:deu_x_preferred":[
         "Ulcinj"
     ],
+    "name:deu_x_variant":[
+        "Gemeinde Ulcinj"
+    ],
     "name:ell_x_preferred":[
         "\u039f\u03cd\u03bb\u03c4\u03c3\u03b9\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c5\u03bb\u03ba\u03af\u03bd\u03c4\u03b6"
     ],
     "name:eng_x_preferred":[
         "Ulcinj"
@@ -79,20 +79,11 @@
     "name:fra_x_preferred":[
         "Ulcinj"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Municipalit\u00e9 d'Ulcinj"
     ],
     "name:gag_x_preferred":[
         "Ulcinj"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10da\u10ea\u10d8\u10dc\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gemeinde Ulcinj"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03bb\u03ba\u03af\u03bd\u03c4\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0ab2\u0a95\u0ac0\u0a82\u0a9c \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -127,6 +118,9 @@
     "name:kat_x_preferred":[
         "\u10e3\u10da\u10ea\u10d8\u10dc\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10e3\u10da\u10ea\u10d8\u10dc\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc6b8\uce5c"
     ],
@@ -139,17 +133,17 @@
     "name:lit_x_preferred":[
         "Ulcinis"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0423\u043b\u0446\u0438\u045a"
-    ],
     "name:mar_x_preferred":[
         "\u0909\u0932\u091a\u093f\u0928\u091c \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "Ulcinj Municipality"
-    ],
     "name:mkd_x_preferred":[
         "\u0423\u043b\u0446\u0438\u045a"
+    ],
+    "name:mkd_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0423\u043b\u0446\u0438\u045a"
+    ],
+    "name:msa_x_preferred":[
+        "Ulcinj Municipality"
     ],
     "name:nld_x_preferred":[
         "Ulcinj"
@@ -172,7 +166,7 @@
     "name:ron_x_preferred":[
         "Ulcinj"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Comuna Ulcinj"
     ],
     "name:rus_x_preferred":[
@@ -195,6 +189,9 @@
     ],
     "name:sqi_x_preferred":[
         "Ulqini"
+    ],
+    "name:sqi_x_variant":[
+        "Komuna e Ulqinit"
     ],
     "name:srp_x_preferred":[
         "\u0423\u043b\u0446\u0438\u045a"
@@ -234,6 +231,9 @@
     ],
     "name:zho_x_preferred":[
         "\u70cf\u723e\u9f4a\u5c3c"
+    ],
+    "name:zho_x_variant":[
+        "\u70cf\u723e\u9f4a\u5c3c\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
@@ -358,7 +358,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1553550459,
+    "wof:lastmodified":1561840451,
     "wof:name":"Ulcinj",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

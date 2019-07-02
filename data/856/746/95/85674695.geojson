@@ -25,9 +25,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Shavnikut"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062a\u0634\u0627\u0641\u0646\u064a\u0643"
     ],
@@ -52,8 +49,11 @@
     "name:deu_x_preferred":[
         "\u0160avnik"
     ],
-    "name:dut_x_preferred":[
-        "\u0160avnik"
+    "name:deu_x_variant":[
+        "Gemeinde \u0160avnik"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03b2\u03bd\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Savnik"
@@ -70,17 +70,8 @@
     "name:fra_x_preferred":[
         "\u0160avnik"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Municipalit\u00e9 de \u0160avnik"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d0\u10d5\u10dc\u10d8\u10d9\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gemeinde \u0160avnik"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03b2\u03bd\u03b9\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab5\u0aa8\u0abf\u0a95 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -100,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cb5\u0ca8\u0cbf\u0c95\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10d5\u10dc\u10d8\u10d9\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0e4\ube0c\ub2c8\ud06c \uc9c0\ubc29 \uc790\uce58\uc81c"
     ],
@@ -112,8 +106,11 @@
     "name:mar_x_preferred":[
         "\u0938\u094d\u0935\u0928\u093f\u0915 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Savnik Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160avnik"
     ],
     "name:nob_x_preferred":[
         "Savnik Kommune"
@@ -124,7 +121,7 @@
     "name:por_x_preferred":[
         "\u0160avnik"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna \u0160avnik"
     ],
     "name:rus_x_preferred":[
@@ -135,6 +132,9 @@
     ],
     "name:spa_x_preferred":[
         "\u0160avnik"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Shavnikut"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0428\u0430\u0432\u043d\u0438\u043a"
@@ -298,7 +298,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1553550459,
+    "wof:lastmodified":1561840450,
     "wof:name":"\u0160avnik",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

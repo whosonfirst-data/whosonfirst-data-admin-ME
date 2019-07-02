@@ -15,16 +15,16 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Pi\u017eure"
-    ],
     "name:eng_x_preferred":[
         "Pi\u017eure"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pi\u017eure"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Pi\u017eure"
+    ],
+    "name:ron_x_preferred":[
         "Pi\u017eure"
     ],
     "name:slv_x_preferred":[
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":890430749,
-    "wof:lastmodified":1514484633,
+    "wof:lastmodified":1561840459,
     "wof:name":"Pi\u017euri",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

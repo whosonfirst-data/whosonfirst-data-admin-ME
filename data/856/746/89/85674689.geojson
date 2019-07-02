@@ -31,9 +31,6 @@
     "name:afr_x_preferred":[
         "Podgorica"
     ],
-    "name:alb_x_preferred":[
-        "Komuna e Podgoric\u00ebs"
-    ],
     "name:amh_x_preferred":[
         "\u1356\u12f5\u130e\u122a\u133b"
     ],
@@ -133,9 +130,6 @@
     "name:gag_x_preferred":[
         "Podgoritsa"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10d3\u10d2\u10dd\u10e0\u10d8\u10ea\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
     "name:gla_x_preferred":[
         "Podgorica"
     ],
@@ -202,6 +196,9 @@
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10d3\u10d2\u10dd\u10e0\u10d8\u10ea\u10d0"
     ],
+    "name:kat_x_variant":[
+        "\u10de\u10dd\u10d3\u10d2\u10dd\u10e0\u10d8\u10ea\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u0438\u0446\u0430"
     ],
@@ -241,9 +238,6 @@
     "name:ltz_x_preferred":[
         "Podgorica"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u0440\u0430\u0432\u0435\u043d \u0433\u0440\u0430\u0434 \u041f\u043e\u0434\u0433\u043e\u0440\u0438\u0446\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0949\u0921\u0917\u094b\u0930\u093f\u0915\u093e"
     ],
@@ -252,6 +246,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u0440\u0430\u0432\u0435\u043d \u0433\u0440\u0430\u0434 \u041f\u043e\u0434\u0433\u043e\u0440\u0438\u0446\u0430"
     ],
     "name:mlg_x_preferred":[
         "Podgorica"
@@ -307,7 +304,7 @@
     "name:ron_x_preferred":[
         "Podgorica"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Municipiul Podgorica"
     ],
     "name:rus_x_preferred":[
@@ -342,6 +339,9 @@
     ],
     "name:sqi_x_preferred":[
         "Podgorica"
+    ],
+    "name:sqi_x_variant":[
+        "Komuna e Podgoric\u00ebs"
     ],
     "name:srd_x_preferred":[
         "Podgorica"
@@ -547,7 +547,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1553550461,
+    "wof:lastmodified":1561840451,
     "wof:name":"Podgorica",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

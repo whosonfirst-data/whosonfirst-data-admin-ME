@@ -19,16 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Lever Tara"
-    ],
     "name:eng_x_preferred":[
         "Lever Tara"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lever Tara"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Lever Tara"
+    ],
+    "name:ron_x_preferred":[
         "Lever Tara"
     ],
     "name:slv_x_preferred":[
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1125867173,
-    "wof:lastmodified":1514484620,
+    "wof:lastmodified":1561840462,
     "wof:name":"Lever Tara",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

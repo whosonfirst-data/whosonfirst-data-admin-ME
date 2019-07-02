@@ -46,9 +46,6 @@
     "name:fra_x_preferred":[
         "District de Mal\u00ebsi e Madhe"
     ],
-    "name:fre_x_preferred":[
-        "District de Mal\u00ebsi e Madhe"
-    ],
     "name:spa_x_preferred":[
         "Distrito de Mal\u00ebsi e Madhe"
     ],
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":421187163,
-    "wof:lastmodified":1555220346,
+    "wof:lastmodified":1561840457,
     "wof:name":"Malesia e Madhe",
     "wof:parent_id":85674689,
     "wof:placetype":"county",

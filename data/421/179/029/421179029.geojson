@@ -13,12 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Danilovgradi"
-    ],
-    "name:baq_x_preferred":[
-        "Danilovgrad"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0430\u043d\u0456\u043b\u0430\u045e\u0433\u0440\u0430\u0434"
     ],
@@ -37,16 +31,7 @@
     "name:che_x_preferred":[
         "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u0433\u0440\u0430\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u9054\u5c3c\u6d1b\u592b\u683c\u52d2"
-    ],
-    "name:cze_x_preferred":[
-        "Danilovgrad"
-    ],
     "name:deu_x_preferred":[
-        "Danilovgrad"
-    ],
-    "name:dut_x_preferred":[
         "Danilovgrad"
     ],
     "name:eng_x_preferred":[
@@ -65,15 +50,6 @@
         "Danilovgrad"
     ],
     "name:fra_x_preferred":[
-        "Danilovgrad"
-    ],
-    "name:fre_x_preferred":[
-        "Danilovgrad"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10dc\u10d8\u10da\u10dd\u10d5\u10d2\u10e0\u10d0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Danilovgrad"
     ],
     "name:hbs_x_preferred":[
@@ -109,9 +85,6 @@
     "name:nor_x_preferred":[
         "Danilovgrad"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u0646\u06cc\u0644\u0648\u0641\u06af\u0631\u0627\u062f"
-    ],
     "name:pol_x_preferred":[
         "Danilovgrad"
     ],
@@ -119,9 +92,6 @@
         "Danilovgrad"
     ],
     "name:ron_x_preferred":[
-        "Danilovgrad"
-    ],
-    "name:rum_x_preferred":[
         "Danilovgrad"
     ],
     "name:rus_x_preferred":[
@@ -201,7 +171,7 @@
         }
     ],
     "wof:id":421179029,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1561840458,
     "wof:name":"Danilovgrad",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",
