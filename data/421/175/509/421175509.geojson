@@ -16,6 +16,9 @@
     "name:bos_x_preferred":[
         "Kozja Luka"
     ],
+    "name:eng_x_preferred":[
+        "Kozja Luka"
+    ],
     "name:fra_x_preferred":[
         "Kozja Luka"
     ],
@@ -23,6 +26,9 @@
         "Kozja Luka"
     ],
     "name:hrv_x_preferred":[
+        "Kozja Luka"
+    ],
+    "name:nld_x_preferred":[
         "Kozja Luka"
     ],
     "name:srp_x_preferred":[
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421175509,
-    "wof:lastmodified":1527716342,
+    "wof:lastmodified":1563571700,
     "wof:name":"Kozja Luka",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

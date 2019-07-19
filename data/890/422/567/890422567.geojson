@@ -15,8 +15,29 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0441\u043e\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Vasojevi\u0107i"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05e1\u05d5\u05d9\u05d9\u05d1\u05d9\u05e6'\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Vasojevi\u0107i"
+    ],
+    "name:ita_x_preferred":[
+        "Vasojevi\u0107i"
+    ],
+    "name:sqi_x_preferred":[
+        "Vasoviqi"
+    ],
     "name:srp_x_preferred":[
         "Lalevi\u0107i"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0430\u0441\u043e\u0458\u0435\u0432\u0438\u045b\u0438"
     ],
     "qs:name":"Lalevi\u0107i",
     "qs:photos_9r":0,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":890422567,
-    "wof:lastmodified":1527727158,
+    "wof:lastmodified":1563571714,
     "wof:name":"Lalevi\u0107i",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

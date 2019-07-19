@@ -67,8 +67,14 @@
     "name:eng_x_preferred":[
         "Andrijevica"
     ],
+    "name:eng_x_variant":[
+        "Andrijevica Municipality"
+    ],
     "name:est_x_preferred":[
         "Andrijevica"
+    ],
+    "name:est_x_variant":[
+        "Andrijevica vald"
     ],
     "name:eus_x_preferred":[
         "Andrijevica"
@@ -78,6 +84,9 @@
     ],
     "name:fin_x_preferred":[
         "Andrijevica"
+    ],
+    "name:fin_x_variant":[
+        "Andrijevican kunta"
     ],
     "name:fra_x_preferred":[
         "Andrijevica"
@@ -126,6 +135,9 @@
     ],
     "name:lit_x_preferred":[
         "Andrijevica"
+    ],
+    "name:lit_x_variant":[
+        "Andrijevicos op\u0161tina"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0901\u0921\u094d\u0930\u093f\u091c\u0947\u0935\u0940\u091a  \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
@@ -184,6 +196,9 @@
     "name:swe_x_preferred":[
         "Andrijevica"
     ],
+    "name:swe_x_variant":[
+        "Andrijevica Kommun"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0ba9\u0bcd\u0bb0\u0bbf\u0b9c\u0bc6\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
@@ -192,6 +207,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e2d\u0e19\u0e14\u0e23\u0e34\u0e40\u0e08\u0e27\u0e34\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e2d\u0e31\u0e19\u0e14\u0e23\u0e34\u0e40\u0e22\u0e27\u0e34\u0e15\u0e0b\u0e32"
     ],
     "name:tur_x_preferred":[
         "Andrijevica Belediyesi"
@@ -208,11 +226,17 @@
     "name:urd_x_preferred":[
         "\u0622\u0646\u062f\u0631\u06cc\u06d2\u0648\u06cc\u062a\u0633\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0622\u0646\u062f\u0631\u06cc\u06d2\u0648\u06cc\u062a\u0633\u0627 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Andrijevica"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5fb7\u91cc\u8036\u7dad\u5bdf"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u5fb7\u91cc\u8036\u7dad\u5bdf\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
@@ -337,7 +361,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1561840451,
+    "wof:lastmodified":1563571384,
     "wof:name":"Andrijevica",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

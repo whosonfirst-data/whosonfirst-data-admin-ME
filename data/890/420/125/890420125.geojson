@@ -21,6 +21,9 @@
     "name:deu_x_preferred":[
         "\u010celobrdo"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03bb\u03bf\u03bc\u03c0\u03c1\u03bd\u03c4\u03bf"
+    ],
     "name:eng_x_preferred":[
         "\u010celobrdo"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890420125,
-    "wof:lastmodified":1561840461,
+    "wof:lastmodified":1563571783,
     "wof:name":"\u010celobrdo",
     "wof:parent_id":85674621,
     "wof:placetype":"locality",

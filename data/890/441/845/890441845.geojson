@@ -15,6 +15,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mojanovi\u0107i"
+    ],
     "name:eng_x_preferred":[
         "Mojanovi\u0107i"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890441845,
-    "wof:lastmodified":1561840458,
+    "wof:lastmodified":1563571720,
     "wof:name":"Mojanovi\u0107i",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

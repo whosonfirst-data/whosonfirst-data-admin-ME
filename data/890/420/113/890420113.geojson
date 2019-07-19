@@ -15,6 +15,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Trnovice"
+    ],
     "name:eng_x_preferred":[
         "Trnovice"
     ],
@@ -30,8 +33,14 @@
     "name:slv_x_preferred":[
         "Trnovice"
     ],
+    "name:spa_x_preferred":[
+        "\u010celobrdo"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u043d\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Trnovice"
     ],
     "qs:name":"Trnovice",
     "qs:photos_9r":0,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":890420113,
-    "wof:lastmodified":1561840461,
+    "wof:lastmodified":1563571784,
     "wof:name":"Trnovice",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

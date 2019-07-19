@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u0440\u043f\u0430\u0437\u0430\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Virpazar"
+    ],
     "name:ces_x_preferred":[
         "Virpazar"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890429777,
-    "wof:lastmodified":1561840460,
+    "wof:lastmodified":1563571765,
     "wof:name":"Virpazar",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

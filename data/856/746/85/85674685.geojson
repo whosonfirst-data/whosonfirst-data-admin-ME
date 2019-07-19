@@ -43,6 +43,9 @@
     "name:bos_x_preferred":[
         "Pljevlja"
     ],
+    "name:bos_x_variant":[
+        "Op\u0107ina Pljevlja"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u043b\u0435\u0432\u043b\u044f"
     ],
@@ -70,14 +73,23 @@
     "name:eng_x_preferred":[
         "Pljevlja"
     ],
+    "name:eng_x_variant":[
+        "Pljevlja Municipality"
+    ],
     "name:est_x_preferred":[
         "Pljevlja"
+    ],
+    "name:est_x_variant":[
+        "Pljevlja vald"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0644\u06cc\u0641\u0644\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Pljevlja"
+    ],
+    "name:fin_x_variant":[
+        "Pljevljan kunta"
     ],
     "name:fra_x_preferred":[
         "Pljevlja"
@@ -99,6 +111,9 @@
     ],
     "name:hrv_x_preferred":[
         "Pljevlja"
+    ],
+    "name:hsb_x_preferred":[
+        "Gmejna Pljevlja"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Pljevlja"
@@ -127,6 +142,9 @@
     "name:lit_x_preferred":[
         "Plevlia"
     ],
+    "name:lit_x_variant":[
+        "Plevlios op\u0161tina"
+    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0932\u091c\u093f\u0932\u094d\u091c\u093e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
@@ -153,6 +171,9 @@
     ],
     "name:pol_x_preferred":[
         "Pljevlja"
+    ],
+    "name:pol_x_variant":[
+        "Gmina Pljevlja"
     ],
     "name:por_x_preferred":[
         "Pljevlja"
@@ -193,6 +214,9 @@
     "name:swe_x_preferred":[
         "Pljevlja"
     ],
+    "name:swe_x_variant":[
+        "Pljevlja Kommun"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bcd\u0bb3\u0b9c\u0ba4\u0bcd\u0bb5\u0bb2\u0bcd\u0b9c  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
@@ -205,8 +229,14 @@
     "name:tur_x_preferred":[
         "Ta\u015fl\u0131ca"
     ],
+    "name:tur_x_variant":[
+        "Pljevlja Belediyesi"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0454\u0432\u043b\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u041f\u043b\u0435\u0432\u043b\u044f"
     ],
     "name:und_x_preferred":[
         "Pljevlja"
@@ -217,11 +247,17 @@
     "name:urd_x_preferred":[
         "\u067e\u0644\u0626\u06cc\u0648\u0644\u06cc\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u067e\u0644\u0626\u06cc\u0648\u0644\u06cc\u0627 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Pljevlja"
     ],
     "name:zho_x_preferred":[
         "\u666e\u5217\u592b\u5229\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u5217\u592b\u5229\u4e9e\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
@@ -346,7 +382,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1561840451,
+    "wof:lastmodified":1563571383,
     "wof:name":"Pljevlja",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

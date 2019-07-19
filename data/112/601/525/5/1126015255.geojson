@@ -43,6 +43,9 @@
     "name:slv_x_preferred":[
         "\u0110enovi\u0107i"
     ],
+    "name:spa_x_preferred":[
+        "\u0110enovi\u0107i"
+    ],
     "name:srp_x_preferred":[
         "\u0402\u0435\u043d\u043e\u0432\u0438\u045b\u0438"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126015255,
-    "wof:lastmodified":1561840462,
+    "wof:lastmodified":1563571806,
     "wof:name":"\u00d0enovi\u0107i",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

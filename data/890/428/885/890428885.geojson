@@ -27,6 +27,12 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0436\u0430\u0435"
     ],
+    "name:bul_x_variant":[
+        "\u0420\u043e\u0436\u0430\u0439\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Ro\u017eaje"
+    ],
     "name:ces_x_preferred":[
         "Ro\u017eaje"
     ],
@@ -195,7 +201,7 @@
         }
     ],
     "wof:id":890428885,
-    "wof:lastmodified":1561840460,
+    "wof:lastmodified":1563571761,
     "wof:name":"Ro\u017eaje",
     "wof:parent_id":85674633,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
     "name:srp_x_preferred":[
         "Bjelo\u0161evina"
     ],
+    "name:srp_x_variant":[
+        "\u0411\u0458\u0435\u043b\u043e\u0448\u0435\u0432\u0438\u043d\u0430"
+    ],
     "qs:name":"Bjelo\u0161evina",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890430743,
-    "wof:lastmodified":1561840459,
+    "wof:lastmodified":1563571737,
     "wof:name":"Bjelo\u0161evina",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

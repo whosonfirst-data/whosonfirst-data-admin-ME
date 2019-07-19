@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0633\u064a\u062a\u064a\u0646\u064a\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0426\u044d\u0446\u0456\u043d\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a4\u09bf\u099e\u09cd\u099c\u09c7 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Cetinje"
     ],
     "name:dan_x_preferred":[
         "Cetinje"
@@ -270,7 +276,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1561840451,
+    "wof:lastmodified":1563571387,
     "wof:name":"Cetinje",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

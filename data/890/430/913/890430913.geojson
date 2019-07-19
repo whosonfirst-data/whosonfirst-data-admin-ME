@@ -27,6 +27,9 @@
     "name:ron_x_preferred":[
         "Vi\u0161"
     ],
+    "name:slv_x_preferred":[
+        "Vi\u0161"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u0448"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890430913,
-    "wof:lastmodified":1561840459,
+    "wof:lastmodified":1563571730,
     "wof:name":"Vi\u0161",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

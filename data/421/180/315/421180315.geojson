@@ -22,11 +22,17 @@
     "name:cat_x_preferred":[
         "Risano"
     ],
+    "name:ceb_x_preferred":[
+        "Risan"
+    ],
     "name:ces_x_preferred":[
         "Risan"
     ],
     "name:deu_x_preferred":[
         "Risan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03c3\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Risan"
@@ -41,6 +47,12 @@
         "Risan"
     ],
     "name:hrv_x_preferred":[
+        "Risan"
+    ],
+    "name:hun_x_preferred":[
+        "Risan"
+    ],
+    "name:ind_x_preferred":[
         "Risan"
     ],
     "name:ita_x_preferred":[
@@ -74,6 +86,9 @@
         "\u0420\u0438\u0441\u0430\u043d"
     ],
     "name:slv_x_preferred":[
+        "Risan"
+    ],
+    "name:spa_x_preferred":[
         "Risan"
     ],
     "name:sqi_x_preferred":[
@@ -142,7 +157,7 @@
         }
     ],
     "wof:id":421180315,
-    "wof:lastmodified":1561840457,
+    "wof:lastmodified":1563571695,
     "wof:name":"Risan",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

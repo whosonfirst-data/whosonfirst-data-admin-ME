@@ -15,6 +15,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Petrova Ravan"
+    ],
     "name:eng_x_preferred":[
         "Petrova Ravan"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890455291,
-    "wof:lastmodified":1561840459,
+    "wof:lastmodified":1563571745,
     "wof:name":"Petrova Ravan",
     "wof:parent_id":85674667,
     "wof:placetype":"locality",

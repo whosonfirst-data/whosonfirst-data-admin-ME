@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b2\u09c1\u099c\u09be\u0987\u09a8 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Plu\u017eine"
+    ],
     "name:dan_x_preferred":[
         "Plu\u017eine Municipality"
     ],
@@ -43,6 +46,9 @@
     "name:eng_x_preferred":[
         "Pluzine"
     ],
+    "name:eng_x_variant":[
+        "Plu\u017eine Municipality"
+    ],
     "name:est_x_preferred":[
         "Plu\u017eine vald"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:fra_x_preferred":[
         "Municipalit\u00e9 de Plu\u017eine"
+    ],
+    "name:fra_x_variant":[
+        "Plu\u017eine"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab2\u0ac1\u0a9d\u0abf\u0aa8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -150,6 +159,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Pluzine"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u76e7\u65e5\u5167\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
@@ -271,7 +283,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1561840451,
+    "wof:lastmodified":1563571382,
     "wof:name":"Plu\u017eine",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

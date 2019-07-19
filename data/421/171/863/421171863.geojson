@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u043e\u0447\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Bio\u010de"
+    ],
     "name:eng_x_preferred":[
         "Bio\u010de"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421171863,
-    "wof:lastmodified":1561840458,
+    "wof:lastmodified":1563571713,
     "wof:name":"Bio\u010de",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

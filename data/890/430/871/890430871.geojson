@@ -36,6 +36,9 @@
     "name:srp_x_preferred":[
         "Bukovik"
     ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u043a\u043e\u0432\u0438\u043a"
+    ],
     "qs:name":"Bukovik",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890430871,
-    "wof:lastmodified":1561840459,
+    "wof:lastmodified":1563571734,
     "wof:name":"Bukovik",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

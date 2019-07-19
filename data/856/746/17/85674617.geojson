@@ -43,11 +43,17 @@
     "name:cat_x_preferred":[
         "Ulcinj"
     ],
+    "name:ceb_x_preferred":[
+        "Ulcinj"
+    ],
     "name:ces_x_preferred":[
         "Ulcinj"
     ],
     "name:dan_x_preferred":[
         "Ulcinj"
+    ],
+    "name:dan_x_variant":[
+        "Ulcinj Municipality"
     ],
     "name:deu_x_preferred":[
         "Ulcinj"
@@ -64,8 +70,14 @@
     "name:eng_x_preferred":[
         "Ulcinj"
     ],
+    "name:eng_x_variant":[
+        "Ulcinj Municipality"
+    ],
     "name:est_x_preferred":[
         "Ulcinj"
+    ],
+    "name:est_x_variant":[
+        "Ulcinji vald"
     ],
     "name:eus_x_preferred":[
         "Ulcinj"
@@ -75,6 +87,9 @@
     ],
     "name:fin_x_preferred":[
         "Ulcinj"
+    ],
+    "name:fin_x_variant":[
+        "Ulcinjin kunta"
     ],
     "name:fra_x_preferred":[
         "Ulcinj"
@@ -106,6 +121,9 @@
     "name:ind_x_preferred":[
         "Ulcinj"
     ],
+    "name:ind_x_variant":[
+        "Kotamadya Ulcinj"
+    ],
     "name:ita_x_preferred":[
         "Dulcigno"
     ],
@@ -132,6 +150,9 @@
     ],
     "name:lit_x_preferred":[
         "Ulcinis"
+    ],
+    "name:lit_x_variant":[
+        "Ulcinio op\u0161tina"
     ],
     "name:mar_x_preferred":[
         "\u0909\u0932\u091a\u093f\u0928\u091c \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
@@ -202,6 +223,9 @@
     "name:swe_x_preferred":[
         "Ulcinj"
     ],
+    "name:swe_x_variant":[
+        "Ulcinj kommun"
+    ],
     "name:tam_x_preferred":[
         "\u0b89\u0bb2\u0b9a\u0bbf\u0b9e\u0bcd   \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
@@ -214,8 +238,14 @@
     "name:tur_x_preferred":[
         "\u00dclg\u00fcn"
     ],
+    "name:tur_x_variant":[
+        "Ulcinj Belediyesi"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u043b\u044c\u0446\u0438\u043d\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u0423\u043b\u0446\u0438\u043d\u044c"
     ],
     "name:und_x_preferred":[
         "Ulcinj"
@@ -226,6 +256,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0648\u0644\u062a\u0633\u06cc\u0646\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0648\u0644\u062a\u0633\u06cc\u0646\u06cc \u0628\u0644\u062f\u06cc\u06c1"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Ulcinj"
     ],
@@ -233,7 +266,8 @@
         "\u70cf\u723e\u9f4a\u5c3c"
     ],
     "name:zho_x_variant":[
-        "\u70cf\u723e\u9f4a\u5c3c\u5e02"
+        "\u70cf\u723e\u9f4a\u5c3c\u5e02",
+        "\u70cf\u723e\u9f4a\u5c3c\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
@@ -358,7 +392,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1561840451,
+    "wof:lastmodified":1563571378,
     "wof:name":"Ulcinj",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

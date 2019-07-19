@@ -33,6 +33,9 @@
     "name:srp_x_preferred":[
         "Miljevci"
     ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u0459\u0435\u0432\u0446\u0438"
+    ],
     "qs:name":"Miljevci",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890430935,
-    "wof:lastmodified":1561840459,
+    "wof:lastmodified":1563571731,
     "wof:name":"Miljevci",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

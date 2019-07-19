@@ -15,6 +15,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mr\u010devac"
+    ],
     "name:eng_x_preferred":[
         "Mr\u010devac"
     ],
@@ -37,6 +40,9 @@
         "Mr\u010devac"
     ],
     "name:slv_x_preferred":[
+        "Mr\u010devac"
+    ],
+    "name:spa_x_preferred":[
         "Mr\u010devac"
     ],
     "name:srp_x_preferred":[
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890416533,
-    "wof:lastmodified":1561840461,
+    "wof:lastmodified":1563571771,
     "wof:name":"Mr\u010devac",
     "wof:parent_id":85674693,
     "wof:placetype":"locality",

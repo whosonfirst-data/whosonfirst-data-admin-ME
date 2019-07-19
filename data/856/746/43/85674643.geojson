@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0442\u043e\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Kotor"
+    ],
     "name:chv_x_preferred":[
         "\u041a\u043e\u0442\u043e\u0440"
     ],
@@ -37,11 +40,20 @@
     "name:eng_x_preferred":[
         "Kotor"
     ],
+    "name:eng_x_variant":[
+        "Kotor Municipality"
+    ],
     "name:est_x_preferred":[
         "Kotori vald"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u062a\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Kotor"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Kotor"
     ],
     "name:ita_x_preferred":[
         "Cattaro"
@@ -60,6 +72,9 @@
     ],
     "name:lit_x_preferred":[
         "Kotoras"
+    ],
+    "name:lit_x_variant":[
+        "Kotoro op\u0161tina"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0442\u043e\u0440"
@@ -97,6 +112,9 @@
     "name:srp_x_variant":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u043e\u0442\u043e\u0440"
     ],
+    "name:swe_x_preferred":[
+        "Kotor"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0442\u043e\u0440"
     ],
@@ -114,6 +132,9 @@
     ],
     "name:zho_x_preferred":[
         "\u79d1\u6258\u723e"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u6258\u723e\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
@@ -236,7 +257,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1561840451,
+    "wof:lastmodified":1563571380,
     "wof:name":"Kotor",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

@@ -15,6 +15,30 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ra\u0111evi\u0107i"
+    ],
+    "name:eng_x_preferred":[
+        "Ra\u0111evi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Ra\u0111evi\u0107i"
+    ],
+    "name:nld_x_preferred":[
+        "Ra\u0111evi\u0107i"
+    ],
+    "name:ron_x_preferred":[
+        "Ra\u0111evi\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Ra\u0111evi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0452\u0435\u0432\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ra\u0111evi\u0107i"
+    ],
     "qs:name":"Ra\u0111evi\u0107i",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":890420389,
-    "wof:lastmodified":1527792812,
+    "wof:lastmodified":1563571783,
     "wof:name":"Ra\u0111evi\u0107i",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

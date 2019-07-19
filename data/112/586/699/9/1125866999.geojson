@@ -40,6 +40,9 @@
     "name:srp_x_preferred":[
         "Radomir"
     ],
+    "name:srp_x_variant":[
+        "\u0420\u0430\u0434\u043e\u043c\u0438\u0440"
+    ],
     "qs_pg:aaroncc":"ME",
     "qs_pg:gn_country":"ME",
     "qs_pg:gn_fcode":"PPL",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125866999,
-    "wof:lastmodified":1561840462,
+    "wof:lastmodified":1563571802,
     "wof:name":"Radomir",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

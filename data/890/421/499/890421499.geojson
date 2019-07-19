@@ -15,6 +15,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gornji Kokoti"
+    ],
     "name:deu_x_preferred":[
         "Gornji Kokoti"
     ],
@@ -42,8 +45,14 @@
     "name:spa_x_preferred":[
         "Gornji Kokoti"
     ],
+    "name:spa_x_variant":[
+        "Kulja\u010de"
+    ],
     "name:srp_x_preferred":[
         "Gornji Kokoti"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u043e\u0440\u045a\u0438 \u041a\u043e\u043a\u043e\u0442\u0438"
     ],
     "name:swe_x_preferred":[
         "Gornji Kokoti"
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":890421499,
-    "wof:lastmodified":1561840460,
+    "wof:lastmodified":1563571758,
     "wof:name":"Gornji Kokoti",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

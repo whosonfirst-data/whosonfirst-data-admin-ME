@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b2\u09be\u09b8\u09bf\u09a8 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Kola\u0161in"
+    ],
     "name:dan_x_preferred":[
         "Kola\u0161in Municipality"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Kolasin"
+    ],
+    "name:eng_x_variant":[
+        "Kola\u0161in Municipality"
     ],
     "name:est_x_preferred":[
         "Kola\u0161ini vald"
@@ -153,6 +159,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Kolasin"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u62c9\u6b23\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
@@ -274,7 +283,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1561840450,
+    "wof:lastmodified":1563571372,
     "wof:name":"Kola\u0161in",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

@@ -15,6 +15,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03ba\u03cc\u03b2\u03b9\u03c4\u03c3\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Markovi\u0107i"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:srp_x_preferred":[
         "Markovi\u0107i"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u0438\u045b\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043a\u043e\u0432\u0456\u0447\u0456"
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890430999,
-    "wof:lastmodified":1561840458,
+    "wof:lastmodified":1563571722,
     "wof:name":"Markovi\u0107i",
     "wof:parent_id":85674621,
     "wof:placetype":"locality",

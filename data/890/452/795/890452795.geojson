@@ -15,6 +15,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Dobra Sela"
+    ],
     "name:eng_x_preferred":[
         "Dobra Sela"
     ],
@@ -33,8 +36,14 @@
     "name:srp_x_preferred":[
         "Dobra Sela"
     ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u0431\u0440\u0430 \u0421\u0435\u043b\u0430"
+    ],
     "name:swe_x_preferred":[
         "Dobra Sela"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c26\u0c4b\u0c2c\u0c4d\u0c30 \u0c38\u0c46\u0c32"
     ],
     "qs:name":"Dobra Sela",
     "qs:photos_9r":0,
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":890452795,
-    "wof:lastmodified":1561840459,
+    "wof:lastmodified":1563571741,
     "wof:name":"Dobra Sela",
     "wof:parent_id":85674695,
     "wof:placetype":"locality",
