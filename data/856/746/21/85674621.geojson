@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09a6\u09cd\u09ad\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Budva"
+    ],
     "name:dan_x_preferred":[
         "Budva Municipality"
     ],
@@ -43,6 +46,9 @@
     "name:eng_x_preferred":[
         "Budva"
     ],
+    "name:eng_x_variant":[
+        "Budva Municipality"
+    ],
     "name:est_x_preferred":[
         "Budva vald"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:fra_x_preferred":[
         "Municipalit\u00e9 de Budva"
+    ],
+    "name:fra_x_variant":[
+        "Budva"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0aa6\u0acd\u0ab5 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -150,6 +159,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Budva"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5fb7\u74e6\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
@@ -271,7 +283,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1561840451,
+    "wof:lastmodified":1563571379,
     "wof:name":"Budva",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

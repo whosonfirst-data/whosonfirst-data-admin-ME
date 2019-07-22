@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041e\u043f\u0430\u0442\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Opatovo"
+    ],
     "name:deu_x_preferred":[
         "Donja Lastva"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890445437,
-    "wof:lastmodified":1561840461,
+    "wof:lastmodified":1563571787,
     "wof:name":"Opatovo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

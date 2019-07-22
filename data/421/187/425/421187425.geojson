@@ -16,11 +16,17 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0430\u0441\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Perast"
+    ],
     "name:ces_x_preferred":[
         "Perast"
     ],
     "name:deu_x_preferred":[
         "Perast"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03c1\u03b1\u03c3\u03c4"
     ],
     "name:eng_x_preferred":[
         "Perast"
@@ -38,6 +44,9 @@
         "\u05e4\u05e8\u05d0\u05e1\u05d8"
     ],
     "name:hrv_x_preferred":[
+        "Perast"
+    ],
+    "name:ind_x_preferred":[
         "Perast"
     ],
     "name:ita_x_preferred":[
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":421187425,
-    "wof:lastmodified":1561840457,
+    "wof:lastmodified":1563571696,
     "wof:name":"Perast",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u010cestin"
+    ],
     "name:eng_x_preferred":[
         "\u010cestin"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890429133,
-    "wof:lastmodified":1561840460,
+    "wof:lastmodified":1563571763,
     "wof:name":"\u010cestin",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

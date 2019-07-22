@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09a1\u09be\u09a8\u09bf\u09b2\u09cb\u09ad\u0997\u09cd\u09b0\u09be\u09a1 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Danilovgrad"
+    ],
     "name:dan_x_preferred":[
         "Danilovgrad Municipality"
     ],
@@ -43,6 +46,9 @@
     "name:eng_x_preferred":[
         "Danilovgrad"
     ],
+    "name:eng_x_variant":[
+        "Danilovgrad Municipality"
+    ],
     "name:est_x_preferred":[
         "Danilovgradi vald"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:fra_x_preferred":[
         "Municipalit\u00e9 de Danilovgrad"
+    ],
+    "name:fra_x_variant":[
+        "Danilovgrad"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aa8\u0abf\u0ab2\u0acb\u0ab5\u0a97\u0acd\u0ab0\u0abe\u0aa6 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -144,6 +153,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Danilovgrad"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u5c3c\u6d1b\u592b\u683c\u52d2\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
@@ -266,7 +278,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1561840450,
+    "wof:lastmodified":1563571369,
     "wof:name":"Danilovgrad",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

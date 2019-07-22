@@ -31,6 +31,9 @@
     "name:deu_x_preferred":[
         "Kola\u0161in"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03b1\u03c3\u03b9\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Kola\u0161in"
     ],
@@ -103,6 +106,9 @@
     "name:tur_x_preferred":[
         "Kola\u015fin"
     ],
+    "name:tur_x_variant":[
+        "Kola\u0161in"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u0430\u0448\u0438\u043d"
     ],
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":421179027,
-    "wof:lastmodified":1561840458,
+    "wof:lastmodified":1563571708,
     "wof:name":"Kola\u00b5in",
     "wof:parent_id":85674667,
     "wof:placetype":"locality",

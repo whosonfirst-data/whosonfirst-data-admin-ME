@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0435\u043b\u043e \u043f\u043e\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Bijelo Polje"
+    ],
     "name:ces_x_preferred":[
         "Bijelo Polje"
     ],
@@ -133,6 +136,9 @@
     "name:srp_x_preferred":[
         "O\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0438\u0458\u0435\u043b\u043e \u041f\u043e\u0459\u0435"
     ],
+    "name:srp_x_variant":[
+        "\u0411\u0438\u0458\u0435\u043b\u043e \u041f\u043e\u0459\u0435"
+    ],
     "name:swe_x_preferred":[
         "Bijelo Polje"
     ],
@@ -196,7 +202,7 @@
         }
     ],
     "wof:id":421179035,
-    "wof:lastmodified":1561840458,
+    "wof:lastmodified":1563571710,
     "wof:name":"Bijelo Polje",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

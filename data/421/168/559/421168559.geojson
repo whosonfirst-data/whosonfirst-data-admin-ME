@@ -25,11 +25,20 @@
     "name:cat_x_preferred":[
         "Plav-Gusinje"
     ],
+    "name:ceb_x_preferred":[
+        "Plav"
+    ],
     "name:ces_x_preferred":[
+        "Plav"
+    ],
+    "name:dan_x_preferred":[
         "Plav"
     ],
     "name:deu_x_preferred":[
         "Plav"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03b2"
     ],
     "name:eng_x_preferred":[
         "Plav"
@@ -118,6 +127,9 @@
     "name:urd_x_preferred":[
         "\u067e\u0644\u0627\u0648\u060c \u0645\u0648\u0646\u0679\u06cc\u0646\u06cc\u06af\u0631\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u067e\u0644\u0627\u0648"
+    ],
     "name:zho_x_preferred":[
         "\u666e\u62c9\u592b"
     ],
@@ -169,7 +181,7 @@
         }
     ],
     "wof:id":421168559,
-    "wof:lastmodified":1561840457,
+    "wof:lastmodified":1563571692,
     "wof:name":"Plav",
     "wof:parent_id":85674635,
     "wof:placetype":"locality",

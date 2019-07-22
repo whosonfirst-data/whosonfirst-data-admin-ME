@@ -15,6 +15,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aluga"
+    ],
     "name:srp_x_preferred":[
         "Aluga"
     ],
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890431013,
-    "wof:lastmodified":1527735411,
+    "wof:lastmodified":1563571748,
     "wof:name":"Aluga",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

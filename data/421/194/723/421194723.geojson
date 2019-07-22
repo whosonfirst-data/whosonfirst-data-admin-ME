@@ -31,6 +31,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u0432\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Tivat"
+    ],
     "name:ces_x_preferred":[
         "Tivat"
     ],
@@ -71,6 +74,9 @@
         "\u0924\u093f\u0935\u093e\u0924"
     ],
     "name:hrv_x_preferred":[
+        "Tivat"
+    ],
+    "name:hsb_x_preferred":[
         "Tivat"
     ],
     "name:hun_x_preferred":[
@@ -215,7 +221,7 @@
         }
     ],
     "wof:id":421194723,
-    "wof:lastmodified":1561840457,
+    "wof:lastmodified":1563571693,
     "wof:name":"Tivat",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

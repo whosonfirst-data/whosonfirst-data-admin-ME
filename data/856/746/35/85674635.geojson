@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043b\u0430\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Plav"
+    ],
     "name:dan_x_preferred":[
         "Plav Municipality"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "Plav"
+    ],
+    "name:eng_x_variant":[
+        "Plav Municipality"
     ],
     "name:est_x_preferred":[
         "Plavi vald"
@@ -159,6 +165,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Plav"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u592b\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
@@ -281,7 +290,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1561840450,
+    "wof:lastmodified":1563571371,
     "wof:name":"Plav",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

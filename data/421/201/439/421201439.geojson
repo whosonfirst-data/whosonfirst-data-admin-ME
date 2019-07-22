@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Kotor"
     ],
+    "name:ceb_x_preferred":[
+        "Kotor"
+    ],
     "name:ces_x_preferred":[
         "Kotor"
     ],
@@ -178,6 +181,9 @@
     "name:swe_x_preferred":[
         "Kotor"
     ],
+    "name:szl_x_preferred":[
+        "Kotor"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd"
     ],
@@ -206,6 +212,9 @@
         "Kotor"
     ],
     "name:vie_x_preferred":[
+        "Kotor"
+    ],
+    "name:war_x_preferred":[
         "Kotor"
     ],
     "name:zho_x_preferred":[
@@ -259,7 +268,7 @@
         }
     ],
     "wof:id":421201439,
-    "wof:lastmodified":1561840458,
+    "wof:lastmodified":1563571703,
     "wof:name":"Kotor",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

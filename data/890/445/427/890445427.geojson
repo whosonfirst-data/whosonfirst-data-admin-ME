@@ -36,6 +36,9 @@
     "name:srp_x_preferred":[
         "Begova Glavica"
     ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u0433\u043e\u0432\u0430 \u0413\u043b\u0430\u0432\u0438\u0446\u0430"
+    ],
     "qs:name":"Begova Glavica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890445427,
-    "wof:lastmodified":1561840461,
+    "wof:lastmodified":1563571789,
     "wof:name":"Begova Glavica",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

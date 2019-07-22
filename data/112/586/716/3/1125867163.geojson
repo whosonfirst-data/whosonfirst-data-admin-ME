@@ -37,6 +37,9 @@
     "name:srp_x_preferred":[
         "Lu\u017enica"
     ],
+    "name:srp_x_variant":[
+        "\u041b\u0443\u0436\u043d\u0438\u0446\u0430"
+    ],
     "qs_pg:aaroncc":"ME",
     "qs_pg:gn_country":"ME",
     "qs_pg:gn_fcode":"PPL",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125867163,
-    "wof:lastmodified":1561840462,
+    "wof:lastmodified":1563571803,
     "wof:name":"Lu\u017enica",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u0431\u0440\u043e\u0432\u0441\u043a\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Dubrovsko"
+    ],
     "name:eng_x_preferred":[
         "Dubrovsko"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890416545,
-    "wof:lastmodified":1561840461,
+    "wof:lastmodified":1563571773,
     "wof:name":"Dubrovsko",
     "wof:parent_id":85674695,
     "wof:placetype":"locality",

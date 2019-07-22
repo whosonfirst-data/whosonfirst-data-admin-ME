@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438 \u0411\u0430\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Stari Bar"
+    ],
     "name:eng_x_preferred":[
         "Stari Bar"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:ita_x_preferred":[
         "Antivari Vecchia"
+    ],
+    "name:ita_x_variant":[
+        "Stari Bar"
     ],
     "name:nld_x_preferred":[
         "Stari Bar"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421179025,
-    "wof:lastmodified":1561840458,
+    "wof:lastmodified":1563571706,
     "wof:name":"Stari Bar",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

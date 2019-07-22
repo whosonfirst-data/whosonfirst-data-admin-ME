@@ -28,6 +28,9 @@
     "name:deu_x_preferred":[
         "Sveti Stefan"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b2\u03ad\u03c4\u03b9 \u03a3\u03c4\u03ad\u03c6\u03b1\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Sveti Stefan"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:hun_x_preferred":[
         "Sveti Stefan"
+    ],
+    "name:hun_x_variant":[
+        "sveti stefan"
     ],
     "name:ind_x_preferred":[
         "Sveti Stefan"
@@ -73,6 +79,9 @@
     "name:nld_x_preferred":[
         "Sveti Stefan"
     ],
+    "name:nob_x_preferred":[
+        "Sveti Stefan"
+    ],
     "name:nor_x_preferred":[
         "Sveti Stefan"
     ],
@@ -91,7 +100,13 @@
     "name:slv_x_preferred":[
         "Sveti Stefan"
     ],
+    "name:slv_x_variant":[
+        "Sveti \u0160tefan"
+    ],
     "name:spa_x_preferred":[
+        "Sveti Stefan"
+    ],
+    "name:sqi_x_preferred":[
         "Sveti Stefan"
     ],
     "name:srp_x_preferred":[
@@ -151,7 +166,7 @@
         }
     ],
     "wof:id":421189833,
-    "wof:lastmodified":1527716266,
+    "wof:lastmodified":1563571699,
     "wof:name":"Sveti Stefan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

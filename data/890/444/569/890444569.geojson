@@ -15,6 +15,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Matagu\u017ei"
+    ],
     "name:eng_x_preferred":[
         "Matagu\u017ei"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890444569,
-    "wof:lastmodified":1561840460,
+    "wof:lastmodified":1563571761,
     "wof:name":"Matagu\u017ei",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0430\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Berane"
+    ],
     "name:dan_x_preferred":[
         "Berane"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Berane"
+    ],
+    "name:eng_x_variant":[
+        "Berane Municipality"
     ],
     "name:est_x_preferred":[
         "Berane vald"
@@ -151,6 +157,9 @@
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Berane"
     ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u62c9\u5167\u5340"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
     "ne:adm0_label":"5",
@@ -256,7 +265,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1561840451,
+    "wof:lastmodified":1563571381,
     "wof:name":"Berane",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

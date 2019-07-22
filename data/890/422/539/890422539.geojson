@@ -15,8 +15,32 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vranjina"
+    ],
+    "name:eng_x_preferred":[
+        "Vranjina"
+    ],
+    "name:fra_x_preferred":[
+        "Vranjina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30e9\u30f3\u30b8\u30ca\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Vranjina"
+    ],
+    "name:nno_x_preferred":[
+        "Vranjina"
+    ],
+    "name:spa_x_preferred":[
+        "Vranjina"
+    ],
     "name:srp_x_preferred":[
         "Vranjina"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u0430\u045a\u0438\u043d\u0430"
     ],
     "qs:name":"Vranjina",
     "qs:photos_9r":0,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":890422539,
-    "wof:lastmodified":1527727162,
+    "wof:lastmodified":1563571716,
     "wof:name":"Vranjina",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

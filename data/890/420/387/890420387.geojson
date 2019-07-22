@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Kukavice"
     ],
+    "name:ceb_x_preferred":[
+        "Kukavice"
+    ],
     "name:eng_x_preferred":[
         "Kukavice"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890420387,
-    "wof:lastmodified":1561840461,
+    "wof:lastmodified":1563571783,
     "wof:name":"Kukavice",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

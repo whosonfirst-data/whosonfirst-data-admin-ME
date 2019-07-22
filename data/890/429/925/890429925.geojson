@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0443\u0442\u043e\u043c\u043e\u0440\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Sutomore"
+    ],
     "name:ces_x_preferred":[
         "Sutomore"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":890429925,
-    "wof:lastmodified":1561840460,
+    "wof:lastmodified":1563571766,
     "wof:name":"Sutomore",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

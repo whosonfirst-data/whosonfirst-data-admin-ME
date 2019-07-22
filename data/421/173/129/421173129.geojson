@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Municipi de \u017dabljak"
     ],
+    "name:ceb_x_preferred":[
+        "\u017dabljak"
+    ],
     "name:ces_x_preferred":[
         "\u017dabljak"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:deu_x_preferred":[
         "\u017dabljak"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03ac\u03bc\u03c0\u03bb\u03b9\u03b1\u03ba"
     ],
     "name:eng_x_preferred":[
         "\u017dabljak"
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":421173129,
-    "wof:lastmodified":1561840457,
+    "wof:lastmodified":1563571698,
     "wof:name":"\u017dabljak",
     "wof:parent_id":85674701,
     "wof:placetype":"locality",

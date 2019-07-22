@@ -15,6 +15,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Njegovu\u0111a"
+    ],
     "name:eng_x_preferred":[
         "Njegovu\u0111a"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890421491,
-    "wof:lastmodified":1561840460,
+    "wof:lastmodified":1563571759,
     "wof:name":"Njegovu\u0111a",
     "wof:parent_id":85674701,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Gusinje"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03cd\u03c3\u03b9\u03bd\u03b9\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Gusinje"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30b7\u30cb\u30a7"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b0\u30b7\u30f3\u30b8\u30a7"
     ],
     "name:kor_x_preferred":[
         "\uad6c\uc2dc\ub124"
@@ -78,6 +84,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0441\u0456\u043d\u044c\u0454"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0443\u0441\u0438\u043d\u0454"
     ],
     "name:unk_x_variant":[
         "Guci"
@@ -137,7 +146,7 @@
         }
     ],
     "wof:id":421193575,
-    "wof:lastmodified":1561840457,
+    "wof:lastmodified":1563571694,
     "wof:name":"Gusinje",
     "wof:parent_id":85674635,
     "wof:placetype":"locality",

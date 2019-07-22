@@ -33,6 +33,9 @@
     "name:srp_x_preferred":[
         "Sekuli\u0107i"
     ],
+    "name:srp_x_variant":[
+        "\u0421\u0435\u043a\u0443\u043b\u0438\u045b\u0438"
+    ],
     "qs:name":"Sekuli\u0107i",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890455283,
-    "wof:lastmodified":1561840459,
+    "wof:lastmodified":1563571743,
     "wof:name":"Sekuli\u0107i",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
     "name:srp_x_preferred":[
         "\u0428\u0459\u0438\u0432\u0430\u043d\u0441\u043a\u043e"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0454"
+    ],
     "qs:name":"\u0160ljivansko",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890430011,
-    "wof:lastmodified":1561840459,
+    "wof:lastmodified":1563571734,
     "wof:name":"\u0160ljivansko",
     "wof:parent_id":85674701,
     "wof:placetype":"locality",

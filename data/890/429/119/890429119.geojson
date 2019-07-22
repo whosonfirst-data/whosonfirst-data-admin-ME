@@ -33,6 +33,9 @@
     "name:srp_x_preferred":[
         "Pra\u010dica"
     ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0430\u0447\u0438\u0446\u0430"
+    ],
     "qs:name":"Pra\u010dica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890429119,
-    "wof:lastmodified":1561840460,
+    "wof:lastmodified":1563571766,
     "wof:name":"Pra\u010dica",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

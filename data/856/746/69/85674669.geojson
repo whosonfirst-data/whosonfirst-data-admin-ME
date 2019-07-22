@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0439\u043a\u043e\u0432\u0430\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Mojkovac"
+    ],
     "name:dan_x_preferred":[
         "Mojkovac Municipality"
     ],
@@ -46,6 +49,9 @@
     "name:eng_x_preferred":[
         "Mojkovac"
     ],
+    "name:eng_x_variant":[
+        "Mojkovac Municipality"
+    ],
     "name:est_x_preferred":[
         "Mojkovaci vald"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:fra_x_preferred":[
         "Municipalit\u00e9 de Mojkovac"
+    ],
+    "name:fra_x_variant":[
+        "Mojkovac"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a9c\u0acd\u0a95\u0acb\u0ab5\u0ac7\u0a95 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -90,6 +99,9 @@
     ],
     "name:lit_x_preferred":[
         "Moikovacas"
+    ],
+    "name:lit_x_variant":[
+        "Moikovaco op\u0161tina"
     ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u091c\u0915\u094b\u0935\u0915 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
@@ -151,6 +163,9 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0439\u043a\u043e\u0432\u0430\u0446"
     ],
+    "name:ukr_x_variant":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u041c\u043e\u0439\u043a\u043e\u0432\u0430\u0446"
+    ],
     "name:und_x_preferred":[
         "Mojkovac"
     ],
@@ -160,11 +175,17 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u06cc\u06a9\u0648\u0648\u0627\u062a\u0633"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u06cc\u06a9\u0648\u0648\u0627\u062a\u0633 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Mojkovac"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u4f0a\u79d1\u74e6\u8328"
+    ],
+    "name:zho_x_variant":[
+        "\u83ab\u4f0a\u79d1\u74e6\u8328\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
@@ -286,7 +307,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1561840450,
+    "wof:lastmodified":1563571372,
     "wof:name":"Mojkovac",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

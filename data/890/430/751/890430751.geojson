@@ -33,6 +33,9 @@
     "name:srp_x_preferred":[
         "Beljkovi\u0107i"
     ],
+    "name:srp_x_variant":[
+        "\u0411\u0435\u0459\u043a\u043e\u0432\u0438\u045b\u0438"
+    ],
     "qs:name":"Beljkovi\u0107i",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890430751,
-    "wof:lastmodified":1561840459,
+    "wof:lastmodified":1563571732,
     "wof:name":"Beljkovi\u0107i",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",
