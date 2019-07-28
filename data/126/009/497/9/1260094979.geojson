@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Prijelozi"
+    ],
+    "name:ron_x_preferred":[
+        "Prijelozi"
+    ],
+    "name:slv_x_preferred":[
+        "Prijelozi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0458\u0435\u043b\u043e\u0437\u0438"
+    ],
     "name:und_x_variant":[
         "Priloge",
         "Prijelozi"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1260094979,
-    "wof:lastmodified":1537664453,
+    "wof:lastmodified":1564285640,
     "wof:name":"Prijelozi",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

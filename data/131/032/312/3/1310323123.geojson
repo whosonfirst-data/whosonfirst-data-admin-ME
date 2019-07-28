@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "\u017durena"
+    ],
+    "name:ron_x_preferred":[
+        "\u017durena"
+    ],
+    "name:slv_x_preferred":[
+        "\u017durena"
+    ],
     "name:srp_x_preferred":[
         "\u017durena"
+    ],
+    "name:srp_x_variant":[
+        "\u0416\u0443\u0440\u0435\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1310323123,
-    "wof:lastmodified":1537664513,
+    "wof:lastmodified":1564285692,
     "wof:name":"Zurena",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

@@ -25,6 +25,48 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "\u0160kaljari"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03ac\u03bb\u03b9\u03b1\u03c1\u03b9"
+    ],
+    "name:est_x_preferred":[
+        "\u0160kaljari"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06a9\u0627\u0644\u06cc\u0627\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160kaljari"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160kaljari"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160kaliaris"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160kaljari"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160kaljari"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160kaljari"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160kaljari"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043a\u0430\u0459\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160kaljari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043a\u0430\u043b\u044f\u0440\u0456"
+    ],
     "name:und_x_variant":[
         "\u0160kaljari"
     ],
@@ -51,7 +93,7 @@
         }
     ],
     "wof:id":1276354529,
-    "wof:lastmodified":1537664498,
+    "wof:lastmodified":1564285520,
     "wof:name":"Skaljari",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Potrlica"
+    ],
+    "name:ron_x_preferred":[
+        "Potrlica"
+    ],
+    "name:slv_x_preferred":[
+        "Potrlica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0442\u0440\u043b\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Trlica",
         "Potrlice",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276458251,
-    "wof:lastmodified":1537664422,
+    "wof:lastmodified":1564285501,
     "wof:name":"Podtrlica",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

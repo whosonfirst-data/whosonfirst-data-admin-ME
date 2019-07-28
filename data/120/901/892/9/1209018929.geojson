@@ -25,6 +25,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Krstac"
+    ],
     "name:srp_x_preferred":[
         "Krstac"
     ],
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209018929,
-    "wof:lastmodified":1537664431,
+    "wof:lastmodified":1564285560,
     "wof:name":"Krstac",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

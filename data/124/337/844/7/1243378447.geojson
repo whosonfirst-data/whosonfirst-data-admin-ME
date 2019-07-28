@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Crkvice"
+    ],
+    "name:hun_x_preferred":[
+        "Crkvice"
+    ],
+    "name:spa_x_preferred":[
+        "Crkvice"
+    ],
     "name:srp_x_preferred":[
         "Crkvice"
+    ],
+    "name:srp_x_variant":[
+        "\u0426\u0440\u043a\u0432\u0438\u0446\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1243378447,
-    "wof:lastmodified":1537664516,
+    "wof:lastmodified":1564285807,
     "wof:name":"Crkvice",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

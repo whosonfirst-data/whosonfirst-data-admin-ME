@@ -25,6 +25,27 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dubravice"
+    ],
+    "name:ceb_x_preferred":[
+        "Dubravice"
+    ],
+    "name:fra_x_preferred":[
+        "Dubravice"
+    ],
+    "name:hrv_x_preferred":[
+        "Dubravice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Dubravice"
+    ],
     "name:und_x_variant":[
         "Dubravica",
         "Dubravice"
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1293793797,
-    "wof:lastmodified":1537664543,
+    "wof:lastmodified":1564285438,
     "wof:name":"Dubravice",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

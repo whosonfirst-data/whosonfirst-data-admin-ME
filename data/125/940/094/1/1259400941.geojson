@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kukulje"
+    ],
+    "name:ron_x_preferred":[
+        "Kukulje"
+    ],
+    "name:slv_x_preferred":[
+        "Kukulje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u043a\u0443\u0459\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1259400941,
-    "wof:lastmodified":1537568311,
+    "wof:lastmodified":1564285901,
     "wof:name":"Kukulje",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

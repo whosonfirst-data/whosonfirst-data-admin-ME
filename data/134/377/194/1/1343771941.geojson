@@ -25,6 +25,21 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gubava\u010d"
+    ],
+    "name:ron_x_preferred":[
+        "Gubava\u010d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0431\u0430\u0432\u0430\u0447"
+    ],
+    "name:slv_x_preferred":[
+        "Gubava\u010d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0443\u0431\u0430\u0432\u0430\u0447"
+    ],
     "name:und_x_variant":[
         "Gubova\u010da",
         "Gubava\u010d"
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1343771941,
-    "wof:lastmodified":1537664476,
+    "wof:lastmodified":1564285374,
     "wof:name":"Gubavac",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

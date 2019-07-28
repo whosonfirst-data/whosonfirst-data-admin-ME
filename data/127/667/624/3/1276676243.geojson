@@ -25,6 +25,36 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u010celuga"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03bb\u03bf\u03c5\u03b3\u03ba\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0644\u0648\u06af\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "\u010celuga"
+    ],
+    "name:pol_x_preferred":[
+        "\u010celuga"
+    ],
+    "name:ron_x_preferred":[
+        "\u010celuga"
+    ],
+    "name:slv_x_preferred":[
+        "\u010celuga"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c7eluga"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u043b\u0443\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u010celuga"
+    ],
     "name:und_x_variant":[
         "\u010celuga"
     ],
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1276676243,
-    "wof:lastmodified":1537664440,
+    "wof:lastmodified":1564285516,
     "wof:name":"Celuga",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kolijevka"
+    ],
+    "name:ron_x_preferred":[
+        "Kolijevka"
+    ],
+    "name:slv_x_preferred":[
+        "Kolijevka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u0438\u0458\u0435\u0432\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Koljevka",
         "Kolijevke",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293108887,
-    "wof:lastmodified":1537664433,
+    "wof:lastmodified":1564285482,
     "wof:name":"Kolijevka",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

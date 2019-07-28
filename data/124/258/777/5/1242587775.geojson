@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kalu\u0161i\u0107i"
+    ],
+    "name:ron_x_preferred":[
+        "Kalu\u0161i\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Kalu\u0161i\u0107i"
+    ],
     "name:srp_x_preferred":[
         "Kalu\u0161i\u0107i"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0430\u043b\u0443\u0448\u0438\u045b\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1242587775,
-    "wof:lastmodified":1537664464,
+    "wof:lastmodified":1564285831,
     "wof:name":"Kalusici",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

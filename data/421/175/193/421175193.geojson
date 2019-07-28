@@ -34,8 +34,14 @@
     "name:slv_x_preferred":[
         "Bro\u0107anac"
     ],
+    "name:spa_x_preferred":[
+        "Bro\u0107anac"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0440\u043e\u045b\u0430\u043d\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u043e\u0447\u0430\u043d\u0430\u0446\u044c"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421175193,
-    "wof:lastmodified":1527716335,
+    "wof:lastmodified":1564285753,
     "wof:name":"Bro\u0107anac",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

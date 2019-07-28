@@ -25,6 +25,36 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Njegu\u0161i"
+    ],
+    "name:est_x_preferred":[
+        "Njegu\u0161i"
+    ],
+    "name:fra_x_preferred":[
+        "Njegu\u0161i"
+    ],
+    "name:ita_x_preferred":[
+        "Njegu\u0161i"
+    ],
+    "name:ron_x_preferred":[
+        "Njegu\u0161i"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0433\u0443\u0448\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Njegu\u0161i"
+    ],
+    "name:spa_x_preferred":[
+        "Njegu\u0161i"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0435\u0433\u0443\u0448\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Njegu\u0161i"
+    ],
     "name:und_x_variant":[
         "Njegu\u0161i"
     ],
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1327152467,
-    "wof:lastmodified":1537664544,
+    "wof:lastmodified":1564285300,
     "wof:name":"Njegusi",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

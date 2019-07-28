@@ -25,6 +25,21 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Godu\u0161a"
+    ],
+    "name:ron_x_preferred":[
+        "Godu\u0161a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0434\u0443\u0448\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Godu\u0161a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0434\u0443\u0448\u0430"
+    ],
     "name:und_x_variant":[
         "Godu\u0161a"
     ],
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1343468731,
-    "wof:lastmodified":1537664437,
+    "wof:lastmodified":1564285372,
     "wof:name":"Godusa",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

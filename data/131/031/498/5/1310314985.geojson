@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Crhalj"
+    ],
+    "name:ron_x_preferred":[
+        "Crhalj"
+    ],
+    "name:slv_x_preferred":[
+        "Crhalj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0440\u0445\u0430\u0459"
+    ],
     "name:und_x_variant":[
         "Crgalje",
         "Crhalj"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310314985,
-    "wof:lastmodified":1537664513,
+    "wof:lastmodified":1564285674,
     "wof:name":"Crhalj",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

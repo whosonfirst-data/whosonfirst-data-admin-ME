@@ -25,8 +25,26 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sinjac"
+    ],
+    "name:fra_x_preferred":[
+        "Sinjac"
+    ],
+    "name:msa_x_preferred":[
+        "Sinjac"
+    ],
+    "name:por_x_preferred":[
+        "Sinjac"
+    ],
+    "name:slv_x_preferred":[
+        "Sinjac"
+    ],
     "name:srp_x_preferred":[
         "Sinjac"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0438\u045a\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1259598007,
-    "wof:lastmodified":1537664458,
+    "wof:lastmodified":1564285910,
     "wof:name":"Sinjac",
     "wof:parent_id":85674677,
     "wof:placetype":"locality",

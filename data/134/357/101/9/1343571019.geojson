@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mo\u0107evi\u0107i"
+    ],
+    "name:ron_x_preferred":[
+        "Mo\u0107evi\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Mo\u0107evi\u0107i"
+    ],
     "name:srp_x_preferred":[
         "Mo\u010devi\u0107i"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u043e\u045b\u0435\u0432\u0438\u045b\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1343571019,
-    "wof:lastmodified":1537664457,
+    "wof:lastmodified":1564285390,
     "wof:name":"Mocevici",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

@@ -25,7 +25,31 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jablan"
+    ],
+    "name:ceb_x_preferred":[
+        "Jablan"
+    ],
+    "name:fra_x_preferred":[
+        "Jablan"
+    ],
+    "name:hrv_x_preferred":[
+        "Jablan"
+    ],
+    "name:hun_x_preferred":[
+        "Jablan"
+    ],
+    "name:slv_x_preferred":[
+        "Jablan"
+    ],
     "name:srp_x_preferred":[
+        "Jablan"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0430\u0431\u043b\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
         "Jablan"
     ],
     "src:geom":"geonames",
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1310020737,
-    "wof:lastmodified":1537664518,
+    "wof:lastmodified":1564285701,
     "wof:name":"Jablan",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

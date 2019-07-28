@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Stubo"
+    ],
+    "name:ron_x_preferred":[
+        "Stubo"
+    ],
+    "name:slv_x_preferred":[
+        "Stubo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0443\u0431\u043e"
+    ],
     "name:und_x_variant":[
         "Stubao",
         "Stubo",
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209022697,
-    "wof:lastmodified":1537664417,
+    "wof:lastmodified":1564285601,
     "wof:name":"Stube",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lastva"
+    ],
+    "name:fra_x_preferred":[
+        "Lastva"
+    ],
+    "name:hrv_x_preferred":[
+        "Lastva"
+    ],
     "name:srp_x_preferred":[
         "Lastva"
+    ],
+    "name:srp_x_variant":[
+        "\u041b\u0430\u0441\u0442\u0432\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633\u0679\u0648\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1259989475,
-    "wof:lastmodified":1537664505,
+    "wof:lastmodified":1564285881,
     "wof:name":"Lastva",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

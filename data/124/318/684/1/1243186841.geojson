@@ -25,6 +25,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Doline"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1243186841,
-    "wof:lastmodified":1536682690,
+    "wof:lastmodified":1564285869,
     "wof:name":"Doline",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

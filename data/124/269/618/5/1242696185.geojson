@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ogra\u0111enica"
+    ],
+    "name:ron_x_preferred":[
+        "Ogra\u0111enica"
+    ],
+    "name:slv_x_preferred":[
+        "Ogra\u0111enica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0433\u0440\u0430\u0452\u0435\u043d\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Ogradjenica",
         "Ogra\u0111enica"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1242696185,
-    "wof:lastmodified":1537664426,
+    "wof:lastmodified":1564285834,
     "wof:name":"Ogradenica",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

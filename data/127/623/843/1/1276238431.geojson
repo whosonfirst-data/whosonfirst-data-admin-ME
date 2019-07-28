@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gajine"
+    ],
+    "name:fra_x_preferred":[
+        "Gajine"
+    ],
+    "name:pol_x_preferred":[
+        "Gajine"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u0458\u0438\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Gajne",
         "Gajine"
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1276238431,
-    "wof:lastmodified":1537664471,
+    "wof:lastmodified":1564285531,
     "wof:name":"Gajine",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

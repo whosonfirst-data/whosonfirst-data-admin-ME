@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Osmanbegovo Selo"
+    ],
+    "name:ron_x_preferred":[
+        "Osmanbegovo Selo"
+    ],
+    "name:slv_x_preferred":[
+        "Osmanbegovo Selo"
+    ],
     "name:srp_x_preferred":[
         "Osmanbegovo Selo"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0441\u043c\u0430\u043d\u0431\u0435\u0433\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1293019097,
-    "wof:lastmodified":1537664425,
+    "wof:lastmodified":1564285424,
     "wof:name":"Osmanbegovo Selo",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

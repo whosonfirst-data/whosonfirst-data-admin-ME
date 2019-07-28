@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pobreti\u0107i"
+    ],
+    "name:ron_x_preferred":[
+        "Pobreti\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Pobreti\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0431\u0440\u0435\u0442\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Pobrati\u0107i",
         "Pobreti\u0107i",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1209928951,
-    "wof:lastmodified":1537664423,
+    "wof:lastmodified":1564285590,
     "wof:name":"Pobretice",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

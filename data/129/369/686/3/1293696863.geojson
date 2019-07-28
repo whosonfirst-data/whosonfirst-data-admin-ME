@@ -25,9 +25,33 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u017divkovi\u0107i"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0628\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Ubli"
+    ],
+    "name:ron_x_preferred":[
+        "Ubli"
+    ],
+    "name:slv_x_preferred":[
+        "Ubli"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0431\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u017divkovi\u0107i"
+    ],
     "name:und_x_variant":[
         "Ubli",
         "\u017divkovi\u0107i"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1293696863,
-    "wof:lastmodified":1537664516,
+    "wof:lastmodified":1564285461,
     "wof:name":"Zivkovici",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

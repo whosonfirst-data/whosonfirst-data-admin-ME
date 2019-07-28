@@ -25,7 +25,28 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Milje"
+    ],
+    "name:ceb_x_preferred":[
+        "Milje"
+    ],
+    "name:fra_x_preferred":[
+        "Milje"
+    ],
+    "name:hrv_x_preferred":[
+        "Milje"
+    ],
+    "name:slv_x_preferred":[
+        "Milje"
+    ],
     "name:srp_x_preferred":[
+        "Milje"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Milje"
     ],
     "src:geom":"geonames",
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1276557713,
-    "wof:lastmodified":1537664509,
+    "wof:lastmodified":1564285543,
     "wof:name":"Milje",
     "wof:parent_id":85674635,
     "wof:placetype":"locality",

@@ -25,6 +25,33 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kodre"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062f\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Kodre"
+    ],
+    "name:ron_x_preferred":[
+        "Kodre"
+    ],
+    "name:slv_x_preferred":[
+        "Kodre"
+    ],
+    "name:sqi_x_preferred":[
+        "Kodra"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0434\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kodre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0434\u0440\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1260090129,
-    "wof:lastmodified":1537568331,
+    "wof:lastmodified":1564285639,
     "wof:name":"Kodre",
     "wof:parent_id":85674617,
     "wof:placetype":"locality",

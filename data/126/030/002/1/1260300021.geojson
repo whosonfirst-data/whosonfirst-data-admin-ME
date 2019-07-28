@@ -25,6 +25,30 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Medun"
+    ],
+    "name:fra_x_preferred":[
+        "Medun"
+    ],
+    "name:ron_x_preferred":[
+        "Medun"
+    ],
+    "name:slv_x_preferred":[
+        "Medun"
+    ],
+    "name:sqi_x_preferred":[
+        "Meduni"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0434\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Medun"
+    ],
+    "name:tur_x_preferred":[
+        "Medun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1260300021,
-    "wof:lastmodified":1537568310,
+    "wof:lastmodified":1564285649,
     "wof:name":"Medun",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

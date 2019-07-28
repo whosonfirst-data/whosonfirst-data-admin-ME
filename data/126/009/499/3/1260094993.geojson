@@ -25,6 +25,21 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ko\u0107i"
+    ],
+    "name:ron_x_preferred":[
+        "Ko\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Ko\u0107i"
+    ],
+    "name:sqi_x_preferred":[
+        "Koja"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Ko\u0107e",
         "Ko\u010di"
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1260094993,
-    "wof:lastmodified":1537664433,
+    "wof:lastmodified":1564285640,
     "wof:name":"Koci",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

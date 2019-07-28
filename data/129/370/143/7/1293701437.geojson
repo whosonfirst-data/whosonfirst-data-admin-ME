@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kotorac"
+    ],
+    "name:ron_x_preferred":[
+        "Kotorac"
+    ],
+    "name:slv_x_preferred":[
+        "Kotorac"
+    ],
     "name:srp_x_preferred":[
         "Kotorac"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0442\u043e\u0440\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1293701437,
-    "wof:lastmodified":1537664459,
+    "wof:lastmodified":1564285443,
     "wof:name":"Kotorac",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

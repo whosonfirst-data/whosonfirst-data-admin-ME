@@ -25,7 +25,25 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kova\u010devi\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Kova\u010devi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Kova\u010devi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Kova\u010devi\u0107i"
+    ],
     "name:srp_x_preferred":[
+        "Kova\u010devi\u0107i"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
         "Kova\u010devi\u0107i"
     ],
     "src:geom":"geonames",
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1209629965,
-    "wof:lastmodified":1537664552,
+    "wof:lastmodified":1564285556,
     "wof:name":"Kovacevici",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

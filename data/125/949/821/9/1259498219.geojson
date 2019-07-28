@@ -25,6 +25,15 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornje Ledenice"
+    ],
+    "name:fra_x_preferred":[
+        "Gornje Ledenice"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornje Ledenice"
+    ],
     "name:srp_x_preferred":[
         "Gornje Ledenice"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259498219,
-    "wof:lastmodified":1537664446,
+    "wof:lastmodified":1564285902,
     "wof:name":"Gornje Ledenice",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

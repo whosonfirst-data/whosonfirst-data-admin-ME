@@ -28,6 +28,9 @@
     "name:srp_x_preferred":[
         "Njivice"
     ],
+    "name:srp_x_variant":[
+        "\u040a\u0438\u0432\u0438\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1344267031,
-    "wof:lastmodified":1537664528,
+    "wof:lastmodified":1564285399,
     "wof:name":"Njivice",
     "wof:parent_id":85674639,
     "wof:placetype":"locality",

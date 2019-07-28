@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jabu\u010dno"
+    ],
+    "name:ron_x_preferred":[
+        "Jabu\u010dno"
+    ],
+    "name:slv_x_preferred":[
+        "Jabu\u010dno"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0431\u0443\u0447\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Jabu\u010dna",
         "Jabu\u010dno"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310023999,
-    "wof:lastmodified":1537664434,
+    "wof:lastmodified":1564285698,
     "wof:name":"Jabucno",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

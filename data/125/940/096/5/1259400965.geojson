@@ -25,8 +25,23 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vrh"
+    ],
+    "name:ron_x_preferred":[
+        "Vrh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0445"
+    ],
+    "name:slv_x_preferred":[
+        "Vrh"
+    ],
     "name:srp_x_preferred":[
         "Vrh"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0440\u0445"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1259400965,
-    "wof:lastmodified":1537664413,
+    "wof:lastmodified":1564285900,
     "wof:name":"Vrh",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

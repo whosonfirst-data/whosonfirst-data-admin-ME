@@ -25,6 +25,33 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Meljine"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06cc\u06cc\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Meljine"
+    ],
+    "name:ita_x_preferred":[
+        "Megline"
+    ],
+    "name:ron_x_preferred":[
+        "Meljine"
+    ],
+    "name:slv_x_preferred":[
+        "Meljine"
+    ],
+    "name:spa_x_preferred":[
+        "Meljine"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0459\u0438\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u044c\u0457\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Melligne",
         "Meljine"
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1259397447,
-    "wof:lastmodified":1537664428,
+    "wof:lastmodified":1564285885,
     "wof:name":"Meljine",
     "wof:parent_id":85674639,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "name:hbs_x_preferred":[
         "Prelovo"
     ],
+    "name:hrv_x_preferred":[
+        "Prelovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u043b\u043e\u0432\u043e"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u043b\u043e\u0432\u043e"
     ],
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421169451,
-    "wof:lastmodified":1527716174,
+    "wof:lastmodified":1564285751,
     "wof:name":"Prelovo",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

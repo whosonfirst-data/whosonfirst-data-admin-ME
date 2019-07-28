@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Metaljka"
+    ],
+    "name:ron_x_preferred":[
+        "Metaljka"
+    ],
+    "name:slv_x_preferred":[
+        "Metaljka"
+    ],
     "name:srp_x_preferred":[
         "Metaljka"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0435\u0442\u0430\u0459\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276778149,
-    "wof:lastmodified":1537664469,
+    "wof:lastmodified":1564285541,
     "wof:name":"Metaljka",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

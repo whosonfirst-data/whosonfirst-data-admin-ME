@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Velike Kr\u0107e"
+    ],
+    "name:ron_x_preferred":[
+        "Velike Kr\u0107e"
+    ],
+    "name:slv_x_preferred":[
+        "Velike Kr\u0107e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0435 \u041a\u0440\u045b\u0435"
+    ],
     "name:und_x_variant":[
         "Gornje Kr\u0107e",
         "Velike Kr\u0107e",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1292913475,
-    "wof:lastmodified":1537664472,
+    "wof:lastmodified":1564285468,
     "wof:name":"Veliko Krce",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

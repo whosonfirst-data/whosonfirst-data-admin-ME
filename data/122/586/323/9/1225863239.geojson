@@ -25,8 +25,29 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bulinovac"
+    ],
+    "name:deu_x_preferred":[
+        "Bulinovac"
+    ],
+    "name:fra_x_preferred":[
+        "Bulinovac"
+    ],
+    "name:msa_x_preferred":[
+        "Bulinovac"
+    ],
+    "name:por_x_preferred":[
+        "Bulinovac"
+    ],
+    "name:slv_x_preferred":[
+        "Bulinovac"
+    ],
     "name:srp_x_preferred":[
         "Bulinovac"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0443\u043b\u0438\u043d\u043e\u0432\u0430\u0446"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1225863239,
-    "wof:lastmodified":1537664478,
+    "wof:lastmodified":1564285958,
     "wof:name":"Bulinovac",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

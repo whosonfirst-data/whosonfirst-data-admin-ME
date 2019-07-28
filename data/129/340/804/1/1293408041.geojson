@@ -25,8 +25,26 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sige"
+    ],
+    "name:fra_x_preferred":[
+        "Sige"
+    ],
+    "name:msa_x_preferred":[
+        "Sige"
+    ],
+    "name:por_x_preferred":[
+        "Sige"
+    ],
+    "name:slv_x_preferred":[
+        "Sige"
+    ],
     "name:srp_x_preferred":[
         "Sige"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0438\u0433\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293408041,
-    "wof:lastmodified":1537664494,
+    "wof:lastmodified":1564285450,
     "wof:name":"Sige",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

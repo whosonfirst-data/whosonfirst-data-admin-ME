@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pro\u0161\u0107e"
+    ],
+    "name:ron_x_preferred":[
+        "Pro\u0161\u0107e"
+    ],
+    "name:slv_x_preferred":[
+        "Pro\u0161\u0107e"
+    ],
     "name:srp_x_preferred":[
         "Pro\u0161\u010de"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u043e\u0448\u045b\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1226452291,
-    "wof:lastmodified":1537664541,
+    "wof:lastmodified":1564285936,
     "wof:name":"Prosce",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

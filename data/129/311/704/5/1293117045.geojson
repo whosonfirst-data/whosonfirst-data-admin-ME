@@ -25,6 +25,21 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ubli"
+    ],
+    "name:fra_x_preferred":[
+        "Ubli"
+    ],
+    "name:hrv_x_preferred":[
+        "Ubli"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0431\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ubli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1293117045,
-    "wof:lastmodified":1536823266,
+    "wof:lastmodified":1564285474,
     "wof:name":"Ubli",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

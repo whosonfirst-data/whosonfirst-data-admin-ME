@@ -25,7 +25,13 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ger\u00e1ni"
+    ],
     "name:srp_x_preferred":[
+        "Gerani"
+    ],
+    "name:swe_x_preferred":[
         "Gerani"
     ],
     "src:geom":"geonames",
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1243187011,
-    "wof:lastmodified":1537664510,
+    "wof:lastmodified":1564285867,
     "wof:name":"Gerani",
     "wof:parent_id":85674635,
     "wof:placetype":"locality",

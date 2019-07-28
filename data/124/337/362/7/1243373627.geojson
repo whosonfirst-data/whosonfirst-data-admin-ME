@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cerovci"
+    ],
+    "name:ron_x_preferred":[
+        "Cerovci"
+    ],
+    "name:slv_x_preferred":[
+        "Cerovci"
+    ],
     "name:srp_x_preferred":[
         "Cerovci"
+    ],
+    "name:srp_x_variant":[
+        "\u0426\u0435\u0440\u043e\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1243373627,
-    "wof:lastmodified":1537664440,
+    "wof:lastmodified":1564285805,
     "wof:name":"Cerovci",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

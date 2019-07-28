@@ -19,6 +19,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Stijena"
+    ],
+    "name:ceb_x_preferred":[
+        "Stijena"
+    ],
+    "name:deu_x_preferred":[
+        "Stijena"
+    ],
+    "name:fra_x_preferred":[
+        "Stijena"
+    ],
+    "name:hrv_x_preferred":[
+        "Stijena"
+    ],
+    "name:slv_x_preferred":[
+        "Stijena"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0438\u0458\u0435\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Stijena"
+    ],
     "qs_pg:aaroncc":"ME",
     "qs_pg:gn_country":"ME",
     "qs_pg:gn_fcode":"PPLL",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1125866957,
-    "wof:lastmodified":1509397050,
+    "wof:lastmodified":1564285796,
     "wof:name":"Stijena",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "\u0160ljivansko"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160ljivansko"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160ljivansko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0459\u0438\u0432\u0430\u043d\u0441\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "\u0160ljivensko",
         "\u0160ljivansko"
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209625197,
-    "wof:lastmodified":1537664469,
+    "wof:lastmodified":1564285556,
     "wof:name":"Sljivansko",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

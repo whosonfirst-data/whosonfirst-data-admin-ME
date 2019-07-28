@@ -25,8 +25,35 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Stub"
+    ],
+    "name:deu_x_preferred":[
+        "Stub"
+    ],
+    "name:dty_x_preferred":[
+        "\u0920\u0941\u091f\u094b"
+    ],
+    "name:fra_x_preferred":[
+        "Stub"
+    ],
+    "name:ind_x_preferred":[
+        "Stub"
+    ],
+    "name:ita_x_preferred":[
+        "Stub"
+    ],
     "name:srp_x_preferred":[
         "Stub"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0442\u0443\u0431"
+    ],
+    "name:swe_x_preferred":[
+        "Stub"
+    ],
+    "name:tso_x_preferred":[
+        "Wikipedia:Stub"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1292921735,
-    "wof:lastmodified":1537664553,
+    "wof:lastmodified":1564285436,
     "wof:name":"Stub",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

@@ -15,6 +15,12 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Vrulja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0443\u0459\u0430"
+    ],
     "qs:name":"Vrulja",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":890455279,
-    "wof:lastmodified":1505343661,
+    "wof:lastmodified":1564285770,
     "wof:name":"Vrulja",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",
