@@ -25,7 +25,28 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Borje"
+    ],
+    "name:ceb_x_preferred":[
+        "Borje"
+    ],
+    "name:fra_x_preferred":[
+        "Borje"
+    ],
+    "name:hrv_x_preferred":[
+        "Borje"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u044c\u0435"
+    ],
     "name:srp_x_preferred":[
+        "Borje"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u043e\u0440\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Borje"
     ],
     "src:geom":"geonames",
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1242587791,
-    "wof:lastmodified":1537664416,
+    "wof:lastmodified":1564285831,
     "wof:name":"Borje",
     "wof:parent_id":85674701,
     "wof:placetype":"locality",

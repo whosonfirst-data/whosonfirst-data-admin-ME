@@ -25,6 +25,21 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Voljavac"
+    ],
+    "name:ron_x_preferred":[
+        "Voljavac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u044f\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Voljavac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0459\u0430\u0432\u0430\u0446"
+    ],
     "name:und_x_variant":[
         "Voljevac",
         "Voljavac"
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1259593285,
-    "wof:lastmodified":1537664477,
+    "wof:lastmodified":1564285911,
     "wof:name":"Voljavac",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

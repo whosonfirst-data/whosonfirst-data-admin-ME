@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mirojevi\u0107i"
+    ],
+    "name:ron_x_preferred":[
+        "Mirojevi\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Mirojevi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u0458\u0435\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Mirovi\u0107i",
         "Mirojevi\u0107i"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1326648085,
-    "wof:lastmodified":1537664427,
+    "wof:lastmodified":1564285331,
     "wof:name":"Mirojevici",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

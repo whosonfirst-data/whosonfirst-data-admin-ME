@@ -25,6 +25,15 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Orahovac"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Orahovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u041e\u0440\u0430\u0445\u043e\u0432\u0430\u0446"
+    ],
     "name:und_x_variant":[
         "Orabovac"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293505591,
-    "wof:lastmodified":1537664436,
+    "wof:lastmodified":1564285455,
     "wof:name":"Gornji Orahovac",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

@@ -25,7 +25,25 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podnovlje"
+    ],
+    "name:ceb_x_preferred":[
+        "Podnovlje"
+    ],
+    "name:fra_x_preferred":[
+        "Podnovlje"
+    ],
+    "name:hrv_x_preferred":[
+        "Podnovlje"
+    ],
     "name:srp_x_preferred":[
+        "Podnovlje"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0434\u043d\u043e\u0432\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Podnovlje"
     ],
     "src:geom":"geonames",
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1276778033,
-    "wof:lastmodified":1537664468,
+    "wof:lastmodified":1564285540,
     "wof:name":"Podnovlje",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

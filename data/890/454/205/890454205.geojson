@@ -15,6 +15,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Veleta"
+    ],
+    "name:fra_x_preferred":[
+        "Veleta"
+    ],
+    "name:ltz_x_preferred":[
+        "Veleta"
+    ],
+    "name:spa_x_preferred":[
+        "Veleta"
+    ],
     "name:srp_x_preferred":[
         "Veleta"
     ],
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":890454205,
-    "wof:lastmodified":1527735429,
+    "wof:lastmodified":1564285777,
     "wof:name":"Veleta",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

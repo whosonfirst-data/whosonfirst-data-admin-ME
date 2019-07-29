@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Borova"
+    ],
+    "name:ron_x_preferred":[
+        "Borova"
+    ],
+    "name:slv_x_preferred":[
+        "Borova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Borovo",
         "Borova"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310420453,
-    "wof:lastmodified":1537664442,
+    "wof:lastmodified":1564285681,
     "wof:name":"Borova",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

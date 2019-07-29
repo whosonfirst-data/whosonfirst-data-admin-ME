@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Rastoka"
+    ],
+    "name:ron_x_preferred":[
+        "Rastoka"
+    ],
+    "name:slv_x_preferred":[
+        "Rastoka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0441\u0442\u043e\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Rastok",
         "Rastoka"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343972641,
-    "wof:lastmodified":1537664476,
+    "wof:lastmodified":1564285360,
     "wof:name":"Rastoka",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

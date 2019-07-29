@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mijakovi\u0107i"
+    ],
+    "name:ron_x_preferred":[
+        "Mijakovi\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Mijakovi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0458\u0430\u043a\u043e\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Mijakovi\u0107i"
     ],
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1242795841,
-    "wof:lastmodified":1537664428,
+    "wof:lastmodified":1564285858,
     "wof:name":"Mijakovici",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

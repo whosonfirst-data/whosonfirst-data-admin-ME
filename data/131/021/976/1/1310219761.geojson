@@ -25,7 +25,25 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Grabovnik"
+    ],
+    "name:ceb_x_preferred":[
+        "Grabovnik"
+    ],
+    "name:fra_x_preferred":[
+        "Grabovnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Grabovnik"
+    ],
     "name:srp_x_preferred":[
+        "Grabovnik"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u0430\u0431\u043e\u0432\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
         "Grabovnik"
     ],
     "src:geom":"geonames",
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1310219761,
-    "wof:lastmodified":1537664531,
+    "wof:lastmodified":1564285687,
     "wof:name":"Grabovnik",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

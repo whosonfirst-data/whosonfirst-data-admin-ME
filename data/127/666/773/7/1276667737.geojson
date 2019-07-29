@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ki\u010dava"
+    ],
+    "name:ron_x_preferred":[
+        "Ki\u010dava"
+    ],
+    "name:slv_x_preferred":[
+        "Ki\u010dava"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0447\u0430\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Ki\u010deva",
         "Ki\u010dava"
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276667737,
-    "wof:lastmodified":1537664475,
+    "wof:lastmodified":1564285525,
     "wof:name":"Kicava",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

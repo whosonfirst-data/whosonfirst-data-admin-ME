@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vilusi"
+    ],
+    "name:ron_x_preferred":[
+        "Vilusi"
+    ],
+    "name:slv_x_preferred":[
+        "Vilusi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043b\u0443\u0441\u0438"
+    ],
     "name:und_x_variant":[
         "Viluse",
         "Vilusi"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1209825483,
-    "wof:lastmodified":1537664414,
+    "wof:lastmodified":1564285583,
     "wof:name":"Vilusi",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

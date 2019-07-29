@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Raduli\u0107i"
+    ],
+    "name:ron_x_preferred":[
+        "Raduli\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Raduli\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u0443\u043b\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Raduli\u0107",
         "Raduli\u0107i"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310511263,
-    "wof:lastmodified":1537664420,
+    "wof:lastmodified":1564285705,
     "wof:name":"Radulici",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

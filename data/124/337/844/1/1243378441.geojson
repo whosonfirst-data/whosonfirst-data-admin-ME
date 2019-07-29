@@ -25,6 +25,21 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dobrakovo"
+    ],
+    "name:ron_x_preferred":[
+        "Dobrakovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Dobrakovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0430\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Selo Kapetanovi\u0107a",
         "Dobrakovo"
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1243378441,
-    "wof:lastmodified":1537664439,
+    "wof:lastmodified":1564285808,
     "wof:name":"Dobrakovo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

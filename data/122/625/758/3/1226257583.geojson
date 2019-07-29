@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "\u010cokrlije"
+    ],
+    "name:ron_x_preferred":[
+        "\u010cokrlije"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cokrlije"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u043e\u043a\u0440\u043b\u0438\u0458\u0435"
+    ],
     "name:und_x_variant":[
         "Cokrlje",
         "\u010cokrlije"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1226257583,
-    "wof:lastmodified":1537664474,
+    "wof:lastmodified":1564285965,
     "wof:name":"Cokrlije",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

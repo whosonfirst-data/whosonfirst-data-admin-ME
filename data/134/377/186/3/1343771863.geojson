@@ -25,6 +25,21 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gornje Zaostro"
+    ],
+    "name:ron_x_preferred":[
+        "Gornje Zaostro"
+    ],
+    "name:slv_x_preferred":[
+        "Gornje Zaostro"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0435 \u0417\u0430\u043e\u0441\u0442\u0440\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u0440\u0441\u044c\u043a\u0435 \u0417\u0430\u043e\u0441\u0442\u0440\u043e"
+    ],
     "name:und_x_variant":[
         "Zaostro",
         "Gornje Zaostro"
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1343771863,
-    "wof:lastmodified":1537664436,
+    "wof:lastmodified":1564285376,
     "wof:name":"Gornje Zaostro",
     "wof:parent_id":85674653,
     "wof:placetype":"locality",

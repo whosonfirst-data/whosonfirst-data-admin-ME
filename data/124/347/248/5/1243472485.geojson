@@ -25,6 +25,21 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ubli"
+    ],
+    "name:fra_x_preferred":[
+        "Ubli"
+    ],
+    "name:hrv_x_preferred":[
+        "Ubli"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0431\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ubli"
+    ],
     "name:und_x_variant":[
         "Ubla",
         "Ubli"
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1243472485,
-    "wof:lastmodified":1537664478,
+    "wof:lastmodified":1564285844,
     "wof:name":"Ubli",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

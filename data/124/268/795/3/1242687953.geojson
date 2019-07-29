@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Donja Brvenica"
+    ],
+    "name:ron_x_preferred":[
+        "Donja Brvenica"
+    ],
+    "name:slv_x_preferred":[
+        "Donja Brvenica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u0411\u0440\u0432\u0435\u043d\u0438\u0446\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1242687953,
-    "wof:lastmodified":1537568313,
+    "wof:lastmodified":1564285822,
     "wof:name":"Donja Brvenica",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

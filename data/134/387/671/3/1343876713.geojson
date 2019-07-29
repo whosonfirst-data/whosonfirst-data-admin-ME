@@ -25,7 +25,22 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Milatovac"
+    ],
+    "name:fra_x_preferred":[
+        "Milatovac"
+    ],
+    "name:slv_x_preferred":[
+        "Milatovac"
+    ],
     "name:srp_x_preferred":[
+        "Milatovac"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0438\u043b\u0430\u0442\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
         "Milatovac"
     ],
     "src:geom":"geonames",
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1343876713,
-    "wof:lastmodified":1537664522,
+    "wof:lastmodified":1564285415,
     "wof:name":"Milatovac",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Podborova"
+    ],
+    "name:ron_x_preferred":[
+        "Podborova"
+    ],
+    "name:slv_x_preferred":[
+        "Podborova"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u043e\u0440\u043e\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Podborovo",
         "Podborova"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343368835,
-    "wof:lastmodified":1537664467,
+    "wof:lastmodified":1564285349,
     "wof:name":"Podborova",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

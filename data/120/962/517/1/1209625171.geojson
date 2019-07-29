@@ -25,6 +25,21 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Seljani"
+    ],
+    "name:fra_x_preferred":[
+        "Seljani"
+    ],
+    "name:hrv_x_preferred":[
+        "Seljani"
+    ],
+    "name:slv_x_preferred":[
+        "Seljani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0459\u0430\u043d\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632667
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209625171,
-    "wof:lastmodified":1536281379,
+    "wof:lastmodified":1564285556,
     "wof:name":"Seljani",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

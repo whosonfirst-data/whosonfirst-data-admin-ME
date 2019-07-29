@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bajovo Polje"
+    ],
+    "name:ron_x_preferred":[
+        "Bajovo Polje"
+    ],
+    "name:slv_x_preferred":[
+        "Bajovo Polje"
+    ],
     "name:srp_x_preferred":[
         "Bajovo Polje"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0430\u0458\u043e\u0432\u043e \u041f\u043e\u0459\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1277089013,
-    "wof:lastmodified":1537664444,
+    "wof:lastmodified":1564285488,
     "wof:name":"Bajovo Polje",
     "wof:parent_id":85674677,
     "wof:placetype":"locality",

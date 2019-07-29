@@ -25,7 +25,28 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Presjeka"
+    ],
+    "name:ceb_x_preferred":[
+        "Presjeka"
+    ],
+    "name:fra_x_preferred":[
+        "Presjeka"
+    ],
+    "name:hrv_x_preferred":[
+        "Presjeka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0435\u043a\u0430"
+    ],
     "name:srp_x_preferred":[
+        "Presjeka"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u0435\u0441\u0458\u0435\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Presjeka"
     ],
     "src:geom":"geonames",
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1276350547,
-    "wof:lastmodified":1537664455,
+    "wof:lastmodified":1564285519,
     "wof:name":"Presjeka",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

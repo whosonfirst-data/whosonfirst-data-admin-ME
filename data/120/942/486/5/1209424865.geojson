@@ -25,9 +25,39 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Comuna Pogana"
+    ],
+    "name:ita_x_preferred":[
+        "Pogana"
+    ],
+    "name:msa_x_preferred":[
+        "Pogana"
+    ],
+    "name:nld_x_preferred":[
+        "Pogana"
+    ],
+    "name:por_x_preferred":[
+        "Pogana"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Pogana"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u043e\u0433\u0430\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0433\u0430\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Po\u010dana",
         "Pogana"
+    ],
+    "name:vie_x_preferred":[
+        "Pogana"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u52a0\u7d0d\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1209424865,
-    "wof:lastmodified":1537664496,
+    "wof:lastmodified":1564285614,
     "wof:name":"Pogana",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

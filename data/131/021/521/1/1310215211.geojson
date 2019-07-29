@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bujaci"
+    ],
+    "name:ron_x_preferred":[
+        "Bujaci"
+    ],
+    "name:slv_x_preferred":[
+        "Bujaci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0458\u0430\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Bujaci",
         "Bujake"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310215211,
-    "wof:lastmodified":1537664441,
+    "wof:lastmodified":1564285686,
     "wof:name":"Bujake",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

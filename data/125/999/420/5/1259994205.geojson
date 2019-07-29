@@ -25,7 +25,25 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Drijen"
+    ],
+    "name:ceb_x_preferred":[
+        "Drijen"
+    ],
+    "name:fra_x_preferred":[
+        "Drijen"
+    ],
+    "name:hrv_x_preferred":[
+        "Drijen"
+    ],
     "name:srp_x_preferred":[
+        "Drijen"
+    ],
+    "name:srp_x_variant":[
+        "\u0414\u0440\u0438\u0458\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
         "Drijen"
     ],
     "src:geom":"geonames",
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1259994205,
-    "wof:lastmodified":1537664519,
+    "wof:lastmodified":1564285889,
     "wof:name":"Drijen",
     "wof:parent_id":85674667,
     "wof:placetype":"locality",

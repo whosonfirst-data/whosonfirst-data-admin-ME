@@ -25,6 +25,24 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bogaji"
+    ],
+    "name:ron_x_preferred":[
+        "Bogaje"
+    ],
+    "name:slv_x_preferred":[
+        "Bogaji"
+    ],
+    "name:sqi_x_preferred":[
+        "Bogaj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0433\u0430\u0458\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u0430\u0457"
+    ],
     "name:und_x_variant":[
         "Bogaji",
         "Bogajni",
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1209530201,
-    "wof:lastmodified":1537664408,
+    "wof:lastmodified":1564285553,
     "wof:name":"Bogaje",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

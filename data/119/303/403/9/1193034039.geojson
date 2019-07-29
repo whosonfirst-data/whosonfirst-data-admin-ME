@@ -25,8 +25,23 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Smolice"
+    ],
+    "name:deu_x_preferred":[
+        "Smolice"
+    ],
+    "name:fra_x_preferred":[
+        "Smolice"
+    ],
+    "name:pol_x_preferred":[
+        "Smolice"
+    ],
     "name:srp_x_preferred":[
         "Smolice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u0456\u0446\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1193034039,
-    "wof:lastmodified":1537664519,
+    "wof:lastmodified":1564285636,
     "wof:name":"Smolice",
     "wof:parent_id":85674667,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Beran Selo"
+    ],
+    "name:est_x_preferred":[
+        "Beran Selo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u0646 \u0633\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Beran Selo"
+    ],
+    "name:ron_x_preferred":[
+        "Beran Selo"
+    ],
+    "name:slv_x_preferred":[
+        "Beran Selo"
+    ],
+    "name:spa_x_preferred":[
+        "Beran Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440\u0430\u043d \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Beran Selo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0430\u043d \u0421\u0435\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Baran Selo",
         "Berane",
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1193277467,
-    "wof:lastmodified":1537664444,
+    "wof:lastmodified":1564285638,
     "wof:name":"Beran Selo",
     "wof:parent_id":85674653,
     "wof:placetype":"locality",

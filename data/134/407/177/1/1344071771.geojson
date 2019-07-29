@@ -25,6 +25,24 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornja Rijeka"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornja Rijeka"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Rijeka"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornja Rijeka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0430 \u0420\u0438\u0458\u0435\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gornja Rijeka"
+    ],
     "name:und_x_variant":[
         "Rijeka",
         "Gornja Rijeka"
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1344071771,
-    "wof:lastmodified":1537664454,
+    "wof:lastmodified":1564285370,
     "wof:name":"Gornja Rijeka",
     "wof:parent_id":85674695,
     "wof:placetype":"locality",

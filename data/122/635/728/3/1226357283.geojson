@@ -25,8 +25,29 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bregovi"
+    ],
+    "name:hun_x_preferred":[
+        "Bregovi"
+    ],
+    "name:msa_x_preferred":[
+        "Bregovi"
+    ],
+    "name:nld_x_preferred":[
+        "Bregovi"
+    ],
+    "name:por_x_preferred":[
+        "Bregovi"
+    ],
+    "name:slv_x_preferred":[
+        "Bregovi"
+    ],
     "name:srp_x_preferred":[
         "Bregovi"
+    ],
+    "name:srp_x_variant":[
+        "\u0411\u0440\u0435\u0433\u043e\u0432\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1226357283,
-    "wof:lastmodified":1537664516,
+    "wof:lastmodified":1564285952,
     "wof:name":"Bregovi",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

@@ -15,6 +15,12 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "Radanovi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Radanovi\u0107i"
+    ],
     "name:unk_x_variant":[
         "Radanovi\u0107"
     ],
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":890420401,
-    "wof:lastmodified":1527792808,
+    "wof:lastmodified":1564285786,
     "wof:name":"Radanovi\u0107i",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

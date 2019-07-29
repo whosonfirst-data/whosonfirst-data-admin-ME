@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "\u0160ipovice"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160ipovice"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160ipovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0438\u043f\u043e\u0432\u0438\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "\u0160ipovice",
         "\u0160ipovica"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1327144577,
-    "wof:lastmodified":1537664418,
+    "wof:lastmodified":1564285299,
     "wof:name":"Sipovica",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

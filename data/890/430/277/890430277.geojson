@@ -15,6 +15,15 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0441\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Kosanica"
+    ],
+    "name:nno_x_preferred":[
+        "Kosanica"
+    ],
     "qs:name":"Kosanica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":890430277,
-    "wof:lastmodified":1527729740,
+    "wof:lastmodified":1564285765,
     "wof:name":"Kosanica",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

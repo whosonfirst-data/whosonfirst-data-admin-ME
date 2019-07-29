@@ -15,6 +15,27 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Ko\u0161ljun"
+    ],
+    "name:hrv_x_preferred":[
+        "Ko\u0161ljun"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0577\u056c\u0575\u0578\u0582\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Cassione"
+    ],
+    "name:pol_x_preferred":[
+        "Ko\u0161ljun"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448\u043b\u044e\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Ko\u0161ljun"
+    ],
     "name:srp_x_preferred":[
         "Ko\u0161ljun"
     ],
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":890431071,
-    "wof:lastmodified":1527735411,
+    "wof:lastmodified":1564285772,
     "wof:name":"Ko\u0161ljun",
     "wof:parent_id":85674621,
     "wof:placetype":"locality",

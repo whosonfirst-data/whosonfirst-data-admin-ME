@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ljuti\u0107i"
+    ],
+    "name:ron_x_preferred":[
+        "Ljuti\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Ljuti\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0443\u0442\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Ljuti\u0107i"
     ],
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1343571297,
-    "wof:lastmodified":1537664429,
+    "wof:lastmodified":1564285388,
     "wof:name":"Ljutici",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

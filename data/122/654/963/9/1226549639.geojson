@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Seli\u0161ta"
+    ],
+    "name:ron_x_preferred":[
+        "Seli\u0161ta"
+    ],
+    "name:slv_x_preferred":[
+        "Seli\u0161ta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0448\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Seli\u0161te",
         "Seli\u0161ta"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1226549639,
-    "wof:lastmodified":1537664474,
+    "wof:lastmodified":1564285987,
     "wof:name":"Selista",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

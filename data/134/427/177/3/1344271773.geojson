@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zbljevo"
+    ],
+    "name:ron_x_preferred":[
+        "Zbljevo"
+    ],
+    "name:slv_x_preferred":[
+        "Zbljevo"
+    ],
     "name:srp_x_preferred":[
         "Zbljevo"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0431\u0459\u0435\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1344271773,
-    "wof:lastmodified":1537664470,
+    "wof:lastmodified":1564285408,
     "wof:name":"Zbljevo",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

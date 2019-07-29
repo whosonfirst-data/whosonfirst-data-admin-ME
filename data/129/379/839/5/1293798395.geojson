@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kordovina"
+    ],
+    "name:ron_x_preferred":[
+        "Kordovina"
+    ],
+    "name:slv_x_preferred":[
+        "Kordovina"
+    ],
     "name:srp_x_preferred":[
         "Kordovina"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0440\u0434\u043e\u0432\u0438\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1293798395,
-    "wof:lastmodified":1537664433,
+    "wof:lastmodified":1564285440,
     "wof:name":"Kordovina",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

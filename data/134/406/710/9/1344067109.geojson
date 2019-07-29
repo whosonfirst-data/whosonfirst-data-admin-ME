@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Okladi"
+    ],
+    "name:ron_x_preferred":[
+        "Okladi"
+    ],
+    "name:slv_x_preferred":[
+        "Okladi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043a\u043b\u0430\u0434\u0438"
+    ],
     "name:und_x_variant":[
         "Okladi Modri-Do",
         "Oklade",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1344067109,
-    "wof:lastmodified":1537664426,
+    "wof:lastmodified":1564285363,
     "wof:name":"Okladi",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

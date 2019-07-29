@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sokolac"
+    ],
+    "name:ron_x_preferred":[
+        "Sokolac"
+    ],
+    "name:slv_x_preferred":[
+        "Sokolac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u0430\u0446"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209924263,
-    "wof:lastmodified":1537568320,
+    "wof:lastmodified":1564285592,
     "wof:name":"Sokolac",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

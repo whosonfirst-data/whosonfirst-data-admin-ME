@@ -25,6 +25,24 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Godinje"
+    ],
+    "name:fra_x_preferred":[
+        "Godinje"
+    ],
+    "name:ron_x_preferred":[
+        "Godinje"
+    ],
+    "name:slv_x_preferred":[
+        "Godinje"
+    ],
+    "name:sqi_x_preferred":[
+        "Godenja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0434\u0438\u045a\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1243464573,
-    "wof:lastmodified":1537568313,
+    "wof:lastmodified":1564285842,
     "wof:name":"Godinje",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gradina"
+    ],
+    "name:ron_x_preferred":[
+        "Gradina"
+    ],
+    "name:slv_x_preferred":[
+        "Gradina"
+    ],
     "name:srp_x_preferred":[
         "Gradina"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u0430\u0434\u0438\u043d\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1259994511,
-    "wof:lastmodified":1537664435,
+    "wof:lastmodified":1564285889,
     "wof:name":"Gradina",
     "wof:parent_id":85674701,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Carine"
+    ],
+    "name:hrv_x_preferred":[
+        "Carine"
+    ],
     "name:srp_x_preferred":[
         "Carine"
     ],
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1276453051,
-    "wof:lastmodified":1537664491,
+    "wof:lastmodified":1564285501,
     "wof:name":"Carine",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

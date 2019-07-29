@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kozica"
+    ],
+    "name:ron_x_preferred":[
+        "Kozica"
+    ],
+    "name:slv_x_preferred":[
+        "Kozica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0437\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Kozice",
         "Kozica"
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209924229,
-    "wof:lastmodified":1537664432,
+    "wof:lastmodified":1564285589,
     "wof:name":"Kozica",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

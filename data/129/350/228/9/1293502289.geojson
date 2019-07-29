@@ -25,6 +25,33 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Orah"
+    ],
+    "name:ceb_x_preferred":[
+        "Orah"
+    ],
+    "name:fra_x_preferred":[
+        "Orah"
+    ],
+    "name:hrv_x_preferred":[
+        "Orah"
+    ],
+    "name:hun_x_preferred":[
+        "Orah"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0430\u0445"
+    ],
+    "name:slv_x_preferred":[
+        "Orah"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Orah"
+    ],
     "name:und_x_variant":[
         "Lajinovi\u0107i",
         "Ljajinovi\u0107i",
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1293502289,
-    "wof:lastmodified":1537664517,
+    "wof:lastmodified":1564285456,
     "wof:name":"Orah",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

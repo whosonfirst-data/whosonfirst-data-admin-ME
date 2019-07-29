@@ -15,6 +15,9 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0431\u0438\u0458\u0430"
+    ],
     "qs:name":"Bobija",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":890429145,
-    "wof:lastmodified":1527792790,
+    "wof:lastmodified":1564285780,
     "wof:name":"Bobija",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

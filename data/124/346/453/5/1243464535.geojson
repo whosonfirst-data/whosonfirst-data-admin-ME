@@ -25,6 +25,24 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Unijerina"
+    ],
+    "name:hrv_x_preferred":[
+        "Unijerina"
+    ],
+    "name:ron_x_preferred":[
+        "Unijerina"
+    ],
+    "name:slv_x_preferred":[
+        "Unijerina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u043d\u0438\u0458\u0435\u0440\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043d\u0456\u0454\u0440\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Unjarina",
         "Unijerina"
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1243464535,
-    "wof:lastmodified":1537664447,
+    "wof:lastmodified":1564285840,
     "wof:name":"Unijerina",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

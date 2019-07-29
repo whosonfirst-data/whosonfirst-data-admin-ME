@@ -25,8 +25,20 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zabr\u0111e"
+    ],
+    "name:ron_x_preferred":[
+        "Zabr\u0111e"
+    ],
+    "name:slv_x_preferred":[
+        "Zabr\u0111e"
+    ],
     "name:srp_x_preferred":[
         "Zabr\u0111e"
+    ],
+    "name:srp_x_variant":[
+        "\u0417\u0430\u0431\u0440\u0452\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1327144479,
-    "wof:lastmodified":1537664468,
+    "wof:lastmodified":1564285295,
     "wof:name":"Zabrde",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

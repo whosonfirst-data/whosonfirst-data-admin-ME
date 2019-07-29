@@ -25,6 +25,18 @@
     "iso:country":"ME",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Loznica"
+    ],
+    "name:ron_x_preferred":[
+        "Loznica"
+    ],
+    "name:slv_x_preferred":[
+        "Loznica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0437\u043d\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Lozince",
         "Loznice",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1326748675,
-    "wof:lastmodified":1537664475,
+    "wof:lastmodified":1564285288,
     "wof:name":"Loznica",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",
