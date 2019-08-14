@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HN"
+    ],
     "lbl:latitude":42.50508,
     "lbl:longitude":18.529261,
     "mps:latitude":42.50508,
@@ -304,16 +307,13 @@
         }
     ],
     "wof:id":85674639,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571382,
+    "wof:lastmodified":1565727334,
     "wof:name":"Herceg Novi",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

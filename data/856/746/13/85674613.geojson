@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":42.172812,
     "lbl:longitude":19.141784,
     "mps:latitude":42.172812,
@@ -281,16 +284,13 @@
         }
     ],
     "wof:id":85674613,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571385,
+    "wof:lastmodified":1565727334,
     "wof:name":"Bar",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KT"
+    ],
     "lbl:latitude":42.576142,
     "lbl:longitude":18.618616,
     "mps:latitude":42.576142,
@@ -248,16 +251,13 @@
         }
     ],
     "wof:id":85674643,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571380,
+    "wof:lastmodified":1565727334,
     "wof:name":"Kotor",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

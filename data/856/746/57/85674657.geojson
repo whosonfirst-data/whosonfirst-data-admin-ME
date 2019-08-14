@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BP"
+    ],
     "lbl:latitude":43.024344,
     "lbl:longitude":19.740198,
     "mps:latitude":43.024344,
@@ -316,16 +319,13 @@
         }
     ],
     "wof:id":85674657,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571370,
+    "wof:lastmodified":1565727333,
     "wof:name":"Bijelo Polje",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

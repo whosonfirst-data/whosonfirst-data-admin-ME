@@ -16,6 +16,9 @@
     "itu:country_code":[
         "382"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ME"
+    ],
     "lbl:latitude":42.782845,
     "lbl:longitude":19.157424,
     "mps:latitude":42.782845,
@@ -992,16 +995,13 @@
         }
     ],
     "wof:id":85632667,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571390,
+    "wof:lastmodified":1565727334,
     "wof:name":"Montenegro",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

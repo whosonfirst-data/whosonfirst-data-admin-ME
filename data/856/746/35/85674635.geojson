@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":42.599627,
     "lbl:longitude":19.935902,
     "mps:latitude":42.599627,
@@ -281,16 +284,13 @@
         }
     ],
     "wof:id":85674635,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571371,
+    "wof:lastmodified":1565727333,
     "wof:name":"Plav",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

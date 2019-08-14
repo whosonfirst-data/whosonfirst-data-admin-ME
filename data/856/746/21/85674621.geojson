@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BU"
+    ],
     "lbl:latitude":42.317237,
     "lbl:longitude":18.840002,
     "mps:latitude":42.317237,
@@ -274,16 +277,13 @@
         }
     ],
     "wof:id":85674621,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571379,
+    "wof:lastmodified":1565727334,
     "wof:name":"Budva",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

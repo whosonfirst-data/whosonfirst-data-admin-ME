@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KL"
+    ],
     "lbl:latitude":42.793606,
     "lbl:longitude":19.405496,
     "mps:latitude":42.793606,
@@ -274,16 +277,13 @@
         }
     ],
     "wof:id":85674667,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571372,
+    "wof:lastmodified":1565727333,
     "wof:name":"Kola\u0161in",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

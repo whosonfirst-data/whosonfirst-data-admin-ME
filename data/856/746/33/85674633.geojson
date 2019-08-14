@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RO"
+    ],
     "lbl:latitude":42.873864,
     "lbl:longitude":20.175147,
     "mps:latitude":42.873864,
@@ -235,16 +238,13 @@
         }
     ],
     "wof:id":85674633,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571374,
+    "wof:lastmodified":1565727334,
     "wof:name":"Ro\u017eaje",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

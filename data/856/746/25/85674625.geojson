@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CE"
+    ],
     "lbl:latitude":42.528346,
     "lbl:longitude":18.859203,
     "mps:latitude":42.528346,
@@ -267,16 +270,13 @@
         }
     ],
     "wof:id":85674625,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571387,
+    "wof:lastmodified":1565727334,
     "wof:name":"Cetinje",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

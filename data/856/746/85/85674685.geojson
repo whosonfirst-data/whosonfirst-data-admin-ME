@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PL"
+    ],
     "lbl:latitude":43.294926,
     "lbl:longitude":19.243425,
     "mps:latitude":43.294926,
@@ -373,16 +376,13 @@
         }
     ],
     "wof:id":85674685,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571383,
+    "wof:lastmodified":1565727334,
     "wof:name":"Pljevlja",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

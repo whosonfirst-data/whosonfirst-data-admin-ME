@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DA"
+    ],
     "lbl:latitude":42.594216,
     "lbl:longitude":19.109614,
     "mps:latitude":42.594216,
@@ -269,16 +272,13 @@
         }
     ],
     "wof:id":85674661,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571369,
+    "wof:lastmodified":1565727333,
     "wof:name":"Danilovgrad",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

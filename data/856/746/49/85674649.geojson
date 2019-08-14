@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":42.706096,
     "lbl:longitude":19.769981,
     "mps:latitude":42.706096,
@@ -352,16 +355,13 @@
         }
     ],
     "wof:id":85674649,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571384,
+    "wof:lastmodified":1565727334,
     "wof:name":"Andrijevica",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

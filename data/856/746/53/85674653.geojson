@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Berane Municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BE"
+    ],
     "lbl:latitude":42.845798,
     "lbl:longitude":19.9395,
     "mps:latitude":42.845798,
@@ -256,16 +259,13 @@
         }
     ],
     "wof:id":85674653,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571381,
+    "wof:lastmodified":1565727334,
     "wof:name":"Berane",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

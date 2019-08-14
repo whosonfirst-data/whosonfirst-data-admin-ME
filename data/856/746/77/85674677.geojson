@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PU"
+    ],
     "lbl:latitude":43.179394,
     "lbl:longitude":18.850202,
     "mps:latitude":43.179394,
@@ -274,16 +277,13 @@
         }
     ],
     "wof:id":85674677,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571382,
+    "wof:lastmodified":1565727334,
     "wof:name":"Plu\u017eine",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZA"
+    ],
     "lbl:latitude":43.119362,
     "lbl:longitude":19.177064,
     "mps:latitude":43.119362,
@@ -283,16 +286,13 @@
         }
     ],
     "wof:id":85674701,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "srp"
     ],
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1563571368,
+    "wof:lastmodified":1565727333,
     "wof:name":"\u017dabljak",
     "wof:parent_id":85632667,
     "wof:placetype":"region",
