@@ -11,11 +11,15 @@
     "geom:longitude":19.185,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":372,
+    "gn:population":372,
     "iso:country":"ME",
+    "lbl:bbox":"19.165,42.28667,19.205,42.32667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bistrica"
     ],
     "qs:name":"Bistrice",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3317584,
         "gp:id":484513,
-        "qs:id":582503
+        "qs_pg:id":582503
     },
     "wof:country":"ME",
     "wof:created":1469051871,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890430905,
-    "wof:lastmodified":1505343521,
+    "wof:lastmodified":1566603321,
     "wof:name":"Bistrice",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.75528,42.54222,18.79528,42.58222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Stra\u017eiste",
         "Stra\u017ei\u0161ta"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243568901,
-    "wof:lastmodified":1537664451,
+    "wof:lastmodified":1566603365,
     "wof:name":"Strazista",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

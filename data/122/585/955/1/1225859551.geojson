@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.55528,42.39417,18.59528,42.43417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Mrkovi"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225859551,
-    "wof:lastmodified":1564285992,
+    "wof:lastmodified":1566603421,
     "wof:name":"Mrkovi",
     "wof:parent_id":85674639,
     "wof:placetype":"locality",

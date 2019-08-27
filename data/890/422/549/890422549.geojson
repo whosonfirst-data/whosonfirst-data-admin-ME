@@ -11,11 +11,15 @@
     "geom:longitude":19.18833,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":154,
+    "gn:population":154,
     "iso:country":"ME",
+    "lbl:bbox":"19.16833,43.13528,19.20833,43.17528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Medinova\u010da"
     ],
     "qs:name":"\u0160umanovac",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3303524,
         "gp:id":534686,
-        "qs:id":582413
+        "qs_pg:id":582413
     },
     "wof:country":"ME",
     "wof:created":1469051451,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890422549,
-    "wof:lastmodified":1505343470,
+    "wof:lastmodified":1566603317,
     "wof:name":"\u0160umanovac",
     "wof:parent_id":85674701,
     "wof:placetype":"locality",

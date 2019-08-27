@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.73472,42.68806,18.77472,42.72806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Perovi\u0107a Do",
         "Petrovi\u0107a Do"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310323299,
-    "wof:lastmodified":1537664503,
+    "wof:lastmodified":1566603287,
     "wof:name":"Petrovica Do",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

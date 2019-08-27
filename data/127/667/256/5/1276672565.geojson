@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.75194,42.68694,18.79194,42.72694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ov\u010di Do",
         "Ov\u010dji Do"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276672565,
-    "wof:lastmodified":1537664490,
+    "wof:lastmodified":1566603220,
     "wof:name":"Ovcji Do",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

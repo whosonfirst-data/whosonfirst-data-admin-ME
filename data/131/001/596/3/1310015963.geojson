@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.85583,43.08,18.89583,43.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Borkovi\u0107i"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310015963,
-    "wof:lastmodified":1537664442,
+    "wof:lastmodified":1566603282,
     "wof:name":"Borkovici",
     "wof:parent_id":85674677,
     "wof:placetype":"locality",

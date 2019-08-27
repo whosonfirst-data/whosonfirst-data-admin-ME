@@ -23,8 +23,12 @@
     "gn:population":1205,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.19194,42.31222,19.23194,42.35222",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Gori\u010dani"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310120863,
-    "wof:lastmodified":1537664436,
+    "wof:lastmodified":1566603275,
     "wof:name":"Goricani",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

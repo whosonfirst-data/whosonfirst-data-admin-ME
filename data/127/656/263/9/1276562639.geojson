@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.0075,42.59583,19.0475,42.63583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276562639,
-    "wof:lastmodified":1536968518,
+    "wof:lastmodified":1566603219,
     "wof:name":"Zagorak",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

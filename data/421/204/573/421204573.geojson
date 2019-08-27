@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bos_x_preferred":[
         "Konavle"
@@ -122,7 +125,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55852538,
-        "qs:id":242115,
+        "qs_pg:id":242115,
         "wd:id":"Q1781214"
     },
     "wof:country":"ME",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421204573,
-    "wof:lastmodified":1563571694,
+    "wof:lastmodified":1566603312,
     "wof:name":"Konavle",
     "wof:parent_id":85674639,
     "wof:placetype":"county",

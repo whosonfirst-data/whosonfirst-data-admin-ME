@@ -11,10 +11,14 @@
     "geom:longitude":19.08444,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":45,
+    "gn:population":45,
     "iso:country":"ME",
+    "lbl:bbox":"19.06444,42.44722,19.10444,42.48722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Milati"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3220422,
         "gp:id":484513,
-        "qs:id":581920
+        "qs_pg:id":581920
     },
     "wof:country":"ME",
     "wof:created":1469052509,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890445413,
-    "wof:lastmodified":1505343605,
+    "wof:lastmodified":1566603338,
     "wof:name":"Milati",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

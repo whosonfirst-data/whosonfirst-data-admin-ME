@@ -11,10 +11,14 @@
     "geom:longitude":19.135,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":169,
+    "gn:population":169,
     "iso:country":"ME",
+    "lbl:bbox":"19.115,43.15972,19.155,43.19972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pale\u017e"
     ],
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3193683,
-        "qs:id":581631,
+        "qs_pg:id":581631,
         "wd:id":"Q1196970",
         "wk:page":"Pale\u017e"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890416519,
-    "wof:lastmodified":1563571772,
+    "wof:lastmodified":1566603334,
     "wof:name":"Pale\u017e",
     "wof:parent_id":85674701,
     "wof:placetype":"locality",

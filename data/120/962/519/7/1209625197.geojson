@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.19278,43.30167,19.23278,43.34167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "\u0160ljivansko"
     ],
@@ -38,8 +42,7 @@
         "\u0428\u0459\u0438\u0432\u0430\u043d\u0441\u043a\u043e"
     ],
     "name:und_x_variant":[
-        "\u0160ljivensko",
-        "\u0160ljivansko"
+        "\u0160ljivensko"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209625197,
-    "wof:lastmodified":1564285556,
+    "wof:lastmodified":1566603234,
     "wof:name":"Sljivansko",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

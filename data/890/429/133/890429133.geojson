@@ -11,10 +11,14 @@
     "geom:longitude":19.03,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":116,
+    "gn:population":116,
     "iso:country":"ME",
+    "lbl:bbox":"19.01,43.39806,19.05,43.43806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u010cestin"
     ],
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3202653,
         "gp:id":534166,
-        "qs:id":95165,
+        "qs_pg:id":95165,
         "wd:id":"Q3593839",
         "wk:page":"\u010cest\u00edn"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890429133,
-    "wof:lastmodified":1563571763,
+    "wof:lastmodified":1566603331,
     "wof:name":"\u010cestin",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

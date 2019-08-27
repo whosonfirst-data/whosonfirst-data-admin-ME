@@ -11,10 +11,14 @@
     "geom:longitude":18.76833,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":5435,
+    "gn:population":5435,
     "iso:country":"ME",
+    "lbl:bbox":"18.74833,42.43417,18.78833,42.47417",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Dobrota"
     ],
@@ -78,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mesto Dobrota"
     ],
     "qs:name":"Dobrota",
@@ -99,10 +103,12 @@
     "wof:concordances":{
         "gn:id":3201903,
         "gp:id":533409,
-        "qs:id":1044058,
-        "qs_pg:id":1078934,
+        "qs_pg:id":1044058,
         "wd:id":"Q1008132",
         "wk:page":"Dobrota"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078934
     },
     "wof:country":"ME",
     "wof:created":1469052474,
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":890444571,
-    "wof:lastmodified":1563571762,
+    "wof:lastmodified":1566603331,
     "wof:name":"Dobrota",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

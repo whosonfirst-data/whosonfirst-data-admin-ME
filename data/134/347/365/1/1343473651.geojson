@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.80472,42.4975,18.84472,42.5375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Plate"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1343473651,
-    "wof:lastmodified":1564285379,
+    "wof:lastmodified":1566603161,
     "wof:name":"Plate",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

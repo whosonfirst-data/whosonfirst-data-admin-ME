@@ -11,11 +11,15 @@
     "geom:longitude":18.62917,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"ME",
+    "lbl:bbox":"18.60917,42.36806,18.64917,42.40806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Mardari"
     ],
     "qs:name":"Merdari",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3318274,
         "gp:id":537112,
-        "qs:id":582569
+        "qs_pg:id":582569
     },
     "wof:country":"ME",
     "wof:created":1469051453,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890422571,
-    "wof:lastmodified":1505343470,
+    "wof:lastmodified":1566603317,
     "wof:name":"Merdari",
     "wof:parent_id":85674639,
     "wof:placetype":"locality",

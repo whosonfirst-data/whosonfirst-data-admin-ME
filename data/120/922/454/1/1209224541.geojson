@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.31417,42.05472,19.35417,42.09472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dje\u010dbitri\u0107i",
         "\u00d0e\u010dbitri\u0107i"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209224541,
-    "wof:lastmodified":1537664560,
+    "wof:lastmodified":1566603244,
     "wof:name":"Decbitrici",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

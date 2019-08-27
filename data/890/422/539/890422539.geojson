@@ -11,10 +11,14 @@
     "geom:longitude":19.13444,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":244,
+    "gn:population":244,
     "iso:country":"ME",
+    "lbl:bbox":"19.11444,42.25806,19.15444,42.29806",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Vranjina"
     ],
@@ -56,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3187353,
-        "qs:id":581565,
+        "qs_pg:id":581565,
         "wd:id":"Q1006453",
         "wk:page":"Vranjina"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890422539,
-    "wof:lastmodified":1563571716,
+    "wof:lastmodified":1566603317,
     "wof:name":"Vranjina",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

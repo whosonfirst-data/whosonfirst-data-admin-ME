@@ -11,11 +11,15 @@
     "geom:longitude":19.14694,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":112,
+    "gn:population":112,
     "iso:country":"ME",
+    "lbl:bbox":"19.12694,42.38417,19.16694,42.42417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Le\u0161nje"
     ],
     "qs:name":"Lije\u0161nje",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3317406,
         "gp:id":484513,
-        "qs:id":582493
+        "qs_pg:id":582493
     },
     "wof:country":"ME",
     "wof:created":1469052509,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890445423,
-    "wof:lastmodified":1505343605,
+    "wof:lastmodified":1566603338,
     "wof:name":"Lije\u0161nje",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

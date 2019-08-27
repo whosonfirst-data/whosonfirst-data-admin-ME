@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.594216,
     "lbl:longitude":19.109614,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.594216,
     "mps:longitude":19.109614,
     "mz:hierarchy_label":1,
@@ -145,10 +146,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0414\u0430\u043d\u0438\u043b\u043e\u0432\u0433\u0440\u0430\u0434"
     ],
-    "name:und_x_preferred":[
-        "Danilovgrad"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Op\u0161tina Danilovgrad"
     ],
     "name:urd_x_preferred":[
@@ -230,9 +228,9 @@
     "qs:type":"Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-04-01",
+    "src:population_date":"2011-04-01",
     "statoids:area_km":"501",
     "statoids:area_mi":"193",
     "statoids:as_of_date":"2011-04-01",
@@ -257,7 +255,7 @@
         "gp:id":29389236,
         "hasc:id":"ME.DA",
         "iso:id":"ME-07",
-        "qs:id":898960,
+        "qs_pg:id":898960,
         "unlc:id":"ME-07",
         "wd:id":"Q3741507",
         "wk:page":"Danilovgrad Municipality"
@@ -278,11 +276,10 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1565727333,
+    "wof:lastmodified":1566603177,
     "wof:name":"Danilovgrad",
     "wof:parent_id":85632667,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"commune",
     "wof:population":18472,
     "wof:population_rank":6,

@@ -11,11 +11,15 @@
     "geom:longitude":19.07333,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":171,
+    "gn:population":171,
     "iso:country":"ME",
+    "lbl:bbox":"19.05333,42.6025,19.09333,42.6425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bare"
     ],
     "qs:name":"Bare \u0160umanovi\u0107a",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3204477,
         "gp:id":535047,
-        "qs:id":581786
+        "qs_pg:id":581786
     },
     "wof:country":"ME",
     "wof:created":1469051842,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890430181,
-    "wof:lastmodified":1505343517,
+    "wof:lastmodified":1566603320,
     "wof:name":"Bare \u0160umanovi\u0107a",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.85583,42.78972,19.89583,42.82972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Donja R\u017eanica",
         "Donja R\u017eenica"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209022305,
-    "wof:lastmodified":1537664439,
+    "wof:lastmodified":1566603251,
     "wof:name":"Donja Rzenica",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

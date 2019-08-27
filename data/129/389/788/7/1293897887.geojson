@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.5475,42.85667,18.5875,42.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Rvana Gora"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293897887,
-    "wof:lastmodified":1537664528,
+    "wof:lastmodified":1566603206,
     "wof:name":"Rvana Gora",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

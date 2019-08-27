@@ -11,10 +11,14 @@
     "geom:longitude":18.89861,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":188,
+    "gn:population":188,
     "iso:country":"ME",
+    "lbl:bbox":"18.87861,43.03167,18.91861,43.07167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Bezuje"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3204242,
         "gp:id":535958,
-        "qs:id":95195
+        "qs_pg:id":95195
     },
     "wof:country":"ME",
     "wof:created":1469051319,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890420133,
-    "wof:lastmodified":1505343454,
+    "wof:lastmodified":1566603336,
     "wof:name":"Bezuje",
     "wof:parent_id":85674677,
     "wof:placetype":"locality",

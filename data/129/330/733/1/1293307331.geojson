@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.00333,42.33417,19.04333,42.37417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Rije\u010dki Grad"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293307331,
-    "wof:lastmodified":1537664490,
+    "wof:lastmodified":1566603181,
     "wof:name":"Rijecki Grad",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

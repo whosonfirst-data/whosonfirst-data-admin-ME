@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.75111,43.07278,19.79111,43.11278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Sutivan"
     ],
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":1276128557,
-    "wof:lastmodified":1564285538,
+    "wof:lastmodified":1566603228,
     "wof:name":"Sutivan",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

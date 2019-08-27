@@ -11,10 +11,14 @@
     "geom:longitude":18.68861,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":674,
+    "gn:population":674,
     "iso:country":"ME",
+    "lbl:bbox":"18.66861,42.42306,18.70861,42.46306",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u043f\u0430\u0442\u043e\u0432\u043e"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Opatovo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Selo Donja Lastva"
     ],
     "qs:name":"Donja Lastva",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3201675,
         "gp:id":534976,
-        "qs:id":581737,
+        "qs_pg:id":581737,
         "wd:id":"Q2712460",
         "wk:page":"Donja Lastva"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890416549,
-    "wof:lastmodified":1563571775,
+    "wof:lastmodified":1566603335,
     "wof:name":"Donja Lastva",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

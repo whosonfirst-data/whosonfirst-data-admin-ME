@@ -11,10 +11,14 @@
     "geom:longitude":19.10194,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":41,
+    "gn:population":41,
     "iso:country":"ME",
+    "lbl:bbox":"19.08194,43.35333,19.12194,43.39333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Popov Do"
     ],
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":3192720,
         "gp:id":534166,
-        "qs:id":95045,
+        "qs_pg:id":95045,
         "wd:id":"Q3397973",
         "wk:page":"Popov Do"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890437677,
-    "wof:lastmodified":1563571740,
+    "wof:lastmodified":1566603324,
     "wof:name":"Popov Do",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

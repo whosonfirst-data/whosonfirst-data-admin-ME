@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.7636,42.73678,19.8036,42.77678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u062a\u06cc\u0626\u0627"
     ],
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1209229367,
-    "wof:lastmodified":1564285584,
+    "wof:lastmodified":1566603244,
     "wof:name":"Slatina",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

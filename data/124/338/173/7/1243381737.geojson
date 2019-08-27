@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.86139,43.33472,18.90139,43.37472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Jasena"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243381737,
-    "wof:lastmodified":1564285804,
+    "wof:lastmodified":1566603346,
     "wof:name":"Jasena",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

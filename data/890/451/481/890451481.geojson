@@ -11,10 +11,14 @@
     "geom:longitude":18.95806,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":26,
+    "gn:population":26,
     "iso:country":"ME",
+    "lbl:bbox":"18.93806,42.28333,18.97806,42.32333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Prekornica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -28,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3192537,
-        "qs:id":95039
+        "qs_pg:id":95039
     },
     "wof:country":"ME",
     "wof:created":1469052781,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890451481,
-    "wof:lastmodified":1505343640,
+    "wof:lastmodified":1566603340,
     "wof:name":"Prekornica",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

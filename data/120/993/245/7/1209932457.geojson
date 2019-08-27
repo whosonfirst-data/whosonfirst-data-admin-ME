@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.32167,43.31667,19.36167,43.35667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kalu\u0161i\u0107i"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043b\u0443\u0448\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Kalu\u0161i\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1209932457,
-    "wof:lastmodified":1564285597,
+    "wof:lastmodified":1566603249,
     "wof:name":"Kalusici",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

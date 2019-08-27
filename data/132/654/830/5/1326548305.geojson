@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.78472,42.65167,18.82472,42.69167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Brestovi Do"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326548305,
-    "wof:lastmodified":1537664503,
+    "wof:lastmodified":1566603145,
     "wof:name":"Brestovi Do",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":19.09056,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":39,
+    "gn:population":39,
     "iso:country":"ME",
+    "lbl:bbox":"19.07056,42.45528,19.11056,42.49528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Mokani"
     ],
     "qs:name":"Mokanji",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3317288,
         "gp:id":484513,
-        "qs:id":582489
+        "qs_pg:id":582489
     },
     "wof:country":"ME",
     "wof:created":1469051870,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890430887,
-    "wof:lastmodified":1505343521,
+    "wof:lastmodified":1566603319,
     "wof:name":"Mokanji",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

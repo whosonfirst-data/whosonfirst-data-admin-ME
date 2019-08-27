@@ -11,10 +11,14 @@
     "geom:longitude":19.08194,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":159,
+    "gn:population":159,
     "iso:country":"ME",
+    "lbl:bbox":"19.06194,43.48,19.10194,43.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kukavice"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Kukavice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kikavice"
     ],
     "qs:name":"Kukavice",
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":3297682,
         "gp:id":534166,
-        "qs:id":582389,
+        "qs_pg:id":582389,
         "wd:id":"Q3129373"
     },
     "wof:country":"ME",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890420387,
-    "wof:lastmodified":1563571783,
+    "wof:lastmodified":1566603337,
     "wof:name":"Kukavice",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

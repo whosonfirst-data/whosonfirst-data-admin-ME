@@ -11,10 +11,14 @@
     "geom:longitude":18.98111,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":36,
+    "gn:population":36,
     "iso:country":"ME",
+    "lbl:bbox":"18.96111,42.30028,19.00111,42.34028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Boguti"
     ],
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3317030,
         "gp:id":533157,
-        "qs:id":582483,
+        "qs_pg:id":582483,
         "wd:id":"Q1816913",
         "wk:page":"Boguti"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890430861,
-    "wof:lastmodified":1563571726,
+    "wof:lastmodified":1566603319,
     "wof:name":"Boguti",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

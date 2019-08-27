@@ -11,10 +11,14 @@
     "geom:longitude":19.12333,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":589,
+    "gn:population":589,
     "iso:country":"ME",
+    "lbl:bbox":"19.10333,42.69528,19.14333,42.73528",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Du\u010dice",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":3201044,
         "gp:id":535047,
-        "qs:id":581733
+        "qs_pg:id":581733
     },
     "wof:country":"ME",
     "wof:created":1469051140,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890416543,
-    "wof:lastmodified":1505343433,
+    "wof:lastmodified":1566603334,
     "wof:name":"Du\u010dice",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

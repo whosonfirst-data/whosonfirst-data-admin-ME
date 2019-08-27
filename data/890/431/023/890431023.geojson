@@ -11,10 +11,14 @@
     "geom:longitude":19.11778,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":166,
+    "gn:population":166,
     "iso:country":"ME",
+    "lbl:bbox":"19.09778,43.08167,19.13778,43.12167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Pa\u0161ina Voda"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3318197,
         "gp:id":535871,
-        "qs:id":582555
+        "qs_pg:id":582555
     },
     "wof:country":"ME",
     "wof:created":1469051875,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890431023,
-    "wof:lastmodified":1505343521,
+    "wof:lastmodified":1566603326,
     "wof:name":"Pa\u0161ina Voda",
     "wof:parent_id":85674701,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.76806,43.04472,19.80806,43.08472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Rosulje"
     ],
@@ -53,8 +57,7 @@
         "Rosulje"
     ],
     "name:und_x_variant":[
-        "Rosulja",
-        "Rosulje"
+        "Rosulja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1260303733,
-    "wof:lastmodified":1564285649,
+    "wof:lastmodified":1566603270,
     "wof:name":"Rosulje",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

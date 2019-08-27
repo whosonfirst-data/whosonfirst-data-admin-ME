@@ -11,10 +11,14 @@
     "geom:longitude":18.79556,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":363,
+    "gn:population":363,
     "iso:country":"ME",
+    "lbl:bbox":"18.77556,42.27333,18.81556,42.31333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorica"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Gorica"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gomila"
     ],
     "qs:name":"Gorica",
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3317973,
         "gp:id":533029,
-        "qs:id":582543,
+        "qs_pg:id":582543,
         "wk:page":"Gorica"
     },
     "wof:country":"ME",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890430995,
-    "wof:lastmodified":1564285763,
+    "wof:lastmodified":1566603321,
     "wof:name":"Gorica",
     "wof:parent_id":85674621,
     "wof:placetype":"locality",

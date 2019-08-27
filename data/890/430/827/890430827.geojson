@@ -11,10 +11,14 @@
     "geom:longitude":18.93583,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":15,
+    "gn:population":15,
     "iso:country":"ME",
+    "lbl:bbox":"18.91583,42.29444,18.95583,42.33444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Obzovica"
     ],
@@ -31,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3316945,
-        "qs:id":582472
+        "qs_pg:id":582472
     },
     "wof:country":"ME",
     "wof:created":1469051867,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890430827,
-    "wof:lastmodified":1505343520,
+    "wof:lastmodified":1566603319,
     "wof:name":"Obzovica",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

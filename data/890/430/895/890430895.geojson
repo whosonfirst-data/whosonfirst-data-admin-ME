@@ -11,10 +11,14 @@
     "geom:longitude":19.11361,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":119,
+    "gn:population":119,
     "iso:country":"ME",
+    "lbl:bbox":"19.09361,42.44861,19.13361,42.48861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Crvena Paprat"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3317316,
         "gp:id":484513,
-        "qs:id":582491
+        "qs_pg:id":582491
     },
     "wof:country":"ME",
     "wof:created":1469051870,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890430895,
-    "wof:lastmodified":1505343521,
+    "wof:lastmodified":1566603319,
     "wof:name":"Crvena Paprat",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

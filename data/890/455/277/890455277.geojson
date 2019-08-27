@@ -11,10 +11,14 @@
     "geom:longitude":18.99694,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":39,
+    "gn:population":39,
     "iso:country":"ME",
+    "lbl:bbox":"18.97694,42.32333,19.01694,42.36333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Za\u010dir"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3186955,
         "gp:id":484513,
-        "qs:id":94952
+        "qs_pg:id":94952
     },
     "wof:country":"ME",
     "wof:created":1469052941,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890455277,
-    "wof:lastmodified":1505343661,
+    "wof:lastmodified":1566603325,
     "wof:name":"Za\u010dir",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

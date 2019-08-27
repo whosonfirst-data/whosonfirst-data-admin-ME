@@ -11,10 +11,14 @@
     "geom:longitude":18.76694,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"ME",
+    "lbl:bbox":"18.74694,42.41722,18.78694,42.45722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Plagente"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3318322,
         "gp:id":534724,
-        "qs:id":582574
+        "qs_pg:id":582574
     },
     "wof:country":"ME",
     "wof:created":1469051875,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890431039,
-    "wof:lastmodified":1505343521,
+    "wof:lastmodified":1566603328,
     "wof:name":"Plagente",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

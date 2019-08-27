@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.74306,42.76667,18.78306,42.80667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Arapi"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242884117,
-    "wof:lastmodified":1564285820,
+    "wof:lastmodified":1566603352,
     "wof:name":"Arapi",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

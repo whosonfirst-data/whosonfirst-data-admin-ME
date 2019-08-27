@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.49583,42.79694,19.53583,42.83694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Streli\u010dki Kr\u0161"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343368891,
-    "wof:lastmodified":1537664534,
+    "wof:lastmodified":1566603147,
     "wof:name":"Strelicki Krs",
     "wof:parent_id":85674667,
     "wof:placetype":"locality",

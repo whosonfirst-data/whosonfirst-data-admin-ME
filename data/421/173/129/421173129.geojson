@@ -10,8 +10,12 @@
     "geom:latitude":43.15423,
     "geom:longitude":19.12325,
     "iso:country":"ME",
+    "lbl:bbox":"19.10325,43.13423,19.14325,43.17423",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0416\u0430\u0431\u043b\u044f\u043a"
@@ -109,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0430\u0431\u043b\u044f\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aleksandrov Grad"
     ],
     "name:urd_x_preferred":[
@@ -147,7 +151,7 @@
     "wof:concordances":{
         "gn:id":3186999,
         "gp:id":537656,
-        "qs:id":489954,
+        "qs_pg:id":489954,
         "wd:id":"Q393309",
         "wk:page":"\u017dabljak"
     },
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":421173129,
-    "wof:lastmodified":1563571698,
+    "wof:lastmodified":1566603313,
     "wof:name":"\u017dabljak",
     "wof:parent_id":85674701,
     "wof:placetype":"locality",

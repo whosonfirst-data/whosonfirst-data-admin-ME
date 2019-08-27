@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.16417,43.35222,19.20417,43.39222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Donja Orija",
         "Donja Orlja"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242687701,
-    "wof:lastmodified":1537664464,
+    "wof:lastmodified":1566603353,
     "wof:name":"Donja Orlja",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

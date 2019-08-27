@@ -11,10 +11,14 @@
     "geom:longitude":19.3,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":130,
+    "gn:population":130,
     "iso:country":"ME",
+    "lbl:bbox":"19.28,43.10778,19.32,43.14778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "\u0160ljivansko"
     ],
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":3190551,
         "gp:id":534686,
-        "qs:id":581603,
+        "qs_pg:id":581603,
         "wd:id":"Q3594285"
     },
     "wof:country":"ME",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890430011,
-    "wof:lastmodified":1563571734,
+    "wof:lastmodified":1566603322,
     "wof:name":"\u0160ljivansko",
     "wof:parent_id":85674701,
     "wof:placetype":"locality",

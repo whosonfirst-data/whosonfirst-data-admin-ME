@@ -11,10 +11,14 @@
     "geom:longitude":18.89111,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"ME",
+    "lbl:bbox":"18.87111,42.26083,18.91111,42.30083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Podbabac"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3318407,
         "gp:id":532621,
-        "qs:id":582592
+        "qs_pg:id":582592
     },
     "wof:country":"ME",
     "wof:created":1469051877,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890431079,
-    "wof:lastmodified":1505343522,
+    "wof:lastmodified":1566603326,
     "wof:name":"Podbabac",
     "wof:parent_id":85674621,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.88917,42.73083,19.92917,42.77083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276883423,
-    "wof:lastmodified":1537034758,
+    "wof:lastmodified":1566603213,
     "wof:name":"Lekici",
     "wof:parent_id":85674653,
     "wof:placetype":"locality",

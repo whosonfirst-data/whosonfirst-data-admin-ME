@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.19944,42.095,19.23944,42.135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gornje Briske",
         "Gornja Briska"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193034385,
-    "wof:lastmodified":1537664436,
+    "wof:lastmodified":1566603264,
     "wof:name":"Gornja Briska",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

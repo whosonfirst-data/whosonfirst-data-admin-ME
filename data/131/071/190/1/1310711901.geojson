@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.22278,43.4425,19.26278,43.4825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0456\u0441"
     ],
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":1310711901,
-    "wof:lastmodified":1564285671,
+    "wof:lastmodified":1566603279,
     "wof:name":"Vis",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

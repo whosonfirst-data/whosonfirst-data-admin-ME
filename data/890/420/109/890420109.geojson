@@ -11,10 +11,14 @@
     "geom:longitude":19.25667,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":493,
+    "gn:population":493,
     "iso:country":"ME",
+    "lbl:bbox":"19.23667,42.56417,19.27667,42.60417",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u017divkovi\u0107i"
     ],
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3188561,
         "gp:id":535339,
-        "qs:id":94971,
+        "qs_pg:id":94971,
         "wd:id":"Q3065761",
         "wk:page":"Ubli"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890420109,
-    "wof:lastmodified":1563571782,
+    "wof:lastmodified":1566603337,
     "wof:name":"Ubli",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

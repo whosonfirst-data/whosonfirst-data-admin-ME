@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.24194,41.97833,19.28194,42.01833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gornji Klenza",
         "Gornja Klezna"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326539899,
-    "wof:lastmodified":1537664436,
+    "wof:lastmodified":1566603142,
     "wof:name":"Gornja Klezna",
     "wof:parent_id":85674617,
     "wof:placetype":"locality",

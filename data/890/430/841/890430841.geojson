@@ -11,10 +11,14 @@
     "geom:longitude":18.97722,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"ME",
+    "lbl:bbox":"18.95722,42.33222,18.99722,42.37222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "\u00d0ura\u0161kovi\u0107i"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3317018,
         "gp:id":533157,
-        "qs:id":582478
+        "qs_pg:id":582478
     },
     "wof:country":"ME",
     "wof:created":1469051868,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890430841,
-    "wof:lastmodified":1505343520,
+    "wof:lastmodified":1566603321,
     "wof:name":"\u00d0ura\u0161kovi\u0107i",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

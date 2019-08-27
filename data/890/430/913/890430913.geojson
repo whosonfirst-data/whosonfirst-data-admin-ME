@@ -11,10 +11,14 @@
     "geom:longitude":19.06333,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":103,
+    "gn:population":103,
     "iso:country":"ME",
+    "lbl:bbox":"19.04333,42.5925,19.08333,42.6325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Vi\u0161"
     ],
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":3317670,
         "gp:id":535047,
-        "qs:id":582507,
+        "qs_pg:id":582507,
         "wd:id":"Q3561709"
     },
     "wof:country":"ME",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890430913,
-    "wof:lastmodified":1563571730,
+    "wof:lastmodified":1566603321,
     "wof:name":"Vi\u0161",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

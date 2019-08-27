@@ -11,11 +11,15 @@
     "geom:longitude":19.06611,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":31,
+    "gn:population":31,
     "iso:country":"ME",
+    "lbl:bbox":"19.04611,42.31528,19.08611,42.35528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Dujevo"
     ],
     "qs:name":"Dujeva",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3317512,
         "gp:id":484513,
-        "qs:id":582498
+        "qs_pg:id":582498
     },
     "wof:country":"ME",
     "wof:created":1469052510,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890445435,
-    "wof:lastmodified":1505343605,
+    "wof:lastmodified":1566603340,
     "wof:name":"Dujeva",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

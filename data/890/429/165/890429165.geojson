@@ -11,10 +11,14 @@
     "geom:longitude":19.05972,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":181,
+    "gn:population":181,
     "iso:country":"ME",
+    "lbl:bbox":"19.03972,42.56583,19.07972,42.60583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Frutak",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":3326857,
         "gp:id":535047,
-        "qs:id":95353
+        "qs_pg:id":95353
     },
     "wof:country":"ME",
     "wof:created":1469051798,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890429165,
-    "wof:lastmodified":1505343510,
+    "wof:lastmodified":1566603333,
     "wof:name":"Frutak",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"19.24833,43.18111,19.24833,43.18111",
     "geom:latitude":43.18111,
     "geom:longitude":19.24833,
-    "gn:gn_country":"ME",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":213,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
     "gn:population":213,
     "iso:country":"ME",
+    "lbl:bbox":"19.22833,43.16111,19.26833,43.20111",
     "lbl:latitude":43.18111,
     "lbl:longitude":19.24833,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Lever Tara"
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Lever Tara"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nefertara"
     ],
     "qs_pg:aaroncc":"ME",
@@ -58,7 +61,7 @@
     "qs_pg:qs_id":95102,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125867173,
-    "wof:lastmodified":1563571803,
+    "wof:lastmodified":1566603343,
     "wof:name":"Lever Tara",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

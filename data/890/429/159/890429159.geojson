@@ -11,11 +11,15 @@
     "geom:longitude":18.81167,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"ME",
+    "lbl:bbox":"18.79167,42.315,18.83167,42.355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kne\u017eevi\u0107"
     ],
     "qs:name":"Kne\u017eevi\u0107i",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3318388,
         "gp:id":533029,
-        "qs:id":95346
+        "qs_pg:id":95346
     },
     "wof:country":"ME",
     "wof:created":1469051797,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890429159,
-    "wof:lastmodified":1505343510,
+    "wof:lastmodified":1566603331,
     "wof:name":"Kne\u017eevi\u0107i",
     "wof:parent_id":85674621,
     "wof:placetype":"locality",

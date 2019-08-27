@@ -11,11 +11,15 @@
     "geom:longitude":19.14889,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":203,
+    "gn:population":203,
     "iso:country":"ME",
+    "lbl:bbox":"19.12889,42.36694,19.16889,42.40694",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Golemadi"
     ],
     "qs:name":"Goljemadi",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3200452,
         "gp:id":484513,
-        "qs:id":581714
+        "qs_pg:id":581714
     },
     "wof:country":"ME",
     "wof:created":1469052111,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890436425,
-    "wof:lastmodified":1505343553,
+    "wof:lastmodified":1566603325,
     "wof:name":"Goljemadi",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

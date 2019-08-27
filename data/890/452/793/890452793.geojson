@@ -11,11 +11,15 @@
     "geom:longitude":19.05028,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":67,
+    "gn:population":67,
     "iso:country":"ME",
+    "lbl:bbox":"19.03028,42.50194,19.07028,42.54194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Gornji \u00d0urickovi\u0107i"
     ],
     "qs:name":"Musterovi\u0107i",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3220525,
         "gp:id":533158,
-        "qs:id":581923
+        "qs_pg:id":581923
     },
     "wof:country":"ME",
     "wof:created":1469052830,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890452793,
-    "wof:lastmodified":1505343647,
+    "wof:lastmodified":1566603324,
     "wof:name":"Musterovi\u0107i",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

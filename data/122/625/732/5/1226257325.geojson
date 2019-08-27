@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.52611,42.82194,18.56611,42.86194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Obljaj"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1226257325,
-    "wof:lastmodified":1564285965,
+    "wof:lastmodified":1566603411,
     "wof:name":"Obljaj",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

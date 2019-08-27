@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.85944,42.74,19.89944,42.78",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0106etkovi\u0107e",
         "\u0106etkovi\u0107i"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226765833,
-    "wof:lastmodified":1537664511,
+    "wof:lastmodified":1566603413,
     "wof:name":"Cetkovici",
     "wof:parent_id":85674653,
     "wof:placetype":"locality",

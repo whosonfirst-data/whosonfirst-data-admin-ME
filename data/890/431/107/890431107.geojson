@@ -11,10 +11,14 @@
     "geom:longitude":19.14806,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"ME",
+    "lbl:bbox":"19.12806,42.20972,19.16806,42.24972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Pristan"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3318510,
         "gp:id":484513,
-        "qs:id":582621,
+        "qs_pg:id":582621,
         "wk:page":"Pristan"
     },
     "wof:country":"ME",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431107,
-    "wof:lastmodified":1527735415,
+    "wof:lastmodified":1566603328,
     "wof:name":"Pristan",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

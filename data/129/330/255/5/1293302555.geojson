@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.57639,42.37139,18.61639,42.41139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Zambeli\u0107i"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293302555,
-    "wof:lastmodified":1537664530,
+    "wof:lastmodified":1566603181,
     "wof:name":"Zambelici",
     "wof:parent_id":85674639,
     "wof:placetype":"locality",
