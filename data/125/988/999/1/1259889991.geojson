@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.52778,43.12278,19.56778,43.16278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bli\u0161kovo"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u043b\u0438\u0448\u043a\u043e\u0432\u043e"
-    ],
-    "name:und_x_variant":[
-        "Bli\u0161kovo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1259889991,
-    "wof:lastmodified":1564285925,
+    "wof:lastmodified":1566603394,
     "wof:name":"Bliskovo",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

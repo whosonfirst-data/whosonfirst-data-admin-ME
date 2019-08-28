@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.75889,42.60306,18.79889,42.64306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ubalski Do",
         "Ozebli Do"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193151571,
-    "wof:lastmodified":1537664486,
+    "wof:lastmodified":1566603261,
     "wof:name":"Ozebli Do",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

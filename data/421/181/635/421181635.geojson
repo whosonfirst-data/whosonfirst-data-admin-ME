@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.27722,42.09056,19.27722,42.09056",
     "geom:latitude":42.09056,
     "geom:longitude":19.27722,
     "iso:country":"ME",
+    "lbl:bbox":"19.25722,42.07056,19.29722,42.11056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:srp_x_preferred":[
         "Ko\u0161tanica"
@@ -42,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3316458,
         "gp:id":534705,
-        "qs:id":496517
+        "qs_pg:id":496517
     },
     "wof:country":"ME",
     "wof:created":1459009302,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":421181635,
-    "wof:lastmodified":1501266040,
+    "wof:lastmodified":1566603313,
     "wof:name":"Kostanica",
     "wof:parent_id":85674617,
     "wof:placetype":"locality",

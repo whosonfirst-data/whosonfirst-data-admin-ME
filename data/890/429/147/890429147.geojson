@@ -11,17 +11,21 @@
     "geom:longitude":18.98083,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":100,
+    "gn:population":100,
     "iso:country":"ME",
+    "lbl:bbox":"18.96083,42.33778,19.00083,42.37778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ceklin"
     ],
     "name:hrv_x_preferred":[
         "Ceklin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gornji Ceklin"
     ],
     "qs:name":"Ceklin",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":3220361,
         "gp:id":533157,
-        "qs:id":95308,
+        "qs_pg:id":95308,
         "wd:id":"Q5057405",
         "wk:page":"Ceklin"
     },
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890429147,
-    "wof:lastmodified":1563571770,
+    "wof:lastmodified":1566603334,
     "wof:name":"Ceklin",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":18.94611,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":121,
+    "gn:population":121,
     "iso:country":"ME",
+    "lbl:bbox":"18.92611,43.17056,18.96611,43.21056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Trsa"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3317775,
         "gp:id":535999,
-        "qs:id":582524
+        "qs_pg:id":582524
     },
     "wof:country":"ME",
     "wof:created":1469052073,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890435585,
-    "wof:lastmodified":1505343548,
+    "wof:lastmodified":1566603341,
     "wof:name":"Trsa",
     "wof:parent_id":85674677,
     "wof:placetype":"locality",

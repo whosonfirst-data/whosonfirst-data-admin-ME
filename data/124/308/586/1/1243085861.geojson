@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.05,42.2325,19.09,42.2725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Podkraj"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1243085861,
-    "wof:lastmodified":1564285813,
+    "wof:lastmodified":1566603349,
     "wof:name":"Podkraj",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

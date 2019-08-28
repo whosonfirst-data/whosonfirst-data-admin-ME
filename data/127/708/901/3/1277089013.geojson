@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.85833,42.99278,18.89833,43.03278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bajovo Polje"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1277089013,
-    "wof:lastmodified":1564285488,
+    "wof:lastmodified":1566603210,
     "wof:name":"Bajovo Polje",
     "wof:parent_id":85674677,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.83028,43.005,19.87028,43.045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Zminac"
     ],
@@ -38,7 +42,6 @@
         "\u0417\u043c\u0438\u043d\u0430\u0446"
     ],
     "name:und_x_variant":[
-        "Zminac",
         "Zminjac"
     ],
     "src:geom":"geonames",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1260299935,
-    "wof:lastmodified":1564285653,
+    "wof:lastmodified":1566603272,
     "wof:name":"Zminjac",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

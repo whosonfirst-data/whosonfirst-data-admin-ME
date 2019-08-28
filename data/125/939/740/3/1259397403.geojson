@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.62472,42.72361,18.66472,42.76361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Devoja\u010dki Do",
         "Djevoja\u010dki Do"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259397403,
-    "wof:lastmodified":1537664489,
+    "wof:lastmodified":1566603379,
     "wof:name":"Djevojacki Do",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

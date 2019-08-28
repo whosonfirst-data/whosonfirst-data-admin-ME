@@ -11,10 +11,14 @@
     "geom:longitude":19.13444,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":217,
+    "gn:population":217,
     "iso:country":"ME",
+    "lbl:bbox":"19.11444,43.25194,19.15444,43.29194",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Moraice"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Moraice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Morajce"
     ],
     "qs:name":"Moraice",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3194878,
         "gp:id":534686,
-        "qs:id":581659,
+        "qs_pg:id":581659,
         "wd:id":"Q3323705",
         "wk:page":"Moraice"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890434693,
-    "wof:lastmodified":1563571792,
+    "wof:lastmodified":1566603340,
     "wof:name":"Moraice",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

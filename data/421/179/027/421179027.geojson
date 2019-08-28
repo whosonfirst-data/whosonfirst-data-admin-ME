@@ -10,8 +10,12 @@
     "geom:latitude":42.82229,
     "geom:longitude":19.51653,
     "iso:country":"ME",
+    "lbl:bbox":"19.49653,42.80229,19.53653,42.84229",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_variant":[
         "\u041a\u0430\u043b\u0430\u0448\u044b\u043d"
@@ -150,7 +154,7 @@
     "wof:concordances":{
         "gn:id":3197896,
         "gp:id":534628,
-        "qs:id":147226,
+        "qs_pg:id":147226,
         "wd:id":"Q498895",
         "wk:page":"Kola\u0161in"
     },
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":421179027,
-    "wof:lastmodified":1563571708,
+    "wof:lastmodified":1566603315,
     "wof:name":"Kola\u00b5in",
     "wof:parent_id":85674667,
     "wof:placetype":"locality",

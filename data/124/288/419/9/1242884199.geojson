@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.11639,42.33861,19.15639,42.37861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Buronski Do",
         "Buro\u0161ki Do",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242884199,
-    "wof:lastmodified":1537664489,
+    "wof:lastmodified":1566603352,
     "wof:name":"Buronjski Do",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

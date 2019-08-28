@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.90028,42.38556,18.94028,42.42556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vrbica"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1209232949,
-    "wof:lastmodified":1564285579,
+    "wof:lastmodified":1566603242,
     "wof:name":"Vrbica",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

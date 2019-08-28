@@ -11,11 +11,15 @@
     "geom:longitude":19.37861,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":273,
+    "gn:population":273,
     "iso:country":"ME",
+    "lbl:bbox":"19.35861,42.38472,19.39861,42.42472",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Pikale"
     ],
     "qs:name":"Pikalja",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3193364,
         "gp:id":536010,
-        "qs:id":95059
+        "qs_pg:id":95059
     },
     "wof:country":"ME",
     "wof:created":1469052941,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890455289,
-    "wof:lastmodified":1505343662,
+    "wof:lastmodified":1566603325,
     "wof:name":"Pikalja",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":42.35639,
     "geom:longitude":19.02528,
     "iso:country":"ME",
+    "lbl:bbox":"19.00528,42.33639,19.04528,42.37639",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Rijeka Crnojevi\u0107a"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Rijeka Crnojevi\u0107a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rijeka"
     ],
     "qs:gn_country":"ME",
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3191646,
         "gp:id":484513,
-        "qs:id":1342855,
+        "qs_pg:id":1342855,
         "wd:id":"Q1255643",
         "wk:page":"Rijeka Crnojevi\u0107a"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421177615,
-    "wof:lastmodified":1563571704,
+    "wof:lastmodified":1566603314,
     "wof:name":"Rijeka Crnojevi\u0107a",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

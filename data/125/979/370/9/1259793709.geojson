@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.62056,42.38583,18.66056,42.42583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u0448\u0438\u0447\u0438"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0448\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Krasi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1259793709,
-    "wof:lastmodified":1564285897,
+    "wof:lastmodified":1566603383,
     "wof:name":"Krasici",
     "wof:parent_id":85674639,
     "wof:placetype":"locality",

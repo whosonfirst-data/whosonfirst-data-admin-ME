@@ -11,10 +11,14 @@
     "geom:longitude":19.1525,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"ME",
+    "lbl:bbox":"19.1325,42.00944,19.1725,42.04944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0648\u0646\u062c"
     ],
@@ -30,7 +34,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0432\u0430\u043d\u0434\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ravan"
     ],
     "qs:name":"Ravanj",
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":3318472,
         "gp:id":535898,
-        "qs:id":582608,
+        "qs_pg:id":582608,
         "wk:page":"Ravanj"
     },
     "wof:country":"ME",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890418115,
-    "wof:lastmodified":1564285788,
+    "wof:lastmodified":1566603338,
     "wof:name":"Ravanj",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

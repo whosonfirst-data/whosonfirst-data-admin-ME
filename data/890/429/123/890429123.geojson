@@ -11,10 +11,14 @@
     "geom:longitude":19.06583,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":159,
+    "gn:population":159,
     "iso:country":"ME",
+    "lbl:bbox":"19.04583,42.95444,19.08583,42.99444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Po\u0161\u0107enje"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3192680,
         "gp:id":536563,
-        "qs:id":95043
+        "qs_pg:id":95043
     },
     "wof:country":"ME",
     "wof:created":1469051795,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890429123,
-    "wof:lastmodified":1505343510,
+    "wof:lastmodified":1566603333,
     "wof:name":"Po\u0161\u0107enje",
     "wof:parent_id":85674695,
     "wof:placetype":"locality",

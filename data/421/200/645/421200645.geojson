@@ -10,8 +10,12 @@
     "geom:latitude":42.28389,
     "geom:longitude":18.86917,
     "iso:country":"ME",
+    "lbl:bbox":"18.84917,42.26389,18.88917,42.30389",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Be\u010di\u0107i"
@@ -70,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0447\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Be\u010di\u0107"
     ],
     "qs:gn_country":"ME",
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3204388,
         "gp:id":532621,
-        "qs:id":889995,
+        "qs_pg:id":889995,
         "wd:id":"Q2329119",
         "wk:page":"Be\u010di\u0107i"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421200645,
-    "wof:lastmodified":1563571702,
+    "wof:lastmodified":1566603314,
     "wof:name":"Be\u010di\u0107i",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

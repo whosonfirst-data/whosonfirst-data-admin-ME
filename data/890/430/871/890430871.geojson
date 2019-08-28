@@ -11,10 +11,14 @@
     "geom:longitude":18.94306,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"ME",
+    "lbl:bbox":"18.92306,42.28667,18.96306,42.32667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bukovik"
     ],
@@ -53,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3317038,
-        "qs:id":582485,
+        "qs_pg:id":582485,
         "wd:id":"Q2927845",
         "wk:page":"Bukovik"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890430871,
-    "wof:lastmodified":1563571734,
+    "wof:lastmodified":1566603322,
     "wof:name":"Bukovik",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":19.12944,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":292,
+    "gn:population":292,
     "iso:country":"ME",
+    "lbl:bbox":"19.10944,43.25056,19.14944,43.29056",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bobovo"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3203868,
         "gp:id":534686,
-        "qs:id":95186,
+        "qs_pg:id":95186,
         "wd:id":"Q2908202",
         "wk:page":"Bobovo"
     },
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890429143,
-    "wof:lastmodified":1561840460,
+    "wof:lastmodified":1566603332,
     "wof:name":"Bobovo",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

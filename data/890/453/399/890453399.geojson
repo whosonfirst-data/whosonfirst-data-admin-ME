@@ -11,10 +11,14 @@
     "geom:longitude":19.16583,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":92,
+    "gn:population":92,
     "iso:country":"ME",
+    "lbl:bbox":"19.14583,42.43167,19.18583,42.47167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"\u0106afa",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -28,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3202909,
-        "qs:id":95178
+        "qs_pg:id":95178
     },
     "wof:country":"ME",
     "wof:created":1469052852,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890453399,
-    "wof:lastmodified":1505343651,
+    "wof:lastmodified":1566603330,
     "wof:name":"\u0106afa",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

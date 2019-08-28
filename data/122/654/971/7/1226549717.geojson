@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.46917,42.49472,18.50917,42.53472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Petijevi\u0107i"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226549717,
-    "wof:lastmodified":1537664456,
+    "wof:lastmodified":1566603419,
     "wof:name":"Petijevici",
     "wof:parent_id":85674639,
     "wof:placetype":"locality",

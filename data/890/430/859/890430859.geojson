@@ -11,11 +11,15 @@
     "geom:longitude":18.95389,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"ME",
+    "lbl:bbox":"18.93389,42.2975,18.97389,42.3375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Pa\u010dara\u0111i"
     ],
     "qs:name":"Pa\u010dara\u0111e",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3317027,
         "gp:id":533157,
-        "qs:id":582482
+        "qs_pg:id":582482
     },
     "wof:country":"ME",
     "wof:created":1469051869,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890430859,
-    "wof:lastmodified":1505343520,
+    "wof:lastmodified":1566603319,
     "wof:name":"Pa\u010dara\u0111e",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

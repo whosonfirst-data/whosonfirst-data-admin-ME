@@ -11,10 +11,14 @@
     "geom:longitude":19.14361,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":233,
+    "gn:population":233,
     "iso:country":"ME",
+    "lbl:bbox":"19.12361,42.55056,19.16361,42.59056",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u043e\u0442\u043a\u0443\u043b\u0430"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Potkula"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Podkula"
     ],
     "qs:name":"Potkula",
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3317756,
-        "qs:id":582521,
+        "qs_pg:id":582521,
         "wd:id":"Q3400066"
     },
     "wof:country":"ME",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890422565,
-    "wof:lastmodified":1563571717,
+    "wof:lastmodified":1566603317,
     "wof:name":"Potkula",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

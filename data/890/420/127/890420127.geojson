@@ -11,10 +11,14 @@
     "geom:longitude":19.10194,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":182,
+    "gn:population":182,
     "iso:country":"ME",
+    "lbl:bbox":"19.08194,42.41056,19.12194,42.45056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Buronji"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3202972,
         "gp:id":484513,
-        "qs:id":95181
+        "qs_pg:id":95181
     },
     "wof:country":"ME",
     "wof:created":1469051319,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890420127,
-    "wof:lastmodified":1505343454,
+    "wof:lastmodified":1566603336,
     "wof:name":"Buronji",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

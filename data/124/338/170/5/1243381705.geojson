@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.71361,42.72389,19.75361,42.76389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Mirav\u010dine"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243381705,
-    "wof:lastmodified":1537664511,
+    "wof:lastmodified":1566603346,
     "wof:name":"Miravcine",
     "wof:parent_id":85674649,
     "wof:placetype":"locality",

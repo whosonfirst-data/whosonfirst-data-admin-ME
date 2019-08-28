@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.45389,42.57778,19.49389,42.61778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Duboja",
         "Dubaje"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209530409,
-    "wof:lastmodified":1537664518,
+    "wof:lastmodified":1566603232,
     "wof:name":"Dubaje",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

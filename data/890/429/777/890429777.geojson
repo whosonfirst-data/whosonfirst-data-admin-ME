@@ -11,10 +11,14 @@
     "geom:longitude":19.0925,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":337,
+    "gn:population":337,
     "iso:country":"ME",
+    "lbl:bbox":"19.0725,42.22556,19.1125,42.26556",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u0440\u043f\u0430\u0437\u0430\u0440"
     ],
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":3187691,
         "gp:id":537439,
-        "qs:id":581572,
+        "qs_pg:id":581572,
         "wd:id":"Q1027457",
         "wk:page":"Virpazar"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890429777,
-    "wof:lastmodified":1563571765,
+    "wof:lastmodified":1566603332,
     "wof:name":"Virpazar",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

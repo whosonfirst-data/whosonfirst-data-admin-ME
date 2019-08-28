@@ -11,10 +11,14 @@
     "geom:longitude":19.12806,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"ME",
+    "lbl:bbox":"19.10806,42.08028,19.14806,42.12028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Velembu\u0161i"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3318483,
         "gp:id":28752672,
-        "qs:id":582613
+        "qs_pg:id":582613
     },
     "wof:country":"ME",
     "wof:created":1469051877,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890431093,
-    "wof:lastmodified":1505343522,
+    "wof:lastmodified":1566603329,
     "wof:name":"Velembu\u0161i",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

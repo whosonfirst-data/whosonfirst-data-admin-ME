@@ -11,10 +11,14 @@
     "geom:longitude":19.025,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":280,
+    "gn:population":280,
     "iso:country":"ME",
+    "lbl:bbox":"19.005,42.95694,19.045,42.99694",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Du\u017ei"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3200924,
         "gp:id":536563,
-        "qs:id":581726,
+        "qs_pg:id":581726,
         "wd:id":"Q3041835",
         "wk:page":"Du\u017ei"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890416535,
-    "wof:lastmodified":1563571772,
+    "wof:lastmodified":1566603334,
     "wof:name":"Du\u017ei",
     "wof:parent_id":85674695,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":19.485,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":518,
+    "gn:population":518,
     "iso:country":"ME",
+    "lbl:bbox":"19.465,43.0675,19.505,43.1075",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Barice"
     ],
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":3204472,
         "gp:id":534744,
-        "qs:id":581785,
+        "qs_pg:id":581785,
         "wd:id":"Q2042256",
         "wk:page":"Barice"
     },
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890430179,
-    "wof:lastmodified":1561840459,
+    "wof:lastmodified":1566603324,
     "wof:name":"Barice",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

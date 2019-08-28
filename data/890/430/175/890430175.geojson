@@ -11,11 +11,15 @@
     "geom:longitude":18.91639,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":134,
+    "gn:population":134,
     "iso:country":"ME",
+    "lbl:bbox":"18.89639,43.11417,18.93639,43.15417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Pirni Do"
     ],
     "qs:name":"Bori\u010dje",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3203719,
         "gp:id":535999,
-        "qs:id":581782
+        "qs_pg:id":581782
     },
     "wof:country":"ME",
     "wof:created":1469051842,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890430175,
-    "wof:lastmodified":1505343517,
+    "wof:lastmodified":1566603320,
     "wof:name":"Bori\u010dje",
     "wof:parent_id":85674677,
     "wof:placetype":"locality",

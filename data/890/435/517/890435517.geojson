@@ -11,10 +11,14 @@
     "geom:longitude":19.11389,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":211,
+    "gn:population":211,
     "iso:country":"ME",
+    "lbl:bbox":"19.09389,42.3725,19.13389,42.4125",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Bre\u017eine"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3203401,
         "gp:id":484513,
-        "qs:id":581777
+        "qs_pg:id":581777
     },
     "wof:country":"ME",
     "wof:created":1469052070,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890435517,
-    "wof:lastmodified":1505343548,
+    "wof:lastmodified":1566603341,
     "wof:name":"Bre\u017eine",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.172812,
     "lbl:longitude":19.141784,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.172812,
     "mps:longitude":19.141784,
     "mz:hierarchy_label":1,
@@ -143,7 +144,7 @@
         "Bar kommun"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbe\u0bb0\u0bcd  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0baa\u0bbe\u0bb0\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c30\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -157,10 +158,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440"
     ],
-    "name:und_x_preferred":[
-        "Bar"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Op\u0161tina Bar"
     ],
     "name:urd_x_preferred":[
@@ -242,9 +240,9 @@
     "qs:type":"Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-04-01",
+    "src:population_date":"2011-04-01",
     "statoids:area_km":"598",
     "statoids:area_mi":"231",
     "statoids:as_of_date":"2011-04-01",
@@ -270,7 +268,7 @@
         "gp:id":29389244,
         "hasc:id":"ME.BA",
         "iso:id":"ME-02",
-        "qs:id":1291644,
+        "qs_pg:id":1291644,
         "unlc:id":"ME-02",
         "wd:id":"Q2604068"
     },
@@ -290,11 +288,10 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1565727334,
+    "wof:lastmodified":1566603179,
     "wof:name":"Bar",
     "wof:parent_id":85632667,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"commune",
     "wof:population":42048,
     "wof:population_rank":7,

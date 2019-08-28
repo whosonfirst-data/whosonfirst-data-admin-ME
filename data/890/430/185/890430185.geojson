@@ -11,11 +11,15 @@
     "geom:longitude":18.63,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":603,
+    "gn:population":603,
     "iso:country":"ME",
+    "lbl:bbox":"18.61,42.4225,18.65,42.4625",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bao\u0161i\u0107"
     ],
     "qs:name":"Bao\u0161i\u0107i",
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3204511,
         "gp:id":534284,
-        "qs:id":581788
+        "qs_pg:id":581788
     },
     "wof:country":"ME",
     "wof:created":1469051842,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890430185,
-    "wof:lastmodified":1505343517,
+    "wof:lastmodified":1566603324,
     "wof:name":"Bao\u0161i\u0107i",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

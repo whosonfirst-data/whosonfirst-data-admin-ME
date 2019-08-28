@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.325,43.25556,19.365,43.29556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Katun"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Katuni",
-        "Katun Lindarski",
-        "Katun"
+        "Katun Lindarski"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1193151593,
-    "wof:lastmodified":1564285625,
+    "wof:lastmodified":1566603262,
     "wof:name":"Katun",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

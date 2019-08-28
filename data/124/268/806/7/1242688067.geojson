@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.43361,42.72861,19.47361,42.76861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Presjeka"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1242688067,
-    "wof:lastmodified":1564285823,
+    "wof:lastmodified":1566603353,
     "wof:name":"Presjeka",
     "wof:parent_id":85674667,
     "wof:placetype":"locality",

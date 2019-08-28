@@ -9,17 +9,20 @@
     "geom:bbox":"18.71111,42.46972,18.71111,42.46972",
     "geom:latitude":42.46972,
     "geom:longitude":18.71111,
-    "gn:gn_country":"ME",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":354,
+    "gn:country":"ME",
+    "gn:fcode":"PPLL",
     "gn:population":354,
     "iso:country":"ME",
+    "lbl:bbox":"18.69111,42.44972,18.73111,42.48972",
     "lbl:latitude":42.46972,
     "lbl:longitude":18.71111,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stoliv Donji"
     ],
     "qs_pg:aaroncc":"ME",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":95156,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1125867225,
-    "wof:lastmodified":1509397062,
+    "wof:lastmodified":1566603342,
     "wof:name":"Donji Stoliv",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

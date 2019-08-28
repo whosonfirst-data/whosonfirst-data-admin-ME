@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.26944,43.31556,19.30944,43.35556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Potrku\u0161a",
         "Podkru\u0161a",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344171859,
-    "wof:lastmodified":1537664470,
+    "wof:lastmodified":1566603171,
     "wof:name":"Potkrusa",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

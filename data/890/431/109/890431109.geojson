@@ -11,11 +11,15 @@
     "geom:longitude":19.01167,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"ME",
+    "lbl:bbox":"18.99167,42.22167,19.03167,42.26167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Br\u010deli"
     ],
     "qs:name":"Gornji Br\u010deli",
@@ -31,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3318514,
-        "qs:id":582623
+        "qs_pg:id":582623
     },
     "wof:country":"ME",
     "wof:created":1469051878,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890431109,
-    "wof:lastmodified":1505343522,
+    "wof:lastmodified":1566603328,
     "wof:name":"Gornji Br\u010deli",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

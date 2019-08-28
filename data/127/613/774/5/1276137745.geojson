@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.61056,42.70417,18.65056,42.74417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Donja Spila"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276137745,
-    "wof:lastmodified":1537664447,
+    "wof:lastmodified":1566603225,
     "wof:name":"Donja Spila",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

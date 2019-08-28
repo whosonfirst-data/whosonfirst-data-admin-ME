@@ -10,8 +10,12 @@
     "geom:latitude":43.15278,
     "geom:longitude":18.83944,
     "iso:country":"ME",
+    "lbl:bbox":"18.81944,43.13278,18.85944,43.17278",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_variant":[
         "\u041f\u043b\u0443\u0436\u044b\u043d\u044d"
@@ -97,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0443\u0436\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u043b\u0443\u0436\u0438\u043d\u0435"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0644\u0648\u0698\u06cc\u0646\u06d2"
     ],
@@ -138,7 +139,7 @@
     "wof:concordances":{
         "gn:id":3193131,
         "gp:id":535999,
-        "qs:id":982826,
+        "qs_pg:id":982826,
         "wd:id":"Q390605",
         "wk:page":"Plu\u017eine"
     },
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":421183729,
-    "wof:lastmodified":1563571705,
+    "wof:lastmodified":1566603315,
     "wof:name":"Plu\u017eine",
     "wof:parent_id":85674677,
     "wof:placetype":"locality",

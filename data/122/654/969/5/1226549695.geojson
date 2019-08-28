@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"20.14194,42.81611,20.18194,42.85611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ibarac"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226549695,
-    "wof:lastmodified":1564285989,
+    "wof:lastmodified":1566603419,
     "wof:name":"Ibarac",
     "wof:parent_id":85674633,
     "wof:placetype":"locality",

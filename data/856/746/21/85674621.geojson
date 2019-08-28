@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.317237,
     "lbl:longitude":18.840002,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.317237,
     "mps:longitude":18.840002,
     "mz:hierarchy_label":1,
@@ -151,10 +152,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0434\u0432\u0430"
     ],
-    "name:und_x_preferred":[
-        "Budva"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Op\u0161tina Budva"
     ],
     "name:urd_x_preferred":[
@@ -236,9 +234,9 @@
     "qs:type":"Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-04-01",
+    "src:population_date":"2011-04-01",
     "statoids:area_km":"122",
     "statoids:area_mi":"47",
     "statoids:as_of_date":"2011-04-01",
@@ -263,7 +261,7 @@
         "gp:id":29389243,
         "hasc:id":"ME.BU",
         "iso:id":"ME-05",
-        "qs:id":903220,
+        "qs_pg:id":903220,
         "unlc:id":"ME-05",
         "wd:id":"Q3739214"
     },
@@ -283,11 +281,10 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1565727334,
+    "wof:lastmodified":1566603178,
     "wof:name":"Budva",
     "wof:parent_id":85632667,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"commune",
     "wof:population":19218,
     "wof:population_rank":6,

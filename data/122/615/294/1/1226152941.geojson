@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.40556,42.65111,19.44556,42.69111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1226152941,
-    "wof:lastmodified":1537064388,
+    "wof:lastmodified":1566603413,
     "wof:name":"Stupovi",
     "wof:parent_id":85674667,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.61861,43.04306,19.65861,43.08306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Toma\u0161evo"
     ],
@@ -38,8 +42,7 @@
         "\u0422\u043e\u043c\u0430\u0448\u0435\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "\u0160ahovi\u0107i",
-        "Toma\u0161evo"
+        "\u0160ahovi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209116081,
-    "wof:lastmodified":1564285606,
+    "wof:lastmodified":1566603253,
     "wof:name":"Tomasevo",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":19.01139,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":196,
+    "gn:population":196,
     "iso:country":"ME",
+    "lbl:bbox":"18.99139,42.63972,19.03139,42.67972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Ro\u0161ca",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":3191539,
         "gp:id":535047,
-        "qs:id":581618
+        "qs_pg:id":581618
     },
     "wof:country":"ME",
     "wof:created":1469051139,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890416515,
-    "wof:lastmodified":1505343433,
+    "wof:lastmodified":1566603335,
     "wof:name":"Ro\u0161ca",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

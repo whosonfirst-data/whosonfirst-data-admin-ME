@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.865275,
     "lbl:longitude":18.717188,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.865275,
     "mps:longitude":18.717188,
     "mz:hierarchy_label":1,
@@ -181,10 +182,7 @@
     "name:und_x_colloquial":[
         "Niksic"
     ],
-    "name:und_x_preferred":[
-        "Nik\u0161i\u0107"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Op\u0161tina Nik\u0161i\u0107"
     ],
     "name:urd_x_preferred":[
@@ -266,9 +264,9 @@
     "qs:type":"Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-04-01",
+    "src:population_date":"2011-04-01",
     "statoids:area_km":"2,065",
     "statoids:area_mi":"797",
     "statoids:as_of_date":"2011-04-01",
@@ -293,7 +291,7 @@
         "gp:id":29389238,
         "hasc:id":"ME.NK",
         "iso:id":"ME-12",
-        "qs:id":214054,
+        "qs_pg:id":214054,
         "unlc:id":"ME-12",
         "wd:id":"Q4865016"
     },
@@ -313,11 +311,10 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1565727334,
+    "wof:lastmodified":1566603178,
     "wof:name":"Nik\u0161ic",
     "wof:parent_id":85632667,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"commune",
     "wof:population":72443,
     "wof:population_rank":8,

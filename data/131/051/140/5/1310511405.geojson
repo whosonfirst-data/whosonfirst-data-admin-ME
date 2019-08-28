@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.74639,42.72,18.78639,42.76",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u017diva"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310511405,
-    "wof:lastmodified":1537664489,
+    "wof:lastmodified":1566603294,
     "wof:name":"Ziva",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

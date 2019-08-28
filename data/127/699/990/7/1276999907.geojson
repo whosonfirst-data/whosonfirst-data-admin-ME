@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.80389,42.41861,18.84389,42.45861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Velji Kraj"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276999907,
-    "wof:lastmodified":1537664544,
+    "wof:lastmodified":1566603230,
     "wof:name":"Velji Kraj",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

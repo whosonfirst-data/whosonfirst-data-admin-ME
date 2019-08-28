@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.45361,42.97944,19.49361,43.01944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Stri\u010dina"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276995893,
-    "wof:lastmodified":1537664538,
+    "wof:lastmodified":1566603230,
     "wof:name":"Stricina",
     "wof:parent_id":85674669,
     "wof:placetype":"locality",

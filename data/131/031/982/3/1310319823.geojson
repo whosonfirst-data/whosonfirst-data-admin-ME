@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.29722,43.33444,19.33722,43.37444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u017didovi\u0107i"
     ],
@@ -44,9 +48,6 @@
         "\u0416\u0438\u0434\u043e\u0432\u0438\u0446\u0438"
     ],
     "name:swe_x_preferred":[
-        "\u017didovi\u0107i"
-    ],
-    "name:und_x_variant":[
         "\u017didovi\u0107i"
     ],
     "src:geom":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1310319823,
-    "wof:lastmodified":1564285676,
+    "wof:lastmodified":1566603281,
     "wof:name":"Zidovici",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

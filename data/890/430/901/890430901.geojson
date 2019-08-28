@@ -11,17 +11,21 @@
     "geom:longitude":19.07583,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"ME",
+    "lbl:bbox":"19.05583,42.27444,19.09583,42.31444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Z\u00e1boj"
     ],
     "name:fra_x_preferred":[
         "Z\u00e1boj"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zabove"
     ],
     "qs:name":"Zaboj",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3317571,
-        "qs:id":582502,
+        "qs_pg:id":582502,
         "wd:id":"Q8012060",
         "wk:page":"Z\u00e1boj"
     },
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890430901,
-    "wof:lastmodified":1563571721,
+    "wof:lastmodified":1566603318,
     "wof:name":"Zaboj",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

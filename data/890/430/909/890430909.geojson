@@ -11,10 +11,14 @@
     "geom:longitude":19.05028,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":138,
+    "gn:population":138,
     "iso:country":"ME",
+    "lbl:bbox":"19.03028,42.60972,19.07028,42.64972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Mijokusovi\u0107i"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3317652,
         "gp:id":535047,
-        "qs:id":582505
+        "qs_pg:id":582505
     },
     "wof:country":"ME",
     "wof:created":1469051871,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890430909,
-    "wof:lastmodified":1505343521,
+    "wof:lastmodified":1566603318,
     "wof:name":"Mijokusovi\u0107i",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

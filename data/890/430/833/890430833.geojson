@@ -11,10 +11,14 @@
     "geom:longitude":18.95278,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":47,
+    "gn:population":47,
     "iso:country":"ME",
+    "lbl:bbox":"18.93278,42.35361,18.97278,42.39361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041b\u0456\u043f\u0430"
     ],
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3316966,
         "gp:id":533157,
-        "qs:id":582474,
+        "qs_pg:id":582474,
         "wk:page":"Lipa"
     },
     "wof:country":"ME",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890430833,
-    "wof:lastmodified":1564285762,
+    "wof:lastmodified":1566603320,
     "wof:name":"Lipa",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

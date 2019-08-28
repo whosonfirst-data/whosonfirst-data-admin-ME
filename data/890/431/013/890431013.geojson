@@ -11,10 +11,14 @@
     "geom:longitude":18.8425,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"ME",
+    "lbl:bbox":"18.8225,42.46583,18.8625,42.50583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Aluga"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":3318015,
         "gp:id":533157,
-        "qs:id":582550,
+        "qs_pg:id":582550,
         "wd:id":"Q24882866",
         "wk:page":"Aluga"
     },
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890431013,
-    "wof:lastmodified":1563571748,
+    "wof:lastmodified":1566603326,
     "wof:name":"Aluga",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

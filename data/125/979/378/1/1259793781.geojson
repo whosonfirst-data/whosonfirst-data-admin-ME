@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.60556,42.98,19.64556,43.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hin_x_preferred":[
         "\u091c\u0930\u0940"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259793781,
-    "wof:lastmodified":1564285897,
+    "wof:lastmodified":1566603383,
     "wof:name":"Zari",
     "wof:parent_id":85674669,
     "wof:placetype":"locality",

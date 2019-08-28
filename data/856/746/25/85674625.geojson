@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.528346,
     "lbl:longitude":18.859203,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.528346,
     "mps:longitude":18.859203,
     "mz:hierarchy_label":1,
@@ -136,7 +137,7 @@
         "Cetinje"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0b9f\u0bbf\u0b9e\u0bcd\u0b9a\u0bc7  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0b9a\u0bc6\u0b9f\u0bbf\u0b9e\u0bcd\u0b9a\u0bc7 \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c1f\u0c3f\u0c02\u0c1c\u0c46 \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -145,13 +146,10 @@
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e40\u0e0b\u0e15\u0e35\u0e40\u0e19\u0e35\u0e22"
     ],
     "name:tur_x_preferred":[
-        "Cetinje  Belediyesi"
+        "Cetinje Belediyesi"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0426\u0435\u0442\u0438\u043d\u0435"
-    ],
-    "name:und_x_preferred":[
-        "Cetinje"
     ],
     "name:urd_x_preferred":[
         "\u0642\u062f\u06cc\u0645 \u0634\u0627\u06c1\u06cc \u062f\u0627\u0631\u0627\u0644\u062d\u06a9\u0648\u0645\u062a \u0633\u06cc\u062a\u06cc\u0646\u06cc\u06d2"
@@ -229,9 +227,9 @@
     "qs:type":"Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-04-01",
+    "src:population_date":"2011-04-01",
     "statoids:area_km":"899",
     "statoids:area_mi":"347",
     "statoids:as_of_date":"2011-04-01",
@@ -256,7 +254,7 @@
         "gp:id":29389242,
         "hasc:id":"ME.CE",
         "iso:id":"ME-06",
-        "qs:id":903219,
+        "qs_pg:id":903219,
         "unlc:id":"ME-06",
         "wd:id":"Q3305075"
     },
@@ -276,11 +274,10 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1565727334,
+    "wof:lastmodified":1566603179,
     "wof:name":"Cetinje",
     "wof:parent_id":85632667,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"commune",
     "wof:population":16657,
     "wof:population_rank":6,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.20417,42.92972,19.24417,42.96972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Jeli\u0107a Dolina"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1344267023,
-    "wof:lastmodified":1537664525,
+    "wof:lastmodified":1566603169,
     "wof:name":"Jelica Dolina",
     "wof:parent_id":85674695,
     "wof:placetype":"locality",

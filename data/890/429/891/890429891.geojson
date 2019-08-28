@@ -11,10 +11,14 @@
     "geom:longitude":18.97611,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":18,
+    "gn:population":18,
     "iso:country":"ME",
+    "lbl:bbox":"18.95611,42.30972,18.99611,42.34972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "Vignjevi\u0107i"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3187775,
         "gp:id":533157,
-        "qs:id":581575
+        "qs_pg:id":581575
     },
     "wof:country":"ME",
     "wof:created":1469051832,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890429891,
-    "wof:lastmodified":1505343515,
+    "wof:lastmodified":1566603333,
     "wof:name":"Vignjevi\u0107i",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

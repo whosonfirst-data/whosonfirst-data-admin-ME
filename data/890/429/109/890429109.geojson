@@ -11,11 +11,15 @@
     "geom:longitude":18.9275,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":68,
+    "gn:population":68,
     "iso:country":"ME",
+    "lbl:bbox":"18.9075,42.30667,18.9475,42.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Vrelo"
     ],
     "qs:name":"Vrela",
@@ -31,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3187247,
-        "qs:id":94960
+        "qs_pg:id":94960
     },
     "wof:country":"ME",
     "wof:created":1469051794,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890429109,
-    "wof:lastmodified":1505343509,
+    "wof:lastmodified":1566603333,
     "wof:name":"Vrela",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

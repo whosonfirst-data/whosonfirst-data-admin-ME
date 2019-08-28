@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"19.10056,43.05167,19.14056,43.09167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Vukodo"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259694079,
-    "wof:lastmodified":1537664465,
+    "wof:lastmodified":1566603390,
     "wof:name":"Vukodo",
     "wof:parent_id":85674695,
     "wof:placetype":"locality",

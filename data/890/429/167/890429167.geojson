@@ -11,11 +11,15 @@
     "geom:longitude":19.49139,
     "gn:country":"ME",
     "gn:fcode":"PPLL",
-    "gn:pop":230,
+    "gn:population":230,
     "iso:country":"ME",
+    "lbl:bbox":"19.47139,42.71472,19.51139,42.75472",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Seli\u0161te"
     ],
     "qs:name":"Seli\u0161ta",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3338504,
         "gp:id":535339,
-        "qs:id":95381
+        "qs_pg:id":95381
     },
     "wof:country":"ME",
     "wof:created":1469051798,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890429167,
-    "wof:lastmodified":1505343510,
+    "wof:lastmodified":1566603332,
     "wof:name":"Seli\u0161ta",
     "wof:parent_id":85674667,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.70944,42.91611,18.74944,42.95611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00d0orojevi\u0107a Vatan",
         "Gornje Srijede"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326844821,
-    "wof:lastmodified":1537664490,
+    "wof:lastmodified":1566603136,
     "wof:name":"Gornje Srijede",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",

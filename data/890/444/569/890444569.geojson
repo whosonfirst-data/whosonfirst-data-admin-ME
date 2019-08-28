@@ -11,10 +11,14 @@
     "geom:longitude":19.27278,
     "gn:country":"ME",
     "gn:fcode":"PPL",
-    "gn:pop":1132,
+    "gn:population":1132,
     "iso:country":"ME",
+    "lbl:bbox":"19.25278,42.30361,19.29278,42.34361",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Matagu\u017ei"
     ],
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3195390,
-        "qs:id":1044022,
+        "qs_pg:id":1044022,
         "wd:id":"Q3044246",
         "wk:page":"Matagu\u017ei"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890444569,
-    "wof:lastmodified":1563571761,
+    "wof:lastmodified":1566603331,
     "wof:name":"Matagu\u017ei",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

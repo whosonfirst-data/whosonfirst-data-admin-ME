@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
+    "lbl:bbox":"18.55861,42.65111,18.59861,42.69111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Kami\u0161evo"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1260201371,
-    "wof:lastmodified":1537664456,
+    "wof:lastmodified":1566603271,
     "wof:name":"Kamisevo",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",
