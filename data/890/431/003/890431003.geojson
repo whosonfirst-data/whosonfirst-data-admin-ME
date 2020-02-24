@@ -73,6 +73,9 @@
     },
     "wof:country":"ME",
     "wof:created":1469051874,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"32bb1bbc2ad6f7b306da49f7f936ff48",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890431003,
-    "wof:lastmodified":1566603329,
+    "wof:lastmodified":1582223327,
     "wof:name":"Brda",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

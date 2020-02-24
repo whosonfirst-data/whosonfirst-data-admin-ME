@@ -112,6 +112,9 @@
     },
     "wof:country":"ME",
     "wof:created":1469052474,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b049c09918f613f354901c1588b46229",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":890444571,
-    "wof:lastmodified":1566603331,
+    "wof:lastmodified":1582223327,
     "wof:name":"Dobrota",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

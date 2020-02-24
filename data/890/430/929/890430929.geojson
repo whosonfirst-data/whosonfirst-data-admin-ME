@@ -71,6 +71,9 @@
     },
     "wof:country":"ME",
     "wof:created":1469051871,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b7fd40ad5ae76c475f9706c2925ddcc7",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890430929,
-    "wof:lastmodified":1566603323,
+    "wof:lastmodified":1582223327,
     "wof:name":"Marovi\u0107i",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",
