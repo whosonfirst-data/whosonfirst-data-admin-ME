@@ -620,6 +620,9 @@
     },
     "wof:country":"ME",
     "wof:created":1497296936,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
     "wof:geomhash":"9cb23085ca446e87aabe47d820130f2f",
     "wof:hierarchy":[
         {
@@ -630,7 +633,7 @@
         }
     ],
     "wof:id":1125934969,
-    "wof:lastmodified":1566603341,
+    "wof:lastmodified":1582223327,
     "wof:name":"Podgorica",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

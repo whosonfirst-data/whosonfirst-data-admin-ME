@@ -980,6 +980,10 @@
     },
     "wof:country":"ME",
     "wof:country_alpha3":"MNE",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"0cf02fccfbd08b42a61297f65b46bc82",
     "wof:hierarchy":[
         {
@@ -994,7 +998,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1566603179,
+    "wof:lastmodified":1582223323,
     "wof:name":"Montenegro",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

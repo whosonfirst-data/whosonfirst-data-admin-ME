@@ -754,6 +754,9 @@
     },
     "wof:country":"ME",
     "wof:created":1459009202,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b6d317f7b90ba77e27f59529de023bd4",
     "wof:hierarchy":[
         {
@@ -764,7 +767,7 @@
         }
     ],
     "wof:id":421179031,
-    "wof:lastmodified":1566603315,
+    "wof:lastmodified":1582223327,
     "wof:name":"Cetinje",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",
