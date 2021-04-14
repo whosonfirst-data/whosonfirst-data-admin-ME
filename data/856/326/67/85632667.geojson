@@ -991,7 +991,8 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth"
+        "naturalearth",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -1048,7 +1049,8 @@
     "wof:country_alpha3":"MNE",
     "wof:geom_alt":[
         "naturalearth",
-        "naturalearth-display-terrestrial-zoom6"
+        "naturalearth-display-terrestrial-zoom6",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"bc14ee24e376ac65f54041d6112e7b59",
     "wof:hierarchy":[
@@ -1064,7 +1066,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1617827325,
+    "wof:lastmodified":1618362107,
     "wof:name":"Montenegro",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
