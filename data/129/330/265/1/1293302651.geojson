@@ -29,7 +29,43 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u09aa\u09bf\u09a8\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03c0\u03b9\u03bd\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e4\u05d9\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u092a\u093f\u0928\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kupina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30d4\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\ud53c\ub098"
+    ],
+    "name:por_x_preferred":[
+        "Kupina"
+    ],
+    "name:spa_x_preferred":[
+        "Kupina"
+    ],
     "name:srp_x_preferred":[
+        "Kupina"
+    ],
+    "name:swe_x_preferred":[
+        "Kupina"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u067e\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Kupina"
     ],
     "src:geom":"geonames",
@@ -53,7 +89,7 @@
         }
     ],
     "wof:id":1293302651,
-    "wof:lastmodified":1566603181,
+    "wof:lastmodified":1636414097,
     "wof:name":"Kupina",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

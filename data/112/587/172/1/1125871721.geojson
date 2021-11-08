@@ -77,6 +77,9 @@
         "Ulcinj"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dc\u05e6\u05d9\u05e0\u05d9"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05d5\u05dc\u05e6\u05d9\u05df"
     ],
     "name:hrv_x_preferred":[
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":1125871721,
-    "wof:lastmodified":1566603344,
+    "wof:lastmodified":1636414102,
     "wof:name":"Ulcinj",
     "wof:parent_id":85674617,
     "wof:placetype":"locality",

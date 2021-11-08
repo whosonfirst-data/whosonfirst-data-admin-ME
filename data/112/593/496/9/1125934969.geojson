@@ -458,6 +458,9 @@
         "\u041f\u043e\u0434\u0433\u043e\u0440\u0438\u0446\u0430"
     ],
     "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u0456\u0446\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u0438\u0446\u044f"
     ],
     "name:urd_x_preferred":[
@@ -635,7 +638,7 @@
         }
     ],
     "wof:id":1125934969,
-    "wof:lastmodified":1607390894,
+    "wof:lastmodified":1636414101,
     "wof:name":"Podgorica",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

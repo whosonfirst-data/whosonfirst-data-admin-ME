@@ -69,6 +69,9 @@
         "Bijelo Polje"
     ],
     "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d9\u05dc\u05d5 \u05e4\u05d5\u05dc\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05d1\u05d9\u05d9\u05dc\u05d5 \u05e4\u05d5\u05dc\u05d4"
     ],
     "name:hrv_x_preferred":[
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":421179035,
-    "wof:lastmodified":1566603315,
+    "wof:lastmodified":1636414100,
     "wof:name":"Bijelo Polje",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

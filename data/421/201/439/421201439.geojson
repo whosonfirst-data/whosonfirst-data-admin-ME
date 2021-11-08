@@ -27,6 +27,9 @@
         "\u041a\u043e\u0442\u0430\u0440"
     ],
     "name:ben_x_preferred":[
+        "\u0995\u09cb\u09a4\u09cb\u09b0"
+    ],
+    "name:ben_x_variant":[
         "\u0995\u099f\u09cb\u09b0"
     ],
     "name:bos_x_preferred":[
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":421201439,
-    "wof:lastmodified":1566603314,
+    "wof:lastmodified":1636414100,
     "wof:name":"Kotor",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

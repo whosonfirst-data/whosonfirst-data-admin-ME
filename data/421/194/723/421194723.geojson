@@ -105,6 +105,9 @@
         "\u10e2\u10d8\u10d5\u10d0\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
+        "\ud2f0\ubc27"
+    ],
+    "name:kor_x_variant":[
         "\ud2f0\ubc14\ud2b8"
     ],
     "name:lav_x_preferred":[
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":421194723,
-    "wof:lastmodified":1566603312,
+    "wof:lastmodified":1636414100,
     "wof:name":"Tivat",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
