@@ -239,6 +239,9 @@
         "Cetinje"
     ],
     "name:heb_x_preferred":[
+        "\u05e6'\u05d8\u05d9\u05e0\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e6\u05d8\u05d9\u05e0\u05d9\u05d4"
     ],
     "name:her_x_preferred":[
@@ -769,7 +772,7 @@
         }
     ],
     "wof:id":421179031,
-    "wof:lastmodified":1607390894,
+    "wof:lastmodified":1636414100,
     "wof:name":"Cetinje",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

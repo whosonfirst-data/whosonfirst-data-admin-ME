@@ -62,7 +62,13 @@
     "name:hbs_x_preferred":[
         "Plav"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d0\u05d1"
+    ],
     "name:hrv_x_preferred":[
+        "Plav"
+    ],
+    "name:hun_x_preferred":[
         "Plav"
     ],
     "name:ita_x_preferred":[
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":421168559,
-    "wof:lastmodified":1566603312,
+    "wof:lastmodified":1636414099,
     "wof:name":"Plav",
     "wof:parent_id":85674635,
     "wof:placetype":"locality",

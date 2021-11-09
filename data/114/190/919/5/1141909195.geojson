@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.2663069241,42.4659725129,19.2663069241,42.4659725129",
+    "geom:bbox":"19.266307,42.465973,19.266307,42.465973",
     "geom:latitude":42.465973,
     "geom:longitude":19.266307,
     "iso:country":"ME",
@@ -396,6 +396,9 @@
         "Podgorica"
     ],
     "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u0456\u0446\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u0438\u0446\u044f"
     ],
     "name:urd_x_preferred":[
@@ -541,7 +544,7 @@
     },
     "wof:country":"ME",
     "wof:created":1499131040,
-    "wof:geomhash":"88336cf9879031a164d2bff34be7f538",
+    "wof:geomhash":"a522bdd5a29fcd2fba610a66c8d98242",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -551,7 +554,7 @@
         }
     ],
     "wof:id":1141909195,
-    "wof:lastmodified":1561840465,
+    "wof:lastmodified":1636414103,
     "wof:name":"Podgorica",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",
@@ -563,10 +566,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.26630692411823,
-    42.46597251288171,
-    19.26630692411823,
-    42.46597251288171
+    19.266307,
+    42.465973,
+    19.266307,
+    42.465973
 ],
-  "geometry": {"coordinates":[19.26630692411823,42.46597251288171],"type":"Point"}
+  "geometry": {"coordinates":[19.266307,42.465973],"type":"Point"}
 }

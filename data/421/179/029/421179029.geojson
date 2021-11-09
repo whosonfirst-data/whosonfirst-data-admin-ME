@@ -65,7 +65,13 @@
     "name:hbs_x_preferred":[
         "Danilovgrad"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e0\u05d9\u05dc\u05d5\u05d1\u05d2\u05e8\u05d0\u05d3"
+    ],
     "name:hrv_x_preferred":[
+        "Danilovgrad"
+    ],
+    "name:hun_x_preferred":[
         "Danilovgrad"
     ],
     "name:ile_x_preferred":[
@@ -184,7 +190,7 @@
         }
     ],
     "wof:id":421179029,
-    "wof:lastmodified":1566603315,
+    "wof:lastmodified":1636414100,
     "wof:name":"Danilovgrad",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

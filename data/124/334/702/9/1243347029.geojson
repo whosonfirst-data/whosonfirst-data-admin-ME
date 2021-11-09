@@ -83,6 +83,9 @@
     "name:hrv_x_preferred":[
         "Pljevlja"
     ],
+    "name:hun_x_preferred":[
+        "Pljevlja"
+    ],
     "name:ita_x_preferred":[
         "Pljevlja"
     ],
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":1243347029,
-    "wof:lastmodified":1566603365,
+    "wof:lastmodified":1636414102,
     "wof:name":"Pljevlja",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

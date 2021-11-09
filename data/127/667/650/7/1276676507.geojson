@@ -32,6 +32,9 @@
     "name:azb_x_preferred":[
         "\u0633\u062a\u06cc\u0626\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09b2\u09be\u09a4\u09bf\u09a8\u09be"
+    ],
     "name:bos_x_preferred":[
         "Slatina"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05d0\u05d8\u05d9\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0932\u0947\u091f\u093f\u0928\u093e"
     ],
     "name:hrv_x_preferred":[
         "Slatina"
@@ -130,7 +136,7 @@
         "gn:id":3316620
     },
     "wof:country":"ME",
-    "wof:geomhash":"0d4059aba2ee936cd4808fe3d97d921e",
+    "wof:geomhash":"b1d39bf6bbd7de0168fbdfaff47474e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":1276676507,
-    "wof:lastmodified":1566603220,
+    "wof:lastmodified":1636414098,
     "wof:name":"Slatina",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",
@@ -151,9 +157,9 @@
 },
   "bbox": [
     19.84222,
-    42.96944000000001,
+    42.96944,
     19.84222,
-    42.96944000000001
+    42.96944
 ],
-  "geometry": {"coordinates":[19.84222,42.96944000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.84222,42.96944],"type":"Point"}
 }
