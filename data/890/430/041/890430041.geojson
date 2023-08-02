@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Kru\u0161evica"
     ],
+    "name:pol_x_preferred":[
+        "Kru\u0161evica"
+    ],
     "name:ron_x_preferred":[
         "Kru\u0161evica"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890430041,
-    "wof:lastmodified":1566603319,
+    "wof:lastmodified":1690939343,
     "wof:name":"Kru\u0161evica",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

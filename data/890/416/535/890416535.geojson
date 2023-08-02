@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Du\u017ei"
     ],
+    "name:bul_x_preferred":[
+        "\u0414\u0443\u0436\u0438"
+    ],
     "name:ceb_x_preferred":[
         "Du\u017ei"
     ],
@@ -35,6 +38,9 @@
         "Du\u017ei"
     ],
     "name:nld_x_preferred":[
+        "Du\u017ei"
+    ],
+    "name:pol_x_preferred":[
         "Du\u017ei"
     ],
     "name:srp_x_preferred":[
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890416535,
-    "wof:lastmodified":1566603334,
+    "wof:lastmodified":1690939360,
     "wof:name":"Du\u017ei",
     "wof:parent_id":85674695,
     "wof:placetype":"locality",

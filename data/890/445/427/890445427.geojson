@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Begova Glavica"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0433\u043e\u0432\u0430 \u0413\u043b\u0430\u0432\u0438\u0446\u0430"
     ],
@@ -29,6 +32,9 @@
         "Begova Glavica"
     ],
     "name:nld_x_preferred":[
+        "Begova Glavica"
+    ],
+    "name:pol_x_preferred":[
         "Begova Glavica"
     ],
     "name:ron_x_preferred":[
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890445427,
-    "wof:lastmodified":1566603339,
+    "wof:lastmodified":1690939365,
     "wof:name":"Begova Glavica",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

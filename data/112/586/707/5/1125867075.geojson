@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Prem\u0107ani"
     ],
+    "name:pol_x_preferred":[
+        "Prem\u0107ani"
+    ],
     "name:ron_x_preferred":[
         "Prem\u0107ani"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125867075,
-    "wof:lastmodified":1566603342,
+    "wof:lastmodified":1690939367,
     "wof:name":"Prem\u0107ani",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

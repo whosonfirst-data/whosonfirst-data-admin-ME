@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Plu\u017eine"
+    ],
     "name:bel_x_variant":[
         "\u041f\u043b\u0443\u0436\u044b\u043d\u044d"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:est_x_preferred":[
         "Plu\u017eine vald"
+    ],
+    "name:est_x_variant":[
+        "Plu\u017eine"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0644\u0648\u0698\u06cc\u0646\u0647"
@@ -98,11 +104,20 @@
     "name:srp_x_preferred":[
         "\u041f\u043b\u0443\u0436\u0438\u043d\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Plu\u017eine"
+    ],
+    "name:tur_x_preferred":[
+        "Plu\u017eine"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0443\u0436\u0438\u043d\u0435"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0644\u0648\u0698\u06cc\u0646\u06d2"
+    ],
+    "name:vec_x_preferred":[
+        "Plu\u017eine"
     ],
     "name:zho_x_preferred":[
         "\u666e\u76e7\u65e5\u5167"
@@ -155,7 +170,7 @@
         }
     ],
     "wof:id":421183729,
-    "wof:lastmodified":1566603315,
+    "wof:lastmodified":1690939338,
     "wof:name":"Plu\u017eine",
     "wof:parent_id":85674677,
     "wof:placetype":"locality",

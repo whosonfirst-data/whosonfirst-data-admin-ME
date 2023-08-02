@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Poljica"
     ],
+    "name:pol_x_preferred":[
+        "Poljica"
+    ],
     "name:ron_x_preferred":[
         "Poljica"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890422547,
-    "wof:lastmodified":1566603317,
+    "wof:lastmodified":1690939341,
     "wof:name":"Poljica",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",

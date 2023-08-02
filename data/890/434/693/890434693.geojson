@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Moraice"
     ],
+    "name:pol_x_preferred":[
+        "Moraice"
+    ],
     "name:ron_x_preferred":[
         "Moraice"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890434693,
-    "wof:lastmodified":1566603340,
+    "wof:lastmodified":1690939366,
     "wof:name":"Moraice",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Selac"
     ],
+    "name:pol_x_preferred":[
+        "Selac"
+    ],
     "name:ron_x_preferred":[
         "Selac"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890455281,
-    "wof:lastmodified":1566603325,
+    "wof:lastmodified":1690939348,
     "wof:name":"Selac",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

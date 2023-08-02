@@ -54,7 +54,8 @@
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u0434\u0433\u043e\u0440\u044b\u0446\u0430"
     ],
     "name:bel_x_variant":[
-        "\u041f\u0430\u0434\u0433\u043e\u0440\u044b\u0446\u0430"
+        "\u041f\u0430\u0434\u0433\u043e\u0440\u044b\u0446\u0430",
+        "\u0430\u0431\u0448\u0447\u044b\u043d\u0430 \u041f\u0430\u0434\u0433\u043e\u0440\u044b\u0446\u0430"
     ],
     "name:bos_x_preferred":[
         "Podgorica"
@@ -102,7 +103,8 @@
         "Podgorica"
     ],
     "name:deu_x_variant":[
-        "Gro\u00dfgemeinde Podgorica"
+        "Gro\u00dfgemeinde Podgorica",
+        "Gemeinde Podgorica"
     ],
     "name:dsb_x_preferred":[
         "Podgorica"
@@ -199,6 +201,9 @@
     ],
     "name:ind_x_preferred":[
         "Podgorica"
+    ],
+    "name:ind_x_variant":[
+        "Munisipalitas Podgorica"
     ],
     "name:isl_x_preferred":[
         "Podgorica"
@@ -319,6 +324,9 @@
     ],
     "name:pol_x_preferred":[
         "Podgorica"
+    ],
+    "name:pol_x_variant":[
+        "Gmina Podgorica"
     ],
     "name:por_x_preferred":[
         "Podgorica"
@@ -445,6 +453,9 @@
     "name:zho_x_preferred":[
         "\u6ce2\u5fb7\u6208\u91cc\u5bdf"
     ],
+    "name:zho_x_variant":[
+        "\u6ce2\u5fb7\u6208\u91cc\u5bdf\u9996\u90fd\u5e02"
+    ],
     "name:zho_yue_x_preferred":[
         "\u6ce2\u5fb7\u6208\u91cc\u5bdf"
     ],
@@ -569,7 +580,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1636414096,
+    "wof:lastmodified":1690939328,
     "wof:name":"Podgorica",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

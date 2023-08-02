@@ -44,6 +44,9 @@
     "name:ceb_x_preferred":[
         "Herceg Novi"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Herceg Novi"
+    ],
     "name:dan_x_preferred":[
         "Herceg Novi Municipality"
     ],
@@ -65,6 +68,9 @@
     "name:fas_x_preferred":[
         "\u0647\u0631\u062a\u0633\u06af \u0646\u0648\u0648\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0647\u0631\u062a\u0633\u06af \u0646\u0648\u0648\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Herceg Novin kunta"
     ],
@@ -72,6 +78,9 @@
         "Municipalit\u00e9 d'Herceg Novi"
     ],
     "name:fra_x_variant":[
+        "Herceg Novi"
+    ],
+    "name:frr_x_preferred":[
         "Herceg Novi"
     ],
     "name:guj_x_preferred":[
@@ -143,6 +152,9 @@
     "name:pol_x_preferred":[
         "Herceg Novi"
     ],
+    "name:pol_x_variant":[
+        "Gmina Herceg Novi"
+    ],
     "name:por_x_preferred":[
         "Herceg-Novi"
     ],
@@ -169,6 +181,9 @@
     ],
     "name:swe_x_preferred":[
         "Herceg Novi kommun"
+    ],
+    "name:swe_x_variant":[
+        "Herceg Novi"
     ],
     "name:tam_x_preferred":[
         "\u0bb9\u0bc6\u0bb0\u0bcd\u0bb8\u0bcd\u0b95\u0bcd \u0ba8\u0bcb\u0bb5\u0bbf \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
@@ -198,7 +213,8 @@
         "\u65b0\u6d77\u5c14\u91c7\u683c"
     ],
     "name:zho_x_variant":[
-        "\u8d6b\u723e\u91c7\u683c\u8afe\u7dad\u5340"
+        "\u8d6b\u723e\u91c7\u683c\u8afe\u7dad\u5340",
+        "\u65b0\u6d77\u723e\u91c7\u683c\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNE",
@@ -317,7 +333,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1636414097,
+    "wof:lastmodified":1690939330,
     "wof:name":"Herceg Novi",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

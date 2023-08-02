@@ -50,6 +50,9 @@
     "name:eng_x_preferred":[
         "\u017dabljak"
     ],
+    "name:est_x_preferred":[
+        "\u017dabljak"
+    ],
     "name:fas_x_preferred":[
         "\u0698\u0627\u0628\u0644\u06cc\u0627\u06a9"
     ],
@@ -110,6 +113,9 @@
     "name:swe_x_preferred":[
         "\u017dabljak"
     ],
+    "name:tur_x_preferred":[
+        "Yablak"
+    ],
     "name:ukr_x_preferred":[
         "\u0416\u0430\u0431\u043b\u044f\u043a"
     ],
@@ -118,6 +124,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0632\u0627\u0628\u0644\u062c\u06a9"
+    ],
+    "name:vec_x_preferred":[
+        "\u017dabljak"
     ],
     "name:zho_x_preferred":[
         "\u624e\u5e03\u5229\u4e9e\u514b"
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":421173129,
-    "wof:lastmodified":1566603313,
+    "wof:lastmodified":1690939335,
     "wof:name":"\u017dabljak",
     "wof:parent_id":85674701,
     "wof:placetype":"locality",

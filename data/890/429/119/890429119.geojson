@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Pra\u010dica"
     ],
+    "name:pol_x_preferred":[
+        "Pra\u010dica"
+    ],
     "name:ron_x_preferred":[
         "Pra\u010dica"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890429119,
-    "wof:lastmodified":1566603332,
+    "wof:lastmodified":1690939358,
     "wof:name":"Pra\u010dica",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

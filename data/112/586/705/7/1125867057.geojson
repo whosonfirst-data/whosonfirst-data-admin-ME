@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Prevlaka"
     ],
+    "name:pol_x_preferred":[
+        "Prevlaka"
+    ],
     "name:ron_x_preferred":[
         "Prevlaka"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125867057,
-    "wof:lastmodified":1566603343,
+    "wof:lastmodified":1690939368,
     "wof:name":"Prevlaka",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

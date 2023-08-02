@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Mr\u010devo"
     ],
+    "name:pol_x_preferred":[
+        "Mr\u010devo"
+    ],
     "name:ron_x_preferred":[
         "Mr\u010devo"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890416531,
-    "wof:lastmodified":1566603335,
+    "wof:lastmodified":1690939361,
     "wof:name":"Mr\u010devo",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

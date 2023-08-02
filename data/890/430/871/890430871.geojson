@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Bukovik"
     ],
+    "name:pol_x_preferred":[
+        "Bukovik"
+    ],
     "name:ron_x_preferred":[
         "Bukovik"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890430871,
-    "wof:lastmodified":1566603322,
+    "wof:lastmodified":1690939346,
     "wof:name":"Bukovik",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

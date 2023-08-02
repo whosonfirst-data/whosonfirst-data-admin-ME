@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Vranjina"
     ],
+    "name:fin_x_preferred":[
+        "Vranjina"
+    ],
     "name:fra_x_preferred":[
         "Vranjina"
     ],
@@ -40,11 +43,20 @@
     "name:spa_x_preferred":[
         "Vranjina"
     ],
+    "name:sqi_x_preferred":[
+        "Vranina"
+    ],
     "name:srp_x_preferred":[
         "Vranjina"
     ],
     "name:srp_x_variant":[
         "\u0412\u0440\u0430\u045a\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vranjina"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u62c9\u5c3c\u7eb3"
     ],
     "qs:name":"Vranjina",
     "qs:photos_9r":0,
@@ -76,7 +88,7 @@
         }
     ],
     "wof:id":890422539,
-    "wof:lastmodified":1566603317,
+    "wof:lastmodified":1690939341,
     "wof:name":"Vranjina",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

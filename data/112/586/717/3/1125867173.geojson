@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Lever Tara"
     ],
+    "name:pol_x_preferred":[
+        "Lever Tara"
+    ],
     "name:ron_x_preferred":[
         "Lever Tara"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125867173,
-    "wof:lastmodified":1566603343,
+    "wof:lastmodified":1690939368,
     "wof:name":"Lever Tara",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

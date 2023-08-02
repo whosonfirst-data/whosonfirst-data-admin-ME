@@ -25,11 +25,20 @@
     "name:eng_x_preferred":[
         "Krstac"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0633\u062a\u0627\u06a9"
+    ],
+    "name:lld_x_preferred":[
+        "Krstac"
+    ],
     "name:nld_x_preferred":[
         "Krstac"
     ],
     "name:srp_x_preferred":[
         "Krstac"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5c14\u65af\u5854\u514b"
     ],
     "qs:name":"Krstac",
     "qs:photos_9r":0,
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":890431041,
-    "wof:lastmodified":1566603326,
+    "wof:lastmodified":1690939350,
     "wof:name":"Krstac",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

@@ -19,13 +19,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Vi\u0161"
+    ],
     "name:eng_x_preferred":[
         "Vi\u0161"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0634"
     ],
     "name:fra_x_preferred":[
         "Vi\u0161"
     ],
     "name:nld_x_preferred":[
+        "Vi\u0161"
+    ],
+    "name:pol_x_preferred":[
         "Vi\u0161"
     ],
     "name:ron_x_preferred":[
@@ -36,6 +45,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Vi\u0161"
     ],
     "qs:name":"Vi\u0161",
     "qs:photos_9r":0,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":890430913,
-    "wof:lastmodified":1566603321,
+    "wof:lastmodified":1690939345,
     "wof:name":"Vi\u0161",
     "wof:parent_id":85674661,
     "wof:placetype":"locality",
