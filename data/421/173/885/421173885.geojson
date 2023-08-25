@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sveti Nikola"
+    ],
     "name:deu_x_preferred":[
         "Sveti Nikola"
     ],
@@ -27,6 +30,9 @@
         "Sveti Nikola"
     ],
     "name:nld_x_preferred":[
+        "Sveti Nikola"
+    ],
+    "name:spa_x_preferred":[
         "Sveti Nikola"
     ],
     "name:und_x_variant":[
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421173885,
-    "wof:lastmodified":1566603313,
+    "wof:lastmodified":1690939335,
     "wof:name":"Sveti Nikola",
     "wof:parent_id":85667793,
     "wof:placetype":"locality",

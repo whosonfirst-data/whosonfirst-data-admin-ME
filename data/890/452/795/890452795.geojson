@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Dobra Sela"
     ],
+    "name:pol_x_preferred":[
+        "Dobra Sela"
+    ],
     "name:ron_x_preferred":[
         "Dobra Sela"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890452795,
-    "wof:lastmodified":1566603324,
+    "wof:lastmodified":1690939348,
     "wof:name":"Dobra Sela",
     "wof:parent_id":85674695,
     "wof:placetype":"locality",

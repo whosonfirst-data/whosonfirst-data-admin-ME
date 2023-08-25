@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "\u0160ljuke"
     ],
+    "name:pol_x_preferred":[
+        "\u0160ljuke"
+    ],
     "name:ron_x_preferred":[
         "\u0160ljuke"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890430009,
-    "wof:lastmodified":1566603319,
+    "wof:lastmodified":1690939343,
     "wof:name":"\u0160ljuke",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

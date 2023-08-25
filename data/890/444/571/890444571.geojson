@@ -19,10 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Dobrota"
+    ],
     "name:cat_x_preferred":[
         "Dobrota"
     ],
     "name:ceb_x_preferred":[
+        "Dobrota"
+    ],
+    "name:ces_x_preferred":[
         "Dobrota"
     ],
     "name:deu_x_preferred":[
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":890444571,
-    "wof:lastmodified":1582223327,
+    "wof:lastmodified":1690939355,
     "wof:name":"Dobrota",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

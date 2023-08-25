@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Jahovi\u0107i"
     ],
+    "name:pol_x_preferred":[
+        "Jahovi\u0107i"
+    ],
     "name:ron_x_preferred":[
         "Jahovi\u0107i"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890430747,
-    "wof:lastmodified":1566603320,
+    "wof:lastmodified":1690939344,
     "wof:name":"Jahovi\u0107i",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

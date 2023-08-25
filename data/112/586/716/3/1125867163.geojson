@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Lu\u017enica"
+    ],
     "name:eng_x_preferred":[
         "Lu\u017enica"
     ],
@@ -29,6 +32,9 @@
         "Lu\u017enica"
     ],
     "name:nld_x_preferred":[
+        "Lu\u017enica"
+    ],
+    "name:pol_x_preferred":[
         "Lu\u017enica"
     ],
     "name:ron_x_preferred":[
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1125867163,
-    "wof:lastmodified":1566603343,
+    "wof:lastmodified":1690939368,
     "wof:name":"Lu\u017enica",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

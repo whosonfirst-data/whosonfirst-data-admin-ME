@@ -52,6 +52,9 @@
     "name:oci_x_preferred":[
         "Zabr\u0111e"
     ],
+    "name:pol_x_preferred":[
+        "Zabr\u0111e"
+    ],
     "name:slv_x_preferred":[
         "Zabr\u0111e"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":890430953,
-    "wof:lastmodified":1566603318,
+    "wof:lastmodified":1690939342,
     "wof:name":"Zabr\u0111e",
     "wof:parent_id":85674677,
     "wof:placetype":"locality",

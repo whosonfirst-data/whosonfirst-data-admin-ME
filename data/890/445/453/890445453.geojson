@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Petnjica"
     ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0442\u043d\u0438\u0446\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Petnjica"
     ],
@@ -31,10 +34,22 @@
     "name:deu_x_preferred":[
         "Petnjica"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03c4\u03bd\u03b3\u03b9\u03c4\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Petnjica"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0646\u06cc\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Petnjica"
+    ],
+    "name:frr_x_preferred":[
+        "Petnjica"
+    ],
+    "name:hrv_x_preferred":[
         "Petnjica"
     ],
     "name:ita_x_preferred":[
@@ -52,6 +67,9 @@
     "name:nob_x_preferred":[
         "Petnjica"
     ],
+    "name:pol_x_preferred":[
+        "Petnjica"
+    ],
     "name:ron_x_preferred":[
         "Petnjica"
     ],
@@ -67,11 +85,20 @@
     "name:swe_x_preferred":[
         "Petnjica"
     ],
+    "name:tur_x_preferred":[
+        "Petnitsa"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u043d'\u0457\u0446\u044f"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0435\u0442\u043d\u0456\u0446\u044f"
+    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u062a\u0646\u0626\u06cc\u062a\u0633\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Petnjica"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u7279\u5c3c\u5bdf"
@@ -107,7 +134,7 @@
         }
     ],
     "wof:id":890445453,
-    "wof:lastmodified":1566603339,
+    "wof:lastmodified":1690939365,
     "wof:name":"Petnjica",
     "wof:parent_id":85674695,
     "wof:placetype":"locality",

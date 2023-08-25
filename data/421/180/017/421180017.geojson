@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0627\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Berane"
+    ],
     "name:aze_x_preferred":[
         "Berane"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0440\u0430\u043d\u044d"
     ],
     "name:bos_x_preferred":[
         "Berane"
@@ -65,6 +74,9 @@
     "name:fra_x_preferred":[
         "Berane"
     ],
+    "name:frr_x_preferred":[
+        "Berane"
+    ],
     "name:gag_x_preferred":[
         "Berane"
     ],
@@ -101,6 +113,12 @@
     "name:lit_x_preferred":[
         "Beran\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Berane"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0411\u044d\u0440\u0430\u043d\u044d"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u0440\u0430\u043d\u0435"
     ],
@@ -135,6 +153,9 @@
         "\u0411\u0435\u0440\u0430\u043d\u0435"
     ],
     "name:swe_x_preferred":[
+        "Berane"
+    ],
+    "name:szl_x_preferred":[
         "Berane"
     ],
     "name:tur_x_preferred":[
@@ -195,7 +216,7 @@
         }
     ],
     "wof:id":421180017,
-    "wof:lastmodified":1566603313,
+    "wof:lastmodified":1690939335,
     "wof:name":"Ivangrad",
     "wof:parent_id":85674653,
     "wof:placetype":"locality",

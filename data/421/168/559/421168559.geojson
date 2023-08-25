@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Plav"
+    ],
     "name:bel_x_variant":[
         "\u041f\u043b\u0430\u045e"
     ],
@@ -45,6 +48,9 @@
         "\u03a0\u03bb\u03b1\u03b2"
     ],
     "name:eng_x_preferred":[
+        "Plav"
+    ],
+    "name:epo_x_preferred":[
         "Plav"
     ],
     "name:est_x_preferred":[
@@ -101,6 +107,9 @@
     "name:nor_x_preferred":[
         "Plav"
     ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0644\u0627\u0648"
+    ],
     "name:pol_x_preferred":[
         "Plav"
     ],
@@ -128,6 +137,9 @@
     "name:swe_x_preferred":[
         "Plav"
     ],
+    "name:tur_x_preferred":[
+        "Plav"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0430\u0432"
     ],
@@ -139,6 +151,9 @@
     ],
     "name:urd_x_variant":[
         "\u067e\u0644\u0627\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Plav"
     ],
     "name:zho_x_preferred":[
         "\u666e\u62c9\u592b"
@@ -191,7 +206,7 @@
         }
     ],
     "wof:id":421168559,
-    "wof:lastmodified":1636414099,
+    "wof:lastmodified":1690939333,
     "wof:name":"Plav",
     "wof:parent_id":85674635,
     "wof:placetype":"locality",

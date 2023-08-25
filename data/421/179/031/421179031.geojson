@@ -43,6 +43,9 @@
     "name:arn_x_preferred":[
         "Cetinje"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u062a\u0646\u064a\u0649"
+    ],
     "name:ast_x_preferred":[
         "Cetinje"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0426\u044d\u0442\u044b\u043d\u044d"
+    ],
+    "name:bel_x_variant":[
+        "\u0426\u044d\u0442\u044b\u043d\u044d"
     ],
     "name:bis_x_preferred":[
         "Cetinje"
@@ -391,6 +397,9 @@
     "name:lzz_x_preferred":[
         "Cetinje"
     ],
+    "name:mdf_x_preferred":[
+        "\u0426\u044d\u0442\u0438\u043d\u0435"
+    ],
     "name:min_x_preferred":[
         "Cetinje"
     ],
@@ -619,6 +628,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e15\u0e35\u0e40\u0e19\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e0b\u0e15\u0e34\u0e40\u0e0d"
+    ],
     "name:ton_x_preferred":[
         "Cetinje"
     ],
@@ -690,6 +702,9 @@
     ],
     "name:wol_x_preferred":[
         "Cetinje"
+    ],
+    "name:wuu_x_preferred":[
+        "\u91c7\u8482\u6d85"
     ],
     "name:xho_x_preferred":[
         "Cetinje"
@@ -772,7 +787,7 @@
         }
     ],
     "wof:id":421179031,
-    "wof:lastmodified":1636414100,
+    "wof:lastmodified":1690939338,
     "wof:name":"Cetinje",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

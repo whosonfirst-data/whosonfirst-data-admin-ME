@@ -31,7 +31,13 @@
     "name:hrv_x_preferred":[
         "\u0160i\u0161i\u0107i"
     ],
+    "name:ita_x_preferred":[
+        "Sissici"
+    ],
     "name:nld_x_preferred":[
+        "\u0160i\u0161i\u0107i"
+    ],
+    "name:pol_x_preferred":[
         "\u0160i\u0161i\u0107i"
     ],
     "name:ron_x_preferred":[
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890431053,
-    "wof:lastmodified":1566603327,
+    "wof:lastmodified":1690939350,
     "wof:name":"\u0160i\u0161i\u0107i",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

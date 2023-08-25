@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bos_x_preferred":[
+        "Be\u010di\u0107i"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0447\u0438\u0447\u0438"
+    ],
     "name:ceb_x_preferred":[
         "Be\u010di\u0107i"
     ],
@@ -41,6 +47,9 @@
     "name:hrv_x_preferred":[
         "Be\u010di\u0107i"
     ],
+    "name:lit_x_preferred":[
+        "Be\u010di\u010diai"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u0447\u0438\u045c\u0438"
     ],
@@ -63,6 +72,9 @@
         "\u0411\u0435\u0447\u0438\u0447\u0438"
     ],
     "name:slv_x_preferred":[
+        "Be\u010di\u0107i"
+    ],
+    "name:spa_x_preferred":[
         "Be\u010di\u0107i"
     ],
     "name:srp_x_preferred":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":421200645,
-    "wof:lastmodified":1566603314,
+    "wof:lastmodified":1690939336,
     "wof:name":"Be\u010di\u0107i",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

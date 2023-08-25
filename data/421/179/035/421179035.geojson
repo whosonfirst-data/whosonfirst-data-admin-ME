@@ -20,14 +20,26 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u064a\u0644\u0648 \u0628\u0648\u0644\u064a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u064a\u0644\u0648 \u0628\u0648\u0644\u064a\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Bijelo Polje"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0456\u0435\u043b\u0430-\u041f\u043e\u043b\u0435"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0456\u0435\u043b\u0430-\u041f\u043e\u043b\u0435"
     ],
     "name:bos_x_preferred":[
         "Bijelo Polje"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0435\u043b\u043e \u043f\u043e\u043b\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Bijelo Polje"
     ],
     "name:ceb_x_preferred":[
         "Bijelo Polje"
@@ -50,6 +62,9 @@
     "name:eng_x_preferred":[
         "Bijelo Polje"
     ],
+    "name:epo_x_preferred":[
+        "Bijelo Polje"
+    ],
     "name:est_x_preferred":[
         "Bijelo Polje"
     ],
@@ -63,6 +78,9 @@
         "Bijelo Polje"
     ],
     "name:fra_x_preferred":[
+        "Bijelo Polje"
+    ],
+    "name:frr_x_preferred":[
         "Bijelo Polje"
     ],
     "name:hbs_x_preferred":[
@@ -101,6 +119,9 @@
     "name:lit_x_preferred":[
         "Bijelo Pol\u0117"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0438\u0435\u043b\u043e-\u041f\u043e\u043b\u0435"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0438\u0435\u043b\u043e \u041f\u043e\u043b\u0435"
     ],
@@ -121,6 +142,9 @@
     ],
     "name:por_x_preferred":[
         "Bijelo Polje"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u06cc\u062c\u0644\u0648 \u067e\u0648\u0644\u06cc\u0647"
     ],
     "name:ron_x_preferred":[
         "Bijelo Polje"
@@ -209,7 +233,7 @@
         }
     ],
     "wof:id":421179035,
-    "wof:lastmodified":1636414100,
+    "wof:lastmodified":1690939339,
     "wof:name":"Bijelo Polje",
     "wof:parent_id":85674657,
     "wof:placetype":"locality",

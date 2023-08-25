@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bos_x_preferred":[
+        "Perast"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0430\u0441\u0442"
     ],
@@ -35,6 +38,9 @@
     "name:eng_x_preferred":[
         "Perast"
     ],
+    "name:est_x_preferred":[
+        "Perast"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0627\u0633\u062a"
     ],
@@ -50,14 +56,29 @@
     "name:hrv_x_preferred":[
         "Perast"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u0580\u0561\u057d\u057f"
+    ],
     "name:ind_x_preferred":[
         "Perast"
     ],
     "name:ita_x_preferred":[
         "Perasto"
     ],
+    "name:jpn_x_preferred":[
+        "\u307a\u30e9\u30b9\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ub77c\uc2a4\ud2b8"
+    ],
+    "name:lat_x_preferred":[
+        "Perastum"
+    ],
     "name:lit_x_preferred":[
         "Perastas"
+    ],
+    "name:msa_x_preferred":[
+        "Perast"
     ],
     "name:nld_x_preferred":[
         "Perast"
@@ -143,7 +164,7 @@
         }
     ],
     "wof:id":421187425,
-    "wof:lastmodified":1566603313,
+    "wof:lastmodified":1690939335,
     "wof:name":"Perast",
     "wof:parent_id":85674643,
     "wof:placetype":"locality",

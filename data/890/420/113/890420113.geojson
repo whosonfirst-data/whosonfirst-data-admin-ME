@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Trnovice"
     ],
+    "name:pol_x_preferred":[
+        "Trnovice"
+    ],
     "name:ron_x_preferred":[
         "Trnovice"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890420113,
-    "wof:lastmodified":1566603337,
+    "wof:lastmodified":1690939364,
     "wof:name":"Trnovice",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

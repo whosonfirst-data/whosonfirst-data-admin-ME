@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Pi\u017eure"
     ],
+    "name:pol_x_preferred":[
+        "Pi\u017eure"
+    ],
     "name:ron_x_preferred":[
         "Pi\u017eure"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890430749,
-    "wof:lastmodified":1566603320,
+    "wof:lastmodified":1690939344,
     "wof:name":"Pi\u017euri",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

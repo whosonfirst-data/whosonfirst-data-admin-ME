@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Bjelo\u0161evina"
     ],
+    "name:pol_x_preferred":[
+        "Bjelo\u0161evina"
+    ],
     "name:ron_x_preferred":[
         "Bjelo\u0161evina"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890430743,
-    "wof:lastmodified":1566603323,
+    "wof:lastmodified":1690939346,
     "wof:name":"Bjelo\u0161evina",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

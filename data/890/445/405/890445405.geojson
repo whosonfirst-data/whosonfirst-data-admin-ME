@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Gliba\u0107i"
     ],
+    "name:pol_x_preferred":[
+        "Gliba\u0107i"
+    ],
     "name:ron_x_preferred":[
         "Gliba\u0107i"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890445405,
-    "wof:lastmodified":1566603339,
+    "wof:lastmodified":1690939365,
     "wof:name":"Gliba\u0107i",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Nedajno"
     ],
+    "name:pol_x_preferred":[
+        "Nedajno"
+    ],
     "name:ron_x_preferred":[
         "Nedajno"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890416529,
-    "wof:lastmodified":1566603334,
+    "wof:lastmodified":1690939360,
     "wof:name":"Nedajno",
     "wof:parent_id":85674677,
     "wof:placetype":"locality",

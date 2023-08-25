@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Novakovi\u0107i"
     ],
+    "name:pol_x_preferred":[
+        "Novakovi\u0107i"
+    ],
     "name:ron_x_preferred":[
         "Novakovi\u0107i"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890421485,
-    "wof:lastmodified":1566603330,
+    "wof:lastmodified":1690939353,
     "wof:name":"Novakovi\u0107i",
     "wof:parent_id":85674701,
     "wof:placetype":"locality",

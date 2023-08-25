@@ -23,6 +23,15 @@
     "name:arg_x_preferred":[
         "Kotor"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u062a\u0648\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Kotor"
+    ],
+    "name:aze_x_preferred":[
+        "Kotor"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u043e\u0442\u0430\u0440"
     ],
@@ -101,6 +110,9 @@
     "name:hun_x_preferred":[
         "Kotor"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u057f\u0578\u0580"
+    ],
     "name:ina_x_preferred":[
         "Kotor"
     ],
@@ -139,6 +151,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0442\u043e\u0440"
+    ],
+    "name:mlt_x_preferred":[
+        "Kotor"
     ],
     "name:msa_x_preferred":[
         "Kotor"
@@ -221,6 +236,9 @@
     "name:war_x_preferred":[
         "Kotor"
     ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u6258\u5c14"
+    ],
     "name:zho_x_preferred":[
         "\u79d1\u6258\u723e"
     ],
@@ -272,7 +290,7 @@
         }
     ],
     "wof:id":421201439,
-    "wof:lastmodified":1636414100,
+    "wof:lastmodified":1690939337,
     "wof:name":"Kotor",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",

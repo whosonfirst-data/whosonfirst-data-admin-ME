@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Va\u0161kovo"
     ],
+    "name:pol_x_preferred":[
+        "Va\u0161kovo"
+    ],
     "name:ron_x_preferred":[
         "Va\u0161kovo"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125866867,
-    "wof:lastmodified":1566603342,
+    "wof:lastmodified":1690939368,
     "wof:name":"Va\u0161kovo",
     "wof:parent_id":85674685,
     "wof:placetype":"locality",

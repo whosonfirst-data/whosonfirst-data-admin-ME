@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bos_x_preferred":[
+        "Bio\u010de"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u043e\u0447\u0435"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421171863,
-    "wof:lastmodified":1566603316,
+    "wof:lastmodified":1690939340,
     "wof:name":"Bio\u010de",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",

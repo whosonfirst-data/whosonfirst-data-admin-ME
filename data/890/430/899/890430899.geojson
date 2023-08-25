@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Donje Selo"
     ],
+    "name:pol_x_preferred":[
+        "Donje Selo"
+    ],
     "name:slv_x_preferred":[
         "Donje Selo"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890430899,
-    "wof:lastmodified":1566603323,
+    "wof:lastmodified":1690939346,
     "wof:name":"Donje Selo",
     "wof:parent_id":85674613,
     "wof:placetype":"locality",

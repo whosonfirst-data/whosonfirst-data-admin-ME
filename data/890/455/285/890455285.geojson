@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0428\u0430\u0432\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160avnik"
+    ],
     "name:ces_x_preferred":[
         "\u0160avnik"
     ],
@@ -70,6 +73,9 @@
     "name:nob_x_preferred":[
         "\u0160avnik"
     ],
+    "name:oci_x_preferred":[
+        "\u0160avnik"
+    ],
     "name:pol_x_preferred":[
         "\u0160avnik"
     ],
@@ -94,11 +100,20 @@
     "name:srp_x_preferred":[
         "\u0428\u0430\u0432\u043d\u0438\u043a"
     ],
+    "name:swe_x_preferred":[
+        "\u0160avnik"
+    ],
+    "name:tur_x_preferred":[
+        "\u0160avnik"
+    ],
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0432\u043d\u0456\u043a"
     ],
     "name:ukr_x_variant":[
         "\u0428\u0430\u0432\u043d\u0438\u043a"
+    ],
+    "name:vec_x_preferred":[
+        "\u0160avnik"
     ],
     "name:zho_x_preferred":[
         "\u6c99\u592b\u5c3c\u514b"
@@ -136,7 +151,7 @@
         }
     ],
     "wof:id":890455285,
-    "wof:lastmodified":1566603325,
+    "wof:lastmodified":1690939349,
     "wof:name":"\u0160avnik",
     "wof:parent_id":85674695,
     "wof:placetype":"locality",
