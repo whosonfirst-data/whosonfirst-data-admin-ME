@@ -5,17 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055695,
-    "geom:area_square_m":507022939.187045,
+    "geom:area_square_m":507023114.008134,
     "geom:bbox":"19.730299,42.466479,20.10392,42.707363",
     "geom:latitude":42.588706,
     "geom:longitude":19.917246,
     "gn:id":"",
     "iso:country":"ME",
     "label:eng_x_preferred_longname":[
-        "Plav County"
+        "Plav Commune"
     ],
     "label:eng_x_preferred_placetype":[
-        "county"
+        "commune"
     ],
     "label:eng_x_preferred_shortcode":[
         "SD"
@@ -290,14 +290,14 @@
         "fips:code":"AL49",
         "gn:id":3193227,
         "gp:id":29389239,
-        "hasc:id":"AL.SD",
+        "hasc:id":"ME.PA",
         "iso:id":"AL-10",
         "qs_pg:id":1114751,
         "unlc:id":"ME-13",
         "wd:id":"Q4859821"
     },
     "wof:country":"ME",
-    "wof:geomhash":"69a7132422721bc42d555133c058b156",
+    "wof:geomhash":"4d0e26cbfbe1a17dce326be3b2af5015",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +312,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1690939327,
+    "wof:lastmodified":1694493255,
     "wof:name":"Plav",
     "wof:parent_id":85632667,
     "wof:placetype":"region",
