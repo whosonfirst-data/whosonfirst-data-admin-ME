@@ -37,6 +37,9 @@
     "name:deu_x_preferred":[
         "Kreis Mal\u00ebsia e Madhe"
     ],
+    "name:eng_x_preferred":[
+        "Malesia e Madhe"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Mal\u00ebsi e Madhe"
     ],
@@ -83,7 +86,7 @@
     },
     "wof:country":"ME",
     "wof:created":1459009503,
-    "wof:geomhash":"0973ffc880b37760a4d32da884e9c06c",
+    "wof:geomhash":"f6de64963e9bdb19a226b08e9995d083",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421187163,
-    "wof:lastmodified":1566603313,
+    "wof:lastmodified":1694492291,
     "wof:name":"Malesia e Madhe",
     "wof:parent_id":85674689,
     "wof:placetype":"county",

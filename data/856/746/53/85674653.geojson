@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08101,
-    "geom:area_square_m":734350206.840982,
+    "geom:area_square_m":734349679.320063,
     "geom:bbox":"19.67113,42.689281,20.129464,43.020796",
     "geom:latitude":42.853268,
     "geom:longitude":19.916953,
     "gn:id":"",
     "iso:country":"ME",
     "label:eng_x_preferred_longname":[
-        "Berane Municipality"
+        "Berane Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
     ],
     "label:eng_x_preferred_shortcode":[
         "BE"
@@ -284,7 +287,7 @@
         "wd:id":"Q4853794"
     },
     "wof:country":"ME",
-    "wof:geomhash":"b329850902706bf70ca5f3c9a7aa96b6",
+    "wof:geomhash":"58f42694040ba5a91f84cb13bc681c2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -299,7 +302,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1690939330,
+    "wof:lastmodified":1694493255,
     "wof:name":"Berane",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

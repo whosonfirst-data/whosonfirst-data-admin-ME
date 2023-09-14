@@ -30,6 +30,9 @@
     "itu:country_code":[
         "382"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "ME"
     ],
@@ -1165,7 +1168,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"bc14ee24e376ac65f54041d6112e7b59",
+    "wof:geomhash":"2f9593f1e7194ac9ebfe47131de56606",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1179,7 +1182,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1690939332,
+    "wof:lastmodified":1694492264,
     "wof:name":"Montenegro",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
