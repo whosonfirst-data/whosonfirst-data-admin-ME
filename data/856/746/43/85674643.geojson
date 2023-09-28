@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032044,
-    "geom:area_square_m":292179419.338686,
+    "geom:area_square_m":292179720.040064,
     "geom:bbox":"18.506798,42.27147,18.793561,42.629336",
     "geom:latitude":42.489885,
     "geom:longitude":18.676214,
@@ -279,13 +279,15 @@
         "gn:id":3197537,
         "gp:id":29389240,
         "hasc:id":"ME.KT",
+        "iso:code":"ME-10",
         "iso:id":"ME-10",
         "qs_pg:id":1291630,
         "unlc:id":"ME-10",
         "wd:id":"Q4856305"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ME",
-    "wof:geomhash":"2438dc29334ddf64a554003653f9999f",
+    "wof:geomhash":"2a3f97429ec5bde8c35dc27aed9e1be1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -300,7 +302,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1690939329,
+    "wof:lastmodified":1695884759,
     "wof:name":"Kotor",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

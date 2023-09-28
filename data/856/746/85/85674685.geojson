@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146989,
-    "geom:area_square_m":1322734058.982923,
+    "geom:area_square_m":1322733209.529279,
     "geom:bbox":"18.90513,43.045177,19.547845,43.547886",
     "geom:latitude":43.300935,
     "geom:longitude":19.243392,
@@ -375,13 +375,15 @@
         "gn:id":3193160,
         "gp:id":29389226,
         "hasc:id":"ME.PL",
+        "iso:code":"ME-14",
         "iso:id":"ME-14",
         "qs_pg:id":230652,
         "unlc:id":"ME-14",
         "wd:id":"Q3299950"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ME",
-    "wof:geomhash":"e0d124962c54c9b1665de33d01538b8c",
+    "wof:geomhash":"31f2f19547cc39aee5fe713f625bb6c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -396,7 +398,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1690939331,
+    "wof:lastmodified":1695884759,
     "wof:name":"Pljevlja",
     "wof:parent_id":85632667,
     "wof:placetype":"region",
