@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086052,
-    "geom:area_square_m":777599993.347569,
+    "geom:area_square_m":777599704.770833,
     "geom:bbox":"19.459464,42.90751,20.056344,43.218815",
     "geom:latitude":43.046682,
     "geom:longitude":19.744876,
@@ -328,13 +328,15 @@
         "gn:id":3204173,
         "gp:id":29389227,
         "hasc:id":"ME.BP",
+        "iso:code":"ME-04",
         "iso:id":"ME-04",
         "qs_pg:id":986400,
         "unlc:id":"ME-04",
         "wd:id":"Q4086488"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ME",
-    "wof:geomhash":"e14119ebfa573f1daf2e36eb6dbafddf",
+    "wof:geomhash":"14dfa558f3911c1cb3da1e3b972b77dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -349,7 +351,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1690939327,
+    "wof:lastmodified":1695884759,
     "wof:name":"Bijelo Polje",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

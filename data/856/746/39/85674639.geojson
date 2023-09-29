@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026059,
-    "geom:area_square_m":237623242.44104,
+    "geom:area_square_m":237622591.317423,
     "geom:bbox":"18.436425,42.366278,18.66002,42.59849",
     "geom:latitude":42.484767,
     "geom:longitude":18.543427,
@@ -312,13 +312,15 @@
         "gn:id":3199393,
         "gp:id":29389246,
         "hasc:id":"ME.HN",
+        "iso:code":"ME-08",
         "iso:id":"ME-08",
         "qs_pg:id":903222,
         "unlc:id":"ME-08",
         "wd:id":"Q3317366"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ME",
-    "wof:geomhash":"d3eb7dec4699d4de8dfecb39258473d7",
+    "wof:geomhash":"6b104e21db9d8cb8d3657faa93e9b368",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1690939330,
+    "wof:lastmodified":1695884759,
     "wof:name":"Herceg Novi",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

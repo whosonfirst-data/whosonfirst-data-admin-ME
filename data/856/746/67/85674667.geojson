@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094231,
-    "geom:area_square_m":854946696.172187,
+    "geom:area_square_m":854946651.137858,
     "geom:bbox":"19.199893,42.661918,19.678985,42.934486",
     "geom:latitude":42.798558,
     "geom:longitude":19.434126,
@@ -272,13 +272,15 @@
         "gn:id":3197895,
         "gp:id":29389235,
         "hasc:id":"ME.KL",
+        "iso:code":"ME-09",
         "iso:id":"ME-09",
         "qs_pg:id":1291611,
         "unlc:id":"ME-09",
         "wd:id":"Q3303233"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ME",
-    "wof:geomhash":"04ec933bb1ee77e5b0b0ac6baf5fc7ba",
+    "wof:geomhash":"b5be4c980bb7f4d9c979b1a16f6ffddb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -293,7 +295,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1690939328,
+    "wof:lastmodified":1695884324,
     "wof:name":"Kola\u0161in",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

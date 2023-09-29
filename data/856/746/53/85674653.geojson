@@ -282,10 +282,12 @@
         "gn:id":3199070,
         "gp:id":29389228,
         "hasc:id":"ME.BE",
+        "iso:code":"ME-03",
         "qs_pg:id":986401,
         "unlc:id":"ME-03",
         "wd:id":"Q4853794"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ME",
     "wof:geomhash":"58f42694040ba5a91f84cb13bc681c2b",
     "wof:hierarchy":[
@@ -302,7 +304,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1694493255,
+    "wof:lastmodified":1695884759,
     "wof:name":"Berane",
     "wof:parent_id":85632667,
     "wof:placetype":"region",

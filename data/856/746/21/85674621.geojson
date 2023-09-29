@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013409,
-    "geom:area_square_m":122664097.02223,
+    "geom:area_square_m":122664299.889121,
     "geom:bbox":"18.784931,42.18327,19.000887,42.360025",
     "geom:latitude":42.282771,
     "geom:longitude":18.886633,
@@ -284,13 +284,15 @@
         "gn:id":3203104,
         "gp:id":29389243,
         "hasc:id":"ME.BU",
+        "iso:code":"ME-05",
         "iso:id":"ME-05",
         "qs_pg:id":903220,
         "unlc:id":"ME-05",
         "wd:id":"Q3739214"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ME",
-    "wof:geomhash":"165732e9966d959d57c476ca0c3bf4ad",
+    "wof:geomhash":"369f7b18256b8f89ed194a1c62782331",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,7 +307,7 @@
     "wof:lang_x_spoken":[
         "srp"
     ],
-    "wof:lastmodified":1690939329,
+    "wof:lastmodified":1695884759,
     "wof:name":"Budva",
     "wof:parent_id":85632667,
     "wof:placetype":"region",
