@@ -55,6 +55,14 @@
         "gn:id":3202635,
         "wk:page":"%C4%8Cevo"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3325921
+        ],
+        "wk:page":[
+            "%C4%8Cevo"
+        ]
+    },
     "wof:country":"ME",
     "wof:geomhash":"ac1f82b028b7243101690bd34a14df4a",
     "wof:hierarchy":[
@@ -66,13 +74,15 @@
         }
     ],
     "wof:id":1310023991,
-    "wof:lastmodified":1566603289,
+    "wof:lastmodified":1706240351,
     "wof:name":"Cevo",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-me",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310519625
+    ],
     "wof:tags":[]
 },
   "bbox": [

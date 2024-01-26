@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3316493
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3342838
+        ]
+    },
     "wof:country":"ME",
     "wof:geomhash":"efbf39b0e30a316ac112c415c144200b",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1243281917,
-    "wof:lastmodified":1566603376,
+    "wof:lastmodified":1706240351,
     "wof:name":"Kupusci",
     "wof:parent_id":85674689,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-me",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310120853
+    ],
     "wof:tags":[]
 },
   "bbox": [

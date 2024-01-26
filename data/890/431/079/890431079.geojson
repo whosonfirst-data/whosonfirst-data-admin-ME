@@ -9,9 +9,21 @@
     "geom:bbox":"18.89111,42.28083,18.89111,42.28083",
     "geom:latitude":42.28083,
     "geom:longitude":18.89111,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Podbabac",
     "gn:country":"ME",
+    "gn:country_code":"ME",
+    "gn:dem":174,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3341630,
+    "gn:latitude":42.27861,
+    "gn:longitude":18.89222,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Podbabac",
     "gn:population":5,
+    "gn:timezone":"Europe/Podgorica",
     "iso:country":"ME",
     "lbl:bbox":"18.87111,42.26083,18.91111,42.30083",
     "lbl:max_zoom":18.0,
@@ -38,6 +50,11 @@
         "gp:id":532621,
         "qs_pg:id":582592
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3341630
+        ]
+    },
     "wof:country":"ME",
     "wof:created":1469051877,
     "wof:geomhash":"3be983b50b1acd88aaf1fd48dc795d63",
@@ -50,7 +67,7 @@
         }
     ],
     "wof:id":890431079,
-    "wof:lastmodified":1566603326,
+    "wof:lastmodified":1706240350,
     "wof:name":"Podbabac",
     "wof:parent_id":85674621,
     "wof:placetype":"locality",
@@ -58,7 +75,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-me",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326540089
+    ],
     "wof:tags":[]
 },
   "bbox": [
