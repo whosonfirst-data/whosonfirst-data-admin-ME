@@ -41,13 +41,23 @@
     "name:srp_x_variant":[
         "\u0414\u043e\u045a\u0438 \u041e\u0440\u0430\u0445\u043e\u0432\u0430\u0446"
     ],
+    "name:und_x_variant":[
+        "Orahovac",
+        "Orahova"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85632667
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3341372
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3194069
+        ]
     },
     "wof:country":"ME",
     "wof:geomhash":"72275acd8beeddc1ae2b649376b8ab64",
@@ -58,13 +68,17 @@
         }
     ],
     "wof:id":1209329341,
-    "wof:lastmodified":1566603248,
+    "wof:lastmodified":1706240350,
     "wof:name":"Donji Orahovac",
     "wof:parent_id":85632667,
     "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-me",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293794063
+    ],
     "wof:tags":[]
 },
   "bbox": [

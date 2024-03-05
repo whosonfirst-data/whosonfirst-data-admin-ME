@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:srp_x_preferred":[
+        "Vali\u0161ta"
+    ],
     "name:und_x_variant":[
         "Vali\u0161ta"
     ],
@@ -42,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3318244
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3341384
+        ]
+    },
     "wof:country":"ME",
     "wof:geomhash":"9061666d6df36513921abe82283bbae9",
     "wof:hierarchy":[
@@ -53,13 +61,15 @@
         }
     ],
     "wof:id":1243464565,
-    "wof:lastmodified":1566603360,
+    "wof:lastmodified":1706240351,
     "wof:name":"Valista",
     "wof:parent_id":85674625,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-me",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293505701
+    ],
     "wof:tags":[]
 },
   "bbox": [

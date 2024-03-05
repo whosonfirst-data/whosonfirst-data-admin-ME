@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"19.02389,42.75389,19.02389,42.75389",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Prijevori"
@@ -43,7 +45,7 @@
         "gn:id":3338782
     },
     "wof:country":"ME",
-    "wof:geomhash":"ebcb175df6480b2a326b3875a95cf996",
+    "wof:geomhash":"1c7d2f0c2229203dc47ceec4b816bd1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,20 +55,22 @@
         }
     ],
     "wof:id":1309721855,
-    "wof:lastmodified":1566603312,
+    "wof:lastmodified":1706240350,
     "wof:name":"Prijevori",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-me",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243082505
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     19.02389,
-    42.75389000000001,
+    42.75389,
     19.02389,
-    42.75389000000001
+    42.75389
 ],
-  "geometry": {"coordinates":[19.02389,42.75389000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.02389,42.75389],"type":"Point"}
 }

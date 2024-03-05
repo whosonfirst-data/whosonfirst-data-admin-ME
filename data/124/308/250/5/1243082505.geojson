@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3325019
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3338782
+        ]
+    },
     "wof:country":"ME",
     "wof:geomhash":"094ce4a3b0bd791e7204b36d5d6d7bc1",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1243082505,
-    "wof:lastmodified":1566603349,
+    "wof:lastmodified":1706240350,
     "wof:name":"Prijevori",
     "wof:parent_id":85674673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-me",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309721855
+    ],
     "wof:tags":[]
 },
   "bbox": [
